@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run -A convert.ts && deno fmt"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  }
+}

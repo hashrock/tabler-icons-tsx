@@ -1,10 +1,10 @@
 {
   "tasks": {
-    "start": "deno run -A convert.ts && deno fmt"
+    "start": "deno run -A --watch=static/,routes/ dev.ts"
   },
+  "importMap": "./import_map.json",
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
-  },
-  "importMap": "./import_map.json"
+  }
 }

@@ -1,4 +1,11 @@
-# Tabler icons TSX
+# fresh project
 
-I'm not sure this is needed, but I had a problem with fresh, I wanted to try it
-out.
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.

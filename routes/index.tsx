@@ -13,7 +13,7 @@ export default function Home() {
         <title>TSX Tabler Icons</title>
         <link
           rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/1.35.0/iconfont/tabler-icons.min.css"
+          href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.103.0/iconfont/tabler-icons.css"
         >
         </link>
       </Head>

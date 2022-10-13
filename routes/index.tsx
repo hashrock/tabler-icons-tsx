@@ -7,6 +7,7 @@ for (const file of dir) {
 }
 
 export default function Home() {
+  const iconNames = icons.map((i) => i.replace(".tsx", ""));
   return (
     <>
       <Head>
@@ -19,10 +20,10 @@ export default function Home() {
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
         <ul>
-          {icons.map((icon) => (
+          {iconNames.map((icon) => (
             <li class="flex items-center p-2">
-              <i class={`ti ti-${icon.replace(".tsx", "")}`}></i>
-              <span>{icon}</span>
+              <i class={`ti ti-${icon} text-2xl`}></i>
+              <span class="text-gray-500">{icon}</span>
             </li>
           ))}
         </ul>

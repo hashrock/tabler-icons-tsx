@@ -4,12 +4,6 @@ interface ClickableIconProps {
   name: string;
 }
 
-function copy(name: string) {
-  return () => {
-    navigator.clipboard.writeText(`<Icon name="${name}" />`);
-  };
-}
-
 export default function ClickableIcon(props: ClickableIconProps) {
   const icon = props.name;
   const [copied, setCopied] = useState(false);
@@ -17,7 +11,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
   const copy = (icon: string) => {
     return () => {
       const copyText =
-        `https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/${icon}.tsx`;
+        `import Icon from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/${icon}.tsx"`;
 
       navigator.clipboard.writeText(copyText);
       setCopied(true);
@@ -30,7 +24,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
 
   return (
     <li
-      class="flex items-center p-2 hover:bg-gray-50 cursor-pointer flex group"
+      class="flex items-center p-2 hover:bg-gray-50 cursor-pointer flex group active:bg-green-100 active:text-black gap-2"
       onClick={copy(icon)}
     >
       <i class={`ti ti-${icon} text-2xl`}></i>

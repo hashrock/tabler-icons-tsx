@@ -1,6 +1,6 @@
 import { Head } from "$fresh/runtime.ts";
 import IconList from "../islands/IconList.tsx";
-
+import BrandTabler from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/brand-tabler.tsx";
 import { Handlers, PageProps } from "$fresh/server.ts";
 
 interface Icons {
@@ -30,7 +30,12 @@ export default function Home({ data }: PageProps<Icons>) {
         </link>
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
-        <h1 class="text-6xl">TSX Tabler Icons</h1>
+        <h1 class="text-4xl flex items-center font-bold">
+          <BrandTabler class="inline-block w-10 h-10" />
+          <div>
+            TSX Tabler Icons
+          </div>
+        </h1>
 
         <p class="mt-2">
           Easy to use{" "}

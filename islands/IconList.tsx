@@ -18,6 +18,7 @@ export default function IconList(props: IconListProps) {
           class="border border-gray-300 rounded p-2 w-full"
           type="text"
           placeholder="Search"
+          autofocus
           onInput={(e) => {
             setSearch((e.target as HTMLInputElement).value);
           }}

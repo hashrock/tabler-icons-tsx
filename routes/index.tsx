@@ -42,11 +42,11 @@ export default function Home({ data }: PageProps<Icons>) {
           </a>{" "}
           in your Fresh app. Just import the icons.
         </p>
-        <p class="mt-6">
+        <p class="mt-2">
           <a href="https://fresh.deno.dev">
             <img
-              width="197"
-              height="37"
+              width="160"
+              height="32"
               src="https://fresh.deno.dev/fresh-badge.svg"
               alt="Made with Fresh"
             />

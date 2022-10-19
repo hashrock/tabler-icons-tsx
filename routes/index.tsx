@@ -1,13 +1,24 @@
 import { Head } from "$fresh/runtime.ts";
 import IconList from "../islands/IconList.tsx";
 
-const icons: string[] = [];
-const dir = Deno.readDirSync("./tsx");
-for (const file of dir) {
-  icons.push(file.name);
+import { Handlers, PageProps } from "$fresh/server.ts";
+
+interface Icons {
+  icons: string[];
 }
 
-export default function Home() {
+export const handler: Handlers<Icons> = {
+  GET(_, ctx) {
+    const icons: string[] = [];
+    const dir = Deno.readDirSync("./tsx");
+    for (const file of dir) {
+      icons.push(file.name);
+    }
+    return ctx.render({ icons });
+  },
+};
+
+export default function Home({ data }: PageProps<Icons>) {
   return (
     <>
       <Head>
@@ -19,7 +30,7 @@ export default function Home() {
         </link>
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
-        <IconList icons={icons} />
+        <IconList icons={data.icons} />
       </div>
     </>
   );

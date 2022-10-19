@@ -8,10 +8,10 @@ interface Icons {
 }
 
 export const handler: Handlers<Icons> = {
-  GET(_, ctx) {
+  async GET(_, ctx) {
     const icons: string[] = [];
-    const dir = Deno.readDirSync("./tsx");
-    for (const file of dir) {
+    const dir = await Deno.readDir("./tsx");
+    for await (const file of dir) {
       icons.push(file.name);
     }
     return ctx.render({ icons });

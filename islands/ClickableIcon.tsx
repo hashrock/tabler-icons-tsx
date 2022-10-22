@@ -4,14 +4,22 @@ interface ClickableIconProps {
   name: string;
 }
 
+function DashToCamelCase(str: string) {
+  return str.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
+}
+function uppercaseFirst(str: string) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 export default function ClickableIcon(props: ClickableIconProps) {
   const icon = props.name;
   const [copied, setCopied] = useState(false);
 
   const copy = (icon: string) => {
     return () => {
+      const className = "Icon" + uppercaseFirst(DashToCamelCase(icon));
       const copyText =
-        `import Icon from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/${icon}.tsx"`;
+        `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/${icon}.tsx"`;
 
       navigator.clipboard.writeText(copyText);
       setCopied(true);

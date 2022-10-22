@@ -24,7 +24,7 @@ export default function IconList(props: IconListProps) {
           }}
         />
       </div>
-      <ul>
+      <ul class="mt-8 grid grid-cols-4">
         {filteredIcons.map((icon) => <ClickableIcon name={icon} />)}
       </ul>
     </>

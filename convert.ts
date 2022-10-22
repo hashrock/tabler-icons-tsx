@@ -1,3 +1,5 @@
+await Deno.remove("./tsx", { recursive: true });
+
 const files = Deno.readDirSync("react");
 
 // write files to icons.json

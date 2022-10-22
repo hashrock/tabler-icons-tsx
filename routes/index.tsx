@@ -25,7 +25,7 @@ export default function Home({ data }: PageProps<Icons>) {
         <title>TSX Tabler Icons</title>
         <link
           rel="stylesheet"
-          href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.103.0/iconfont/tabler-icons.css"
+          href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.106.0/iconfont/tabler-icons.css"
         >
         </link>
       </Head>

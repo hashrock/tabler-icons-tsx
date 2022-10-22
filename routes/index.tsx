@@ -2,18 +2,14 @@ import { Head } from "$fresh/runtime.ts";
 import IconList from "../islands/IconList.tsx";
 import BrandTabler from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/brand-tabler.tsx";
 import { Handlers, PageProps } from "$fresh/server.ts";
+import icons from "../data/icons.json" assert { type: "json" };
 
 interface Icons {
   icons: string[];
 }
 
 export const handler: Handlers<Icons> = {
-  async GET(_, ctx) {
-    const icons: string[] = [];
-    const dir = await Deno.readDir("./tsx");
-    for await (const file of dir) {
-      icons.push(file.name);
-    }
+  GET(_, ctx) {
     return ctx.render({ icons });
   },
 };

@@ -1,7 +1,7 @@
 import { download } from "https://deno.land/x/download@v1.0.1/mod.ts";
 import { decompress } from "https://deno.land/x/zip@v1.2.3/mod.ts";
 import { svgToTsx } from "./convert.ts";
-import $ from "https://deno.land/x/dax/mod.ts";
+import $ from "https://deno.land/x/dax@0.17.0/mod.ts";
 
 try {
   await Deno.remove("./tsx", { recursive: true });

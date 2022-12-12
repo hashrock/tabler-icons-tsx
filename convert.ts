@@ -1,4 +1,4 @@
-import { download } from "https://deno.land/x/download/mod.ts";
+import { download } from "https://deno.land/x/download@v1.0.1/mod.ts";
 import { decompress } from "https://deno.land/x/zip@v1.2.3/mod.ts";
 
 try {

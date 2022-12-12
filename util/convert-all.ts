@@ -4,7 +4,7 @@ import { svgToTsx } from "./convert.ts";
 import $ from "https://deno.land/x/dax@0.17.0/mod.ts";
 
 try {
-  await Deno.remove("./tsx", { recursive: true });
+  await $`rm -r ./tsx`;
 } catch (_) {
   // ignore
 }
@@ -15,9 +15,9 @@ const url =
 await download(url, { file: "tabler-icons.zip", dir: "./" });
 await decompress("tabler-icons.zip", "tabler-icons");
 
-await Deno.rename("./tabler-icons/icons", "./icons");
-await Deno.remove("./tabler-icons", { recursive: true });
-await Deno.remove("./tabler-icons.zip");
+await $`mv ./tabler-icons/icons ./icons`;
+await $`rm -r ./tabler-icons`;
+await $`rm ./tabler-icons.zip`;
 
 const files = Deno.readDirSync("icons");
 
@@ -35,6 +35,5 @@ for (const file of files) {
 
 Deno.writeTextFileSync("data/icons.json", JSON.stringify(icons, null, 2));
 
-await Deno.remove("./icons", { recursive: true });
-
+await $`rm -r ./icons`;
 await $`deno fmt`;

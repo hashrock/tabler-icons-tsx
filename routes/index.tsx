@@ -3,6 +3,7 @@ import IconList from "../islands/IconList.tsx";
 import BrandTabler from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-tabler.tsx";
 import { Handlers, PageProps } from "$fresh/server.ts";
 import icons from "../data/icons.json" assert { type: "json" };
+import CodeBlock from "../islands/CodeBlock.tsx";
 
 interface Icons {
   icons: string[];
@@ -15,6 +16,11 @@ export const handler: Handlers<Icons> = {
 };
 
 export default function Home({ data }: PageProps<Icons>) {
+  const example =
+    `import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx"
+
+<IconBrandGithub class="w-6 h-6" />`;
+
   return (
     <>
       <Head>
@@ -24,6 +30,10 @@ export default function Home({ data }: PageProps<Icons>) {
           href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.106.0/iconfont/tabler-icons.css"
         >
         </link>
+        <link
+          rel="stylesheet"
+          href="https://esm.sh/prismjs@1.27.0/themes/prism-dark.min.css"
+        />
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
         <h1 class="text-4xl flex items-center font-bold">
@@ -56,13 +66,8 @@ export default function Home({ data }: PageProps<Icons>) {
 
         <p class="mt-2">
           <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
-          <code class="border rounded border-gray-300 block text-sm p-2 bg-gray-50">
-            import IconBrandGithub from
-            "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx"
-            <br />
-            <br />
-            &lt;IconBrandGithub class="w-6 h-6" /&gt;
-          </code>
+
+          <CodeBlock code={example} copy></CodeBlock>
         </p>
 
         <IconList icons={data.icons} />

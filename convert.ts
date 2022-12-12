@@ -3,12 +3,12 @@ import { decompress } from "https://deno.land/x/zip@v1.2.3/mod.ts";
 
 try {
   await Deno.remove("./tsx", { recursive: true });
-} catch (e) {
+} catch (_) {
   // ignore
 }
 try {
   await Deno.remove("./react", { recursive: true });
-} catch (e) {
+} catch (_) {
   // ignore
 }
 

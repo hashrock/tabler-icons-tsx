@@ -57,7 +57,8 @@ export default function Home({ data }: PageProps<Icons>) {
         <p class="mt-2">
           <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
           <code class="border rounded border-gray-300 block text-sm p-2 bg-gray-50">
-            import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx"
+            import IconBrandGithub from
+            "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx"
             <br />
             <br />
             &lt;IconBrandGithub class="w-6 h-6" /&gt;

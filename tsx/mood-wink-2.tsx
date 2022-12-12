@@ -26,5 +26,4 @@ function IconMoodWink2({
     </svg>
   );
 }
-
 export default IconMoodWink2;

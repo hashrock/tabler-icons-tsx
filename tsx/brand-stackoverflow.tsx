@@ -27,5 +27,4 @@ function IconBrandStackoverflow({
     </svg>
   );
 }
-
 export default IconBrandStackoverflow;

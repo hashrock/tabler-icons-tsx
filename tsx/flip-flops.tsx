@@ -28,5 +28,4 @@ function IconFlipFlops({
     </svg>
   );
 }
-
 export default IconFlipFlops;

@@ -23,5 +23,4 @@ function IconBone({
     </svg>
   );
 }
-
 export default IconBone;

@@ -26,5 +26,4 @@ function IconGeometry({
     </svg>
   );
 }
-
 export default IconGeometry;

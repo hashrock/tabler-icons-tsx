@@ -27,5 +27,4 @@ function IconSquareToggle({
     </svg>
   );
 }
-
 export default IconSquareToggle;

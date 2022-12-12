@@ -26,5 +26,4 @@ function IconCurrencyDollarZimbabwean({
     </svg>
   );
 }
-
 export default IconCurrencyDollarZimbabwean;

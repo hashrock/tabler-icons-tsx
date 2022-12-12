@@ -27,5 +27,4 @@ function IconLayoutBoardSplit({
     </svg>
   );
 }
-
 export default IconLayoutBoardSplit;

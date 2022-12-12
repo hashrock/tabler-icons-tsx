@@ -25,5 +25,4 @@ function IconCurrencySolana({
     </svg>
   );
 }
-
 export default IconCurrencySolana;

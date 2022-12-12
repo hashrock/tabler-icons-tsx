@@ -29,5 +29,4 @@ function IconBrandAndroid({
     </svg>
   );
 }
-
 export default IconBrandAndroid;

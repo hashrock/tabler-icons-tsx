@@ -23,5 +23,4 @@ function IconTriangleInverted({
     </svg>
   );
 }
-
 export default IconTriangleInverted;

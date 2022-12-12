@@ -24,5 +24,4 @@ function IconArrowCurveLeft({
     </svg>
   );
 }
-
 export default IconArrowCurveLeft;

@@ -27,5 +27,4 @@ function IconAccessPointOff({
     </svg>
   );
 }
-
 export default IconAccessPointOff;

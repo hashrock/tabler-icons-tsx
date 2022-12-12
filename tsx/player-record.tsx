@@ -23,5 +23,4 @@ function IconPlayerRecord({
     </svg>
   );
 }
-
 export default IconPlayerRecord;

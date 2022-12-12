@@ -29,5 +29,4 @@ function IconShadowOff({
     </svg>
   );
 }
-
 export default IconShadowOff;

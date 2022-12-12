@@ -27,5 +27,4 @@ function IconIceCreamOff({
     </svg>
   );
 }
-
 export default IconIceCreamOff;

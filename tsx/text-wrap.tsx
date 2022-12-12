@@ -25,5 +25,4 @@ function IconTextWrap({
     </svg>
   );
 }
-
 export default IconTextWrap;

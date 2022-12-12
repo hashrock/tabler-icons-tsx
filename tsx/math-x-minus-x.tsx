@@ -27,5 +27,4 @@ function IconMathXMinusX({
     </svg>
   );
 }
-
 export default IconMathXMinusX;

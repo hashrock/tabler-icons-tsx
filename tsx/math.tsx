@@ -25,5 +25,4 @@ function IconMath({
     </svg>
   );
 }
-
 export default IconMath;

@@ -26,5 +26,4 @@ function IconFileLike({
     </svg>
   );
 }
-
 export default IconFileLike;

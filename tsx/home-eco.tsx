@@ -26,5 +26,4 @@ function IconHomeEco({
     </svg>
   );
 }
-
 export default IconHomeEco;

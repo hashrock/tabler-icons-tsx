@@ -27,5 +27,4 @@ function IconRelationManyToMany({
     </svg>
   );
 }
-
 export default IconRelationManyToMany;

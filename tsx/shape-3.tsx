@@ -27,5 +27,4 @@ function IconShape3({
     </svg>
   );
 }
-
 export default IconShape3;

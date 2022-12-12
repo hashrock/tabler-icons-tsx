@@ -28,5 +28,4 @@ function IconShadow({
     </svg>
   );
 }
-
 export default IconShadow;

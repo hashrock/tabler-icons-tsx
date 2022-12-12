@@ -29,5 +29,4 @@ function IconBus({
     </svg>
   );
 }
-
 export default IconBus;

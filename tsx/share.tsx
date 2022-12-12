@@ -27,5 +27,4 @@ function IconShare({
     </svg>
   );
 }
-
 export default IconShare;

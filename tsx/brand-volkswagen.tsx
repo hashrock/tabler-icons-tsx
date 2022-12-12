@@ -25,5 +25,4 @@ function IconBrandVolkswagen({
     </svg>
   );
 }
-
 export default IconBrandVolkswagen;

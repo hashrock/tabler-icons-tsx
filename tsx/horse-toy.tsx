@@ -26,5 +26,4 @@ function IconHorseToy({
     </svg>
   );
 }
-
 export default IconHorseToy;

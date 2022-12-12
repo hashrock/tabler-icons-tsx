@@ -24,5 +24,4 @@ function IconThumbUpOff({
     </svg>
   );
 }
-
 export default IconThumbUpOff;

@@ -30,5 +30,4 @@ function IconArrowsRandom({
     </svg>
   );
 }
-
 export default IconArrowsRandom;

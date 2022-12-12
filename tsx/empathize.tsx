@@ -24,5 +24,4 @@ function IconEmpathize({
     </svg>
   );
 }
-
 export default IconEmpathize;

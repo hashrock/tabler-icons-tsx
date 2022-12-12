@@ -26,5 +26,4 @@ function IconCircuitDiode({
     </svg>
   );
 }
-
 export default IconCircuitDiode;

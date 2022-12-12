@@ -30,5 +30,4 @@ function IconArrowsMaximize({
     </svg>
   );
 }
-
 export default IconArrowsMaximize;

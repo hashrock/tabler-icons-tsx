@@ -24,5 +24,4 @@ function IconLayersSubtract({
     </svg>
   );
 }
-
 export default IconLayersSubtract;

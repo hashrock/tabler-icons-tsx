@@ -25,5 +25,4 @@ function IconMultiplier1x({
     </svg>
   );
 }
-
 export default IconMultiplier1x;

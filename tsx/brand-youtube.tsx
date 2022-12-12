@@ -24,5 +24,4 @@ function IconBrandYoutube({
     </svg>
   );
 }
-
 export default IconBrandYoutube;

@@ -27,5 +27,4 @@ function IconZodiacLeo({
     </svg>
   );
 }
-
 export default IconZodiacLeo;

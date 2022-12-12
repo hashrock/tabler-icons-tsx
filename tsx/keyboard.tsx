@@ -30,5 +30,4 @@ function IconKeyboard({
     </svg>
   );
 }
-
 export default IconKeyboard;

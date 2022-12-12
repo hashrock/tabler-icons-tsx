@@ -31,5 +31,4 @@ function IconSunset2({
     </svg>
   );
 }
-
 export default IconSunset2;

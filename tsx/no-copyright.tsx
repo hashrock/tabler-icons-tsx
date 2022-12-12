@@ -26,5 +26,4 @@ function IconNoCopyright({
     </svg>
   );
 }
-
 export default IconNoCopyright;

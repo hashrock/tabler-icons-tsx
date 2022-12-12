@@ -23,5 +23,4 @@ function IconBrandDcos({
     </svg>
   );
 }
-
 export default IconBrandDcos;

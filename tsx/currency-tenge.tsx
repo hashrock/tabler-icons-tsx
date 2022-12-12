@@ -25,5 +25,4 @@ function IconCurrencyTenge({
     </svg>
   );
 }
-
 export default IconCurrencyTenge;

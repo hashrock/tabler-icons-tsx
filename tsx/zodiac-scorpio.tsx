@@ -25,5 +25,4 @@ function IconZodiacScorpio({
     </svg>
   );
 }
-
 export default IconZodiacScorpio;

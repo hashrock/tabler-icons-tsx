@@ -25,5 +25,4 @@ function IconLayoutCollage({
     </svg>
   );
 }
-
 export default IconLayoutCollage;

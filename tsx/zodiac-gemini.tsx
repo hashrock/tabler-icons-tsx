@@ -26,5 +26,4 @@ function IconZodiacGemini({
     </svg>
   );
 }
-
 export default IconZodiacGemini;

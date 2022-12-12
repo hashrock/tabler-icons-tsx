@@ -24,5 +24,4 @@ function IconCopy({
     </svg>
   );
 }
-
 export default IconCopy;

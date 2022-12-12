@@ -25,5 +25,4 @@ function IconCurrencyLira({
     </svg>
   );
 }
-
 export default IconCurrencyLira;

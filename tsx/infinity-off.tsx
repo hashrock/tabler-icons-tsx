@@ -24,5 +24,4 @@ function IconInfinityOff({
     </svg>
   );
 }
-
 export default IconInfinityOff;

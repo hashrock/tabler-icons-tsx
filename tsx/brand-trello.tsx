@@ -25,5 +25,4 @@ function IconBrandTrello({
     </svg>
   );
 }
-
 export default IconBrandTrello;

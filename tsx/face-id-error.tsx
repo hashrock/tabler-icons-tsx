@@ -29,5 +29,4 @@ function IconFaceIdError({
     </svg>
   );
 }
-
 export default IconFaceIdError;

@@ -27,5 +27,4 @@ function IconRelationOneToMany({
     </svg>
   );
 }
-
 export default IconRelationOneToMany;

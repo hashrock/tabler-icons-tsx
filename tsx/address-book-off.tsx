@@ -29,5 +29,4 @@ function IconAddressBookOff({
     </svg>
   );
 }
-
 export default IconAddressBookOff;

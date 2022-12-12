@@ -24,5 +24,4 @@ function IconBold({
     </svg>
   );
 }
-
 export default IconBold;

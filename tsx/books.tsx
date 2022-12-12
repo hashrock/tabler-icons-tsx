@@ -29,5 +29,4 @@ function IconBooks({
     </svg>
   );
 }
-
 export default IconBooks;

@@ -24,5 +24,4 @@ function IconArrowRoundaboutLeft({
     </svg>
   );
 }
-
 export default IconArrowRoundaboutLeft;

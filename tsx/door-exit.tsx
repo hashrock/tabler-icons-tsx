@@ -26,5 +26,4 @@ function IconDoorExit({
     </svg>
   );
 }
-
 export default IconDoorExit;

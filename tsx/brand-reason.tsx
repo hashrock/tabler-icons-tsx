@@ -27,5 +27,4 @@ function IconBrandReason({
     </svg>
   );
 }
-
 export default IconBrandReason;

@@ -26,5 +26,4 @@ function IconSquareF6({
     </svg>
   );
 }
-
 export default IconSquareF6;

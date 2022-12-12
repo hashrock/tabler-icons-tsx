@@ -27,5 +27,4 @@ function IconSoccerField({
     </svg>
   );
 }
-
 export default IconSoccerField;

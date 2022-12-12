@@ -23,5 +23,4 @@ function IconMinus({
     </svg>
   );
 }
-
 export default IconMinus;

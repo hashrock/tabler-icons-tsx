@@ -24,5 +24,4 @@ function IconCurrencyPoundOff({
     </svg>
   );
 }
-
 export default IconCurrencyPoundOff;

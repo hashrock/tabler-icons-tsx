@@ -32,5 +32,4 @@ function IconGoGame({
     </svg>
   );
 }
-
 export default IconGoGame;

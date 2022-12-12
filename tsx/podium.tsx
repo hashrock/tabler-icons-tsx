@@ -27,5 +27,4 @@ function IconPodium({
     </svg>
   );
 }
-
 export default IconPodium;

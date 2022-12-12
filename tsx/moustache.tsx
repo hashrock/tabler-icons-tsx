@@ -24,5 +24,4 @@ function IconMoustache({
     </svg>
   );
 }
-
 export default IconMoustache;

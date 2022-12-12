@@ -26,5 +26,4 @@ function IconMars({
     </svg>
   );
 }
-
 export default IconMars;

@@ -25,5 +25,4 @@ function IconHomeHand({
     </svg>
   );
 }
-
 export default IconHomeHand;

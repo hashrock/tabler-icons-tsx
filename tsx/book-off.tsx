@@ -28,5 +28,4 @@ function IconBookOff({
     </svg>
   );
 }
-
 export default IconBookOff;

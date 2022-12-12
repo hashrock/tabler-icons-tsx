@@ -27,5 +27,4 @@ function IconPlaylist({
     </svg>
   );
 }
-
 export default IconPlaylist;

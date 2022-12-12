@@ -27,5 +27,4 @@ function IconCalendarMinus({
     </svg>
   );
 }
-
 export default IconCalendarMinus;

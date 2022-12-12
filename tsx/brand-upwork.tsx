@@ -23,5 +23,4 @@ function IconBrandUpwork({
     </svg>
   );
 }
-
 export default IconBrandUpwork;

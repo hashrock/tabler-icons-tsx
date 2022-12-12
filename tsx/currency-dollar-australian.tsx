@@ -27,5 +27,4 @@ function IconCurrencyDollarAustralian({
     </svg>
   );
 }
-
 export default IconCurrencyDollarAustralian;

@@ -24,5 +24,4 @@ function IconFlag2Off({
     </svg>
   );
 }
-
 export default IconFlag2Off;

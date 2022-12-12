@@ -23,5 +23,4 @@ function IconBrandWebflow({
     </svg>
   );
 }
-
 export default IconBrandWebflow;

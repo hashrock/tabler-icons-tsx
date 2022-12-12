@@ -30,5 +30,4 @@ function IconBarcode({
     </svg>
   );
 }
-
 export default IconBarcode;

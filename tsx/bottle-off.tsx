@@ -26,5 +26,4 @@ function IconBottleOff({
     </svg>
   );
 }
-
 export default IconBottleOff;

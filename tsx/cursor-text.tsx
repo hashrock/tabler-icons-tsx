@@ -25,5 +25,4 @@ function IconCursorText({
     </svg>
   );
 }
-
 export default IconCursorText;

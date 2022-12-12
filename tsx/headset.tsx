@@ -26,5 +26,4 @@ function IconHeadset({
     </svg>
   );
 }
-
 export default IconHeadset;

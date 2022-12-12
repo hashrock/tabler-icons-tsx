@@ -26,5 +26,4 @@ function IconLayoutBoard({
     </svg>
   );
 }
-
 export default IconLayoutBoard;

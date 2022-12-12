@@ -29,5 +29,4 @@ function IconHeadingOff({
     </svg>
   );
 }
-
 export default IconHeadingOff;

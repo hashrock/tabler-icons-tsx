@@ -29,5 +29,4 @@ function IconReportSearch({
     </svg>
   );
 }
-
 export default IconReportSearch;

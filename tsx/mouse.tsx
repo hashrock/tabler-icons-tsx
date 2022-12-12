@@ -24,5 +24,4 @@ function IconMouse({
     </svg>
   );
 }
-
 export default IconMouse;

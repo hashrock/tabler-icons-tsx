@@ -27,5 +27,4 @@ function IconBrandUnity({
     </svg>
   );
 }
-
 export default IconBrandUnity;

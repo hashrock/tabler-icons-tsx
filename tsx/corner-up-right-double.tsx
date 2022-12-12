@@ -24,5 +24,4 @@ function IconCornerUpRightDouble({
     </svg>
   );
 }
-
 export default IconCornerUpRightDouble;

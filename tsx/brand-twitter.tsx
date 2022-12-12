@@ -23,5 +23,4 @@ function IconBrandTwitter({
     </svg>
   );
 }
-
 export default IconBrandTwitter;

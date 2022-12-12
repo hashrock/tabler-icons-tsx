@@ -23,5 +23,4 @@ function IconBrandZwift({
     </svg>
   );
 }
-
 export default IconBrandZwift;

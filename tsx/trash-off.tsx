@@ -29,5 +29,4 @@ function IconTrashOff({
     </svg>
   );
 }
-
 export default IconTrashOff;

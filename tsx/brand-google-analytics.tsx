@@ -25,5 +25,4 @@ function IconBrandGoogleAnalytics({
     </svg>
   );
 }
-
 export default IconBrandGoogleAnalytics;

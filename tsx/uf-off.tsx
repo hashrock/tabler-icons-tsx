@@ -30,5 +30,4 @@ function IconUfOff({
     </svg>
   );
 }
-
 export default IconUfOff;

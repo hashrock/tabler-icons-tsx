@@ -31,5 +31,4 @@ function IconAdjustmentsHorizontal({
     </svg>
   );
 }
-
 export default IconAdjustmentsHorizontal;

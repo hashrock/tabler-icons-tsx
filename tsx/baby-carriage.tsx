@@ -28,5 +28,4 @@ function IconBabyCarriage({
     </svg>
   );
 }
-
 export default IconBabyCarriage;

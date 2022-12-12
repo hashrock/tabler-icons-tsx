@@ -24,5 +24,4 @@ function IconSubscript({
     </svg>
   );
 }
-
 export default IconSubscript;

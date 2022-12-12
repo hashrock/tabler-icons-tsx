@@ -23,5 +23,4 @@ function IconHotelService({
     </svg>
   );
 }
-
 export default IconHotelService;

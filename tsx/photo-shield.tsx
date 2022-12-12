@@ -26,5 +26,4 @@ function IconPhotoShield({
     </svg>
   );
 }
-
 export default IconPhotoShield;

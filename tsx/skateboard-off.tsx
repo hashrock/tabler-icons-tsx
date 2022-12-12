@@ -26,5 +26,4 @@ function IconSkateboardOff({
     </svg>
   );
 }
-
 export default IconSkateboardOff;

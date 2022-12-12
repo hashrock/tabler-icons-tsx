@@ -25,5 +25,4 @@ function IconAlignRight({
     </svg>
   );
 }
-
 export default IconAlignRight;

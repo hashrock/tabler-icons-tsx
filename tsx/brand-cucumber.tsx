@@ -30,5 +30,4 @@ function IconBrandCucumber({
     </svg>
   );
 }
-
 export default IconBrandCucumber;

@@ -29,5 +29,4 @@ function IconBoxModelOff({
     </svg>
   );
 }
-
 export default IconBoxModelOff;

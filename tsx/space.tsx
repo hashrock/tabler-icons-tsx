@@ -23,5 +23,4 @@ function IconSpace({
     </svg>
   );
 }
-
 export default IconSpace;

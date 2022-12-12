@@ -27,5 +27,4 @@ function IconBrandChrome({
     </svg>
   );
 }
-
 export default IconBrandChrome;

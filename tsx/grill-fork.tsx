@@ -25,5 +25,4 @@ function IconGrillFork({
     </svg>
   );
 }
-
 export default IconGrillFork;

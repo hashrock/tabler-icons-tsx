@@ -24,5 +24,4 @@ function IconPyramid({
     </svg>
   );
 }
-
 export default IconPyramid;

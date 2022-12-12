@@ -25,5 +25,4 @@ function IconBeerOff({
     </svg>
   );
 }
-
 export default IconBeerOff;

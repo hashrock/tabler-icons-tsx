@@ -32,5 +32,4 @@ function IconTableOptions({
     </svg>
   );
 }
-
 export default IconTableOptions;

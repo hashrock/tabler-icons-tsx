@@ -27,5 +27,4 @@ function IconSdk({
     </svg>
   );
 }
-
 export default IconSdk;

@@ -23,5 +23,4 @@ function IconBrandVercel({
     </svg>
   );
 }
-
 export default IconBrandVercel;

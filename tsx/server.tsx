@@ -26,5 +26,4 @@ function IconServer({
     </svg>
   );
 }
-
 export default IconServer;

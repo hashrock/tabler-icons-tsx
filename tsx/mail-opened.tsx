@@ -26,5 +26,4 @@ function IconMailOpened({
     </svg>
   );
 }
-
 export default IconMailOpened;

@@ -24,5 +24,4 @@ function IconPlaneDeparture({
     </svg>
   );
 }
-
 export default IconPlaneDeparture;

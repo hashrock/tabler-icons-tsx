@@ -26,5 +26,4 @@ function IconCashOff({
     </svg>
   );
 }
-
 export default IconCashOff;

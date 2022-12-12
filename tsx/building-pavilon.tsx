@@ -26,5 +26,4 @@ function IconBuildingPavilon({
     </svg>
   );
 }
-
 export default IconBuildingPavilon;

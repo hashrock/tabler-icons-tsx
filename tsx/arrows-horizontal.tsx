@@ -25,5 +25,4 @@ function IconArrowsHorizontal({
     </svg>
   );
 }
-
 export default IconArrowsHorizontal;

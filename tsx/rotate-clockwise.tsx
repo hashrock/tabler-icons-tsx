@@ -23,5 +23,4 @@ function IconRotateClockwise({
     </svg>
   );
 }
-
 export default IconRotateClockwise;

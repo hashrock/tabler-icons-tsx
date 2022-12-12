@@ -25,5 +25,4 @@ function IconSettingsOff({
     </svg>
   );
 }
-
 export default IconSettingsOff;

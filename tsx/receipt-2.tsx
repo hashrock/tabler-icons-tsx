@@ -24,5 +24,4 @@ function IconReceipt2({
     </svg>
   );
 }
-
 export default IconReceipt2;

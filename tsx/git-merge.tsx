@@ -27,5 +27,4 @@ function IconGitMerge({
     </svg>
   );
 }
-
 export default IconGitMerge;

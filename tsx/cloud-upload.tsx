@@ -25,5 +25,4 @@ function IconCloudUpload({
     </svg>
   );
 }
-
 export default IconCloudUpload;

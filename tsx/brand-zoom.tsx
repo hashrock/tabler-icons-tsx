@@ -24,5 +24,4 @@ function IconBrandZoom({
     </svg>
   );
 }
-
 export default IconBrandZoom;

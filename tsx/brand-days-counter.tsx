@@ -25,5 +25,4 @@ function IconBrandDaysCounter({
     </svg>
   );
 }
-
 export default IconBrandDaysCounter;

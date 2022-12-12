@@ -27,5 +27,4 @@ function IconSquareToggleHorizontal({
     </svg>
   );
 }
-
 export default IconSquareToggleHorizontal;

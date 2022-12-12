@@ -28,5 +28,4 @@ function IconFishBone({
     </svg>
   );
 }
-
 export default IconFishBone;

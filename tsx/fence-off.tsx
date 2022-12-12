@@ -28,5 +28,4 @@ function IconFenceOff({
     </svg>
   );
 }
-
 export default IconFenceOff;

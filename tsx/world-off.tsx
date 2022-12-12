@@ -27,5 +27,4 @@ function IconWorldOff({
     </svg>
   );
 }
-
 export default IconWorldOff;

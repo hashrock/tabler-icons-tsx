@@ -30,5 +30,4 @@ function IconFeatherOff({
     </svg>
   );
 }
-
 export default IconFeatherOff;

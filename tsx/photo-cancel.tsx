@@ -28,5 +28,4 @@ function IconPhotoCancel({
     </svg>
   );
 }
-
 export default IconPhotoCancel;

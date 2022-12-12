@@ -28,5 +28,4 @@ function IconDevicesPc({
     </svg>
   );
 }
-
 export default IconDevicesPc;

@@ -29,5 +29,4 @@ function IconDialpad({
     </svg>
   );
 }
-
 export default IconDialpad;

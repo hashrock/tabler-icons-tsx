@@ -29,5 +29,4 @@ function IconCarCrane({
     </svg>
   );
 }
-
 export default IconCarCrane;

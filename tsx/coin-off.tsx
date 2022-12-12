@@ -26,5 +26,4 @@ function IconCoinOff({
     </svg>
   );
 }
-
 export default IconCoinOff;

@@ -25,5 +25,4 @@ function IconTestPipe2({
     </svg>
   );
 }
-
 export default IconTestPipe2;

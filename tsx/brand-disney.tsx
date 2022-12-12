@@ -24,5 +24,4 @@ function IconBrandDisney({
     </svg>
   );
 }
-
 export default IconBrandDisney;

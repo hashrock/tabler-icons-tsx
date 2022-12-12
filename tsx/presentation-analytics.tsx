@@ -29,5 +29,4 @@ function IconPresentationAnalytics({
     </svg>
   );
 }
-
 export default IconPresentationAnalytics;

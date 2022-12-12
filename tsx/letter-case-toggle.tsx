@@ -26,5 +26,4 @@ function IconLetterCaseToggle({
     </svg>
   );
 }
-
 export default IconLetterCaseToggle;

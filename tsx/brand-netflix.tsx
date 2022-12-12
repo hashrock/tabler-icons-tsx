@@ -23,5 +23,4 @@ function IconBrandNetflix({
     </svg>
   );
 }
-
 export default IconBrandNetflix;

@@ -32,5 +32,4 @@ function IconBoxAlignBottomRight({
     </svg>
   );
 }
-
 export default IconBoxAlignBottomRight;

@@ -27,5 +27,4 @@ function IconGlobeOff({
     </svg>
   );
 }
-
 export default IconGlobeOff;

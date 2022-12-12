@@ -25,5 +25,4 @@ function IconBrandGoogleDrive({
     </svg>
   );
 }
-
 export default IconBrandGoogleDrive;

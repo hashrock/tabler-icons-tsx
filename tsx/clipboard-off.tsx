@@ -25,5 +25,4 @@ function IconClipboardOff({
     </svg>
   );
 }
-
 export default IconClipboardOff;

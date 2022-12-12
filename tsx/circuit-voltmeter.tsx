@@ -26,5 +26,4 @@ function IconCircuitVoltmeter({
     </svg>
   );
 }
-
 export default IconCircuitVoltmeter;

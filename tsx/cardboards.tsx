@@ -25,5 +25,4 @@ function IconCardboards({
     </svg>
   );
 }
-
 export default IconCardboards;

@@ -24,5 +24,4 @@ function IconPlaneArrival({
     </svg>
   );
 }
-
 export default IconPlaneArrival;

@@ -25,5 +25,4 @@ function IconMoodLookLeft({
     </svg>
   );
 }
-
 export default IconMoodLookLeft;

@@ -25,5 +25,4 @@ function IconEmpathizeOff({
     </svg>
   );
 }
-
 export default IconEmpathizeOff;

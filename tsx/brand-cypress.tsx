@@ -25,5 +25,4 @@ function IconBrandCypress({
     </svg>
   );
 }
-
 export default IconBrandCypress;

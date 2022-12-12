@@ -25,5 +25,4 @@ function IconZeppelinOff({
     </svg>
   );
 }
-
 export default IconZeppelinOff;

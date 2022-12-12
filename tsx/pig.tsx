@@ -24,5 +24,4 @@ function IconPig({
     </svg>
   );
 }
-
 export default IconPig;

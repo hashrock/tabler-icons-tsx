@@ -24,5 +24,4 @@ function IconLogout({
     </svg>
   );
 }
-
 export default IconLogout;

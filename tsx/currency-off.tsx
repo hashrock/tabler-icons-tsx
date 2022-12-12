@@ -28,5 +28,4 @@ function IconCurrencyOff({
     </svg>
   );
 }
-
 export default IconCurrencyOff;

@@ -26,5 +26,4 @@ function IconPrinterOff({
     </svg>
   );
 }
-
 export default IconPrinterOff;

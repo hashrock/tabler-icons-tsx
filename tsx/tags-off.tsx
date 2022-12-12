@@ -26,5 +26,4 @@ function IconTagsOff({
     </svg>
   );
 }
-
 export default IconTagsOff;

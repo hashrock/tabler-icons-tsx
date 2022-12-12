@@ -24,5 +24,4 @@ function IconWallet({
     </svg>
   );
 }
-
 export default IconWallet;

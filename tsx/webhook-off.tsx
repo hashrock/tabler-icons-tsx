@@ -26,5 +26,4 @@ function IconWebhookOff({
     </svg>
   );
 }
-
 export default IconWebhookOff;

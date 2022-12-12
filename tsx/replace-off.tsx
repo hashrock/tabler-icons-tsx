@@ -27,5 +27,4 @@ function IconReplaceOff({
     </svg>
   );
 }
-
 export default IconReplaceOff;

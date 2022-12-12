@@ -24,5 +24,4 @@ function IconBrandMessenger({
     </svg>
   );
 }
-
 export default IconBrandMessenger;

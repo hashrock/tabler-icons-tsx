@@ -25,5 +25,4 @@ function IconGitCommit({
     </svg>
   );
 }
-
 export default IconGitCommit;

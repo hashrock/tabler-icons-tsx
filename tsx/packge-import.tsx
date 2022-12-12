@@ -28,5 +28,4 @@ function IconPackgeImport({
     </svg>
   );
 }
-
 export default IconPackgeImport;

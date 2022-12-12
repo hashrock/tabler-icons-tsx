@@ -28,5 +28,4 @@ function IconCompass({
     </svg>
   );
 }
-
 export default IconCompass;

@@ -24,5 +24,4 @@ function IconLayoutNavbar({
     </svg>
   );
 }
-
 export default IconLayoutNavbar;

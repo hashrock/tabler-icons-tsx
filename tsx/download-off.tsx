@@ -26,5 +26,4 @@ function IconDownloadOff({
     </svg>
   );
 }
-
 export default IconDownloadOff;

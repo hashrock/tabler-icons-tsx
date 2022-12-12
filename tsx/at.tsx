@@ -24,5 +24,4 @@ function IconAt({
     </svg>
   );
 }
-
 export default IconAt;

@@ -28,5 +28,4 @@ function IconCoffeeOff({
     </svg>
   );
 }
-
 export default IconCoffeeOff;

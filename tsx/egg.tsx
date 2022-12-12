@@ -23,5 +23,4 @@ function IconEgg({
     </svg>
   );
 }
-
 export default IconEgg;

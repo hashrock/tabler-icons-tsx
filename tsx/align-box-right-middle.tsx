@@ -26,5 +26,4 @@ function IconAlignBoxRightMiddle({
     </svg>
   );
 }
-
 export default IconAlignBoxRightMiddle;

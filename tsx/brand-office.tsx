@@ -23,5 +23,4 @@ function IconBrandOffice({
     </svg>
   );
 }
-
 export default IconBrandOffice;

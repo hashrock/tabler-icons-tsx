@@ -25,5 +25,4 @@ function IconGradienter({
     </svg>
   );
 }
-
 export default IconGradienter;

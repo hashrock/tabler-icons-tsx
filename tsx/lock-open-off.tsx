@@ -26,5 +26,4 @@ function IconLockOpenOff({
     </svg>
   );
 }
-
 export default IconLockOpenOff;

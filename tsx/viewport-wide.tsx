@@ -26,5 +26,4 @@ function IconViewportWide({
     </svg>
   );
 }
-
 export default IconViewportWide;

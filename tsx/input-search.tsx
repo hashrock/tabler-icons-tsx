@@ -25,5 +25,4 @@ function IconInputSearch({
     </svg>
   );
 }
-
 export default IconInputSearch;

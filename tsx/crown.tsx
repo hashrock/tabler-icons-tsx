@@ -23,5 +23,4 @@ function IconCrown({
     </svg>
   );
 }
-
 export default IconCrown;

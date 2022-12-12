@@ -25,5 +25,4 @@ function IconBracesOff({
     </svg>
   );
 }
-
 export default IconBracesOff;

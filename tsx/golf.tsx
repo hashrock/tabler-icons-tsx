@@ -24,5 +24,4 @@ function IconGolf({
     </svg>
   );
 }
-
 export default IconGolf;

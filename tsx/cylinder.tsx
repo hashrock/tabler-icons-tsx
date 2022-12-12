@@ -24,5 +24,4 @@ function IconCylinder({
     </svg>
   );
 }
-
 export default IconCylinder;

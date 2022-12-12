@@ -24,5 +24,4 @@ function IconCircleOff({
     </svg>
   );
 }
-
 export default IconCircleOff;

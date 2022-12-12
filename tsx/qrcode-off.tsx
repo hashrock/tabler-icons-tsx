@@ -32,5 +32,4 @@ function IconQrcodeOff({
     </svg>
   );
 }
-
 export default IconQrcodeOff;

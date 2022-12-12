@@ -26,5 +26,4 @@ function IconTextIncrease({
     </svg>
   );
 }
-
 export default IconTextIncrease;

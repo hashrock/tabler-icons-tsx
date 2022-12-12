@@ -33,5 +33,4 @@ function IconCpuOff({
     </svg>
   );
 }
-
 export default IconCpuOff;

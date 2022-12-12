@@ -27,5 +27,4 @@ function IconKeyOff({
     </svg>
   );
 }
-
 export default IconKeyOff;

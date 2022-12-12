@@ -23,5 +23,4 @@ function IconBrandTinder({
     </svg>
   );
 }
-
 export default IconBrandTinder;

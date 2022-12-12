@@ -26,5 +26,4 @@ function IconFileChart({
     </svg>
   );
 }
-
 export default IconFileChart;

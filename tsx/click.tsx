@@ -28,5 +28,4 @@ function IconClick({
     </svg>
   );
 }
-
 export default IconClick;

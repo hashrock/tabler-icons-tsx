@@ -25,5 +25,4 @@ function IconFlask2({
     </svg>
   );
 }
-
 export default IconFlask2;

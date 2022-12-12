@@ -25,5 +25,4 @@ function IconSpacingVertical({
     </svg>
   );
 }
-
 export default IconSpacingVertical;

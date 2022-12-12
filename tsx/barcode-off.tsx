@@ -31,5 +31,4 @@ function IconBarcodeOff({
     </svg>
   );
 }
-
 export default IconBarcodeOff;

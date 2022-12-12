@@ -25,5 +25,4 @@ function IconBatteryEco({
     </svg>
   );
 }
-
 export default IconBatteryEco;

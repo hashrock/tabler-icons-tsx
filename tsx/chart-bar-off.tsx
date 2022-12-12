@@ -27,5 +27,4 @@ function IconChartBarOff({
     </svg>
   );
 }
-
 export default IconChartBarOff;

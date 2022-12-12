@@ -27,5 +27,4 @@ function IconBrandPython({
     </svg>
   );
 }
-
 export default IconBrandPython;

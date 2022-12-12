@@ -25,5 +25,4 @@ function IconLayoutAlignMiddle({
     </svg>
   );
 }
-
 export default IconLayoutAlignMiddle;

@@ -24,5 +24,4 @@ function IconWoman({
     </svg>
   );
 }
-
 export default IconWoman;

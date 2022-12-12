@@ -28,5 +28,4 @@ function IconTransform({
     </svg>
   );
 }
-
 export default IconTransform;

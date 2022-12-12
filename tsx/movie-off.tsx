@@ -30,5 +30,4 @@ function IconMovieOff({
     </svg>
   );
 }
-
 export default IconMovieOff;

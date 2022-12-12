@@ -25,5 +25,4 @@ function IconAB({
     </svg>
   );
 }
-
 export default IconAB;

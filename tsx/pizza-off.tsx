@@ -26,5 +26,4 @@ function IconPizzaOff({
     </svg>
   );
 }
-
 export default IconPizzaOff;

@@ -24,5 +24,4 @@ function IconBrandBackbone({
     </svg>
   );
 }
-
 export default IconBrandBackbone;

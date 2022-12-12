@@ -27,5 +27,4 @@ function IconOld({
     </svg>
   );
 }
-
 export default IconOld;

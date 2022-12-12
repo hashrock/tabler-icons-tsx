@@ -26,5 +26,4 @@ function IconPictureInPictureOff({
     </svg>
   );
 }
-
 export default IconPictureInPictureOff;

@@ -25,5 +25,4 @@ function IconBrandYcombinator({
     </svg>
   );
 }
-
 export default IconBrandYcombinator;

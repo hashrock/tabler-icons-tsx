@@ -30,5 +30,4 @@ function IconHandClick({
     </svg>
   );
 }
-
 export default IconHandClick;

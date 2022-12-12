@@ -25,5 +25,4 @@ function IconBrandSuperhuman({
     </svg>
   );
 }
-
 export default IconBrandSuperhuman;

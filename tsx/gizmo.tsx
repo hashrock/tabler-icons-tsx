@@ -27,5 +27,4 @@ function IconGizmo({
     </svg>
   );
 }
-
 export default IconGizmo;

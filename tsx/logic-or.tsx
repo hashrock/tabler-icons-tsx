@@ -26,5 +26,4 @@ function IconLogicOr({
     </svg>
   );
 }
-
 export default IconLogicOr;

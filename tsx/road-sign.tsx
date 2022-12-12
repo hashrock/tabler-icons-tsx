@@ -25,5 +25,4 @@ function IconRoadSign({
     </svg>
   );
 }
-
 export default IconRoadSign;

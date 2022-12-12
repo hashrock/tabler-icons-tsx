@@ -23,5 +23,4 @@ function IconCloud({
     </svg>
   );
 }
-
 export default IconCloud;

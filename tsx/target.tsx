@@ -25,5 +25,4 @@ function IconTarget({
     </svg>
   );
 }
-
 export default IconTarget;

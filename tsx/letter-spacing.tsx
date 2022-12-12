@@ -27,5 +27,4 @@ function IconLetterSpacing({
     </svg>
   );
 }
-
 export default IconLetterSpacing;

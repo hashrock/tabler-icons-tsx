@@ -24,5 +24,4 @@ function IconFileExport({
     </svg>
   );
 }
-
 export default IconFileExport;

@@ -27,5 +27,4 @@ function IconPresentation({
     </svg>
   );
 }
-
 export default IconPresentation;

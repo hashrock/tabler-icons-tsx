@@ -25,5 +25,4 @@ function IconClockEdit({
     </svg>
   );
 }
-
 export default IconClockEdit;

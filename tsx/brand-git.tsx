@@ -29,5 +29,4 @@ function IconBrandGit({
     </svg>
   );
 }
-
 export default IconBrandGit;

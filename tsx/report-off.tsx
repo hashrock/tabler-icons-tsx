@@ -25,5 +25,4 @@ function IconReportOff({
     </svg>
   );
 }
-
 export default IconReportOff;

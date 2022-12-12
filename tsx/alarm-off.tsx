@@ -27,5 +27,4 @@ function IconAlarmOff({
     </svg>
   );
 }
-
 export default IconAlarmOff;

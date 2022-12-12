@@ -23,5 +23,4 @@ function IconBuildingBridge2({
     </svg>
   );
 }
-
 export default IconBuildingBridge2;

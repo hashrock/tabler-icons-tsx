@@ -24,5 +24,4 @@ function IconBrandMeta({
     </svg>
   );
 }
-
 export default IconBrandMeta;

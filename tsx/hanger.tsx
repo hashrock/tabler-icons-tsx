@@ -23,5 +23,4 @@ function IconHanger({
     </svg>
   );
 }
-
 export default IconHanger;

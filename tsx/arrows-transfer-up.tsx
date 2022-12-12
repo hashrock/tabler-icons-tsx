@@ -28,5 +28,4 @@ function IconArrowsTransferUp({
     </svg>
   );
 }
-
 export default IconArrowsTransferUp;

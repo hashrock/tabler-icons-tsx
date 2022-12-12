@@ -28,5 +28,4 @@ function IconShoppingCartX({
     </svg>
   );
 }
-
 export default IconShoppingCartX;

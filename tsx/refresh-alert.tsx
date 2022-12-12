@@ -26,5 +26,4 @@ function IconRefreshAlert({
     </svg>
   );
 }
-
 export default IconRefreshAlert;

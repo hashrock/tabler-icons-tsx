@@ -27,5 +27,4 @@ function IconBikeOff({
     </svg>
   );
 }
-
 export default IconBikeOff;

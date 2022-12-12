@@ -26,5 +26,4 @@ function IconMoodAnnoyed({
     </svg>
   );
 }
-
 export default IconMoodAnnoyed;

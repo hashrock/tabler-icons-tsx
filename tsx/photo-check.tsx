@@ -27,5 +27,4 @@ function IconPhotoCheck({
     </svg>
   );
 }
-
 export default IconPhotoCheck;

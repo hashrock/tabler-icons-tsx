@@ -23,5 +23,4 @@ function IconCaretUp({
     </svg>
   );
 }
-
 export default IconCaretUp;

@@ -24,5 +24,4 @@ function IconBrandCupra({
     </svg>
   );
 }
-
 export default IconBrandCupra;

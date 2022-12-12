@@ -27,5 +27,4 @@ function IconLanguage({
     </svg>
   );
 }
-
 export default IconLanguage;

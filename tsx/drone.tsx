@@ -31,5 +31,4 @@ function IconDrone({
     </svg>
   );
 }
-
 export default IconDrone;

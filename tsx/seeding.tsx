@@ -25,5 +25,4 @@ function IconSeeding({
     </svg>
   );
 }
-
 export default IconSeeding;

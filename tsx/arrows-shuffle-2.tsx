@@ -26,5 +26,4 @@ function IconArrowsShuffle2({
     </svg>
   );
 }
-
 export default IconArrowsShuffle2;

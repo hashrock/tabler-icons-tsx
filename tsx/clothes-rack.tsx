@@ -26,5 +26,4 @@ function IconClothesRack({
     </svg>
   );
 }
-
 export default IconClothesRack;

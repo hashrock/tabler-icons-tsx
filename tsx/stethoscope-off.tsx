@@ -27,5 +27,4 @@ function IconStethoscopeOff({
     </svg>
   );
 }
-
 export default IconStethoscopeOff;

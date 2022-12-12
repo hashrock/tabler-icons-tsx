@@ -24,5 +24,4 @@ function IconEraser({
     </svg>
   );
 }
-
 export default IconEraser;

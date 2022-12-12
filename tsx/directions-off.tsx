@@ -29,5 +29,4 @@ function IconDirectionsOff({
     </svg>
   );
 }
-
 export default IconDirectionsOff;

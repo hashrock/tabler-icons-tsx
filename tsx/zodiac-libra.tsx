@@ -24,5 +24,4 @@ function IconZodiacLibra({
     </svg>
   );
 }
-
 export default IconZodiacLibra;

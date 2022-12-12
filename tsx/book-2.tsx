@@ -25,5 +25,4 @@ function IconBook2({
     </svg>
   );
 }
-
 export default IconBook2;

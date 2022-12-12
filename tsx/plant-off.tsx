@@ -27,5 +27,4 @@ function IconPlantOff({
     </svg>
   );
 }
-
 export default IconPlantOff;

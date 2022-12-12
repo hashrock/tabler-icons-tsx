@@ -24,5 +24,4 @@ function IconCannabis({
     </svg>
   );
 }
-
 export default IconCannabis;

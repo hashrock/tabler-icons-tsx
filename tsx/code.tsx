@@ -25,5 +25,4 @@ function IconCode({
     </svg>
   );
 }
-
 export default IconCode;

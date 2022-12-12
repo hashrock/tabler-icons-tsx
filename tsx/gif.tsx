@@ -26,5 +26,4 @@ function IconGif({
     </svg>
   );
 }
-
 export default IconGif;

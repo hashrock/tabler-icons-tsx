@@ -27,5 +27,4 @@ function IconCurrencyDirham({
     </svg>
   );
 }
-
 export default IconCurrencyDirham;

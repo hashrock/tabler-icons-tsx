@@ -24,5 +24,4 @@ function IconCandle({
     </svg>
   );
 }
-
 export default IconCandle;

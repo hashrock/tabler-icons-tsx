@@ -26,5 +26,4 @@ function IconMoodSmileBeam({
     </svg>
   );
 }
-
 export default IconMoodSmileBeam;

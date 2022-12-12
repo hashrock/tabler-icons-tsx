@@ -24,5 +24,4 @@ function IconBucket({
     </svg>
   );
 }
-
 export default IconBucket;

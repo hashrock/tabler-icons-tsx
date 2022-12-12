@@ -26,5 +26,4 @@ function IconCloudComputing({
     </svg>
   );
 }
-
 export default IconCloudComputing;

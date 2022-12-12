@@ -23,5 +23,4 @@ function IconMarquee({
     </svg>
   );
 }
-
 export default IconMarquee;

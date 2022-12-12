@@ -26,5 +26,4 @@ function IconTruckDelivery({
     </svg>
   );
 }
-
 export default IconTruckDelivery;

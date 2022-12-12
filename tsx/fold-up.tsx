@@ -27,5 +27,4 @@ function IconFoldUp({
     </svg>
   );
 }
-
 export default IconFoldUp;

@@ -24,5 +24,4 @@ function IconBrandSass({
     </svg>
   );
 }
-
 export default IconBrandSass;

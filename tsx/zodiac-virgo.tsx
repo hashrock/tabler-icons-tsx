@@ -26,5 +26,4 @@ function IconZodiacVirgo({
     </svg>
   );
 }
-
 export default IconZodiacVirgo;

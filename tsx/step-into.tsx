@@ -26,5 +26,4 @@ function IconStepInto({
     </svg>
   );
 }
-
 export default IconStepInto;

@@ -26,5 +26,4 @@ function IconCurrencyForint({
     </svg>
   );
 }
-
 export default IconCurrencyForint;

@@ -25,5 +25,4 @@ function IconUpload({
     </svg>
   );
 }
-
 export default IconUpload;

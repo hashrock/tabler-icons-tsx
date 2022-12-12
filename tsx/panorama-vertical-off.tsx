@@ -24,5 +24,4 @@ function IconPanoramaVerticalOff({
     </svg>
   );
 }
-
 export default IconPanoramaVerticalOff;

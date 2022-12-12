@@ -23,5 +23,4 @@ function IconFlag3({
     </svg>
   );
 }
-
 export default IconFlag3;

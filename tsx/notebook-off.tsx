@@ -25,5 +25,4 @@ function IconNotebookOff({
     </svg>
   );
 }
-
 export default IconNotebookOff;

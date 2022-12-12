@@ -26,5 +26,4 @@ function IconPeace({
     </svg>
   );
 }
-
 export default IconPeace;

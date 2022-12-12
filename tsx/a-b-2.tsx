@@ -27,5 +27,4 @@ function IconAB2({
     </svg>
   );
 }
-
 export default IconAB2;

@@ -25,5 +25,4 @@ function IconBmp({
     </svg>
   );
 }
-
 export default IconBmp;

@@ -25,5 +25,4 @@ function IconDotsVertical({
     </svg>
   );
 }
-
 export default IconDotsVertical;

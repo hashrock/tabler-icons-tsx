@@ -26,5 +26,4 @@ function IconMoodEmpty({
     </svg>
   );
 }
-
 export default IconMoodEmpty;

@@ -23,5 +23,4 @@ function IconBrandTailwind({
     </svg>
   );
 }
-
 export default IconBrandTailwind;

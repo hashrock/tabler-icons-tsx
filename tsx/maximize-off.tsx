@@ -27,5 +27,4 @@ function IconMaximizeOff({
     </svg>
   );
 }
-
 export default IconMaximizeOff;

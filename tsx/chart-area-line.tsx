@@ -24,5 +24,4 @@ function IconChartAreaLine({
     </svg>
   );
 }
-
 export default IconChartAreaLine;

@@ -24,5 +24,4 @@ function IconMathMax({
     </svg>
   );
 }
-
 export default IconMathMax;

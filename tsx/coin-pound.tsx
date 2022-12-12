@@ -25,5 +25,4 @@ function IconCoinPound({
     </svg>
   );
 }
-
 export default IconCoinPound;

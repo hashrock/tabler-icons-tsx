@@ -24,5 +24,4 @@ function IconHourglassEmpty({
     </svg>
   );
 }
-
 export default IconHourglassEmpty;

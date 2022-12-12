@@ -24,5 +24,4 @@ function IconPictureInPicture({
     </svg>
   );
 }
-
 export default IconPictureInPicture;

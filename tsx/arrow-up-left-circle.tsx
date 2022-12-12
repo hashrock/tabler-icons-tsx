@@ -25,5 +25,4 @@ function IconArrowUpLeftCircle({
     </svg>
   );
 }
-
 export default IconArrowUpLeftCircle;

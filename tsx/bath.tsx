@@ -26,5 +26,4 @@ function IconBath({
     </svg>
   );
 }
-
 export default IconBath;

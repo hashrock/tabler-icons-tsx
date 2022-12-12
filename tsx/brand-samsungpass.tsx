@@ -25,5 +25,4 @@ function IconBrandSamsungpass({
     </svg>
   );
 }
-
 export default IconBrandSamsungpass;

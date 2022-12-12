@@ -24,5 +24,4 @@ function IconSignatureOff({
     </svg>
   );
 }
-
 export default IconSignatureOff;

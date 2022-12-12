@@ -25,5 +25,4 @@ function IconUrgent({
     </svg>
   );
 }
-
 export default IconUrgent;

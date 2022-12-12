@@ -27,5 +27,4 @@ function IconCircuitBulb({
     </svg>
   );
 }
-
 export default IconCircuitBulb;

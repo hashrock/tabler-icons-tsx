@@ -26,5 +26,4 @@ function IconGhostOff({
     </svg>
   );
 }
-
 export default IconGhostOff;

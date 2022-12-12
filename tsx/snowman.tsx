@@ -27,5 +27,4 @@ function IconSnowman({
     </svg>
   );
 }
-
 export default IconSnowman;

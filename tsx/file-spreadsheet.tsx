@@ -27,5 +27,4 @@ function IconFileSpreadsheet({
     </svg>
   );
 }
-
 export default IconFileSpreadsheet;

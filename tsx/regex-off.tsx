@@ -30,5 +30,4 @@ function IconRegexOff({
     </svg>
   );
 }
-
 export default IconRegexOff;

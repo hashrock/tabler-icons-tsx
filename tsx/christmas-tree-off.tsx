@@ -25,5 +25,4 @@ function IconChristmasTreeOff({
     </svg>
   );
 }
-
 export default IconChristmasTreeOff;

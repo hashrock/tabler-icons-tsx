@@ -29,5 +29,4 @@ function IconLadderOff({
     </svg>
   );
 }
-
 export default IconLadderOff;

@@ -28,5 +28,4 @@ function IconLogicXnor({
     </svg>
   );
 }
-
 export default IconLogicXnor;

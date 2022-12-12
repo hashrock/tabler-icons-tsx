@@ -26,5 +26,4 @@ function IconCarOff({
     </svg>
   );
 }
-
 export default IconCarOff;

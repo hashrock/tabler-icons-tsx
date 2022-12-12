@@ -31,5 +31,4 @@ function IconTiltShift({
     </svg>
   );
 }
-
 export default IconTiltShift;

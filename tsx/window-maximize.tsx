@@ -26,5 +26,4 @@ function IconWindowMaximize({
     </svg>
   );
 }
-
 export default IconWindowMaximize;

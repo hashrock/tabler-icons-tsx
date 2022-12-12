@@ -31,5 +31,4 @@ function IconAdjustments({
     </svg>
   );
 }
-
 export default IconAdjustments;

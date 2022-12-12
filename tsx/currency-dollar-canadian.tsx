@@ -26,5 +26,4 @@ function IconCurrencyDollarCanadian({
     </svg>
   );
 }
-
 export default IconCurrencyDollarCanadian;

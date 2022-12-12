@@ -23,5 +23,4 @@ function IconCurrencyLeu({
     </svg>
   );
 }
-
 export default IconCurrencyLeu;

@@ -27,5 +27,4 @@ function IconFile3d({
     </svg>
   );
 }
-
 export default IconFile3d;

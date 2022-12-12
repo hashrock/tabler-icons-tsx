@@ -28,5 +28,4 @@ function IconAnchorOff({
     </svg>
   );
 }
-
 export default IconAnchorOff;

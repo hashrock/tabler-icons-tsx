@@ -26,5 +26,4 @@ function IconRouteOff({
     </svg>
   );
 }
-
 export default IconRouteOff;

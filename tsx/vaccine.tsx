@@ -29,5 +29,4 @@ function IconVaccine({
     </svg>
   );
 }
-
 export default IconVaccine;

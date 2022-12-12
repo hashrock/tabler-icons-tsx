@@ -26,5 +26,4 @@ function IconFileLambda({
     </svg>
   );
 }
-
 export default IconFileLambda;

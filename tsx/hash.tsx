@@ -26,5 +26,4 @@ function IconHash({
     </svg>
   );
 }
-
 export default IconHash;

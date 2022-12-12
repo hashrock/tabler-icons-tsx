@@ -24,5 +24,4 @@ function IconBrandInertia({
     </svg>
   );
 }
-
 export default IconBrandInertia;

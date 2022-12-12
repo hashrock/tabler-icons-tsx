@@ -27,5 +27,4 @@ function IconVariableOff({
     </svg>
   );
 }
-
 export default IconVariableOff;

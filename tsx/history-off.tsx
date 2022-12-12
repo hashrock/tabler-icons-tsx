@@ -24,5 +24,4 @@ function IconHistoryOff({
     </svg>
   );
 }
-
 export default IconHistoryOff;

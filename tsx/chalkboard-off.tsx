@@ -25,5 +25,4 @@ function IconChalkboardOff({
     </svg>
   );
 }
-
 export default IconChalkboardOff;

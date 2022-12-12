@@ -25,5 +25,4 @@ function IconMessagesOff({
     </svg>
   );
 }
-
 export default IconMessagesOff;

@@ -34,5 +34,4 @@ function IconAbacusOff({
     </svg>
   );
 }
-
 export default IconAbacusOff;

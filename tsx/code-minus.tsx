@@ -25,5 +25,4 @@ function IconCodeMinus({
     </svg>
   );
 }
-
 export default IconCodeMinus;

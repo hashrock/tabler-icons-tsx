@@ -24,5 +24,4 @@ function IconUnderline({
     </svg>
   );
 }
-
 export default IconUnderline;

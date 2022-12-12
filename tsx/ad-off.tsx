@@ -28,5 +28,4 @@ function IconAdOff({
     </svg>
   );
 }
-
 export default IconAdOff;

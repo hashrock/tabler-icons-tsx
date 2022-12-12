@@ -25,5 +25,4 @@ function IconNurse({
     </svg>
   );
 }
-
 export default IconNurse;

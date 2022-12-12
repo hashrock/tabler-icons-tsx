@@ -29,5 +29,4 @@ function IconLuggageOff({
     </svg>
   );
 }
-
 export default IconLuggageOff;

@@ -24,5 +24,4 @@ function IconSelector({
     </svg>
   );
 }
-
 export default IconSelector;

@@ -24,5 +24,4 @@ function IconPacman({
     </svg>
   );
 }
-
 export default IconPacman;

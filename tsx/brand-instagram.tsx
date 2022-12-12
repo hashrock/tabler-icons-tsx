@@ -25,5 +25,4 @@ function IconBrandInstagram({
     </svg>
   );
 }
-
 export default IconBrandInstagram;

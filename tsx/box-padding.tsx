@@ -31,5 +31,4 @@ function IconBoxPadding({
     </svg>
   );
 }
-
 export default IconBoxPadding;

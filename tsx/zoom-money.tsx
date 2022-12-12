@@ -26,5 +26,4 @@ function IconZoomMoney({
     </svg>
   );
 }
-
 export default IconZoomMoney;

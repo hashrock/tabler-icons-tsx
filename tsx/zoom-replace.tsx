@@ -27,5 +27,4 @@ function IconZoomReplace({
     </svg>
   );
 }
-
 export default IconZoomReplace;

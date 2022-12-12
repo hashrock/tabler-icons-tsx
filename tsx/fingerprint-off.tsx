@@ -28,5 +28,4 @@ function IconFingerprintOff({
     </svg>
   );
 }
-
 export default IconFingerprintOff;

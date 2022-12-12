@@ -39,5 +39,4 @@ function IconBorderLeft({
     </svg>
   );
 }
-
 export default IconBorderLeft;

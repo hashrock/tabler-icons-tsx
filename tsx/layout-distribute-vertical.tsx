@@ -25,5 +25,4 @@ function IconLayoutDistributeVertical({
     </svg>
   );
 }
-
 export default IconLayoutDistributeVertical;

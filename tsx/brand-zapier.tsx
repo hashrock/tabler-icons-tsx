@@ -30,5 +30,4 @@ function IconBrandZapier({
     </svg>
   );
 }
-
 export default IconBrandZapier;

@@ -26,5 +26,4 @@ function IconPalette({
     </svg>
   );
 }
-
 export default IconPalette;

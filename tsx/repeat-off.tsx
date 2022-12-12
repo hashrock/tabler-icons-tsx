@@ -25,5 +25,4 @@ function IconRepeatOff({
     </svg>
   );
 }
-
 export default IconRepeatOff;

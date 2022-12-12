@@ -26,5 +26,4 @@ function IconLayoutKanban({
     </svg>
   );
 }
-
 export default IconLayoutKanban;

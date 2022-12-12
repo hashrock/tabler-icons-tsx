@@ -29,5 +29,4 @@ function IconBrandCodesandbox({
     </svg>
   );
 }
-
 export default IconBrandCodesandbox;

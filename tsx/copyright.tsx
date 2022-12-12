@@ -24,5 +24,4 @@ function IconCopyright({
     </svg>
   );
 }
-
 export default IconCopyright;

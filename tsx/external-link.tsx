@@ -25,5 +25,4 @@ function IconExternalLink({
     </svg>
   );
 }
-
 export default IconExternalLink;

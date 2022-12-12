@@ -24,5 +24,4 @@ function IconLink({
     </svg>
   );
 }
-
 export default IconLink;

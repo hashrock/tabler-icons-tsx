@@ -25,5 +25,4 @@ function IconAtom({
     </svg>
   );
 }
-
 export default IconAtom;

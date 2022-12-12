@@ -28,5 +28,4 @@ function IconMathXPlusX({
     </svg>
   );
 }
-
 export default IconMathXPlusX;

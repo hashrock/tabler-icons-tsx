@@ -26,5 +26,4 @@ function IconBrandCtemplar({
     </svg>
   );
 }
-
 export default IconBrandCtemplar;

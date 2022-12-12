@@ -33,5 +33,4 @@ function IconDeer({
     </svg>
   );
 }
-
 export default IconDeer;

@@ -24,5 +24,4 @@ function IconBrandSnapseed({
     </svg>
   );
 }
-
 export default IconBrandSnapseed;

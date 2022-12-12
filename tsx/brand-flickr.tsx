@@ -24,5 +24,4 @@ function IconBrandFlickr({
     </svg>
   );
 }
-
 export default IconBrandFlickr;

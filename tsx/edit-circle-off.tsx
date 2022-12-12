@@ -26,5 +26,4 @@ function IconEditCircleOff({
     </svg>
   );
 }
-
 export default IconEditCircleOff;

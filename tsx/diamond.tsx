@@ -24,5 +24,4 @@ function IconDiamond({
     </svg>
   );
 }
-
 export default IconDiamond;

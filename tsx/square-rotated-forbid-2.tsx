@@ -24,5 +24,4 @@ function IconSquareRotatedForbid2({
     </svg>
   );
 }
-
 export default IconSquareRotatedForbid2;

@@ -23,5 +23,4 @@ function IconMathNot({
     </svg>
   );
 }
-
 export default IconMathNot;

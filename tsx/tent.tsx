@@ -23,5 +23,4 @@ function IconTent({
     </svg>
   );
 }
-
 export default IconTent;

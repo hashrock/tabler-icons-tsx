@@ -24,5 +24,4 @@ function IconMenu({
     </svg>
   );
 }
-
 export default IconMenu;

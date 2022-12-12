@@ -24,5 +24,4 @@ function IconCurrencyEthereum({
     </svg>
   );
 }
-
 export default IconCurrencyEthereum;

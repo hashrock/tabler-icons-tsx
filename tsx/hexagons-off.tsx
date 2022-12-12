@@ -27,5 +27,4 @@ function IconHexagonsOff({
     </svg>
   );
 }
-
 export default IconHexagonsOff;

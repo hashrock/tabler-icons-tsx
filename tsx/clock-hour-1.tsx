@@ -25,5 +25,4 @@ function IconClockHour1({
     </svg>
   );
 }
-
 export default IconClockHour1;

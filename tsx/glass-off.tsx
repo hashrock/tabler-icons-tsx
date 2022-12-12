@@ -26,5 +26,4 @@ function IconGlassOff({
     </svg>
   );
 }
-
 export default IconGlassOff;

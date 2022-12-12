@@ -24,5 +24,4 @@ function IconRefresh({
     </svg>
   );
 }
-
 export default IconRefresh;

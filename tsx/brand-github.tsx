@@ -23,5 +23,4 @@ function IconBrandGithub({
     </svg>
   );
 }
-
 export default IconBrandGithub;

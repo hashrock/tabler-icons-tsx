@@ -28,5 +28,4 @@ function IconToiletPaperOff({
     </svg>
   );
 }
-
 export default IconToiletPaperOff;

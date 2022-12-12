@@ -29,5 +29,4 @@ function IconFiretruck({
     </svg>
   );
 }
-
 export default IconFiretruck;

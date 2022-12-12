@@ -27,5 +27,4 @@ function IconPhotoOff({
     </svg>
   );
 }
-
 export default IconPhotoOff;

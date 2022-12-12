@@ -26,5 +26,4 @@ function IconBrandSlack({
     </svg>
   );
 }
-
 export default IconBrandSlack;

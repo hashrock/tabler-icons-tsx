@@ -23,5 +23,4 @@ function IconGrowth({
     </svg>
   );
 }
-
 export default IconGrowth;

@@ -24,5 +24,4 @@ function IconLeaf({
     </svg>
   );
 }
-
 export default IconLeaf;

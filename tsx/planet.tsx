@@ -24,5 +24,4 @@ function IconPlanet({
     </svg>
   );
 }
-
 export default IconPlanet;

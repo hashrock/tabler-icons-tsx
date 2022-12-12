@@ -26,5 +26,4 @@ function IconEqualDouble({
     </svg>
   );
 }
-
 export default IconEqualDouble;

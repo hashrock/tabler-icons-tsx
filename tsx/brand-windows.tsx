@@ -25,5 +25,4 @@ function IconBrandWindows({
     </svg>
   );
 }
-
 export default IconBrandWindows;

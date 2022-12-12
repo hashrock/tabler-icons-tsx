@@ -25,5 +25,4 @@ function IconCe({
     </svg>
   );
 }
-
 export default IconCe;

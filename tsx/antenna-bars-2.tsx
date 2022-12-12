@@ -26,5 +26,4 @@ function IconAntennaBars2({
     </svg>
   );
 }
-
 export default IconAntennaBars2;

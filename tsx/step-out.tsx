@@ -26,5 +26,4 @@ function IconStepOut({
     </svg>
   );
 }
-
 export default IconStepOut;

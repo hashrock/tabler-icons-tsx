@@ -23,5 +23,4 @@ function IconOvalVertical({
     </svg>
   );
 }
-
 export default IconOvalVertical;

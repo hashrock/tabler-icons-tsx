@@ -25,5 +25,4 @@ function IconDotsDiagonal({
     </svg>
   );
 }
-
 export default IconDotsDiagonal;

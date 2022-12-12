@@ -26,5 +26,4 @@ function IconMoodConfuzed({
     </svg>
   );
 }
-
 export default IconMoodConfuzed;

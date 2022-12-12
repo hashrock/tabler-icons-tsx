@@ -30,5 +30,4 @@ function IconAugmentedRealityOff({
     </svg>
   );
 }
-
 export default IconAugmentedRealityOff;

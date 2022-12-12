@@ -29,5 +29,4 @@ function IconRobotOff({
     </svg>
   );
 }
-
 export default IconRobotOff;

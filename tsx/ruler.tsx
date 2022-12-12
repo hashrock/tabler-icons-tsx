@@ -29,5 +29,4 @@ function IconRuler({
     </svg>
   );
 }
-
 export default IconRuler;

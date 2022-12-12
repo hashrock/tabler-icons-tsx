@@ -25,5 +25,4 @@ function IconLayoutDistributeHorizontal({
     </svg>
   );
 }
-
 export default IconLayoutDistributeHorizontal;

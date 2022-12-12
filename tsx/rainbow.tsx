@@ -25,5 +25,4 @@ function IconRainbow({
     </svg>
   );
 }
-
 export default IconRainbow;

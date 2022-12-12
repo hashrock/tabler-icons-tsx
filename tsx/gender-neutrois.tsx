@@ -24,5 +24,4 @@ function IconGenderNeutrois({
     </svg>
   );
 }
-
 export default IconGenderNeutrois;

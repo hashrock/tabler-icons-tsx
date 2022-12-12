@@ -24,5 +24,4 @@ function IconShieldCheck({
     </svg>
   );
 }
-
 export default IconShieldCheck;

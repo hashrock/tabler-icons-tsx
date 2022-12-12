@@ -29,5 +29,4 @@ function IconAntennaOff({
     </svg>
   );
 }
-
 export default IconAntennaOff;

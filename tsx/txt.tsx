@@ -28,5 +28,4 @@ function IconTxt({
     </svg>
   );
 }
-
 export default IconTxt;

@@ -26,5 +26,4 @@ function IconBrushOff({
     </svg>
   );
 }
-
 export default IconBrushOff;

@@ -26,5 +26,4 @@ function IconLayoutGridAdd({
     </svg>
   );
 }
-
 export default IconLayoutGridAdd;

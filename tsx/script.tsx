@@ -23,5 +23,4 @@ function IconScript({
     </svg>
   );
 }
-
 export default IconScript;

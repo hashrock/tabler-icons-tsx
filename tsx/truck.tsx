@@ -25,5 +25,4 @@ function IconTruck({
     </svg>
   );
 }
-
 export default IconTruck;

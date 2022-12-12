@@ -27,5 +27,4 @@ function IconFoldDown({
     </svg>
   );
 }
-
 export default IconFoldDown;

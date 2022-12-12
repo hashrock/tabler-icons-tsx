@@ -24,5 +24,4 @@ function IconColorPicker({
     </svg>
   );
 }
-
 export default IconColorPicker;

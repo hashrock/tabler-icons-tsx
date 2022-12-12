@@ -28,5 +28,4 @@ function IconBatteryAutomotive({
     </svg>
   );
 }
-
 export default IconBatteryAutomotive;

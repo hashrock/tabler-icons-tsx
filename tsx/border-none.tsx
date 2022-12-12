@@ -43,5 +43,4 @@ function IconBorderNone({
     </svg>
   );
 }
-
 export default IconBorderNone;

@@ -25,5 +25,4 @@ function IconUserX({
     </svg>
   );
 }
-
 export default IconUserX;

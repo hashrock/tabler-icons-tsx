@@ -28,5 +28,4 @@ function IconBarrelOff({
     </svg>
   );
 }
-
 export default IconBarrelOff;

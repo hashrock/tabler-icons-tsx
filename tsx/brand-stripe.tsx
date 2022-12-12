@@ -23,5 +23,4 @@ function IconBrandStripe({
     </svg>
   );
 }
-
 export default IconBrandStripe;

@@ -24,5 +24,4 @@ function IconQuote({
     </svg>
   );
 }
-
 export default IconQuote;

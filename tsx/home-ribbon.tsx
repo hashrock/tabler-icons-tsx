@@ -25,5 +25,4 @@ function IconHomeRibbon({
     </svg>
   );
 }
-
 export default IconHomeRibbon;

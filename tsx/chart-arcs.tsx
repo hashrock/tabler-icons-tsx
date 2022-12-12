@@ -25,5 +25,4 @@ function IconChartArcs({
     </svg>
   );
 }
-
 export default IconChartArcs;

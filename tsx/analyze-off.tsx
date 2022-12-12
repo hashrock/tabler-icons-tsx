@@ -28,5 +28,4 @@ function IconAnalyzeOff({
     </svg>
   );
 }
-
 export default IconAnalyzeOff;

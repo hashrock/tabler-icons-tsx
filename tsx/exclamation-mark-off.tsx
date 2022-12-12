@@ -25,5 +25,4 @@ function IconExclamationMarkOff({
     </svg>
   );
 }
-
 export default IconExclamationMarkOff;

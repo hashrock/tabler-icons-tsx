@@ -27,5 +27,4 @@ function IconCookieOff({
     </svg>
   );
 }
-
 export default IconCookieOff;

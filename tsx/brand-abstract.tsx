@@ -25,5 +25,4 @@ function IconBrandAbstract({
     </svg>
   );
 }
-
 export default IconBrandAbstract;

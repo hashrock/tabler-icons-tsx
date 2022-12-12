@@ -24,5 +24,4 @@ function IconEar({
     </svg>
   );
 }
-
 export default IconEar;

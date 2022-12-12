@@ -26,5 +26,4 @@ function IconCameraSelfie({
     </svg>
   );
 }
-
 export default IconCameraSelfie;

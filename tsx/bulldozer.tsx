@@ -30,5 +30,4 @@ function IconBulldozer({
     </svg>
   );
 }
-
 export default IconBulldozer;

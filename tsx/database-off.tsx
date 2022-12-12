@@ -26,5 +26,4 @@ function IconDatabaseOff({
     </svg>
   );
 }
-
 export default IconDatabaseOff;

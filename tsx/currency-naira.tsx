@@ -25,5 +25,4 @@ function IconCurrencyNaira({
     </svg>
   );
 }
-
 export default IconCurrencyNaira;

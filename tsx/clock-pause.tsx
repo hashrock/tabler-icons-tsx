@@ -26,5 +26,4 @@ function IconClockPause({
     </svg>
   );
 }
-
 export default IconClockPause;

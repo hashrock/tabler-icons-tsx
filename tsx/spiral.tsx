@@ -23,5 +23,4 @@ function IconSpiral({
     </svg>
   );
 }
-
 export default IconSpiral;

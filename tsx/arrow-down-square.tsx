@@ -25,5 +25,4 @@ function IconArrowDownSquare({
     </svg>
   );
 }
-
 export default IconArrowDownSquare;

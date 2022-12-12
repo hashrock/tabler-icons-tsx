@@ -28,5 +28,4 @@ function IconLineHeight({
     </svg>
   );
 }
-
 export default IconLineHeight;

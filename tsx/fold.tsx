@@ -28,5 +28,4 @@ function IconFold({
     </svg>
   );
 }
-
 export default IconFold;

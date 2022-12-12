@@ -27,5 +27,4 @@ function IconDeviceAnalytics({
     </svg>
   );
 }
-
 export default IconDeviceAnalytics;

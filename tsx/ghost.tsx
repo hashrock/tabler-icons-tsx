@@ -26,5 +26,4 @@ function IconGhost({
     </svg>
   );
 }
-
 export default IconGhost;

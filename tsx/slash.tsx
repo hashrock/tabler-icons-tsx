@@ -23,5 +23,4 @@ function IconSlash({
     </svg>
   );
 }
-
 export default IconSlash;

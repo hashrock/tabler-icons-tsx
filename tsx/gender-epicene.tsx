@@ -26,5 +26,4 @@ function IconGenderEpicene({
     </svg>
   );
 }
-
 export default IconGenderEpicene;

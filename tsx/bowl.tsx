@@ -23,5 +23,4 @@ function IconBowl({
     </svg>
   );
 }
-
 export default IconBowl;

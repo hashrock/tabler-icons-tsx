@@ -25,5 +25,4 @@ function IconPaint({
     </svg>
   );
 }
-
 export default IconPaint;

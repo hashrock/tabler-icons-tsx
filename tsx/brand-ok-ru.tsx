@@ -27,5 +27,4 @@ function IconBrandOkRu({
     </svg>
   );
 }
-
 export default IconBrandOkRu;

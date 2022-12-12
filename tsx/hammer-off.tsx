@@ -25,5 +25,4 @@ function IconHammerOff({
     </svg>
   );
 }
-
 export default IconHammerOff;

@@ -24,5 +24,4 @@ function IconDropletHalf({
     </svg>
   );
 }
-
 export default IconDropletHalf;

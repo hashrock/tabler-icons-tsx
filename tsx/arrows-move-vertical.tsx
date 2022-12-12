@@ -26,5 +26,4 @@ function IconArrowsMoveVertical({
     </svg>
   );
 }
-
 export default IconArrowsMoveVertical;

@@ -24,5 +24,4 @@ function IconNumber9({
     </svg>
   );
 }
-
 export default IconNumber9;

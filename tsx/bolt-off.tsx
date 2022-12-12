@@ -24,5 +24,4 @@ function IconBoltOff({
     </svg>
   );
 }
-
 export default IconBoltOff;

@@ -34,5 +34,4 @@ function IconQrcode({
     </svg>
   );
 }
-
 export default IconQrcode;

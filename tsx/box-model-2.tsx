@@ -24,5 +24,4 @@ function IconBoxModel2({
     </svg>
   );
 }
-
 export default IconBoxModel2;

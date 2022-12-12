@@ -26,5 +26,4 @@ function IconHomeOff({
     </svg>
   );
 }
-
 export default IconHomeOff;

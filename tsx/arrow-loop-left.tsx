@@ -24,5 +24,4 @@ function IconArrowLoopLeft({
     </svg>
   );
 }
-
 export default IconArrowLoopLeft;

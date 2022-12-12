@@ -24,5 +24,4 @@ function IconCamera({
     </svg>
   );
 }
-
 export default IconCamera;

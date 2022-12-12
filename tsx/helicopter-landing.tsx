@@ -26,5 +26,4 @@ function IconHelicopterLanding({
     </svg>
   );
 }
-
 export default IconHelicopterLanding;

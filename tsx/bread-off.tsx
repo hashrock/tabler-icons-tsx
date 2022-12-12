@@ -24,5 +24,4 @@ function IconBreadOff({
     </svg>
   );
 }
-
 export default IconBreadOff;

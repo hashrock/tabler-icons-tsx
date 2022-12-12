@@ -23,5 +23,4 @@ function IconBrandCodecov({
     </svg>
   );
 }
-
 export default IconBrandCodecov;

@@ -24,5 +24,4 @@ function IconInnerShadowRight({
     </svg>
   );
 }
-
 export default IconInnerShadowRight;

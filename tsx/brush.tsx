@@ -26,5 +26,4 @@ function IconBrush({
     </svg>
   );
 }
-
 export default IconBrush;

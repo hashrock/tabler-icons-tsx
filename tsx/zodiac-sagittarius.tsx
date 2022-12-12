@@ -25,5 +25,4 @@ function IconZodiacSagittarius({
     </svg>
   );
 }
-
 export default IconZodiacSagittarius;

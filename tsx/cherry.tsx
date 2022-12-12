@@ -27,5 +27,4 @@ function IconCherry({
     </svg>
   );
 }
-
 export default IconCherry;

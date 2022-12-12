@@ -29,5 +29,4 @@ function IconScanEye({
     </svg>
   );
 }
-
 export default IconScanEye;

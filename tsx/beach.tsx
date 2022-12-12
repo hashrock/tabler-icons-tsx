@@ -27,5 +27,4 @@ function IconBeach({
     </svg>
   );
 }
-
 export default IconBeach;

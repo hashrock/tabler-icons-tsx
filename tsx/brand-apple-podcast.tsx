@@ -25,5 +25,4 @@ function IconBrandApplePodcast({
     </svg>
   );
 }
-
 export default IconBrandApplePodcast;

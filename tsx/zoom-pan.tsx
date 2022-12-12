@@ -28,5 +28,4 @@ function IconZoomPan({
     </svg>
   );
 }
-
 export default IconZoomPan;

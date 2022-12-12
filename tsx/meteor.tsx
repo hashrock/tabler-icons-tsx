@@ -24,5 +24,4 @@ function IconMeteor({
     </svg>
   );
 }
-
 export default IconMeteor;

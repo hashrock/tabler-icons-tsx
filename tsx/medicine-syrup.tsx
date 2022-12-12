@@ -26,5 +26,4 @@ function IconMedicineSyrup({
     </svg>
   );
 }
-
 export default IconMedicineSyrup;

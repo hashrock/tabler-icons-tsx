@@ -28,5 +28,4 @@ function IconAperture({
     </svg>
   );
 }
-
 export default IconAperture;

@@ -24,5 +24,4 @@ function IconScubaMask({
     </svg>
   );
 }
-
 export default IconScubaMask;

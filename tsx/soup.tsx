@@ -26,5 +26,4 @@ function IconSoup({
     </svg>
   );
 }
-
 export default IconSoup;

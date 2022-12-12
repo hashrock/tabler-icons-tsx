@@ -25,5 +25,4 @@ function IconDropletOff({
     </svg>
   );
 }
-
 export default IconDropletOff;

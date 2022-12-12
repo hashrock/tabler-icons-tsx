@@ -27,5 +27,4 @@ function IconFaceMask({
     </svg>
   );
 }
-
 export default IconFaceMask;

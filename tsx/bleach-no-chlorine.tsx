@@ -25,5 +25,4 @@ function IconBleachNoChlorine({
     </svg>
   );
 }
-
 export default IconBleachNoChlorine;

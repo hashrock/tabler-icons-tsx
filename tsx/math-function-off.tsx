@@ -27,5 +27,4 @@ function IconMathFunctionOff({
     </svg>
   );
 }
-
 export default IconMathFunctionOff;

@@ -27,5 +27,4 @@ function IconWindmillOff({
     </svg>
   );
 }
-
 export default IconWindmillOff;

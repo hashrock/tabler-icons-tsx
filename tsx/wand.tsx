@@ -26,5 +26,4 @@ function IconWand({
     </svg>
   );
 }
-
 export default IconWand;

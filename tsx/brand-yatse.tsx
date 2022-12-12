@@ -23,5 +23,4 @@ function IconBrandYatse({
     </svg>
   );
 }
-
 export default IconBrandYatse;

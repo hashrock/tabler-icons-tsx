@@ -23,5 +23,4 @@ function IconAlpha({
     </svg>
   );
 }
-
 export default IconAlpha;

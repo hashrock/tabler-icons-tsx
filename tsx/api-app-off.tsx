@@ -27,5 +27,4 @@ function IconApiAppOff({
     </svg>
   );
 }
-
 export default IconApiAppOff;

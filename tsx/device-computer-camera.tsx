@@ -25,5 +25,4 @@ function IconDeviceComputerCamera({
     </svg>
   );
 }
-
 export default IconDeviceComputerCamera;

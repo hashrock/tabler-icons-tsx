@@ -24,5 +24,4 @@ function IconPlaystationCircle({
     </svg>
   );
 }
-
 export default IconPlaystationCircle;

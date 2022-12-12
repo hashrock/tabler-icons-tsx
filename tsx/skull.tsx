@@ -27,5 +27,4 @@ function IconSkull({
     </svg>
   );
 }
-
 export default IconSkull;

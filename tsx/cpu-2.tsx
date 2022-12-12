@@ -32,5 +32,4 @@ function IconCpu2({
     </svg>
   );
 }
-
 export default IconCpu2;

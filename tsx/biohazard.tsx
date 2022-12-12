@@ -24,5 +24,4 @@ function IconBiohazard({
     </svg>
   );
 }
-
 export default IconBiohazard;

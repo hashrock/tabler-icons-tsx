@@ -25,5 +25,4 @@ function IconView360({
     </svg>
   );
 }
-
 export default IconView360;

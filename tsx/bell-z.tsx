@@ -25,5 +25,4 @@ function IconBellZ({
     </svg>
   );
 }
-
 export default IconBellZ;

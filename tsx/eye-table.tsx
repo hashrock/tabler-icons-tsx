@@ -31,5 +31,4 @@ function IconEyeTable({
     </svg>
   );
 }
-
 export default IconEyeTable;

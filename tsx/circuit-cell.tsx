@@ -26,5 +26,4 @@ function IconCircuitCell({
     </svg>
   );
 }
-
 export default IconCircuitCell;

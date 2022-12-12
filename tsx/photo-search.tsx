@@ -27,5 +27,4 @@ function IconPhotoSearch({
     </svg>
   );
 }
-
 export default IconPhotoSearch;

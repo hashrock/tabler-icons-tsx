@@ -27,5 +27,4 @@ function IconFountain({
     </svg>
   );
 }
-
 export default IconFountain;

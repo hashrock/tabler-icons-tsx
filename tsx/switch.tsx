@@ -27,5 +27,4 @@ function IconSwitch({
     </svg>
   );
 }
-
 export default IconSwitch;

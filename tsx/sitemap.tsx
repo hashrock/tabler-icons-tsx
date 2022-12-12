@@ -27,5 +27,4 @@ function IconSitemap({
     </svg>
   );
 }
-
 export default IconSitemap;

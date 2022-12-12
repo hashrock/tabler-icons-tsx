@@ -24,5 +24,4 @@ function IconSquareLetterV({
     </svg>
   );
 }
-
 export default IconSquareLetterV;

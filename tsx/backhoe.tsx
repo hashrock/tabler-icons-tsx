@@ -30,5 +30,4 @@ function IconBackhoe({
     </svg>
   );
 }
-
 export default IconBackhoe;

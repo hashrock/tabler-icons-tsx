@@ -25,5 +25,4 @@ function IconBrandNextcloud({
     </svg>
   );
 }
-
 export default IconBrandNextcloud;

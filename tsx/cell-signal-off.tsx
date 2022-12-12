@@ -24,5 +24,4 @@ function IconCellSignalOff({
     </svg>
   );
 }
-
 export default IconCellSignalOff;

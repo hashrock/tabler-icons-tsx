@@ -25,5 +25,4 @@ function IconWashTumbleOff({
     </svg>
   );
 }
-
 export default IconWashTumbleOff;

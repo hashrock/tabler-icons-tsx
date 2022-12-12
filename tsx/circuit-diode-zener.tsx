@@ -26,5 +26,4 @@ function IconCircuitDiodeZener({
     </svg>
   );
 }
-
 export default IconCircuitDiodeZener;

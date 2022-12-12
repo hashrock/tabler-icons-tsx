@@ -28,5 +28,4 @@ function IconBlade({
     </svg>
   );
 }
-
 export default IconBlade;

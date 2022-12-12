@@ -24,5 +24,4 @@ function IconBrandNuxt({
     </svg>
   );
 }
-
 export default IconBrandNuxt;

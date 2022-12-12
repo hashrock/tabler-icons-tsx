@@ -26,5 +26,4 @@ function IconCurrencyYenOff({
     </svg>
   );
 }
-
 export default IconCurrencyYenOff;

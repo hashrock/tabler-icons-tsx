@@ -24,5 +24,4 @@ function IconWash({
     </svg>
   );
 }
-
 export default IconWash;

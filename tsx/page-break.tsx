@@ -26,5 +26,4 @@ function IconPageBreak({
     </svg>
   );
 }
-
 export default IconPageBreak;

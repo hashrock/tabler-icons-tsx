@@ -28,5 +28,4 @@ function IconRouterOff({
     </svg>
   );
 }
-
 export default IconRouterOff;

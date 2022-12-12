@@ -24,5 +24,4 @@ function IconToggleLeft({
     </svg>
   );
 }
-
 export default IconToggleLeft;

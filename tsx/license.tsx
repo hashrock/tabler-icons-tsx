@@ -25,5 +25,4 @@ function IconLicense({
     </svg>
   );
 }
-
 export default IconLicense;

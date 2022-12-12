@@ -24,5 +24,4 @@ function IconBrandHtml5({
     </svg>
   );
 }
-
 export default IconBrandHtml5;

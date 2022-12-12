@@ -25,5 +25,4 @@ function IconSquaresDiagonal({
     </svg>
   );
 }
-
 export default IconSquaresDiagonal;

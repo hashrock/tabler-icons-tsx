@@ -28,5 +28,4 @@ function IconPhotoUp({
     </svg>
   );
 }
-
 export default IconPhotoUp;

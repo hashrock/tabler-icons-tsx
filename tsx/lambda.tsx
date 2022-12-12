@@ -24,5 +24,4 @@ function IconLambda({
     </svg>
   );
 }
-
 export default IconLambda;

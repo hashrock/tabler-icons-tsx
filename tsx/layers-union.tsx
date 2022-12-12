@@ -23,5 +23,4 @@ function IconLayersUnion({
     </svg>
   );
 }
-
 export default IconLayersUnion;

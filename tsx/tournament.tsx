@@ -26,5 +26,4 @@ function IconTournament({
     </svg>
   );
 }
-
 export default IconTournament;

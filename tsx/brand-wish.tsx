@@ -24,5 +24,4 @@ function IconBrandWish({
     </svg>
   );
 }
-
 export default IconBrandWish;

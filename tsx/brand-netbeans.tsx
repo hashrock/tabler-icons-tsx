@@ -29,5 +29,4 @@ function IconBrandNetbeans({
     </svg>
   );
 }
-
 export default IconBrandNetbeans;

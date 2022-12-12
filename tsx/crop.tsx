@@ -24,5 +24,4 @@ function IconCrop({
     </svg>
   );
 }
-
 export default IconCrop;

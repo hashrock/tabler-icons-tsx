@@ -26,5 +26,4 @@ function IconLego({
     </svg>
   );
 }
-
 export default IconLego;

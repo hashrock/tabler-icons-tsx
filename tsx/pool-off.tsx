@@ -29,5 +29,4 @@ function IconPoolOff({
     </svg>
   );
 }
-
 export default IconPoolOff;

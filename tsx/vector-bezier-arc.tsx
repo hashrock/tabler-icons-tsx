@@ -29,5 +29,4 @@ function IconVectorBezierArc({
     </svg>
   );
 }
-
 export default IconVectorBezierArc;

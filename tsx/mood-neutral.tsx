@@ -25,5 +25,4 @@ function IconMoodNeutral({
     </svg>
   );
 }
-
 export default IconMoodNeutral;

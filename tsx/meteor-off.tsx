@@ -25,5 +25,4 @@ function IconMeteorOff({
     </svg>
   );
 }
-
 export default IconMeteorOff;

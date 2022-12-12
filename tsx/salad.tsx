@@ -27,5 +27,4 @@ function IconSalad({
     </svg>
   );
 }
-
 export default IconSalad;

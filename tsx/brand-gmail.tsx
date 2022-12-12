@@ -26,5 +26,4 @@ function IconBrandGmail({
     </svg>
   );
 }
-
 export default IconBrandGmail;

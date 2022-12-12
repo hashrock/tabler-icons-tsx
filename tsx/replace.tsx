@@ -26,5 +26,4 @@ function IconReplace({
     </svg>
   );
 }
-
 export default IconReplace;

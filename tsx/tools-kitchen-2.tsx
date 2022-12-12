@@ -23,5 +23,4 @@ function IconToolsKitchen2({
     </svg>
   );
 }
-
 export default IconToolsKitchen2;

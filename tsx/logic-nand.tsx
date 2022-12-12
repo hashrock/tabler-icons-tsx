@@ -27,5 +27,4 @@ function IconLogicNand({
     </svg>
   );
 }
-
 export default IconLogicNand;

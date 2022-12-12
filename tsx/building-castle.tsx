@@ -24,5 +24,4 @@ function IconBuildingCastle({
     </svg>
   );
 }
-
 export default IconBuildingCastle;

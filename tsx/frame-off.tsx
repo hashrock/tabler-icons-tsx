@@ -27,5 +27,4 @@ function IconFrameOff({
     </svg>
   );
 }
-
 export default IconFrameOff;

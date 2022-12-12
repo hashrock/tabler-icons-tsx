@@ -25,5 +25,4 @@ function IconCircleNumber4({
     </svg>
   );
 }
-
 export default IconCircleNumber4;

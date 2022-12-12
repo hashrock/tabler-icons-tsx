@@ -26,5 +26,4 @@ function IconPlant({
     </svg>
   );
 }
-
 export default IconPlant;

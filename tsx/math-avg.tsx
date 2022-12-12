@@ -24,5 +24,4 @@ function IconMathAvg({
     </svg>
   );
 }
-
 export default IconMathAvg;

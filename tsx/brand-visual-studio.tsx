@@ -23,5 +23,4 @@ function IconBrandVisualStudio({
     </svg>
   );
 }
-
 export default IconBrandVisualStudio;

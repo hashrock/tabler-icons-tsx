@@ -26,5 +26,4 @@ function IconBandageOff({
     </svg>
   );
 }
-
 export default IconBandageOff;

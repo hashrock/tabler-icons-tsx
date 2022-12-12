@@ -34,5 +34,4 @@ function IconAdjustmentsOff({
     </svg>
   );
 }
-
 export default IconAdjustmentsOff;

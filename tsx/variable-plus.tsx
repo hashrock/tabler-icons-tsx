@@ -26,5 +26,4 @@ function IconVariablePlus({
     </svg>
   );
 }
-
 export default IconVariablePlus;

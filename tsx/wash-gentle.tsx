@@ -26,5 +26,4 @@ function IconWashGentle({
     </svg>
   );
 }
-
 export default IconWashGentle;

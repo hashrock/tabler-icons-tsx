@@ -27,5 +27,4 @@ function IconBarrel({
     </svg>
   );
 }
-
 export default IconBarrel;

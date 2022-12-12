@@ -24,5 +24,4 @@ function IconAnkh({
     </svg>
   );
 }
-
 export default IconAnkh;

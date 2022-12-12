@@ -23,5 +23,4 @@ function IconBrandBandcamp({
     </svg>
   );
 }
-
 export default IconBrandBandcamp;

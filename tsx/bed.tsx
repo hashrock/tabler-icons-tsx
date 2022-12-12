@@ -24,5 +24,4 @@ function IconBed({
     </svg>
   );
 }
-
 export default IconBed;

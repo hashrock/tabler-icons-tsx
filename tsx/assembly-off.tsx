@@ -25,5 +25,4 @@ function IconAssemblyOff({
     </svg>
   );
 }
-
 export default IconAssemblyOff;

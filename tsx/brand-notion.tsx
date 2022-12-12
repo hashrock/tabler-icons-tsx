@@ -28,5 +28,4 @@ function IconBrandNotion({
     </svg>
   );
 }
-
 export default IconBrandNotion;

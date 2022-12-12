@@ -24,5 +24,4 @@ function IconStarOff({
     </svg>
   );
 }
-
 export default IconStarOff;

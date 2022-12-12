@@ -27,5 +27,4 @@ function Icon2fa({
     </svg>
   );
 }
-
 export default Icon2fa;

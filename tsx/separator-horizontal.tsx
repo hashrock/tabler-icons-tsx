@@ -25,5 +25,4 @@ function IconSeparatorHorizontal({
     </svg>
   );
 }
-
 export default IconSeparatorHorizontal;

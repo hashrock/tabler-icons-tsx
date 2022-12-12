@@ -24,5 +24,4 @@ function IconLayoutAlignBottom({
     </svg>
   );
 }
-
 export default IconLayoutAlignBottom;

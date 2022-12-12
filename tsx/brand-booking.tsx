@@ -25,5 +25,4 @@ function IconBrandBooking({
     </svg>
   );
 }
-
 export default IconBrandBooking;

@@ -26,5 +26,4 @@ function IconFileInfo({
     </svg>
   );
 }
-
 export default IconFileInfo;

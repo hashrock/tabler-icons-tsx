@@ -25,5 +25,4 @@ function IconPercentage({
     </svg>
   );
 }
-
 export default IconPercentage;

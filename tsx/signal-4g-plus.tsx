@@ -27,5 +27,4 @@ function IconSignal4gPlus({
     </svg>
   );
 }
-
 export default IconSignal4gPlus;

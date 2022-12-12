@@ -27,5 +27,4 @@ function IconSitemapOff({
     </svg>
   );
 }
-
 export default IconSitemapOff;

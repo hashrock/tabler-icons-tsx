@@ -24,5 +24,4 @@ function IconSumOff({
     </svg>
   );
 }
-
 export default IconSumOff;

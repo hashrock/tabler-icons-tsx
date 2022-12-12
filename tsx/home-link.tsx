@@ -28,5 +28,4 @@ function IconHomeLink({
     </svg>
   );
 }
-
 export default IconHomeLink;

@@ -32,5 +32,4 @@ function IconBarrierBlock({
     </svg>
   );
 }
-
 export default IconBarrierBlock;

@@ -25,5 +25,4 @@ function IconBrandAsana({
     </svg>
   );
 }
-
 export default IconBrandAsana;

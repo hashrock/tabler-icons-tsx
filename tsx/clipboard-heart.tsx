@@ -25,5 +25,4 @@ function IconClipboardHeart({
     </svg>
   );
 }
-
 export default IconClipboardHeart;

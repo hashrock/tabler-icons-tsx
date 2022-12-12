@@ -28,5 +28,4 @@ function IconTextPlus({
     </svg>
   );
 }
-
 export default IconTextPlus;

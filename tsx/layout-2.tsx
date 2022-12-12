@@ -26,5 +26,4 @@ function IconLayout2({
     </svg>
   );
 }
-
 export default IconLayout2;

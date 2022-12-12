@@ -26,5 +26,4 @@ function IconHomeMove({
     </svg>
   );
 }
-
 export default IconHomeMove;

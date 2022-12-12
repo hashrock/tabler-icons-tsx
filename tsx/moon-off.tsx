@@ -24,5 +24,4 @@ function IconMoonOff({
     </svg>
   );
 }
-
 export default IconMoonOff;

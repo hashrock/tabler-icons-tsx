@@ -27,5 +27,4 @@ function IconMoodCry({
     </svg>
   );
 }
-
 export default IconMoodCry;

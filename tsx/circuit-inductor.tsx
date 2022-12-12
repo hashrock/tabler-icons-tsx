@@ -23,5 +23,4 @@ function IconCircuitInductor({
     </svg>
   );
 }
-
 export default IconCircuitInductor;

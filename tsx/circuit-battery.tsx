@@ -28,5 +28,4 @@ function IconCircuitBattery({
     </svg>
   );
 }
-
 export default IconCircuitBattery;

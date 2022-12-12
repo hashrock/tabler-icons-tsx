@@ -25,5 +25,4 @@ function IconDeviceMobileMessage({
     </svg>
   );
 }
-
 export default IconDeviceMobileMessage;

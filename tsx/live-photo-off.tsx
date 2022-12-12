@@ -39,5 +39,4 @@ function IconLivePhotoOff({
     </svg>
   );
 }
-
 export default IconLivePhotoOff;

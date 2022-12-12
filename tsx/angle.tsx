@@ -27,5 +27,4 @@ function IconAngle({
     </svg>
   );
 }
-
 export default IconAngle;

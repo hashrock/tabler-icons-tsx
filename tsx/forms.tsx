@@ -28,5 +28,4 @@ function IconForms({
     </svg>
   );
 }
-
 export default IconForms;

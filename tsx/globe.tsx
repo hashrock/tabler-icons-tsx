@@ -26,5 +26,4 @@ function IconGlobe({
     </svg>
   );
 }
-
 export default IconGlobe;

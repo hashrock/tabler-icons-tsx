@@ -28,5 +28,4 @@ function IconBallAmericanFootballOff({
     </svg>
   );
 }
-
 export default IconBallAmericanFootballOff;

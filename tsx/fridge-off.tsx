@@ -26,5 +26,4 @@ function IconFridgeOff({
     </svg>
   );
 }
-
 export default IconFridgeOff;

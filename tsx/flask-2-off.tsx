@@ -26,5 +26,4 @@ function IconFlask2Off({
     </svg>
   );
 }
-
 export default IconFlask2Off;

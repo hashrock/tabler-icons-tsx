@@ -25,5 +25,4 @@ function IconCurrencyRiyal({
     </svg>
   );
 }
-
 export default IconCurrencyRiyal;

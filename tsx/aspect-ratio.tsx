@@ -25,5 +25,4 @@ function IconAspectRatio({
     </svg>
   );
 }
-
 export default IconAspectRatio;

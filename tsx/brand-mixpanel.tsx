@@ -25,5 +25,4 @@ function IconBrandMixpanel({
     </svg>
   );
 }
-
 export default IconBrandMixpanel;

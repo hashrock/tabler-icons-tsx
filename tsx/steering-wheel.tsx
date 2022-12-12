@@ -27,5 +27,4 @@ function IconSteeringWheel({
     </svg>
   );
 }
-
 export default IconSteeringWheel;

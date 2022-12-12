@@ -25,5 +25,4 @@ function IconWindow({
     </svg>
   );
 }
-
 export default IconWindow;

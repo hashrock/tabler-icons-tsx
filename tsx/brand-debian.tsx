@@ -24,5 +24,4 @@ function IconBrandDebian({
     </svg>
   );
 }
-
 export default IconBrandDebian;

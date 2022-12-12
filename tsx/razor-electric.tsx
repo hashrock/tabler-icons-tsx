@@ -28,5 +28,4 @@ function IconRazorElectric({
     </svg>
   );
 }
-
 export default IconRazorElectric;

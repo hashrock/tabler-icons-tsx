@@ -24,5 +24,4 @@ function IconLetterR({
     </svg>
   );
 }
-
 export default IconLetterR;

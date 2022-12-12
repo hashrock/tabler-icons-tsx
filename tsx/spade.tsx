@@ -23,5 +23,4 @@ function IconSpade({
     </svg>
   );
 }
-
 export default IconSpade;

@@ -27,5 +27,4 @@ function IconAnalyze({
     </svg>
   );
 }
-
 export default IconAnalyze;

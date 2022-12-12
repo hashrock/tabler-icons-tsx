@@ -27,5 +27,4 @@ function IconFileStack({
     </svg>
   );
 }
-
 export default IconFileStack;

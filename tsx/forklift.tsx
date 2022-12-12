@@ -30,5 +30,4 @@ function IconForklift({
     </svg>
   );
 }
-
 export default IconForklift;

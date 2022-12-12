@@ -27,5 +27,4 @@ function IconBracketsContain({
     </svg>
   );
 }
-
 export default IconBracketsContain;

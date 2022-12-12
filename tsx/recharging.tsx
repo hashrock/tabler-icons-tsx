@@ -32,5 +32,4 @@ function IconRecharging({
     </svg>
   );
 }
-
 export default IconRecharging;

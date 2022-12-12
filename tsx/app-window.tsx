@@ -25,5 +25,4 @@ function IconAppWindow({
     </svg>
   );
 }
-
 export default IconAppWindow;

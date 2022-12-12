@@ -31,5 +31,4 @@ function IconDragDrop({
     </svg>
   );
 }
-
 export default IconDragDrop;

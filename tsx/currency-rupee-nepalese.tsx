@@ -24,5 +24,4 @@ function IconCurrencyRupeeNepalese({
     </svg>
   );
 }
-
 export default IconCurrencyRupeeNepalese;

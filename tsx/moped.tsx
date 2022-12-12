@@ -25,5 +25,4 @@ function IconMoped({
     </svg>
   );
 }
-
 export default IconMoped;

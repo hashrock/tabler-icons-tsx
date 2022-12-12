@@ -25,5 +25,4 @@ function IconBrowser({
     </svg>
   );
 }
-
 export default IconBrowser;

@@ -26,5 +26,4 @@ function IconAwardOff({
     </svg>
   );
 }
-
 export default IconAwardOff;

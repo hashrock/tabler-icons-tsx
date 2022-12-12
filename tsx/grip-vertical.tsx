@@ -28,5 +28,4 @@ function IconGripVertical({
     </svg>
   );
 }
-
 export default IconGripVertical;

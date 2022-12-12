@@ -25,5 +25,4 @@ function IconInboxOff({
     </svg>
   );
 }
-
 export default IconInboxOff;

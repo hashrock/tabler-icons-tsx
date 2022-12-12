@@ -23,5 +23,4 @@ function IconBrandEmber({
     </svg>
   );
 }
-
 export default IconBrandEmber;

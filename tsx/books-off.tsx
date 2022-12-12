@@ -33,5 +33,4 @@ function IconBooksOff({
     </svg>
   );
 }
-
 export default IconBooksOff;

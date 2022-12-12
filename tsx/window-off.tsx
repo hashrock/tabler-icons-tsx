@@ -26,5 +26,4 @@ function IconWindowOff({
     </svg>
   );
 }
-
 export default IconWindowOff;

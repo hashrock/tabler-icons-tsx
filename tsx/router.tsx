@@ -28,5 +28,4 @@ function IconRouter({
     </svg>
   );
 }
-
 export default IconRouter;

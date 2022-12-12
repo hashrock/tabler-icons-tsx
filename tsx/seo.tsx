@@ -26,5 +26,4 @@ function IconSeo({
     </svg>
   );
 }
-
 export default IconSeo;

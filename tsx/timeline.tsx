@@ -27,5 +27,4 @@ function IconTimeline({
     </svg>
   );
 }
-
 export default IconTimeline;

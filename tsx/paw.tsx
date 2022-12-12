@@ -27,5 +27,4 @@ function IconPaw({
     </svg>
   );
 }
-
 export default IconPaw;

@@ -26,5 +26,4 @@ function IconShoe({
     </svg>
   );
 }
-
 export default IconShoe;

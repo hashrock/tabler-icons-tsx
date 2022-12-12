@@ -26,5 +26,4 @@ function IconFish({
     </svg>
   );
 }
-
 export default IconFish;

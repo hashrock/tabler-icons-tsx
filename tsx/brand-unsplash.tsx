@@ -23,5 +23,4 @@ function IconBrandUnsplash({
     </svg>
   );
 }
-
 export default IconBrandUnsplash;

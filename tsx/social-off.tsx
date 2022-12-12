@@ -30,5 +30,4 @@ function IconSocialOff({
     </svg>
   );
 }
-
 export default IconSocialOff;

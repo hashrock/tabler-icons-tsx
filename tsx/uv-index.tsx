@@ -26,5 +26,4 @@ function IconUvIndex({
     </svg>
   );
 }
-
 export default IconUvIndex;

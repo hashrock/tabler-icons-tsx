@@ -25,5 +25,4 @@ function IconBrandBootstrap({
     </svg>
   );
 }
-
 export default IconBrandBootstrap;

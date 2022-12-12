@@ -26,5 +26,4 @@ function IconCurrencyBahraini({
     </svg>
   );
 }
-
 export default IconCurrencyBahraini;

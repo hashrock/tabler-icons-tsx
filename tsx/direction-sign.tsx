@@ -25,5 +25,4 @@ function IconDirectionSign({
     </svg>
   );
 }
-
 export default IconDirectionSign;

@@ -27,5 +27,4 @@ function IconCrutches({
     </svg>
   );
 }
-
 export default IconCrutches;

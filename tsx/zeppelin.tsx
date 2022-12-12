@@ -24,5 +24,4 @@ function IconZeppelin({
     </svg>
   );
 }
-
 export default IconZeppelin;

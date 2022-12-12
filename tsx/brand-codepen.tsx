@@ -28,5 +28,4 @@ function IconBrandCodepen({
     </svg>
   );
 }
-
 export default IconBrandCodepen;

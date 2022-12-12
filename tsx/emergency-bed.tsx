@@ -29,5 +29,4 @@ function IconEmergencyBed({
     </svg>
   );
 }
-
 export default IconEmergencyBed;

@@ -27,5 +27,4 @@ function IconLungsOff({
     </svg>
   );
 }
-
 export default IconLungsOff;

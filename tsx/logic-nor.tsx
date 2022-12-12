@@ -27,5 +27,4 @@ function IconLogicNor({
     </svg>
   );
 }
-
 export default IconLogicNor;

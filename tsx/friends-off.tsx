@@ -27,5 +27,4 @@ function IconFriendsOff({
     </svg>
   );
 }
-
 export default IconFriendsOff;

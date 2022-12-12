@@ -26,5 +26,4 @@ function IconUxCircle({
     </svg>
   );
 }
-
 export default IconUxCircle;

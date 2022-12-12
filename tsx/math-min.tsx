@@ -25,5 +25,4 @@ function IconMathMin({
     </svg>
   );
 }
-
 export default IconMathMin;

@@ -25,5 +25,4 @@ function IconStretching({
     </svg>
   );
 }
-
 export default IconStretching;

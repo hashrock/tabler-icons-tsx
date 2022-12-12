@@ -28,5 +28,4 @@ function IconCrosshair({
     </svg>
   );
 }
-
 export default IconCrosshair;

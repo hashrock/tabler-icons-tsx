@@ -26,5 +26,4 @@ function IconArrowsMoveHorizontal({
     </svg>
   );
 }
-
 export default IconArrowsMoveHorizontal;

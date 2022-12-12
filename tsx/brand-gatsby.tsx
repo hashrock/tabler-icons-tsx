@@ -24,5 +24,4 @@ function IconBrandGatsby({
     </svg>
   );
 }
-
 export default IconBrandGatsby;

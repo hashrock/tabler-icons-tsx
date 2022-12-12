@@ -23,5 +23,4 @@ function IconCurlyLoop({
     </svg>
   );
 }
-
 export default IconCurlyLoop;

@@ -26,5 +26,4 @@ function IconTableOff({
     </svg>
   );
 }
-
 export default IconTableOff;

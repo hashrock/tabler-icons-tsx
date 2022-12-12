@@ -27,5 +27,4 @@ function IconFileText({
     </svg>
   );
 }
-
 export default IconFileText;

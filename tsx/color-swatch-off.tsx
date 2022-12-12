@@ -27,5 +27,4 @@ function IconColorSwatchOff({
     </svg>
   );
 }
-
 export default IconColorSwatchOff;

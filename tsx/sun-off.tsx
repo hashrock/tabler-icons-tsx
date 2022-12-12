@@ -25,5 +25,4 @@ function IconSunOff({
     </svg>
   );
 }
-
 export default IconSunOff;

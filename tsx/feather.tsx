@@ -24,5 +24,4 @@ function IconFeather({
     </svg>
   );
 }
-
 export default IconFeather;

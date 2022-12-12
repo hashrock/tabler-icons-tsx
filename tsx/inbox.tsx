@@ -24,5 +24,4 @@ function IconInbox({
     </svg>
   );
 }
-
 export default IconInbox;

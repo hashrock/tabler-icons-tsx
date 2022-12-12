@@ -27,5 +27,4 @@ function IconVaccineBottle({
     </svg>
   );
 }
-
 export default IconVaccineBottle;

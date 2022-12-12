@@ -26,5 +26,4 @@ function IconFileAlert({
     </svg>
   );
 }
-
 export default IconFileAlert;

@@ -28,5 +28,4 @@ function IconPodiumOff({
     </svg>
   );
 }
-
 export default IconPodiumOff;

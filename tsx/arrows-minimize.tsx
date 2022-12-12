@@ -30,5 +30,4 @@ function IconArrowsMinimize({
     </svg>
   );
 }
-
 export default IconArrowsMinimize;

@@ -27,5 +27,4 @@ function IconBoxSeam({
     </svg>
   );
 }
-
 export default IconBoxSeam;

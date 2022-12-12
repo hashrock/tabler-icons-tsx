@@ -23,5 +23,4 @@ function IconMathLower({
     </svg>
   );
 }
-
 export default IconMathLower;

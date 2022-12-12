@@ -25,5 +25,4 @@ function IconBrandStorybook({
     </svg>
   );
 }
-
 export default IconBrandStorybook;

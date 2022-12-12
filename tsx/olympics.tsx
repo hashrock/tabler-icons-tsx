@@ -27,5 +27,4 @@ function IconOlympics({
     </svg>
   );
 }
-
 export default IconOlympics;

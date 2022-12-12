@@ -28,5 +28,4 @@ function IconRating18Plus({
     </svg>
   );
 }
-
 export default IconRating18Plus;

@@ -27,5 +27,4 @@ function IconFireHydrantOff({
     </svg>
   );
 }
-
 export default IconFireHydrantOff;

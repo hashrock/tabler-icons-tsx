@@ -24,5 +24,4 @@ function IconChalkboard({
     </svg>
   );
 }
-
 export default IconChalkboard;

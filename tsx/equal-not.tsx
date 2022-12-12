@@ -25,5 +25,4 @@ function IconEqualNot({
     </svg>
   );
 }
-
 export default IconEqualNot;

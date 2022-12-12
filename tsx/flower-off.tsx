@@ -25,5 +25,4 @@ function IconFlowerOff({
     </svg>
   );
 }
-
 export default IconFlowerOff;

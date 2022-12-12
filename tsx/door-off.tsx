@@ -27,5 +27,4 @@ function IconDoorOff({
     </svg>
   );
 }
-
 export default IconDoorOff;

@@ -27,5 +27,4 @@ function IconHeadsetOff({
     </svg>
   );
 }
-
 export default IconHeadsetOff;

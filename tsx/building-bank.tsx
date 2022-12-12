@@ -30,5 +30,4 @@ function IconBuildingBank({
     </svg>
   );
 }
-
 export default IconBuildingBank;

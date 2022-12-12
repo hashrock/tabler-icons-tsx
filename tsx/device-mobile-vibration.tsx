@@ -26,5 +26,4 @@ function IconDeviceMobileVibration({
     </svg>
   );
 }
-
 export default IconDeviceMobileVibration;

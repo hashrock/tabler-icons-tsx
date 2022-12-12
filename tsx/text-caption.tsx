@@ -25,5 +25,4 @@ function IconTextCaption({
     </svg>
   );
 }
-
 export default IconTextCaption;

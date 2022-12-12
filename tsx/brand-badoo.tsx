@@ -24,5 +24,4 @@ function IconBrandBadoo({
     </svg>
   );
 }
-
 export default IconBrandBadoo;

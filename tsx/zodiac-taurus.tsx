@@ -24,5 +24,4 @@ function IconZodiacTaurus({
     </svg>
   );
 }
-
 export default IconZodiacTaurus;

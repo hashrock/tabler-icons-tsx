@@ -26,5 +26,4 @@ function IconPhotoHeart({
     </svg>
   );
 }
-
 export default IconPhotoHeart;

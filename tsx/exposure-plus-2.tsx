@@ -25,5 +25,4 @@ function IconExposurePlus2({
     </svg>
   );
 }
-
 export default IconExposurePlus2;

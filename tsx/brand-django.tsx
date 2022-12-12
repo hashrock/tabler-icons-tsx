@@ -26,5 +26,4 @@ function IconBrandDjango({
     </svg>
   );
 }
-
 export default IconBrandDjango;

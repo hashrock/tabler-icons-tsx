@@ -26,5 +26,4 @@ function IconBallonOff({
     </svg>
   );
 }
-
 export default IconBallonOff;

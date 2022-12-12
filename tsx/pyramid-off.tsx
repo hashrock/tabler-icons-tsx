@@ -25,5 +25,4 @@ function IconPyramidOff({
     </svg>
   );
 }
-
 export default IconPyramidOff;

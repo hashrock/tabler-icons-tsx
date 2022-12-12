@@ -25,5 +25,4 @@ function IconWind({
     </svg>
   );
 }
-
 export default IconWind;

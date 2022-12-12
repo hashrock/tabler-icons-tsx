@@ -27,5 +27,4 @@ function IconMarkdownOff({
     </svg>
   );
 }
-
 export default IconMarkdownOff;

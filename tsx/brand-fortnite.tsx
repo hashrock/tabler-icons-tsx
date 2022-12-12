@@ -23,5 +23,4 @@ function IconBrandFortnite({
     </svg>
   );
 }
-
 export default IconBrandFortnite;

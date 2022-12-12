@@ -30,5 +30,4 @@ function IconBusStop({
     </svg>
   );
 }
-
 export default IconBusStop;

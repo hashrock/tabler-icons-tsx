@@ -25,5 +25,4 @@ function IconCoin({
     </svg>
   );
 }
-
 export default IconCoin;

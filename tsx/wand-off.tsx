@@ -27,5 +27,4 @@ function IconWandOff({
     </svg>
   );
 }
-
 export default IconWandOff;

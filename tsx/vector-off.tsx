@@ -31,5 +31,4 @@ function IconVectorOff({
     </svg>
   );
 }
-
 export default IconVectorOff;

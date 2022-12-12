@@ -26,5 +26,4 @@ function IconArrowRotaryStraight({
     </svg>
   );
 }
-
 export default IconArrowRotaryStraight;

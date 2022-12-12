@@ -26,5 +26,4 @@ function IconFilePlus({
     </svg>
   );
 }
-
 export default IconFilePlus;

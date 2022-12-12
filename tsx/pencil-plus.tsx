@@ -25,5 +25,4 @@ function IconPencilPlus({
     </svg>
   );
 }
-
 export default IconPencilPlus;

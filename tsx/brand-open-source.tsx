@@ -23,5 +23,4 @@ function IconBrandOpenSource({
     </svg>
   );
 }
-
 export default IconBrandOpenSource;

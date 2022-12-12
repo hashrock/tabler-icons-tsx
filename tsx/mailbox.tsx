@@ -25,5 +25,4 @@ function IconMailbox({
     </svg>
   );
 }
-
 export default IconMailbox;

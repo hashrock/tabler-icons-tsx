@@ -24,5 +24,4 @@ function IconDiscountCheck({
     </svg>
   );
 }
-
 export default IconDiscountCheck;

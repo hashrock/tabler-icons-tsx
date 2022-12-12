@@ -25,5 +25,4 @@ function IconBrandSocketIo({
     </svg>
   );
 }
-
 export default IconBrandSocketIo;

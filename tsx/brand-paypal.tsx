@@ -23,5 +23,4 @@ function IconBrandPaypal({
     </svg>
   );
 }
-
 export default IconBrandPaypal;

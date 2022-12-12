@@ -26,5 +26,4 @@ function IconFileDislike({
     </svg>
   );
 }
-
 export default IconFileDislike;

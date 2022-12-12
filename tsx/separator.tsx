@@ -25,5 +25,4 @@ function IconSeparator({
     </svg>
   );
 }
-
 export default IconSeparator;

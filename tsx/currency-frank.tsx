@@ -25,5 +25,4 @@ function IconCurrencyFrank({
     </svg>
   );
 }
-
 export default IconCurrencyFrank;

@@ -26,5 +26,4 @@ function IconBrandUbuntu({
     </svg>
   );
 }
-
 export default IconBrandUbuntu;

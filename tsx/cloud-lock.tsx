@@ -25,5 +25,4 @@ function IconCloudLock({
     </svg>
   );
 }
-
 export default IconCloudLock;

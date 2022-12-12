@@ -24,5 +24,4 @@ function IconUser({
     </svg>
   );
 }
-
 export default IconUser;

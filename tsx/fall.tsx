@@ -26,5 +26,4 @@ function IconFall({
     </svg>
   );
 }
-
 export default IconFall;

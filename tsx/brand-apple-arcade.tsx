@@ -26,5 +26,4 @@ function IconBrandAppleArcade({
     </svg>
   );
 }
-
 export default IconBrandAppleArcade;

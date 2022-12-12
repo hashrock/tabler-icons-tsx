@@ -26,5 +26,4 @@ function IconKey({
     </svg>
   );
 }
-
 export default IconKey;

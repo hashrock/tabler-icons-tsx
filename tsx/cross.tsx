@@ -23,5 +23,4 @@ function IconCross({
     </svg>
   );
 }
-
 export default IconCross;

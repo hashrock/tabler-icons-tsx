@@ -26,5 +26,4 @@ function IconFileEuro({
     </svg>
   );
 }
-
 export default IconFileEuro;

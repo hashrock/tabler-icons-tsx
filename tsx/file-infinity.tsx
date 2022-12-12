@@ -26,5 +26,4 @@ function IconFileInfinity({
     </svg>
   );
 }
-
 export default IconFileInfinity;

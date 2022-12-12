@@ -28,5 +28,4 @@ function IconArrowsDiff({
     </svg>
   );
 }
-
 export default IconArrowsDiff;

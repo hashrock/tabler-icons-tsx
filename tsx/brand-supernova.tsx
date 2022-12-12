@@ -27,5 +27,4 @@ function IconBrandSupernova({
     </svg>
   );
 }
-
 export default IconBrandSupernova;

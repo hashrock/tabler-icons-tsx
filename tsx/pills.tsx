@@ -26,5 +26,4 @@ function IconPills({
     </svg>
   );
 }
-
 export default IconPills;

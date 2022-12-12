@@ -26,5 +26,4 @@ function IconFileArrowLeft({
     </svg>
   );
 }
-
 export default IconFileArrowLeft;

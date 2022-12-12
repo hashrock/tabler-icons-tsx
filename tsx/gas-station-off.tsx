@@ -28,5 +28,4 @@ function IconGasStationOff({
     </svg>
   );
 }
-
 export default IconGasStationOff;

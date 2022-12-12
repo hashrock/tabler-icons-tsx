@@ -24,5 +24,4 @@ function IconFolders({
     </svg>
   );
 }
-
 export default IconFolders;

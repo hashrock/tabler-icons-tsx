@@ -27,5 +27,4 @@ function IconGitFork({
     </svg>
   );
 }
-
 export default IconGitFork;

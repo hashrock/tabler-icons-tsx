@@ -26,5 +26,4 @@ function IconWritingSignOff({
     </svg>
   );
 }
-
 export default IconWritingSignOff;

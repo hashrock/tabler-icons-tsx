@@ -25,5 +25,4 @@ function IconDeviceMobile({
     </svg>
   );
 }
-
 export default IconDeviceMobile;

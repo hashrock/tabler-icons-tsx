@@ -24,5 +24,4 @@ function IconTower({
     </svg>
   );
 }
-
 export default IconTower;

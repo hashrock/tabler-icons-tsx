@@ -27,5 +27,4 @@ function IconPerfume({
     </svg>
   );
 }
-
 export default IconPerfume;

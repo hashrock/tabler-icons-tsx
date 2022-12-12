@@ -26,5 +26,4 @@ function IconLogicBuffer({
     </svg>
   );
 }
-
 export default IconLogicBuffer;

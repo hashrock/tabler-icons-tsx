@@ -23,5 +23,4 @@ function IconBrandVk({
     </svg>
   );
 }
-
 export default IconBrandVk;

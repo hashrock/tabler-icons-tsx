@@ -27,5 +27,4 @@ function IconHomeSignal({
     </svg>
   );
 }
-
 export default IconHomeSignal;

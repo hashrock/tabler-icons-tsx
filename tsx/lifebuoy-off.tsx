@@ -29,5 +29,4 @@ function IconLifebuoyOff({
     </svg>
   );
 }
-
 export default IconLifebuoyOff;

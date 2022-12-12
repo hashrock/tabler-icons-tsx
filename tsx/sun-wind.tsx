@@ -31,5 +31,4 @@ function IconSunWind({
     </svg>
   );
 }
-
 export default IconSunWind;

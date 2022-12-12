@@ -24,5 +24,4 @@ function IconBrandFoursquare({
     </svg>
   );
 }
-
 export default IconBrandFoursquare;

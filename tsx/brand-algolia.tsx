@@ -27,5 +27,4 @@ function IconBrandAlgolia({
     </svg>
   );
 }
-
 export default IconBrandAlgolia;

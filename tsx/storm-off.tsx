@@ -27,5 +27,4 @@ function IconStormOff({
     </svg>
   );
 }
-
 export default IconStormOff;

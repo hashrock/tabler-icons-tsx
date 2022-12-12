@@ -26,5 +26,4 @@ function IconAspectRatioOff({
     </svg>
   );
 }
-
 export default IconAspectRatioOff;

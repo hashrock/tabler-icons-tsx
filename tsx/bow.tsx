@@ -26,5 +26,4 @@ function IconBow({
     </svg>
   );
 }
-
 export default IconBow;

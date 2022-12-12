@@ -26,5 +26,4 @@ function IconClipboardText({
     </svg>
   );
 }
-
 export default IconClipboardText;

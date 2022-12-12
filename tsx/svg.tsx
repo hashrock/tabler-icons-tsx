@@ -25,5 +25,4 @@ function IconSvg({
     </svg>
   );
 }
-
 export default IconSvg;

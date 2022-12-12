@@ -26,5 +26,4 @@ function IconHelpOff({
     </svg>
   );
 }
-
 export default IconHelpOff;

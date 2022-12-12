@@ -26,5 +26,4 @@ function IconMailForward({
     </svg>
   );
 }
-
 export default IconMailForward;

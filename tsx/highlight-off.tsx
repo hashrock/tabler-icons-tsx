@@ -27,5 +27,4 @@ function IconHighlightOff({
     </svg>
   );
 }
-
 export default IconHighlightOff;

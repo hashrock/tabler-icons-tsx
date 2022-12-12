@@ -24,5 +24,4 @@ function IconPlayerEject({
     </svg>
   );
 }
-
 export default IconPlayerEject;

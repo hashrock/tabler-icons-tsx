@@ -25,5 +25,4 @@ function IconBadgeWc({
     </svg>
   );
 }
-
 export default IconBadgeWc;

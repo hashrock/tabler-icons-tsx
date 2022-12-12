@@ -28,5 +28,4 @@ function IconChargingPile({
     </svg>
   );
 }
-
 export default IconChargingPile;

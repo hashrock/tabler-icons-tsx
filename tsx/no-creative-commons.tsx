@@ -27,5 +27,4 @@ function IconNoCreativeCommons({
     </svg>
   );
 }
-
 export default IconNoCreativeCommons;

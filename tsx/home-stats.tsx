@@ -26,5 +26,4 @@ function IconHomeStats({
     </svg>
   );
 }
-
 export default IconHomeStats;

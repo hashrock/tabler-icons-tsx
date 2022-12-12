@@ -26,5 +26,4 @@ function IconCoinYuan({
     </svg>
   );
 }
-
 export default IconCoinYuan;

@@ -24,5 +24,4 @@ function IconLayoutList({
     </svg>
   );
 }
-
 export default IconLayoutList;

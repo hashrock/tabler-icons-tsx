@@ -30,5 +30,4 @@ function IconCodeAsterix({
     </svg>
   );
 }
-
 export default IconCodeAsterix;

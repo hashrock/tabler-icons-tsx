@@ -26,5 +26,4 @@ function IconFidgetSpinner({
     </svg>
   );
 }
-
 export default IconFidgetSpinner;

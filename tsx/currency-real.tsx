@@ -26,5 +26,4 @@ function IconCurrencyReal({
     </svg>
   );
 }
-
 export default IconCurrencyReal;

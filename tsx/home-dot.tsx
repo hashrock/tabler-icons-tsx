@@ -25,5 +25,4 @@ function IconHomeDot({
     </svg>
   );
 }
-
 export default IconHomeDot;

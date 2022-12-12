@@ -25,5 +25,4 @@ function IconDeviceTabletOff({
     </svg>
   );
 }
-
 export default IconDeviceTabletOff;

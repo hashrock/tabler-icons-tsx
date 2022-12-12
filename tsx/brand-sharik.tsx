@@ -23,5 +23,4 @@ function IconBrandSharik({
     </svg>
   );
 }
-
 export default IconBrandSharik;

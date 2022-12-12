@@ -39,5 +39,4 @@ function IconVirus({
     </svg>
   );
 }
-
 export default IconVirus;

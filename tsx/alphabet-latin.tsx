@@ -25,5 +25,4 @@ function IconAlphabetLatin({
     </svg>
   );
 }
-
 export default IconAlphabetLatin;

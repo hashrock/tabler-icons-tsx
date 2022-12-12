@@ -28,5 +28,4 @@ function IconCurrencyKroneDanish({
     </svg>
   );
 }
-
 export default IconCurrencyKroneDanish;

@@ -23,5 +23,4 @@ function IconCellSignal1({
     </svg>
   );
 }
-
 export default IconCellSignal1;

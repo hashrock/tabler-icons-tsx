@@ -28,5 +28,4 @@ function IconTextSize({
     </svg>
   );
 }
-
 export default IconTextSize;

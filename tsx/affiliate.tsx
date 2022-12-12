@@ -28,5 +28,4 @@ function IconAffiliate({
     </svg>
   );
 }
-
 export default IconAffiliate;

@@ -25,5 +25,4 @@ function IconMath1Divide3({
     </svg>
   );
 }
-
 export default IconMath1Divide3;

@@ -29,5 +29,4 @@ function IconBedOff({
     </svg>
   );
 }
-
 export default IconBedOff;

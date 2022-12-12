@@ -24,5 +24,4 @@ function IconBookmarkOff({
     </svg>
   );
 }
-
 export default IconBookmarkOff;

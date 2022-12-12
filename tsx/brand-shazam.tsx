@@ -25,5 +25,4 @@ function IconBrandShazam({
     </svg>
   );
 }
-
 export default IconBrandShazam;

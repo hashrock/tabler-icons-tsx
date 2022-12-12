@@ -24,5 +24,4 @@ function IconArrowBearLeft({
     </svg>
   );
 }
-
 export default IconArrowBearLeft;

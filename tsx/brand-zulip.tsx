@@ -24,5 +24,4 @@ function IconBrandZulip({
     </svg>
   );
 }
-
 export default IconBrandZulip;

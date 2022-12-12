@@ -26,5 +26,4 @@ function IconHomeCancel({
     </svg>
   );
 }
-
 export default IconHomeCancel;

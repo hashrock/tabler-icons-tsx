@@ -26,5 +26,4 @@ function IconBrandSublimeText({
     </svg>
   );
 }
-
 export default IconBrandSublimeText;

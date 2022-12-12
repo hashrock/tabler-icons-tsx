@@ -29,5 +29,4 @@ function IconMoodNerd({
     </svg>
   );
 }
-
 export default IconMoodNerd;

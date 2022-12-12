@@ -27,5 +27,4 @@ function IconStethoscope({
     </svg>
   );
 }
-
 export default IconStethoscope;

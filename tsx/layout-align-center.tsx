@@ -25,5 +25,4 @@ function IconLayoutAlignCenter({
     </svg>
   );
 }
-
 export default IconLayoutAlignCenter;

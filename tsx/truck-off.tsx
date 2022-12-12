@@ -26,5 +26,4 @@ function IconTruckOff({
     </svg>
   );
 }
-
 export default IconTruckOff;

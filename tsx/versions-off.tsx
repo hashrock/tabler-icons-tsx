@@ -26,5 +26,4 @@ function IconVersionsOff({
     </svg>
   );
 }
-
 export default IconVersionsOff;

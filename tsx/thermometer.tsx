@@ -27,5 +27,4 @@ function IconThermometer({
     </svg>
   );
 }
-
 export default IconThermometer;

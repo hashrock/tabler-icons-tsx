@@ -26,5 +26,4 @@ function IconHeartHandshake({
     </svg>
   );
 }
-
 export default IconHeartHandshake;

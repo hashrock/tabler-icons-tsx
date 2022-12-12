@@ -24,5 +24,4 @@ function IconBrandValorant({
     </svg>
   );
 }
-
 export default IconBrandValorant;

@@ -24,5 +24,4 @@ function IconParentheses({
     </svg>
   );
 }
-
 export default IconParentheses;

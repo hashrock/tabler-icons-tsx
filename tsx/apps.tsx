@@ -27,5 +27,4 @@ function IconApps({
     </svg>
   );
 }
-
 export default IconApps;

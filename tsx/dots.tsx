@@ -25,5 +25,4 @@ function IconDots({
     </svg>
   );
 }
-
 export default IconDots;

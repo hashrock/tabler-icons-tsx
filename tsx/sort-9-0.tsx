@@ -25,5 +25,4 @@ function IconSort90({
     </svg>
   );
 }
-
 export default IconSort90;

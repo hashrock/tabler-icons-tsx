@@ -26,5 +26,4 @@ function IconCurrencyDinar({
     </svg>
   );
 }
-
 export default IconCurrencyDinar;

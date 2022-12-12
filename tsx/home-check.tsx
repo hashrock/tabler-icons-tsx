@@ -25,5 +25,4 @@ function IconHomeCheck({
     </svg>
   );
 }
-
 export default IconHomeCheck;

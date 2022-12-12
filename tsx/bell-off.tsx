@@ -25,5 +25,4 @@ function IconBellOff({
     </svg>
   );
 }
-
 export default IconBellOff;

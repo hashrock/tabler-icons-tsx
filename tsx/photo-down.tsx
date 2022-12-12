@@ -28,5 +28,4 @@ function IconPhotoDown({
     </svg>
   );
 }
-
 export default IconPhotoDown;

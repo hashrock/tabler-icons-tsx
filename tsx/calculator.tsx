@@ -30,5 +30,4 @@ function IconCalculator({
     </svg>
   );
 }
-
 export default IconCalculator;

@@ -26,5 +26,4 @@ function IconPlug({
     </svg>
   );
 }
-
 export default IconPlug;

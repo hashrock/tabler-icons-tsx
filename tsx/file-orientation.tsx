@@ -27,5 +27,4 @@ function IconFileOrientation({
     </svg>
   );
 }
-
 export default IconFileOrientation;

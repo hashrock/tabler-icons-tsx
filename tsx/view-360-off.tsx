@@ -26,5 +26,4 @@ function IconView360Off({
     </svg>
   );
 }
-
 export default IconView360Off;

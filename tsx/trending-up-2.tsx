@@ -24,5 +24,4 @@ function IconTrendingUp2({
     </svg>
   );
 }
-
 export default IconTrendingUp2;

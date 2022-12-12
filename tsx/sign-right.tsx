@@ -26,5 +26,4 @@ function IconSignRight({
     </svg>
   );
 }
-
 export default IconSignRight;

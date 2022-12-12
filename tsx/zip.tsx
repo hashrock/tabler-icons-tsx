@@ -25,5 +25,4 @@ function IconZip({
     </svg>
   );
 }
-
 export default IconZip;

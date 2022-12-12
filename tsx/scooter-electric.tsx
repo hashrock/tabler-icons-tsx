@@ -26,5 +26,4 @@ function IconScooterElectric({
     </svg>
   );
 }
-
 export default IconScooterElectric;

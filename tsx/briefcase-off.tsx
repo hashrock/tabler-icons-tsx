@@ -27,5 +27,4 @@ function IconBriefcaseOff({
     </svg>
   );
 }
-
 export default IconBriefcaseOff;

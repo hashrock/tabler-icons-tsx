@@ -24,5 +24,4 @@ function IconTie({
     </svg>
   );
 }
-
 export default IconTie;

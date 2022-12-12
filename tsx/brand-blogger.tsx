@@ -25,5 +25,4 @@ function IconBrandBlogger({
     </svg>
   );
 }
-
 export default IconBrandBlogger;

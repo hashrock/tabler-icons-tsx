@@ -29,5 +29,4 @@ function IconBuildingCarousel({
     </svg>
   );
 }
-
 export default IconBuildingCarousel;

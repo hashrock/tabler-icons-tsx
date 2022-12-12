@@ -24,5 +24,4 @@ function IconAnchor({
     </svg>
   );
 }
-
 export default IconAnchor;

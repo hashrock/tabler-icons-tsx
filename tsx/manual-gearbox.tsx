@@ -30,5 +30,4 @@ function IconManualGearbox({
     </svg>
   );
 }
-
 export default IconManualGearbox;

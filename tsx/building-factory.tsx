@@ -26,5 +26,4 @@ function IconBuildingFactory({
     </svg>
   );
 }
-
 export default IconBuildingFactory;

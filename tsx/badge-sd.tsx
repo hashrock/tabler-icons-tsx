@@ -25,5 +25,4 @@ function IconBadgeSd({
     </svg>
   );
 }
-
 export default IconBadgeSd;

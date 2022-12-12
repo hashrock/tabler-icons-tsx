@@ -23,5 +23,4 @@ function IconPaperclip({
     </svg>
   );
 }
-
 export default IconPaperclip;

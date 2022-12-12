@@ -25,5 +25,4 @@ function IconNotebook({
     </svg>
   );
 }
-
 export default IconNotebook;

@@ -25,5 +25,4 @@ function IconBrandAirtable({
     </svg>
   );
 }
-
 export default IconBrandAirtable;

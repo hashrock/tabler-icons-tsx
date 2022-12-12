@@ -24,5 +24,4 @@ function IconSettings({
     </svg>
   );
 }
-
 export default IconSettings;

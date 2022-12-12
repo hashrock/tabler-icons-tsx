@@ -24,5 +24,4 @@ function IconHeartMinus({
     </svg>
   );
 }
-
 export default IconHeartMinus;

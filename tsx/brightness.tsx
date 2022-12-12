@@ -27,5 +27,4 @@ function IconBrightness({
     </svg>
   );
 }
-
 export default IconBrightness;

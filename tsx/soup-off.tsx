@@ -27,5 +27,4 @@ function IconSoupOff({
     </svg>
   );
 }
-
 export default IconSoupOff;

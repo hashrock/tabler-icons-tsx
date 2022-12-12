@@ -27,5 +27,4 @@ function IconMusicOff({
     </svg>
   );
 }
-
 export default IconMusicOff;

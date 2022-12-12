@@ -28,5 +28,4 @@ function IconCertificate({
     </svg>
   );
 }
-
 export default IconCertificate;

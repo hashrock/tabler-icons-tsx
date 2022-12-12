@@ -28,5 +28,4 @@ function IconAntenna({
     </svg>
   );
 }
-
 export default IconAntenna;

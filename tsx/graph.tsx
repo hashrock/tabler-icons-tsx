@@ -24,5 +24,4 @@ function IconGraph({
     </svg>
   );
 }
-
 export default IconGraph;

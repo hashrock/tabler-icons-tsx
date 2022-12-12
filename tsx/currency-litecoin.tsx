@@ -24,5 +24,4 @@ function IconCurrencyLitecoin({
     </svg>
   );
 }
-
 export default IconCurrencyLitecoin;

@@ -36,5 +36,4 @@ function IconBorderInner({
     </svg>
   );
 }
-
 export default IconBorderInner;

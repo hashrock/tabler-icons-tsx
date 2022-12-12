@@ -26,5 +26,4 @@ function IconBracketsContainStart({
     </svg>
   );
 }
-
 export default IconBracketsContainStart;

@@ -27,5 +27,4 @@ function IconCurrencyKroneCzech({
     </svg>
   );
 }
-
 export default IconCurrencyKroneCzech;

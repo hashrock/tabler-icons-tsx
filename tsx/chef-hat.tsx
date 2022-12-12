@@ -24,5 +24,4 @@ function IconChefHat({
     </svg>
   );
 }
-
 export default IconChefHat;

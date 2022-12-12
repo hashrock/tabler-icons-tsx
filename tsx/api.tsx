@@ -26,5 +26,4 @@ function IconApi({
     </svg>
   );
 }
-
 export default IconApi;

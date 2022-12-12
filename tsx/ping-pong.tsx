@@ -25,5 +25,4 @@ function IconPingPong({
     </svg>
   );
 }
-
 export default IconPingPong;

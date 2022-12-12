@@ -27,5 +27,4 @@ function IconCSharp({
     </svg>
   );
 }
-
 export default IconCSharp;

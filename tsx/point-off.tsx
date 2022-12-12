@@ -24,5 +24,4 @@ function IconPointOff({
     </svg>
   );
 }
-
 export default IconPointOff;

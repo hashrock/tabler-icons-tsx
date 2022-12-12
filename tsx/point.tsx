@@ -23,5 +23,4 @@ function IconPoint({
     </svg>
   );
 }
-
 export default IconPoint;

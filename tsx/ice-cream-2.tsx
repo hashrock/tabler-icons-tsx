@@ -24,5 +24,4 @@ function IconIceCream2({
     </svg>
   );
 }
-
 export default IconIceCream2;

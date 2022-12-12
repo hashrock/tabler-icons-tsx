@@ -25,5 +25,4 @@ function IconDeviceFloppy({
     </svg>
   );
 }
-
 export default IconDeviceFloppy;

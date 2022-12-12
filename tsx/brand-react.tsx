@@ -29,5 +29,4 @@ function IconBrandReact({
     </svg>
   );
 }
-
 export default IconBrandReact;

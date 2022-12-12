@@ -30,5 +30,4 @@ function IconDeviceDesktopAnalytics({
     </svg>
   );
 }
-
 export default IconDeviceDesktopAnalytics;

@@ -25,5 +25,4 @@ function IconDentalOff({
     </svg>
   );
 }
-
 export default IconDentalOff;

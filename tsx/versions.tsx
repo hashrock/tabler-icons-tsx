@@ -25,5 +25,4 @@ function IconVersions({
     </svg>
   );
 }
-
 export default IconVersions;

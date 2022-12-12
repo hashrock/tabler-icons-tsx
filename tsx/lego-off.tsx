@@ -26,5 +26,4 @@ function IconLegoOff({
     </svg>
   );
 }
-
 export default IconLegoOff;

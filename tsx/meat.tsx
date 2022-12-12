@@ -26,5 +26,4 @@ function IconMeat({
     </svg>
   );
 }
-
 export default IconMeat;

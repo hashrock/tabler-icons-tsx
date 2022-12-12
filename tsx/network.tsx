@@ -30,5 +30,4 @@ function IconNetwork({
     </svg>
   );
 }
-
 export default IconNetwork;

@@ -26,5 +26,4 @@ function IconPinnedOff({
     </svg>
   );
 }
-
 export default IconPinnedOff;

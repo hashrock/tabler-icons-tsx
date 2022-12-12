@@ -23,5 +23,4 @@ function IconBrandPolymer({
     </svg>
   );
 }
-
 export default IconBrandPolymer;

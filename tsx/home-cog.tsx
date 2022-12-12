@@ -31,5 +31,4 @@ function IconHomeCog({
     </svg>
   );
 }
-
 export default IconHomeCog;

@@ -25,5 +25,4 @@ function IconRefreshDot({
     </svg>
   );
 }
-
 export default IconRefreshDot;

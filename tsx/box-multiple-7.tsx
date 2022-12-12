@@ -25,5 +25,4 @@ function IconBoxMultiple7({
     </svg>
   );
 }
-
 export default IconBoxMultiple7;

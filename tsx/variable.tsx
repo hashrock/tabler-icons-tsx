@@ -24,5 +24,4 @@ function IconVariable({
     </svg>
   );
 }
-
 export default IconVariable;

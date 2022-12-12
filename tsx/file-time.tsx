@@ -26,5 +26,4 @@ function IconFileTime({
     </svg>
   );
 }
-
 export default IconFileTime;

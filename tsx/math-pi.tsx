@@ -25,5 +25,4 @@ function IconMathPi({
     </svg>
   );
 }
-
 export default IconMathPi;

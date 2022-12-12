@@ -25,5 +25,4 @@ function IconAlertCircle({
     </svg>
   );
 }
-
 export default IconAlertCircle;

@@ -26,5 +26,4 @@ function IconPokeballOff({
     </svg>
   );
 }
-
 export default IconPokeballOff;

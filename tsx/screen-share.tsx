@@ -28,5 +28,4 @@ function IconScreenShare({
     </svg>
   );
 }
-
 export default IconScreenShare;

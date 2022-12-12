@@ -24,5 +24,4 @@ function IconPlaneOff({
     </svg>
   );
 }
-
 export default IconPlaneOff;

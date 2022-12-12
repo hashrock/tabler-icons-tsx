@@ -39,5 +39,4 @@ function IconVirusSearch({
     </svg>
   );
 }
-
 export default IconVirusSearch;

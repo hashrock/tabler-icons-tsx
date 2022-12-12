@@ -23,5 +23,4 @@ function IconBrandStrava({
     </svg>
   );
 }
-
 export default IconBrandStrava;

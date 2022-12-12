@@ -23,5 +23,4 @@ function IconTool({
     </svg>
   );
 }
-
 export default IconTool;

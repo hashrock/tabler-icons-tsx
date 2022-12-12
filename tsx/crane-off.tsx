@@ -30,5 +30,4 @@ function IconCraneOff({
     </svg>
   );
 }
-
 export default IconCraneOff;

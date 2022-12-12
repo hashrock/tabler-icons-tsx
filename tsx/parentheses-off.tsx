@@ -25,5 +25,4 @@ function IconParenthesesOff({
     </svg>
   );
 }
-
 export default IconParenthesesOff;

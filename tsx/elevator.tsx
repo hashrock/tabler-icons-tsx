@@ -25,5 +25,4 @@ function IconElevator({
     </svg>
   );
 }
-
 export default IconElevator;

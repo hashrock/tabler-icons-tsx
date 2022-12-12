@@ -26,5 +26,4 @@ function IconWorldLongitude({
     </svg>
   );
 }
-
 export default IconWorldLongitude;

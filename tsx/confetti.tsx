@@ -32,5 +32,4 @@ function IconConfetti({
     </svg>
   );
 }
-
 export default IconConfetti;

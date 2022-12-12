@@ -26,5 +26,4 @@ function IconMathXy({
     </svg>
   );
 }
-
 export default IconMathXy;

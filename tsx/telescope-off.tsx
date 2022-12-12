@@ -27,5 +27,4 @@ function IconTelescopeOff({
     </svg>
   );
 }
-
 export default IconTelescopeOff;

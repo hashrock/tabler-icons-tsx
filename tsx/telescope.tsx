@@ -26,5 +26,4 @@ function IconTelescope({
     </svg>
   );
 }
-
 export default IconTelescope;

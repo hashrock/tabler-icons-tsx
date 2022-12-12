@@ -25,5 +25,4 @@ function IconBorderAll({
     </svg>
   );
 }
-
 export default IconBorderAll;

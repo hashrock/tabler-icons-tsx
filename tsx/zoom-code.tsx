@@ -26,5 +26,4 @@ function IconZoomCode({
     </svg>
   );
 }
-
 export default IconZoomCode;

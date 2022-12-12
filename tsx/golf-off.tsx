@@ -25,5 +25,4 @@ function IconGolfOff({
     </svg>
   );
 }
-
 export default IconGolfOff;

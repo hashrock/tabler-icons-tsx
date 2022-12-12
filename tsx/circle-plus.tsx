@@ -25,5 +25,4 @@ function IconCirclePlus({
     </svg>
   );
 }
-
 export default IconCirclePlus;

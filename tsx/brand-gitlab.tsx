@@ -23,5 +23,4 @@ function IconBrandGitlab({
     </svg>
   );
 }
-
 export default IconBrandGitlab;

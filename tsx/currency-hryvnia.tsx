@@ -25,5 +25,4 @@ function IconCurrencyHryvnia({
     </svg>
   );
 }
-
 export default IconCurrencyHryvnia;

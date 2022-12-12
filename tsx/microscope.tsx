@@ -29,5 +29,4 @@ function IconMicroscope({
     </svg>
   );
 }
-
 export default IconMicroscope;

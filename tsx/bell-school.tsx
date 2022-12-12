@@ -27,5 +27,4 @@ function IconBellSchool({
     </svg>
   );
 }
-
 export default IconBellSchool;

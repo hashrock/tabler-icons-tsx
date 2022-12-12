@@ -27,5 +27,4 @@ function IconGasStation({
     </svg>
   );
 }
-
 export default IconGasStation;

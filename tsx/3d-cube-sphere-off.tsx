@@ -34,5 +34,4 @@ function Icon3dCubeSphereOff({
     </svg>
   );
 }
-
 export default Icon3dCubeSphereOff;

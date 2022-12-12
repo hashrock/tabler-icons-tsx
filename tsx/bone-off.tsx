@@ -24,5 +24,4 @@ function IconBoneOff({
     </svg>
   );
 }
-
 export default IconBoneOff;

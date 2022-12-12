@@ -29,5 +29,4 @@ function IconSchema({
     </svg>
   );
 }
-
 export default IconSchema;

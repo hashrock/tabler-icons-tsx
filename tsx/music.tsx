@@ -26,5 +26,4 @@ function IconMusic({
     </svg>
   );
 }
-
 export default IconMusic;

@@ -25,5 +25,4 @@ function IconSTurnDown({
     </svg>
   );
 }
-
 export default IconSTurnDown;

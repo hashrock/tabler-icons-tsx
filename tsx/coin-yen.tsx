@@ -27,5 +27,4 @@ function IconCoinYen({
     </svg>
   );
 }
-
 export default IconCoinYen;

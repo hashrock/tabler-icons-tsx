@@ -25,5 +25,4 @@ function IconWallpaper({
     </svg>
   );
 }
-
 export default IconWallpaper;

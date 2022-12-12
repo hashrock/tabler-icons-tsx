@@ -25,5 +25,4 @@ function IconArrowNarrowRight({
     </svg>
   );
 }
-
 export default IconArrowNarrowRight;

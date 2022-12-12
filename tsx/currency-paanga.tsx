@@ -27,5 +27,4 @@ function IconCurrencyPaanga({
     </svg>
   );
 }
-
 export default IconCurrencyPaanga;

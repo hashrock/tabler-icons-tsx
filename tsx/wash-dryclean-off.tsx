@@ -24,5 +24,4 @@ function IconWashDrycleanOff({
     </svg>
   );
 }
-
 export default IconWashDrycleanOff;

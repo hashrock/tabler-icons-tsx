@@ -25,5 +25,4 @@ function IconBrandDeno({
     </svg>
   );
 }
-
 export default IconBrandDeno;

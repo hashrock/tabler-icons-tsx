@@ -24,5 +24,4 @@ function IconPlayerSkipForward({
     </svg>
   );
 }
-
 export default IconPlayerSkipForward;

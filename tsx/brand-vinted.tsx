@@ -23,5 +23,4 @@ function IconBrandVinted({
     </svg>
   );
 }
-
 export default IconBrandVinted;

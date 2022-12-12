@@ -26,5 +26,4 @@ function IconMilkshake({
     </svg>
   );
 }
-
 export default IconMilkshake;

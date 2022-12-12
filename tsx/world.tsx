@@ -27,5 +27,4 @@ function IconWorld({
     </svg>
   );
 }
-
 export default IconWorld;

@@ -28,5 +28,4 @@ function IconMoodTongueWink({
     </svg>
   );
 }
-
 export default IconMoodTongueWink;

@@ -25,5 +25,4 @@ function IconCloudDownload({
     </svg>
   );
 }
-
 export default IconCloudDownload;

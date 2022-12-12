@@ -24,5 +24,4 @@ function IconResize({
     </svg>
   );
 }
-
 export default IconResize;

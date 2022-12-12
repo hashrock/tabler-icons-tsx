@@ -24,5 +24,4 @@ function IconParking({
     </svg>
   );
 }
-
 export default IconParking;

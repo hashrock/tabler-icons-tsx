@@ -25,5 +25,4 @@ function IconMugOff({
     </svg>
   );
 }
-
 export default IconMugOff;

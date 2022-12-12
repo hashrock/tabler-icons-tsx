@@ -26,5 +26,4 @@ function IconCircuitMotor({
     </svg>
   );
 }
-
 export default IconCircuitMotor;

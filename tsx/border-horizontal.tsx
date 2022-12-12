@@ -39,5 +39,4 @@ function IconBorderHorizontal({
     </svg>
   );
 }
-
 export default IconBorderHorizontal;

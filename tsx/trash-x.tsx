@@ -26,5 +26,4 @@ function IconTrashX({
     </svg>
   );
 }
-
 export default IconTrashX;

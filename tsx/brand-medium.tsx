@@ -28,5 +28,4 @@ function IconBrandMedium({
     </svg>
   );
 }
-
 export default IconBrandMedium;

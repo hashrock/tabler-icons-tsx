@@ -26,5 +26,4 @@ function IconHandLittleFinger({
     </svg>
   );
 }
-
 export default IconHandLittleFinger;

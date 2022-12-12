@@ -29,5 +29,4 @@ function IconBrandGithubCopilot({
     </svg>
   );
 }
-
 export default IconBrandGithubCopilot;

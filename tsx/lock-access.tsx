@@ -28,5 +28,4 @@ function IconLockAccess({
     </svg>
   );
 }
-
 export default IconLockAccess;

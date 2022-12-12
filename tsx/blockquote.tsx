@@ -28,5 +28,4 @@ function IconBlockquote({
     </svg>
   );
 }
-
 export default IconBlockquote;

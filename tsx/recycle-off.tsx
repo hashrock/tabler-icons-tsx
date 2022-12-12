@@ -26,5 +26,4 @@ function IconRecycleOff({
     </svg>
   );
 }
-
 export default IconRecycleOff;

@@ -25,5 +25,4 @@ function IconGenderTrasvesti({
     </svg>
   );
 }
-
 export default IconGenderTrasvesti;

@@ -23,5 +23,4 @@ function IconFlame({
     </svg>
   );
 }
-
 export default IconFlame;

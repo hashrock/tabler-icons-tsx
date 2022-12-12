@@ -25,5 +25,4 @@ function IconSwimming({
     </svg>
   );
 }
-
 export default IconSwimming;

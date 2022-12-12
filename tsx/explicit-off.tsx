@@ -26,5 +26,4 @@ function IconExplicitOff({
     </svg>
   );
 }
-
 export default IconExplicitOff;

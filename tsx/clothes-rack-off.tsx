@@ -27,5 +27,4 @@ function IconClothesRackOff({
     </svg>
   );
 }
-
 export default IconClothesRackOff;

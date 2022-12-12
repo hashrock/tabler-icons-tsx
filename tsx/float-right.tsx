@@ -27,5 +27,4 @@ function IconFloatRight({
     </svg>
   );
 }
-
 export default IconFloatRight;

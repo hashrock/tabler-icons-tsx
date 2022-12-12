@@ -29,5 +29,4 @@ function IconCreditCardOff({
     </svg>
   );
 }
-
 export default IconCreditCardOff;

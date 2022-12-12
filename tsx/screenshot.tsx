@@ -31,5 +31,4 @@ function IconScreenshot({
     </svg>
   );
 }
-
 export default IconScreenshot;

@@ -26,5 +26,4 @@ function IconDashboardOff({
     </svg>
   );
 }
-
 export default IconDashboardOff;

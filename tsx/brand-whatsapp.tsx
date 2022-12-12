@@ -24,5 +24,4 @@ function IconBrandWhatsapp({
     </svg>
   );
 }
-
 export default IconBrandWhatsapp;

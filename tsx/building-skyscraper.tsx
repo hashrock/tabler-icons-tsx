@@ -29,5 +29,4 @@ function IconBuildingSkyscraper({
     </svg>
   );
 }
-
 export default IconBuildingSkyscraper;

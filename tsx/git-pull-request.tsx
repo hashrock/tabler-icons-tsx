@@ -28,5 +28,4 @@ function IconGitPullRequest({
     </svg>
   );
 }
-
 export default IconGitPullRequest;

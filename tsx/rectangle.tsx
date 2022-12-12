@@ -23,5 +23,4 @@ function IconRectangle({
     </svg>
   );
 }
-
 export default IconRectangle;

@@ -24,5 +24,4 @@ function IconBrandSkype({
     </svg>
   );
 }
-
 export default IconBrandSkype;

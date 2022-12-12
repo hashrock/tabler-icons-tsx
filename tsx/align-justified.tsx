@@ -25,5 +25,4 @@ function IconAlignJustified({
     </svg>
   );
 }
-
 export default IconAlignJustified;

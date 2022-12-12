@@ -27,5 +27,4 @@ function IconSalt({
     </svg>
   );
 }
-
 export default IconSalt;

@@ -24,5 +24,4 @@ function IconCircleHalfVertical({
     </svg>
   );
 }
-
 export default IconCircleHalfVertical;

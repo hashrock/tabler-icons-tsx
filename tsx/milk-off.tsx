@@ -26,5 +26,4 @@ function IconMilkOff({
     </svg>
   );
 }
-
 export default IconMilkOff;

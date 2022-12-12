@@ -27,5 +27,4 @@ function IconBadgeHd({
     </svg>
   );
 }
-
 export default IconBadgeHd;

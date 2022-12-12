@@ -24,5 +24,4 @@ function IconBrandDisqus({
     </svg>
   );
 }
-
 export default IconBrandDisqus;

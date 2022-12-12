@@ -26,5 +26,4 @@ function IconSquareAsterisk({
     </svg>
   );
 }
-
 export default IconSquareAsterisk;

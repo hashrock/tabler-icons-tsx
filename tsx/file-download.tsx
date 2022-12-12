@@ -26,5 +26,4 @@ function IconFileDownload({
     </svg>
   );
 }
-
 export default IconFileDownload;

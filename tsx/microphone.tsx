@@ -26,5 +26,4 @@ function IconMicrophone({
     </svg>
   );
 }
-
 export default IconMicrophone;

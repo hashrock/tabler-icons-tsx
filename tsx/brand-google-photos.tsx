@@ -26,5 +26,4 @@ function IconBrandGooglePhotos({
     </svg>
   );
 }
-
 export default IconBrandGooglePhotos;

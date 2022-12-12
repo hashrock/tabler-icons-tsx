@@ -26,5 +26,4 @@ function IconMilitaryRank({
     </svg>
   );
 }
-
 export default IconMilitaryRank;

@@ -24,5 +24,4 @@ function IconSock({
     </svg>
   );
 }
-
 export default IconSock;

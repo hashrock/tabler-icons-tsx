@@ -27,5 +27,4 @@ function IconBrandPhp({
     </svg>
   );
 }
-
 export default IconBrandPhp;

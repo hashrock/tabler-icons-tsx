@@ -27,5 +27,4 @@ function IconCapture({
     </svg>
   );
 }
-
 export default IconCapture;

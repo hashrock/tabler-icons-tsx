@@ -25,5 +25,4 @@ function IconAtOff({
     </svg>
   );
 }
-
 export default IconAtOff;

@@ -23,5 +23,4 @@ function IconBread({
     </svg>
   );
 }
-
 export default IconBread;

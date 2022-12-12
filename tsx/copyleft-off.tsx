@@ -25,5 +25,4 @@ function IconCopyleftOff({
     </svg>
   );
 }
-
 export default IconCopyleftOff;

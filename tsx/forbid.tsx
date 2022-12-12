@@ -24,5 +24,4 @@ function IconForbid({
     </svg>
   );
 }
-
 export default IconForbid;

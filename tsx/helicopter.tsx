@@ -29,5 +29,4 @@ function IconHelicopter({
     </svg>
   );
 }
-
 export default IconHelicopter;

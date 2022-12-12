@@ -24,5 +24,4 @@ function IconCurrencyManat({
     </svg>
   );
 }
-
 export default IconCurrencyManat;

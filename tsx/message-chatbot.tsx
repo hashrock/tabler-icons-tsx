@@ -26,5 +26,4 @@ function IconMessageChatbot({
     </svg>
   );
 }
-
 export default IconMessageChatbot;

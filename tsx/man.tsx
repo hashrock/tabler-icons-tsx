@@ -24,5 +24,4 @@ function IconMan({
     </svg>
   );
 }
-
 export default IconMan;

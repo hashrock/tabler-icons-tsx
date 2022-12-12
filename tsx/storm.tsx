@@ -26,5 +26,4 @@ function IconStorm({
     </svg>
   );
 }
-
 export default IconStorm;

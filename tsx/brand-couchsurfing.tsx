@@ -24,5 +24,4 @@ function IconBrandCouchsurfing({
     </svg>
   );
 }
-
 export default IconBrandCouchsurfing;

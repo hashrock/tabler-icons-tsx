@@ -27,5 +27,4 @@ function IconFileRss({
     </svg>
   );
 }
-
 export default IconFileRss;

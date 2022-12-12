@@ -27,5 +27,4 @@ function IconFishOff({
     </svg>
   );
 }
-
 export default IconFishOff;

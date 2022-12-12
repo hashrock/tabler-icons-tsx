@@ -24,5 +24,4 @@ function IconAlbum({
     </svg>
   );
 }
-
 export default IconAlbum;

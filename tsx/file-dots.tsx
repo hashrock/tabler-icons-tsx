@@ -27,5 +27,4 @@ function IconFileDots({
     </svg>
   );
 }
-
 export default IconFileDots;

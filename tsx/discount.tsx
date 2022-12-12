@@ -26,5 +26,4 @@ function IconDiscount({
     </svg>
   );
 }
-
 export default IconDiscount;

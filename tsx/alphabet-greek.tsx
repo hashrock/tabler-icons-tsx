@@ -25,5 +25,4 @@ function IconAlphabetGreek({
     </svg>
   );
 }
-
 export default IconAlphabetGreek;

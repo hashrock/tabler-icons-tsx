@@ -29,5 +29,4 @@ function IconCalendarOff({
     </svg>
   );
 }
-
 export default IconCalendarOff;

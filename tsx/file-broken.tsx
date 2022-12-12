@@ -30,5 +30,4 @@ function IconFileBroken({
     </svg>
   );
 }
-
 export default IconFileBroken;

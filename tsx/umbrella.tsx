@@ -24,5 +24,4 @@ function IconUmbrella({
     </svg>
   );
 }
-
 export default IconUmbrella;

@@ -23,5 +23,4 @@ function IconPlane({
     </svg>
   );
 }
-
 export default IconPlane;

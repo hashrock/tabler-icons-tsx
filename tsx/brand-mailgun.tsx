@@ -26,5 +26,4 @@ function IconBrandMailgun({
     </svg>
   );
 }
-
 export default IconBrandMailgun;

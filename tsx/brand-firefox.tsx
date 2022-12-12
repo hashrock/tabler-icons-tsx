@@ -24,5 +24,4 @@ function IconBrandFirefox({
     </svg>
   );
 }
-
 export default IconBrandFirefox;

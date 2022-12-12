@@ -26,5 +26,4 @@ function IconPhoto({
     </svg>
   );
 }
-
 export default IconPhoto;

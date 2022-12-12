@@ -24,5 +24,4 @@ function IconBrandDolbyDigital({
     </svg>
   );
 }
-
 export default IconBrandDolbyDigital;

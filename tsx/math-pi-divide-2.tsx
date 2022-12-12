@@ -27,5 +27,4 @@ function IconMathPiDivide2({
     </svg>
   );
 }
-
 export default IconMathPiDivide2;

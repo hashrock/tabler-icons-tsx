@@ -26,5 +26,4 @@ function IconReportMoney({
     </svg>
   );
 }
-
 export default IconReportMoney;

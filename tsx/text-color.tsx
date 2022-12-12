@@ -25,5 +25,4 @@ function IconTextColor({
     </svg>
   );
 }
-
 export default IconTextColor;

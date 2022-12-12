@@ -28,5 +28,4 @@ function IconBasketOff({
     </svg>
   );
 }
-
 export default IconBasketOff;

@@ -24,5 +24,4 @@ function IconBellRinging2({
     </svg>
   );
 }
-
 export default IconBellRinging2;

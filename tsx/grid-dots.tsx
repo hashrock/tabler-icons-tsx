@@ -31,5 +31,4 @@ function IconGridDots({
     </svg>
   );
 }
-
 export default IconGridDots;

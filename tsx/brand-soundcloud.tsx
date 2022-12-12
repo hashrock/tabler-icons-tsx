@@ -26,5 +26,4 @@ function IconBrandSoundcloud({
     </svg>
   );
 }
-
 export default IconBrandSoundcloud;

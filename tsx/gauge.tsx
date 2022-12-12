@@ -26,5 +26,4 @@ function IconGauge({
     </svg>
   );
 }
-
 export default IconGauge;

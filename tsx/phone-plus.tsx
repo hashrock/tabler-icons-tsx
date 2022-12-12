@@ -24,5 +24,4 @@ function IconPhonePlus({
     </svg>
   );
 }
-
 export default IconPhonePlus;

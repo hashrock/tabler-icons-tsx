@@ -24,5 +24,4 @@ function IconFolderOff({
     </svg>
   );
 }
-
 export default IconFolderOff;

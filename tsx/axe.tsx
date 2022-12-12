@@ -24,5 +24,4 @@ function IconAxe({
     </svg>
   );
 }
-
 export default IconAxe;

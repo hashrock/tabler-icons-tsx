@@ -24,5 +24,4 @@ function IconBrandDrops({
     </svg>
   );
 }
-
 export default IconBrandDrops;

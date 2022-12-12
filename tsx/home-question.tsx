@@ -26,5 +26,4 @@ function IconHomeQuestion({
     </svg>
   );
 }
-
 export default IconHomeQuestion;

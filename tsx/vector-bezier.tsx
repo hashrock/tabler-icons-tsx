@@ -31,5 +31,4 @@ function IconVectorBezier({
     </svg>
   );
 }
-
 export default IconVectorBezier;

@@ -25,5 +25,4 @@ function IconGardenCart({
     </svg>
   );
 }
-
 export default IconGardenCart;

@@ -23,5 +23,4 @@ function IconPentagon({
     </svg>
   );
 }
-
 export default IconPentagon;

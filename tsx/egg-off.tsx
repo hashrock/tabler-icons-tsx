@@ -25,5 +25,4 @@ function IconEggOff({
     </svg>
   );
 }
-
 export default IconEggOff;

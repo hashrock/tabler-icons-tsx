@@ -25,5 +25,4 @@ function IconItalic({
     </svg>
   );
 }
-
 export default IconItalic;

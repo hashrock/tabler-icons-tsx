@@ -25,5 +25,4 @@ function IconPennant({
     </svg>
   );
 }
-
 export default IconPennant;

@@ -25,5 +25,4 @@ function IconUserCheck({
     </svg>
   );
 }
-
 export default IconUserCheck;

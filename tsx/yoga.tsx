@@ -26,5 +26,4 @@ function IconYoga({
     </svg>
   );
 }
-
 export default IconYoga;

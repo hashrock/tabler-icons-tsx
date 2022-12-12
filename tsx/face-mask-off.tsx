@@ -28,5 +28,4 @@ function IconFaceMaskOff({
     </svg>
   );
 }
-
 export default IconFaceMaskOff;

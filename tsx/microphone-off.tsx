@@ -27,5 +27,4 @@ function IconMicrophoneOff({
     </svg>
   );
 }
-
 export default IconMicrophoneOff;

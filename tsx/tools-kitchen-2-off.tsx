@@ -27,5 +27,4 @@ function IconToolsKitchen2Off({
     </svg>
   );
 }
-
 export default IconToolsKitchen2Off;

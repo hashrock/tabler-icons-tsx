@@ -25,5 +25,4 @@ function IconSectionSign({
     </svg>
   );
 }
-
 export default IconSectionSign;

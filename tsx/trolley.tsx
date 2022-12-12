@@ -27,5 +27,4 @@ function IconTrolley({
     </svg>
   );
 }
-
 export default IconTrolley;

@@ -27,5 +27,4 @@ function IconFileInvoice({
     </svg>
   );
 }
-
 export default IconFileInvoice;

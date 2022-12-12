@@ -25,5 +25,4 @@ function IconBrandGrammarly({
     </svg>
   );
 }
-
 export default IconBrandGrammarly;

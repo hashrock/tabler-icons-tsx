@@ -29,5 +29,4 @@ function IconHexagon3d({
     </svg>
   );
 }
-
 export default IconHexagon3d;

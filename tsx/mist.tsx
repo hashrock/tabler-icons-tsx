@@ -26,5 +26,4 @@ function IconMist({
     </svg>
   );
 }
-
 export default IconMist;

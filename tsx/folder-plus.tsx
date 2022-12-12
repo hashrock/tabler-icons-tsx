@@ -25,5 +25,4 @@ function IconFolderPlus({
     </svg>
   );
 }
-
 export default IconFolderPlus;

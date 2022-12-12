@@ -24,5 +24,4 @@ function IconTemperatureCelsius({
     </svg>
   );
 }
-
 export default IconTemperatureCelsius;

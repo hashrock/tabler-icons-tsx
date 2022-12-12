@@ -25,5 +25,4 @@ function IconSportBillard({
     </svg>
   );
 }
-
 export default IconSportBillard;

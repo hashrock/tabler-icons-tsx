@@ -26,5 +26,4 @@ function IconHomeSearch({
     </svg>
   );
 }
-
 export default IconHomeSearch;

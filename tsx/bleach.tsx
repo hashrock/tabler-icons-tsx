@@ -23,5 +23,4 @@ function IconBleach({
     </svg>
   );
 }
-
 export default IconBleach;

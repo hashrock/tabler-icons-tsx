@@ -23,5 +23,4 @@ function IconShirt({
     </svg>
   );
 }
-
 export default IconShirt;

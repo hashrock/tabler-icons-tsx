@@ -28,5 +28,4 @@ function IconCurrentLocation({
     </svg>
   );
 }
-
 export default IconCurrentLocation;

@@ -27,5 +27,4 @@ function IconBuildingStore({
     </svg>
   );
 }
-
 export default IconBuildingStore;

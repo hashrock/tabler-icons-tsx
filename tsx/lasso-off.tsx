@@ -26,5 +26,4 @@ function IconLassoOff({
     </svg>
   );
 }
-
 export default IconLassoOff;

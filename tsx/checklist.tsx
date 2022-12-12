@@ -26,5 +26,4 @@ function IconChecklist({
     </svg>
   );
 }
-
 export default IconChecklist;

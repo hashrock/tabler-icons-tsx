@@ -26,5 +26,4 @@ function IconArrowBarToLeft({
     </svg>
   );
 }
-
 export default IconArrowBarToLeft;

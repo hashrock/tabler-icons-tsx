@@ -24,5 +24,4 @@ function IconDropCircle({
     </svg>
   );
 }
-
 export default IconDropCircle;

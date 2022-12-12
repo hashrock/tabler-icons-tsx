@@ -25,5 +25,4 @@ function IconSTurnRight({
     </svg>
   );
 }
-
 export default IconSTurnRight;

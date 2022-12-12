@@ -27,5 +27,4 @@ function IconBrandFinder({
     </svg>
   );
 }
-
 export default IconBrandFinder;

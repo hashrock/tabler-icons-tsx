@@ -27,5 +27,4 @@ function IconServerOff({
     </svg>
   );
 }
-
 export default IconServerOff;

@@ -25,5 +25,4 @@ function IconHeartPlus({
     </svg>
   );
 }
-
 export default IconHeartPlus;

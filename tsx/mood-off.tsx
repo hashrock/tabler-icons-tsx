@@ -27,5 +27,4 @@ function IconMoodOff({
     </svg>
   );
 }
-
 export default IconMoodOff;

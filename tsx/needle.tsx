@@ -24,5 +24,4 @@ function IconNeedle({
     </svg>
   );
 }
-
 export default IconNeedle;

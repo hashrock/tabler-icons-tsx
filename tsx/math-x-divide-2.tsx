@@ -26,5 +26,4 @@ function IconMathXDivide2({
     </svg>
   );
 }
-
 export default IconMathXDivide2;

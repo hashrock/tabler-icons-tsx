@@ -25,5 +25,4 @@ function IconLoaderQuarter({
     </svg>
   );
 }
-
 export default IconLoaderQuarter;

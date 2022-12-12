@@ -26,5 +26,4 @@ function IconPlayCard({
     </svg>
   );
 }
-
 export default IconPlayCard;

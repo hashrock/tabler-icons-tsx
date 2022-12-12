@@ -23,5 +23,4 @@ function IconBrandAirbnb({
     </svg>
   );
 }
-
 export default IconBrandAirbnb;

@@ -26,5 +26,4 @@ function IconStack3({
     </svg>
   );
 }
-
 export default IconStack3;

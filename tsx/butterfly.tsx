@@ -25,5 +25,4 @@ function IconButterfly({
     </svg>
   );
 }
-
 export default IconButterfly;

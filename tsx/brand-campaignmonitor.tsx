@@ -23,5 +23,4 @@ function IconBrandCampaignmonitor({
     </svg>
   );
 }
-
 export default IconBrandCampaignmonitor;

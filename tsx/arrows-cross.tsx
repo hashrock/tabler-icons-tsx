@@ -27,5 +27,4 @@ function IconArrowsCross({
     </svg>
   );
 }
-
 export default IconArrowsCross;

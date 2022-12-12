@@ -23,5 +23,4 @@ function IconBrandLinqpad({
     </svg>
   );
 }
-
 export default IconBrandLinqpad;

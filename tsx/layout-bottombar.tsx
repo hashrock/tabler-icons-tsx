@@ -24,5 +24,4 @@ function IconLayoutBottombar({
     </svg>
   );
 }
-
 export default IconLayoutBottombar;

@@ -26,5 +26,4 @@ function IconBrandFlightradar24({
     </svg>
   );
 }
-
 export default IconBrandFlightradar24;

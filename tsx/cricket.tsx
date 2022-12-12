@@ -25,5 +25,4 @@ function IconCricket({
     </svg>
   );
 }
-
 export default IconCricket;

@@ -24,5 +24,4 @@ function IconOverline({
     </svg>
   );
 }
-
 export default IconOverline;

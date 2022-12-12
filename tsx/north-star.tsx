@@ -26,5 +26,4 @@ function IconNorthStar({
     </svg>
   );
 }
-
 export default IconNorthStar;

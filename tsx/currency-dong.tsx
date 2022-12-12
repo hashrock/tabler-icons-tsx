@@ -26,5 +26,4 @@ function IconCurrencyDong({
     </svg>
   );
 }
-
 export default IconCurrencyDong;

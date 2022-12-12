@@ -29,5 +29,4 @@ function IconBrandYahoo({
     </svg>
   );
 }
-
 export default IconBrandYahoo;

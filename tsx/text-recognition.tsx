@@ -28,5 +28,4 @@ function IconTextRecognition({
     </svg>
   );
 }
-
 export default IconTextRecognition;

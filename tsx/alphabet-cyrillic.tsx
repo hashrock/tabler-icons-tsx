@@ -24,5 +24,4 @@ function IconAlphabetCyrillic({
     </svg>
   );
 }
-
 export default IconAlphabetCyrillic;

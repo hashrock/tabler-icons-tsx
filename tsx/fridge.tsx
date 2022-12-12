@@ -26,5 +26,4 @@ function IconFridge({
     </svg>
   );
 }
-
 export default IconFridge;

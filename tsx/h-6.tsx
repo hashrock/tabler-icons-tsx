@@ -31,5 +31,4 @@ function IconH6({
     </svg>
   );
 }
-
 export default IconH6;

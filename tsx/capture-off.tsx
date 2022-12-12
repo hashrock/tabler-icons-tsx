@@ -28,5 +28,4 @@ function IconCaptureOff({
     </svg>
   );
 }
-
 export default IconCaptureOff;

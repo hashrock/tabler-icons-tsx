@@ -24,5 +24,4 @@ function IconMessageCircleOff({
     </svg>
   );
 }
-
 export default IconMessageCircleOff;

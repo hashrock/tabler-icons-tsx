@@ -26,5 +26,4 @@ function IconRun({
     </svg>
   );
 }
-
 export default IconRun;

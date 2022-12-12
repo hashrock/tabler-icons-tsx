@@ -26,5 +26,4 @@ function IconZodiacCancer({
     </svg>
   );
 }
-
 export default IconZodiacCancer;

@@ -27,5 +27,4 @@ function IconTruckReturn({
     </svg>
   );
 }
-
 export default IconTruckReturn;

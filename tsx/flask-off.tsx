@@ -26,5 +26,4 @@ function IconFlaskOff({
     </svg>
   );
 }
-
 export default IconFlaskOff;

@@ -28,5 +28,4 @@ function IconCoinBitcoin({
     </svg>
   );
 }
-
 export default IconCoinBitcoin;

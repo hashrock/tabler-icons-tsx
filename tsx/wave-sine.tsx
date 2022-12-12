@@ -23,5 +23,4 @@ function IconWaveSine({
     </svg>
   );
 }
-
 export default IconWaveSine;

@@ -25,5 +25,4 @@ function IconTagOff({
     </svg>
   );
 }
-
 export default IconTagOff;

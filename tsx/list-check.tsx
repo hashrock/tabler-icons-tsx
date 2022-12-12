@@ -28,5 +28,4 @@ function IconListCheck({
     </svg>
   );
 }
-
 export default IconListCheck;

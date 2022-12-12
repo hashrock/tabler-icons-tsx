@@ -26,5 +26,4 @@ function IconElevatorOff({
     </svg>
   );
 }
-
 export default IconElevatorOff;

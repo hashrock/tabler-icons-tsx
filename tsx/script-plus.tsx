@@ -25,5 +25,4 @@ function IconScriptPlus({
     </svg>
   );
 }
-
 export default IconScriptPlus;

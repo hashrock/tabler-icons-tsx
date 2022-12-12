@@ -26,5 +26,4 @@ function IconEditOff({
     </svg>
   );
 }
-
 export default IconEditOff;

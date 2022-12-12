@@ -25,5 +25,4 @@ function IconChisel({
     </svg>
   );
 }
-
 export default IconChisel;

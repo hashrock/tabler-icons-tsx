@@ -24,5 +24,4 @@ function IconCopyleft({
     </svg>
   );
 }
-
 export default IconCopyleft;

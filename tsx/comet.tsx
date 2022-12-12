@@ -26,5 +26,4 @@ function IconComet({
     </svg>
   );
 }
-
 export default IconComet;

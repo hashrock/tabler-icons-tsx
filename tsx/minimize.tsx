@@ -26,5 +26,4 @@ function IconMinimize({
     </svg>
   );
 }
-
 export default IconMinimize;

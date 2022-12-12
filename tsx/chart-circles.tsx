@@ -24,5 +24,4 @@ function IconChartCircles({
     </svg>
   );
 }
-
 export default IconChartCircles;

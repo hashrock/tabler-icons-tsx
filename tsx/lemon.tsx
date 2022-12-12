@@ -27,5 +27,4 @@ function IconLemon({
     </svg>
   );
 }
-
 export default IconLemon;

@@ -25,5 +25,4 @@ function IconPlaystationX({
     </svg>
   );
 }
-
 export default IconPlaystationX;

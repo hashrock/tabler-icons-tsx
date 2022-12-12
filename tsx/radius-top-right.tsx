@@ -23,5 +23,4 @@ function IconRadiusTopRight({
     </svg>
   );
 }
-
 export default IconRadiusTopRight;

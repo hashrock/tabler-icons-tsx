@@ -24,5 +24,4 @@ function IconSend({
     </svg>
   );
 }
-
 export default IconSend;

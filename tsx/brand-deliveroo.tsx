@@ -25,5 +25,4 @@ function IconBrandDeliveroo({
     </svg>
   );
 }
-
 export default IconBrandDeliveroo;

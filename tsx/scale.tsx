@@ -27,5 +27,4 @@ function IconScale({
     </svg>
   );
 }
-
 export default IconScale;

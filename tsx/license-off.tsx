@@ -26,5 +26,4 @@ function IconLicenseOff({
     </svg>
   );
 }
-
 export default IconLicenseOff;

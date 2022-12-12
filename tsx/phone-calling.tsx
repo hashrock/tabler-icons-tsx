@@ -26,5 +26,4 @@ function IconPhoneCalling({
     </svg>
   );
 }
-
 export default IconPhoneCalling;

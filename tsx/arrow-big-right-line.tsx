@@ -24,5 +24,4 @@ function IconArrowBigRightLine({
     </svg>
   );
 }
-
 export default IconArrowBigRightLine;

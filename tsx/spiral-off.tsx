@@ -24,5 +24,4 @@ function IconSpiralOff({
     </svg>
   );
 }
-
 export default IconSpiralOff;

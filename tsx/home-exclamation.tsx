@@ -26,5 +26,4 @@ function IconHomeExclamation({
     </svg>
   );
 }
-
 export default IconHomeExclamation;

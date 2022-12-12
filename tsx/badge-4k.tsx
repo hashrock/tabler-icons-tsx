@@ -28,5 +28,4 @@ function IconBadge4k({
     </svg>
   );
 }
-
 export default IconBadge4k;

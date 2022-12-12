@@ -25,5 +25,4 @@ function IconColumnInsertRight({
     </svg>
   );
 }
-
 export default IconColumnInsertRight;

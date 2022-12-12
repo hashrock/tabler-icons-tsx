@@ -25,5 +25,4 @@ function IconRss({
     </svg>
   );
 }
-
 export default IconRss;

@@ -25,5 +25,4 @@ function IconVideoMinus({
     </svg>
   );
 }
-
 export default IconVideoMinus;

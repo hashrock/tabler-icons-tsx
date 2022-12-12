@@ -26,5 +26,4 @@ function IconWorldLatitude({
     </svg>
   );
 }
-
 export default IconWorldLatitude;

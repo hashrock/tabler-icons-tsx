@@ -23,5 +23,4 @@ function IconAmpersand({
     </svg>
   );
 }
-
 export default IconAmpersand;

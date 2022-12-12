@@ -26,5 +26,4 @@ function IconBrandMercedes({
     </svg>
   );
 }
-
 export default IconBrandMercedes;

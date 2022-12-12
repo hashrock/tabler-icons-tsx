@@ -25,5 +25,4 @@ function IconBuildingMonument({
     </svg>
   );
 }
-
 export default IconBuildingMonument;

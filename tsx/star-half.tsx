@@ -23,5 +23,4 @@ function IconStarHalf({
     </svg>
   );
 }
-
 export default IconStarHalf;

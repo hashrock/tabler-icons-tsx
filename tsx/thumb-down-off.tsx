@@ -24,5 +24,4 @@ function IconThumbDownOff({
     </svg>
   );
 }
-
 export default IconThumbDownOff;

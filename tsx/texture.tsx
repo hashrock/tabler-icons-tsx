@@ -29,5 +29,4 @@ function IconTexture({
     </svg>
   );
 }
-
 export default IconTexture;

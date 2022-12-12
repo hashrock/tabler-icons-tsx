@@ -30,5 +30,4 @@ function IconSteam({
     </svg>
   );
 }
-
 export default IconSteam;

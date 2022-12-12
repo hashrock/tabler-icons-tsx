@@ -24,5 +24,4 @@ function IconCrownOff({
     </svg>
   );
 }
-
 export default IconCrownOff;

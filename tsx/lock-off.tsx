@@ -26,5 +26,4 @@ function IconLockOff({
     </svg>
   );
 }
-
 export default IconLockOff;

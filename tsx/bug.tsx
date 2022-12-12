@@ -31,5 +31,4 @@ function IconBug({
     </svg>
   );
 }
-
 export default IconBug;

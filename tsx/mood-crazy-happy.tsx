@@ -28,5 +28,4 @@ function IconMoodCrazyHappy({
     </svg>
   );
 }
-
 export default IconMoodCrazyHappy;

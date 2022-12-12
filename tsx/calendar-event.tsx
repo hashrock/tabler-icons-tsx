@@ -27,5 +27,4 @@ function IconCalendarEvent({
     </svg>
   );
 }
-
 export default IconCalendarEvent;

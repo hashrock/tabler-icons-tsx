@@ -26,5 +26,4 @@ function IconWallpaperOff({
     </svg>
   );
 }
-
 export default IconWallpaperOff;

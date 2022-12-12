@@ -30,5 +30,4 @@ function IconSpider({
     </svg>
   );
 }
-
 export default IconSpider;

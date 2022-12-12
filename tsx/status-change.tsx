@@ -26,5 +26,4 @@ function IconStatusChange({
     </svg>
   );
 }
-
 export default IconStatusChange;

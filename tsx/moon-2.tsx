@@ -24,5 +24,4 @@ function IconMoon2({
     </svg>
   );
 }
-
 export default IconMoon2;

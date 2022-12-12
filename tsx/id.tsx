@@ -27,5 +27,4 @@ function IconId({
     </svg>
   );
 }
-
 export default IconId;

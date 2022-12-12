@@ -27,5 +27,4 @@ function IconDeviceCctvOff({
     </svg>
   );
 }
-
 export default IconDeviceCctvOff;

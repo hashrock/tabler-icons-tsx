@@ -27,5 +27,4 @@ function IconError404({
     </svg>
   );
 }
-
 export default IconError404;

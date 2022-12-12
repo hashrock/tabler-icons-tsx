@@ -26,5 +26,4 @@ function IconBellPlus({
     </svg>
   );
 }
-
 export default IconBellPlus;

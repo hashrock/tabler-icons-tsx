@@ -25,5 +25,4 @@ function IconSignal3g({
     </svg>
   );
 }
-
 export default IconSignal3g;

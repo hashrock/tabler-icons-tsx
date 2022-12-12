@@ -28,5 +28,4 @@ function IconCircuitPushbutton({
     </svg>
   );
 }
-
 export default IconCircuitPushbutton;

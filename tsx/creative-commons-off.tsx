@@ -26,5 +26,4 @@ function IconCreativeCommonsOff({
     </svg>
   );
 }
-
 export default IconCreativeCommonsOff;

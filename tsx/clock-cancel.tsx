@@ -26,5 +26,4 @@ function IconClockCancel({
     </svg>
   );
 }
-
 export default IconClockCancel;

@@ -25,5 +25,4 @@ function IconBrandPepsi({
     </svg>
   );
 }
-
 export default IconBrandPepsi;

@@ -27,5 +27,4 @@ function IconVip({
     </svg>
   );
 }
-
 export default IconVip;

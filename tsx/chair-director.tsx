@@ -29,5 +29,4 @@ function IconChairDirector({
     </svg>
   );
 }
-
 export default IconChairDirector;

@@ -27,5 +27,4 @@ function IconReportAnalytics({
     </svg>
   );
 }
-
 export default IconReportAnalytics;

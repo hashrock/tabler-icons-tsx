@@ -27,5 +27,4 @@ function IconFileTypography({
     </svg>
   );
 }
-
 export default IconFileTypography;

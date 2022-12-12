@@ -25,5 +25,4 @@ function IconDeviceTvOff({
     </svg>
   );
 }
-
 export default IconDeviceTvOff;

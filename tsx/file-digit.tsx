@@ -26,5 +26,4 @@ function IconFileDigit({
     </svg>
   );
 }
-
 export default IconFileDigit;

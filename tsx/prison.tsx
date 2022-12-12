@@ -30,5 +30,4 @@ function IconPrison({
     </svg>
   );
 }
-
 export default IconPrison;

@@ -24,5 +24,4 @@ function IconBrandSurfshark({
     </svg>
   );
 }
-
 export default IconBrandSurfshark;

@@ -24,5 +24,4 @@ function IconBrandApple({
     </svg>
   );
 }
-
 export default IconBrandApple;

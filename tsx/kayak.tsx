@@ -28,5 +28,4 @@ function IconKayak({
     </svg>
   );
 }
-
 export default IconKayak;

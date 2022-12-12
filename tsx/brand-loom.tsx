@@ -26,5 +26,4 @@ function IconBrandLoom({
     </svg>
   );
 }
-
 export default IconBrandLoom;

@@ -25,5 +25,4 @@ function IconBong({
     </svg>
   );
 }
-
 export default IconBong;

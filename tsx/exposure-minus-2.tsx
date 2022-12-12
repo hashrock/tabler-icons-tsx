@@ -24,5 +24,4 @@ function IconExposureMinus2({
     </svg>
   );
 }
-
 export default IconExposureMinus2;

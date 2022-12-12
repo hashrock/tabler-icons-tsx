@@ -28,5 +28,4 @@ function IconGitCompare({
     </svg>
   );
 }
-
 export default IconGitCompare;

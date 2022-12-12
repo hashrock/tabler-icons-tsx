@@ -31,5 +31,4 @@ function IconWall({
     </svg>
   );
 }
-
 export default IconWall;

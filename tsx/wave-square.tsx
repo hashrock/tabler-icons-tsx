@@ -23,5 +23,4 @@ function IconWaveSquare({
     </svg>
   );
 }
-
 export default IconWaveSquare;

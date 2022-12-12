@@ -26,5 +26,4 @@ function IconSwords({
     </svg>
   );
 }
-
 export default IconSwords;

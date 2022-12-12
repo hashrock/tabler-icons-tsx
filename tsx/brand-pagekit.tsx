@@ -23,5 +23,4 @@ function IconBrandPagekit({
     </svg>
   );
 }
-
 export default IconBrandPagekit;

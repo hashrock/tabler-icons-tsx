@@ -28,5 +28,4 @@ function IconViewfinder({
     </svg>
   );
 }
-
 export default IconViewfinder;

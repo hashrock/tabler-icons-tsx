@@ -25,5 +25,4 @@ function IconFileMinus({
     </svg>
   );
 }
-
 export default IconFileMinus;

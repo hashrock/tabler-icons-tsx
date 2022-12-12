@@ -25,5 +25,4 @@ function IconLamp({
     </svg>
   );
 }
-
 export default IconLamp;

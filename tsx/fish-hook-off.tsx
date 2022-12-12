@@ -26,5 +26,4 @@ function IconFishHookOff({
     </svg>
   );
 }
-
 export default IconFishHookOff;

@@ -26,5 +26,4 @@ function IconAlignBoxRightTop({
     </svg>
   );
 }
-
 export default IconAlignBoxRightTop;

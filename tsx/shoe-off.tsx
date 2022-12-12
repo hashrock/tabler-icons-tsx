@@ -26,5 +26,4 @@ function IconShoeOff({
     </svg>
   );
 }
-
 export default IconShoeOff;

@@ -24,5 +24,4 @@ function IconEggCracked({
     </svg>
   );
 }
-
 export default IconEggCracked;

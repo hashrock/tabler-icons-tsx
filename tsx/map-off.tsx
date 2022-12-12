@@ -26,5 +26,4 @@ function IconMapOff({
     </svg>
   );
 }
-
 export default IconMapOff;

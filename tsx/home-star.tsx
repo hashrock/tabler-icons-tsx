@@ -25,5 +25,4 @@ function IconHomeStar({
     </svg>
   );
 }
-
 export default IconHomeStar;

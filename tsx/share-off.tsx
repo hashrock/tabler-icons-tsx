@@ -28,5 +28,4 @@ function IconShareOff({
     </svg>
   );
 }
-
 export default IconShareOff;

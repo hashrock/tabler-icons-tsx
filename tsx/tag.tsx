@@ -24,5 +24,4 @@ function IconTag({
     </svg>
   );
 }
-
 export default IconTag;

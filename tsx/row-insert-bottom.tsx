@@ -25,5 +25,4 @@ function IconRowInsertBottom({
     </svg>
   );
 }
-
 export default IconRowInsertBottom;

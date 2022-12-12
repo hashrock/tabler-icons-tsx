@@ -26,5 +26,4 @@ function IconBike({
     </svg>
   );
 }
-
 export default IconBike;

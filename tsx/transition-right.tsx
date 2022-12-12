@@ -26,5 +26,4 @@ function IconTransitionRight({
     </svg>
   );
 }
-
 export default IconTransitionRight;

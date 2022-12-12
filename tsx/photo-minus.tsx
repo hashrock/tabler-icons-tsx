@@ -27,5 +27,4 @@ function IconPhotoMinus({
     </svg>
   );
 }
-
 export default IconPhotoMinus;

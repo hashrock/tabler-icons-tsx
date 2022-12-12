@@ -24,5 +24,4 @@ function IconMathEqualGreater({
     </svg>
   );
 }
-
 export default IconMathEqualGreater;

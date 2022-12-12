@@ -25,5 +25,4 @@ function IconCandy({
     </svg>
   );
 }
-
 export default IconCandy;

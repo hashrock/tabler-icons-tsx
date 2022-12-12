@@ -29,5 +29,4 @@ function IconFloatCenter({
     </svg>
   );
 }
-
 export default IconFloatCenter;

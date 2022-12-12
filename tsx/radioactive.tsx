@@ -25,5 +25,4 @@ function IconRadioactive({
     </svg>
   );
 }
-
 export default IconRadioactive;

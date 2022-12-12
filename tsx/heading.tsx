@@ -29,5 +29,4 @@ function IconHeading({
     </svg>
   );
 }
-
 export default IconHeading;

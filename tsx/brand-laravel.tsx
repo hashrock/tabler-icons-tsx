@@ -30,5 +30,4 @@ function IconBrandLaravel({
     </svg>
   );
 }
-
 export default IconBrandLaravel;

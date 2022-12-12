@@ -25,5 +25,4 @@ function IconSwordOff({
     </svg>
   );
 }
-
 export default IconSwordOff;

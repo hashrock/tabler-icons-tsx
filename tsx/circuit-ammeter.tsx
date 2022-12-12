@@ -27,5 +27,4 @@ function IconCircuitAmmeter({
     </svg>
   );
 }
-
 export default IconCircuitAmmeter;

@@ -25,5 +25,4 @@ function IconJpg({
     </svg>
   );
 }
-
 export default IconJpg;

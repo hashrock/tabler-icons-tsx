@@ -25,5 +25,4 @@ function IconMailOff({
     </svg>
   );
 }
-
 export default IconMailOff;

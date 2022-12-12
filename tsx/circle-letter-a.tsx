@@ -25,5 +25,4 @@ function IconCircleLetterA({
     </svg>
   );
 }
-
 export default IconCircleLetterA;

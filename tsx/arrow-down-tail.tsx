@@ -25,5 +25,4 @@ function IconArrowDownTail({
     </svg>
   );
 }
-
 export default IconArrowDownTail;

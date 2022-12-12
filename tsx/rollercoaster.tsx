@@ -29,5 +29,4 @@ function IconRollercoaster({
     </svg>
   );
 }
-
 export default IconRollercoaster;

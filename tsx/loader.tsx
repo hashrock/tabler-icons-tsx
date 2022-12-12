@@ -30,5 +30,4 @@ function IconLoader({
     </svg>
   );
 }
-
 export default IconLoader;

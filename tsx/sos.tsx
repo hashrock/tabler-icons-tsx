@@ -25,5 +25,4 @@ function IconSos({
     </svg>
   );
 }
-
 export default IconSos;

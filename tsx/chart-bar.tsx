@@ -26,5 +26,4 @@ function IconChartBar({
     </svg>
   );
 }
-
 export default IconChartBar;

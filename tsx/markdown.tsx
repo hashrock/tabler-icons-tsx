@@ -25,5 +25,4 @@ function IconMarkdown({
     </svg>
   );
 }
-
 export default IconMarkdown;

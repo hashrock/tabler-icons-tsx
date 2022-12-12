@@ -26,5 +26,4 @@ function IconMoodSuprised({
     </svg>
   );
 }
-
 export default IconMoodSuprised;

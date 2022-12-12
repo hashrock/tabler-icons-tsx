@@ -28,5 +28,4 @@ function IconFountainOff({
     </svg>
   );
 }
-
 export default IconFountainOff;

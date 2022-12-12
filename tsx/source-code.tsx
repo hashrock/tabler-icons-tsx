@@ -25,5 +25,4 @@ function IconSourceCode({
     </svg>
   );
 }
-
 export default IconSourceCode;

@@ -26,5 +26,4 @@ function IconDeviceWatchStats2({
     </svg>
   );
 }
-
 export default IconDeviceWatchStats2;

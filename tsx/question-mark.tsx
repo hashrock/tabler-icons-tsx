@@ -24,5 +24,4 @@ function IconQuestionMark({
     </svg>
   );
 }
-
 export default IconQuestionMark;

@@ -23,5 +23,4 @@ function IconBrandTumblr({
     </svg>
   );
 }
-
 export default IconBrandTumblr;

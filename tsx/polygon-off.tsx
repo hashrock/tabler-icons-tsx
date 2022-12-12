@@ -31,5 +31,4 @@ function IconPolygonOff({
     </svg>
   );
 }
-
 export default IconPolygonOff;

@@ -25,5 +25,4 @@ function IconSmartHomeOff({
     </svg>
   );
 }
-
 export default IconSmartHomeOff;

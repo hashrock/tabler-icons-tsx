@@ -24,5 +24,4 @@ function IconCrossOff({
     </svg>
   );
 }
-
 export default IconCrossOff;

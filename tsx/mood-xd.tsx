@@ -27,5 +27,4 @@ function IconMoodXd({
     </svg>
   );
 }
-
 export default IconMoodXd;

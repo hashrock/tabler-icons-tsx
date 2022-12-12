@@ -27,5 +27,4 @@ function IconWindOff({
     </svg>
   );
 }
-
 export default IconWindOff;

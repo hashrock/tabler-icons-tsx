@@ -26,5 +26,4 @@ function IconSortZA({
     </svg>
   );
 }
-
 export default IconSortZA;

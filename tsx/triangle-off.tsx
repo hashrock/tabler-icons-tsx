@@ -24,5 +24,4 @@ function IconTriangleOff({
     </svg>
   );
 }
-
 export default IconTriangleOff;

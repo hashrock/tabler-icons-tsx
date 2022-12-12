@@ -24,5 +24,4 @@ function IconPentagonOff({
     </svg>
   );
 }
-
 export default IconPentagonOff;

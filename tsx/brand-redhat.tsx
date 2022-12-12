@@ -24,5 +24,4 @@ function IconBrandRedhat({
     </svg>
   );
 }
-
 export default IconBrandRedhat;

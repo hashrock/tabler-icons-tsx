@@ -26,5 +26,4 @@ function IconSortAscendingLetters({
     </svg>
   );
 }
-
 export default IconSortAscendingLetters;

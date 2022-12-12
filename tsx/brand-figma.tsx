@@ -25,5 +25,4 @@ function IconBrandFigma({
     </svg>
   );
 }
-
 export default IconBrandFigma;

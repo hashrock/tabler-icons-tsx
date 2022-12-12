@@ -26,5 +26,4 @@ function IconMapPins({
     </svg>
   );
 }
-
 export default IconMapPins;

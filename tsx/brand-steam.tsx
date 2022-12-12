@@ -24,5 +24,4 @@ function IconBrandSteam({
     </svg>
   );
 }
-
 export default IconBrandSteam;

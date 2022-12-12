@@ -28,5 +28,4 @@ function IconTractor({
     </svg>
   );
 }
-
 export default IconTractor;

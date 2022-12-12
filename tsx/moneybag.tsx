@@ -24,5 +24,4 @@ function IconMoneybag({
     </svg>
   );
 }
-
 export default IconMoneybag;

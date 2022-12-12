@@ -24,5 +24,4 @@ function IconFilterOff({
     </svg>
   );
 }
-
 export default IconFilterOff;

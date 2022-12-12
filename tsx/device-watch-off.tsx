@@ -26,5 +26,4 @@ function IconDeviceWatchOff({
     </svg>
   );
 }
-
 export default IconDeviceWatchOff;

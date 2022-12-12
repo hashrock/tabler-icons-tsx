@@ -23,5 +23,4 @@ function IconTilde({
     </svg>
   );
 }
-
 export default IconTilde;

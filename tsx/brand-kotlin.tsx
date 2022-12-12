@@ -26,5 +26,4 @@ function IconBrandKotlin({
     </svg>
   );
 }
-
 export default IconBrandKotlin;

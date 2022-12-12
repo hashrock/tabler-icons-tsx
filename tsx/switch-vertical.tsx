@@ -26,5 +26,4 @@ function IconSwitchVertical({
     </svg>
   );
 }
-
 export default IconSwitchVertical;

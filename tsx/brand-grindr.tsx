@@ -25,5 +25,4 @@ function IconBrandGrindr({
     </svg>
   );
 }
-
 export default IconBrandGrindr;

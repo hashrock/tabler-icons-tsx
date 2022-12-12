@@ -26,5 +26,4 @@ function IconArrowsDiagonal({
     </svg>
   );
 }
-
 export default IconArrowsDiagonal;

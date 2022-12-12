@@ -24,5 +24,4 @@ function IconBrandVue({
     </svg>
   );
 }
-
 export default IconBrandVue;

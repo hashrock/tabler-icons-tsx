@@ -24,5 +24,4 @@ function IconMail({
     </svg>
   );
 }
-
 export default IconMail;

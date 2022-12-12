@@ -25,5 +25,4 @@ function IconDoor({
     </svg>
   );
 }
-
 export default IconDoor;

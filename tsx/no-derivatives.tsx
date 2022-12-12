@@ -25,5 +25,4 @@ function IconNoDerivatives({
     </svg>
   );
 }
-
 export default IconNoDerivatives;

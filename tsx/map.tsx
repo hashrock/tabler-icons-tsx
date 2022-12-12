@@ -25,5 +25,4 @@ function IconMap({
     </svg>
   );
 }
-
 export default IconMap;

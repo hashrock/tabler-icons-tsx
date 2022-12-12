@@ -25,5 +25,4 @@ function IconGiftCard({
     </svg>
   );
 }
-
 export default IconGiftCard;

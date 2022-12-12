@@ -26,5 +26,4 @@ function IconTicket({
     </svg>
   );
 }
-
 export default IconTicket;

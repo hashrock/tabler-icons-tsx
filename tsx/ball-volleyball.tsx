@@ -29,5 +29,4 @@ function IconBallVolleyball({
     </svg>
   );
 }
-
 export default IconBallVolleyball;

@@ -26,5 +26,4 @@ function IconZoomCancel({
     </svg>
   );
 }
-
 export default IconZoomCancel;

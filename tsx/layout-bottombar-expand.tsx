@@ -25,5 +25,4 @@ function IconLayoutBottombarExpand({
     </svg>
   );
 }
-
 export default IconLayoutBottombarExpand;

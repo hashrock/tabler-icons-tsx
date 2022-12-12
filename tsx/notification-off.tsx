@@ -25,5 +25,4 @@ function IconNotificationOff({
     </svg>
   );
 }
-
 export default IconNotificationOff;

@@ -25,5 +25,4 @@ function IconShovel({
     </svg>
   );
 }
-
 export default IconShovel;

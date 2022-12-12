@@ -24,5 +24,4 @@ function IconBrandFlutter({
     </svg>
   );
 }
-
 export default IconBrandFlutter;

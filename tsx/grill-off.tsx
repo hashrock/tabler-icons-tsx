@@ -30,5 +30,4 @@ function IconGrillOff({
     </svg>
   );
 }
-
 export default IconGrillOff;

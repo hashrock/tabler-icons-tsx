@@ -26,5 +26,4 @@ function IconGift({
     </svg>
   );
 }
-
 export default IconGift;

@@ -25,5 +25,4 @@ function IconEraserOff({
     </svg>
   );
 }
-
 export default IconEraserOff;

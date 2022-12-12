@@ -29,5 +29,4 @@ function IconMicrowave({
     </svg>
   );
 }
-
 export default IconMicrowave;

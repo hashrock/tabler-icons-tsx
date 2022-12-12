@@ -28,5 +28,4 @@ function IconBrandWalmart({
     </svg>
   );
 }
-
 export default IconBrandWalmart;

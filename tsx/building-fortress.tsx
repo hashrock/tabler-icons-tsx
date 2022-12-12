@@ -29,5 +29,4 @@ function IconBuildingFortress({
     </svg>
   );
 }
-
 export default IconBuildingFortress;

@@ -25,5 +25,4 @@ function IconFileStar({
     </svg>
   );
 }
-
 export default IconFileStar;

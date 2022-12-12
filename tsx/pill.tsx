@@ -24,5 +24,4 @@ function IconPill({
     </svg>
   );
 }
-
 export default IconPill;

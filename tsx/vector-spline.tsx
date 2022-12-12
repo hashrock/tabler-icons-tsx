@@ -25,5 +25,4 @@ function IconVectorSpline({
     </svg>
   );
 }
-
 export default IconVectorSpline;

@@ -24,5 +24,4 @@ function IconBrandCarbon({
     </svg>
   );
 }
-
 export default IconBrandCarbon;

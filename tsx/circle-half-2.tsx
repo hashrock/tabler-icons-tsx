@@ -27,5 +27,4 @@ function IconCircleHalf2({
     </svg>
   );
 }
-
 export default IconCircleHalf2;

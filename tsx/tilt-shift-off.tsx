@@ -32,5 +32,4 @@ function IconTiltShiftOff({
     </svg>
   );
 }
-
 export default IconTiltShiftOff;

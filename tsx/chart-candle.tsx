@@ -31,5 +31,4 @@ function IconChartCandle({
     </svg>
   );
 }
-
 export default IconChartCandle;

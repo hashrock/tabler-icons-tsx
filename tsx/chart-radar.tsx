@@ -27,5 +27,4 @@ function IconChartRadar({
     </svg>
   );
 }
-
 export default IconChartRadar;

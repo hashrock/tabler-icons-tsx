@@ -28,5 +28,4 @@ function IconVectorTriangle({
     </svg>
   );
 }
-
 export default IconVectorTriangle;

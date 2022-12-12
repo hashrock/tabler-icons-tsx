@@ -27,5 +27,4 @@ function IconMultiplier15x({
     </svg>
   );
 }
-
 export default IconMultiplier15x;

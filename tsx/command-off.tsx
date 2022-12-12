@@ -24,5 +24,4 @@ function IconCommandOff({
     </svg>
   );
 }
-
 export default IconCommandOff;

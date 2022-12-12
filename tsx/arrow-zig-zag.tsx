@@ -24,5 +24,4 @@ function IconArrowZigZag({
     </svg>
   );
 }
-
 export default IconArrowZigZag;

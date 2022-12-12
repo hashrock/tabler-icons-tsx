@@ -33,5 +33,4 @@ function IconServerCog({
     </svg>
   );
 }
-
 export default IconServerCog;

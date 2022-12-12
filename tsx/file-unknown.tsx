@@ -26,5 +26,4 @@ function IconFileUnknown({
     </svg>
   );
 }
-
 export default IconFileUnknown;

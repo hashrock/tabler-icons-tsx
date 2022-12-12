@@ -23,5 +23,4 @@ function IconStar({
     </svg>
   );
 }
-
 export default IconStar;

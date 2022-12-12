@@ -24,5 +24,4 @@ function IconChevronsUpRight({
     </svg>
   );
 }
-
 export default IconChevronsUpRight;

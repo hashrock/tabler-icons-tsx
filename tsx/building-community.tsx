@@ -27,5 +27,4 @@ function IconBuildingCommunity({
     </svg>
   );
 }
-
 export default IconBuildingCommunity;

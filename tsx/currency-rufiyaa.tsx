@@ -25,5 +25,4 @@ function IconCurrencyRufiyaa({
     </svg>
   );
 }
-
 export default IconCurrencyRufiyaa;

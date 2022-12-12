@@ -27,5 +27,4 @@ function IconHierarchy2({
     </svg>
   );
 }
-
 export default IconHierarchy2;

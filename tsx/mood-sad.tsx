@@ -26,5 +26,4 @@ function IconMoodSad({
     </svg>
   );
 }
-
 export default IconMoodSad;

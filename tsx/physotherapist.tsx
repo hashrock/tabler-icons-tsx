@@ -28,5 +28,4 @@ function IconPhysotherapist({
     </svg>
   );
 }
-
 export default IconPhysotherapist;

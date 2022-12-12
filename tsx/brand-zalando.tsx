@@ -23,5 +23,4 @@ function IconBrandZalando({
     </svg>
   );
 }
-
 export default IconBrandZalando;

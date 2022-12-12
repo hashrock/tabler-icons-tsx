@@ -25,5 +25,4 @@ function IconBrandUber({
     </svg>
   );
 }
-
 export default IconBrandUber;

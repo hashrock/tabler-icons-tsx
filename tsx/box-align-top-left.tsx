@@ -32,5 +32,4 @@ function IconBoxAlignTopLeft({
     </svg>
   );
 }
-
 export default IconBoxAlignTopLeft;

@@ -26,5 +26,4 @@ function IconDropletFilled2({
     </svg>
   );
 }
-
 export default IconDropletFilled2;

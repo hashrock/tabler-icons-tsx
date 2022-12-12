@@ -24,5 +24,4 @@ function IconDirectionHorizontal({
     </svg>
   );
 }
-
 export default IconDirectionHorizontal;

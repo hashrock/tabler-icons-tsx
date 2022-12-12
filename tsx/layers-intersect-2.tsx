@@ -25,5 +25,4 @@ function IconLayersIntersect2({
     </svg>
   );
 }
-
 export default IconLayersIntersect2;

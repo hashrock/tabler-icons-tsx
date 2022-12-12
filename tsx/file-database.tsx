@@ -26,5 +26,4 @@ function IconFileDatabase({
     </svg>
   );
 }
-
 export default IconFileDatabase;

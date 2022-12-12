@@ -26,5 +26,4 @@ function IconReceiptTax({
     </svg>
   );
 }
-
 export default IconReceiptTax;

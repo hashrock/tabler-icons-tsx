@@ -24,5 +24,4 @@ function IconBeer({
     </svg>
   );
 }
-
 export default IconBeer;

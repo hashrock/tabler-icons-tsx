@@ -25,5 +25,4 @@ function IconClockStop({
     </svg>
   );
 }
-
 export default IconClockStop;

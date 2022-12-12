@@ -28,5 +28,4 @@ function IconCalendarPlus({
     </svg>
   );
 }
-
 export default IconCalendarPlus;

@@ -26,5 +26,4 @@ function IconMailFast({
     </svg>
   );
 }
-
 export default IconMailFast;

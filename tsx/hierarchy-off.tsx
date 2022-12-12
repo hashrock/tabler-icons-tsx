@@ -28,5 +28,4 @@ function IconHierarchyOff({
     </svg>
   );
 }
-
 export default IconHierarchyOff;

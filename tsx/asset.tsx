@@ -28,5 +28,4 @@ function IconAsset({
     </svg>
   );
 }
-
 export default IconAsset;

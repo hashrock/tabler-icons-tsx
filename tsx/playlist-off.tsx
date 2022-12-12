@@ -28,5 +28,4 @@ function IconPlaylistOff({
     </svg>
   );
 }
-
 export default IconPlaylistOff;

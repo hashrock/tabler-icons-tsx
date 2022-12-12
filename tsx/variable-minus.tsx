@@ -26,5 +26,4 @@ function IconVariableMinus({
     </svg>
   );
 }
-
 export default IconVariableMinus;

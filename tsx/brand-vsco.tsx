@@ -45,5 +45,4 @@ function IconBrandVsco({
     </svg>
   );
 }
-
 export default IconBrandVsco;

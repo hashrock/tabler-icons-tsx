@@ -25,5 +25,4 @@ function IconChess({
     </svg>
   );
 }
-
 export default IconChess;

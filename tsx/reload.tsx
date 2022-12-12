@@ -24,5 +24,4 @@ function IconReload({
     </svg>
   );
 }
-
 export default IconReload;

@@ -27,5 +27,4 @@ function IconCashBanknoteOff({
     </svg>
   );
 }
-
 export default IconCashBanknoteOff;

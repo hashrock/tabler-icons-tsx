@@ -28,5 +28,4 @@ function IconWheelchair({
     </svg>
   );
 }
-
 export default IconWheelchair;

@@ -23,5 +23,4 @@ function IconArrowBack({
     </svg>
   );
 }
-
 export default IconArrowBack;

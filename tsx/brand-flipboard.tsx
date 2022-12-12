@@ -23,5 +23,4 @@ function IconBrandFlipboard({
     </svg>
   );
 }
-
 export default IconBrandFlipboard;

@@ -24,5 +24,4 @@ function IconBackspace({
     </svg>
   );
 }
-
 export default IconBackspace;

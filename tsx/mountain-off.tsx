@@ -25,5 +25,4 @@ function IconMountainOff({
     </svg>
   );
 }
-
 export default IconMountainOff;

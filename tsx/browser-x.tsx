@@ -27,5 +27,4 @@ function IconBrowserX({
     </svg>
   );
 }
-
 export default IconBrowserX;

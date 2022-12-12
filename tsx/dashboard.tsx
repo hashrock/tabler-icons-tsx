@@ -25,5 +25,4 @@ function IconDashboard({
     </svg>
   );
 }
-
 export default IconDashboard;

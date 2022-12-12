@@ -30,5 +30,4 @@ function IconH4({
     </svg>
   );
 }
-
 export default IconH4;

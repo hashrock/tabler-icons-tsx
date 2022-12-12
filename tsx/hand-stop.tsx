@@ -26,5 +26,4 @@ function IconHandStop({
     </svg>
   );
 }
-
 export default IconHandStop;

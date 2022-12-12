@@ -26,5 +26,4 @@ function IconMilk({
     </svg>
   );
 }
-
 export default IconMilk;

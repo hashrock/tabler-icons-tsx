@@ -24,5 +24,4 @@ function IconScaleOutline({
     </svg>
   );
 }
-
 export default IconScaleOutline;

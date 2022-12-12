@@ -26,5 +26,4 @@ function IconBracketsContainEnd({
     </svg>
   );
 }
-
 export default IconBracketsContainEnd;

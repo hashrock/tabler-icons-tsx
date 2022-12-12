@@ -30,5 +30,4 @@ function IconTicTac({
     </svg>
   );
 }
-
 export default IconTicTac;

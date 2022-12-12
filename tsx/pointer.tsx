@@ -24,5 +24,4 @@ function IconPointer({
     </svg>
   );
 }
-
 export default IconPointer;

@@ -25,5 +25,4 @@ function IconBrandBeats({
     </svg>
   );
 }
-
 export default IconBrandBeats;

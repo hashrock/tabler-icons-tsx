@@ -28,5 +28,4 @@ function IconReceiptOff({
     </svg>
   );
 }
-
 export default IconReceiptOff;

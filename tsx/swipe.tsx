@@ -24,5 +24,4 @@ function IconSwipe({
     </svg>
   );
 }
-
 export default IconSwipe;

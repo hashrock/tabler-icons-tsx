@@ -23,5 +23,4 @@ function IconCommand({
     </svg>
   );
 }
-
 export default IconCommand;

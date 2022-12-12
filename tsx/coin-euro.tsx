@@ -26,5 +26,4 @@ function IconCoinEuro({
     </svg>
   );
 }
-
 export default IconCoinEuro;

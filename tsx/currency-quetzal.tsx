@@ -24,5 +24,4 @@ function IconCurrencyQuetzal({
     </svg>
   );
 }
-
 export default IconCurrencyQuetzal;

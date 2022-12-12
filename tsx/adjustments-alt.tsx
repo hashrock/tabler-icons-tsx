@@ -31,5 +31,4 @@ function IconAdjustmentsAlt({
     </svg>
   );
 }
-
 export default IconAdjustmentsAlt;

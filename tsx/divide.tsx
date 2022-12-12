@@ -25,5 +25,4 @@ function IconDivide({
     </svg>
   );
 }
-
 export default IconDivide;

@@ -24,5 +24,4 @@ function IconEye({
     </svg>
   );
 }
-
 export default IconEye;

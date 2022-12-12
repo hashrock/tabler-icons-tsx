@@ -30,5 +30,4 @@ function IconCircleDashed({
     </svg>
   );
 }
-
 export default IconCircleDashed;

@@ -27,5 +27,4 @@ function IconFileDiff({
     </svg>
   );
 }
-
 export default IconFileDiff;

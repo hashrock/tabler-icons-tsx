@@ -27,5 +27,4 @@ function IconBrand4chan({
     </svg>
   );
 }
-
 export default IconBrand4chan;

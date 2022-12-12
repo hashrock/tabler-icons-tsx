@@ -24,5 +24,4 @@ function IconChartLine({
     </svg>
   );
 }
-
 export default IconChartLine;

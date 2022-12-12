@@ -27,5 +27,4 @@ function IconFingerprint({
     </svg>
   );
 }
-
 export default IconFingerprint;

@@ -26,5 +26,4 @@ function IconArchiveOff({
     </svg>
   );
 }
-
 export default IconArchiveOff;

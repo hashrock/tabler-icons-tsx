@@ -24,5 +24,4 @@ function IconBrandYoutubeKids({
     </svg>
   );
 }
-
 export default IconBrandYoutubeKids;

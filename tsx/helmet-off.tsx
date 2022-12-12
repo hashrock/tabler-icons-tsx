@@ -25,5 +25,4 @@ function IconHelmetOff({
     </svg>
   );
 }
-
 export default IconHelmetOff;

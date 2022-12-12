@@ -1,13 +1,10 @@
 import { download } from "https://deno.land/x/download@v1.0.1/mod.ts";
 import { decompress } from "https://deno.land/x/zip@v1.2.3/mod.ts";
+import svgr from "npm:@svgr/core";
+import type { Template } from "npm:@svgr/babel-plugin-transform-svg-component";
 
 try {
   await Deno.remove("./tsx", { recursive: true });
-} catch (_) {
-  // ignore
-}
-try {
-  await Deno.remove("./react", { recursive: true });
 } catch (_) {
   // ignore
 }
@@ -18,44 +15,65 @@ const url =
 await download(url, { file: "tabler-icons.zip", dir: "./" });
 await decompress("tabler-icons.zip", "tabler-icons");
 
-await Deno.rename("./tabler-icons/icons-react/icons-js", "./react");
-
-for (const file of Deno.readDirSync("./react")) {
-  if (file.isFile) {
-    if (file.name.match(/^circle-[0-9a-z]\.js$/)) {
-      await Deno.remove(`./react/${file.name}`);
-    }
-    if (file.name.match(/^arrow-bottom-.*\.js$/)) {
-      await Deno.remove(`./react/${file.name}`);
-    }
-  }
-}
-
+await Deno.rename("./tabler-icons/icons", "./icons");
 await Deno.remove("./tabler-icons", { recursive: true });
 await Deno.remove("./tabler-icons.zip");
 
-const files = Deno.readDirSync("react");
+const files = Deno.readDirSync("icons");
 
 // write files to icons.json
 const icons = [];
 
+export const template: Template = (variables, { tpl }) => {
+  return tpl`
+function ${variables.componentName}({ size = 24, color = "currentColor", stroke = 2, ...props }) { return (${variables.jsx}); }
+
+${variables.exports}
+`;
+};
+
+const camelize = function (str: string) {
+  str = str.replace(/-/g, " ");
+
+  return str.replace(
+    /(?:^\w|[A-Z]|\b\w)/g,
+    function (word: string, _) {
+      return word.toUpperCase();
+    },
+  ).replace(/\s+/g, "");
+};
+
 for (const file of files) {
   const name = file.name;
-  const content = Deno.readTextFileSync(`react/${name}`);
+  const basename = name.replace(/\.svg$/, "");
+
+  const content = await svgr.transform(
+    await Deno.readTextFile(`icons/${name}`),
+    {
+      icon: false,
+      svgProps: {
+        width: "{size}",
+        height: "{size}",
+        strokeWidth: "{stroke}",
+        stroke: "{color}",
+      },
+      template,
+    },
+    {
+      componentName: camelize("Icon-" + basename),
+    },
+  );
+
   const result = replace(content);
   Deno.mkdirSync("tsx", { recursive: true });
-  Deno.writeTextFileSync(`tsx/${name.replace(/\.js$/, ".tsx")}`, result);
-  icons.push(name.replace(/\.js$/, ""));
+  Deno.writeTextFileSync(`tsx/${name.replace(/\.svg$/, ".tsx")}`, result);
+  icons.push(name.replace(/\.svg$/, ""));
 }
 
 Deno.writeTextFileSync("data/icons.json", JSON.stringify(icons, null, 2));
 
 function replace(content: string) {
   const patterns = [
-    {
-      match: /import \* as React from "react";\n\n/mg,
-      replace: "",
-    },
     {
       match: "className",
       replace: "class",
@@ -111,4 +129,4 @@ function replace(content: string) {
   return content;
 }
 
-await Deno.remove("./react", { recursive: true });
+await Deno.remove("./icons", { recursive: true });

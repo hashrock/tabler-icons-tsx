@@ -27,5 +27,4 @@ function IconTrash({
     </svg>
   );
 }
-
 export default IconTrash;

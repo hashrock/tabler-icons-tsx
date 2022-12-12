@@ -24,5 +24,4 @@ function IconBrandComedyCentral({
     </svg>
   );
 }
-
 export default IconBrandComedyCentral;

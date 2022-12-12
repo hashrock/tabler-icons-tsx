@@ -26,5 +26,4 @@ function IconArrowBarDown({
     </svg>
   );
 }
-
 export default IconArrowBarDown;

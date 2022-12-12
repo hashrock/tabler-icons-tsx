@@ -33,5 +33,4 @@ function IconArtboardOff({
     </svg>
   );
 }
-
 export default IconArtboardOff;

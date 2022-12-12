@@ -28,5 +28,4 @@ function IconFreeRights({
     </svg>
   );
 }
-
 export default IconFreeRights;

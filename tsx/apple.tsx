@@ -25,5 +25,4 @@ function IconApple({
     </svg>
   );
 }
-
 export default IconApple;

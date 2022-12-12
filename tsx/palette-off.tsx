@@ -27,5 +27,4 @@ function IconPaletteOff({
     </svg>
   );
 }
-
 export default IconPaletteOff;

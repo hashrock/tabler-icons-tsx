@@ -25,5 +25,4 @@ function IconCircleRectangleOff({
     </svg>
   );
 }
-
 export default IconCircleRectangleOff;

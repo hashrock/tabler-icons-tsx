@@ -23,5 +23,4 @@ function IconOmega({
     </svg>
   );
 }
-
 export default IconOmega;

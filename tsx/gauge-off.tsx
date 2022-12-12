@@ -27,5 +27,4 @@ function IconGaugeOff({
     </svg>
   );
 }
-
 export default IconGaugeOff;

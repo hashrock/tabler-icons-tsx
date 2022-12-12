@@ -26,5 +26,4 @@ function IconPaintOff({
     </svg>
   );
 }
-
 export default IconPaintOff;

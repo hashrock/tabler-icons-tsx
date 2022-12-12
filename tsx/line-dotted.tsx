@@ -27,5 +27,4 @@ function IconLineDotted({
     </svg>
   );
 }
-
 export default IconLineDotted;

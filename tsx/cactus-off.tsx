@@ -27,5 +27,4 @@ function IconCactusOff({
     </svg>
   );
 }
-
 export default IconCactusOff;

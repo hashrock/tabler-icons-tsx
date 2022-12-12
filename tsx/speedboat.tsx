@@ -25,5 +25,4 @@ function IconSpeedboat({
     </svg>
   );
 }
-
 export default IconSpeedboat;

@@ -26,5 +26,4 @@ function IconBrowserCheck({
     </svg>
   );
 }
-
 export default IconBrowserCheck;

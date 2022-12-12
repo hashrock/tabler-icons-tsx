@@ -26,5 +26,4 @@ function IconMoodTongue({
     </svg>
   );
 }
-
 export default IconMoodTongue;

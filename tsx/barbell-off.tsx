@@ -30,5 +30,4 @@ function IconBarbellOff({
     </svg>
   );
 }
-
 export default IconBarbellOff;

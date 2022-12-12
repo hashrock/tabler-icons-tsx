@@ -24,5 +24,4 @@ function IconCone2({
     </svg>
   );
 }
-
 export default IconCone2;

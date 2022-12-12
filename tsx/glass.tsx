@@ -25,5 +25,4 @@ function IconGlass({
     </svg>
   );
 }
-
 export default IconGlass;

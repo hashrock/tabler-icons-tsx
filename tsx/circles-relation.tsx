@@ -24,5 +24,4 @@ function IconCirclesRelation({
     </svg>
   );
 }
-
 export default IconCirclesRelation;

@@ -31,5 +31,4 @@ function IconShapeOff({
     </svg>
   );
 }
-
 export default IconShapeOff;

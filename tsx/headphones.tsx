@@ -25,5 +25,4 @@ function IconHeadphones({
     </svg>
   );
 }
-
 export default IconHeadphones;

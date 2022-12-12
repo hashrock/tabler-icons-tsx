@@ -28,5 +28,4 @@ function IconCalendarStats({
     </svg>
   );
 }
-
 export default IconCalendarStats;

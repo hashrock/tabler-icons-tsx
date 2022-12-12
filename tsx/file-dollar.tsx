@@ -26,5 +26,4 @@ function IconFileDollar({
     </svg>
   );
 }
-
 export default IconFileDollar;

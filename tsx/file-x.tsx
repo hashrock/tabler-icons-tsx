@@ -25,5 +25,4 @@ function IconFileX({
     </svg>
   );
 }
-
 export default IconFileX;

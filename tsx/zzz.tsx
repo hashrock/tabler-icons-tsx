@@ -24,5 +24,4 @@ function IconZzz({
     </svg>
   );
 }
-
 export default IconZzz;

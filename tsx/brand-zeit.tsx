@@ -23,5 +23,4 @@ function IconBrandZeit({
     </svg>
   );
 }
-
 export default IconBrandZeit;

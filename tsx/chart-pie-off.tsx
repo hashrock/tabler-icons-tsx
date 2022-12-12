@@ -25,5 +25,4 @@ function IconChartPieOff({
     </svg>
   );
 }
-
 export default IconChartPieOff;

@@ -27,5 +27,4 @@ function IconCoffee({
     </svg>
   );
 }
-
 export default IconCoffee;

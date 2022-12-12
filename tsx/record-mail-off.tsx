@@ -26,5 +26,4 @@ function IconRecordMailOff({
     </svg>
   );
 }
-
 export default IconRecordMailOff;

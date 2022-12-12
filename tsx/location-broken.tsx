@@ -24,5 +24,4 @@ function IconLocationBroken({
     </svg>
   );
 }
-
 export default IconLocationBroken;

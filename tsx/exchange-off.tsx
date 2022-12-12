@@ -29,5 +29,4 @@ function IconExchangeOff({
     </svg>
   );
 }
-
 export default IconExchangeOff;

@@ -24,5 +24,4 @@ function IconShredder({
     </svg>
   );
 }
-
 export default IconShredder;

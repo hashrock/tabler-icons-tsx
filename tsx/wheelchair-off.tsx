@@ -29,5 +29,4 @@ function IconWheelchairOff({
     </svg>
   );
 }
-
 export default IconWheelchairOff;

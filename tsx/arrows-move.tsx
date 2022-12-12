@@ -30,5 +30,4 @@ function IconArrowsMove({
     </svg>
   );
 }
-
 export default IconArrowsMove;

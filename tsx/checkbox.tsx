@@ -24,5 +24,4 @@ function IconCheckbox({
     </svg>
   );
 }
-
 export default IconCheckbox;

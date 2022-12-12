@@ -25,5 +25,4 @@ function IconSubmarine({
     </svg>
   );
 }
-
 export default IconSubmarine;

@@ -31,5 +31,4 @@ function IconColumnsOff({
     </svg>
   );
 }
-
 export default IconColumnsOff;

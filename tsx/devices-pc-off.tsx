@@ -29,5 +29,4 @@ function IconDevicesPcOff({
     </svg>
   );
 }
-
 export default IconDevicesPcOff;

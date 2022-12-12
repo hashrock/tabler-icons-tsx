@@ -26,5 +26,4 @@ function IconMoodWrrr({
     </svg>
   );
 }
-
 export default IconMoodWrrr;

@@ -27,5 +27,4 @@ function IconBrandNytimes({
     </svg>
   );
 }
-
 export default IconBrandNytimes;

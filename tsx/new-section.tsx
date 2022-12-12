@@ -25,5 +25,4 @@ function IconNewSection({
     </svg>
   );
 }
-
 export default IconNewSection;

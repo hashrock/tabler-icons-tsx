@@ -25,5 +25,4 @@ function IconAccessible({
     </svg>
   );
 }
-
 export default IconAccessible;

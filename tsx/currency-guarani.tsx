@@ -24,5 +24,4 @@ function IconCurrencyGuarani({
     </svg>
   );
 }
-
 export default IconCurrencyGuarani;

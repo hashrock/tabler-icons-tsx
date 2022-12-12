@@ -26,5 +26,4 @@ function IconDeviceNintendo({
     </svg>
   );
 }
-
 export default IconDeviceNintendo;

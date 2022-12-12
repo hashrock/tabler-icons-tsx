@@ -26,5 +26,4 @@ function IconHomeInfinity({
     </svg>
   );
 }
-
 export default IconHomeInfinity;

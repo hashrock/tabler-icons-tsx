@@ -27,5 +27,4 @@ function Icon3dRotate({
     </svg>
   );
 }
-
 export default Icon3dRotate;

@@ -34,5 +34,4 @@ function IconBorderRadius({
     </svg>
   );
 }
-
 export default IconBorderRadius;

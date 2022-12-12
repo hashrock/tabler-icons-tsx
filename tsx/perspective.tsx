@@ -23,5 +23,4 @@ function IconPerspective({
     </svg>
   );
 }
-
 export default IconPerspective;

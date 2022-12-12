@@ -25,5 +25,4 @@ function IconFileDelta({
     </svg>
   );
 }
-
 export default IconFileDelta;

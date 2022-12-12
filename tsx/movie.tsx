@@ -30,5 +30,4 @@ function IconMovie({
     </svg>
   );
 }
-
 export default IconMovie;

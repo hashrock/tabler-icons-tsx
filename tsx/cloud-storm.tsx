@@ -24,5 +24,4 @@ function IconCloudStorm({
     </svg>
   );
 }
-
 export default IconCloudStorm;

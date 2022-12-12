@@ -24,5 +24,4 @@ function IconBrandRevolut({
     </svg>
   );
 }
-
 export default IconBrandRevolut;

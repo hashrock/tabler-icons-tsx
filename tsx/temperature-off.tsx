@@ -25,5 +25,4 @@ function IconTemperatureOff({
     </svg>
   );
 }
-
 export default IconTemperatureOff;

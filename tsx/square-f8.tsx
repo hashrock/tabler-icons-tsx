@@ -26,5 +26,4 @@ function IconSquareF8({
     </svg>
   );
 }
-
 export default IconSquareF8;

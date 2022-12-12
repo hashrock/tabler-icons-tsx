@@ -25,5 +25,4 @@ function IconClockPlay({
     </svg>
   );
 }
-
 export default IconClockPlay;

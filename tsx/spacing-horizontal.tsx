@@ -25,5 +25,4 @@ function IconSpacingHorizontal({
     </svg>
   );
 }
-
 export default IconSpacingHorizontal;

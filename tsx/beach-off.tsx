@@ -29,5 +29,4 @@ function IconBeachOff({
     </svg>
   );
 }
-
 export default IconBeachOff;

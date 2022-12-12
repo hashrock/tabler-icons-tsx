@@ -24,5 +24,4 @@ function IconPepper({
     </svg>
   );
 }
-
 export default IconPepper;

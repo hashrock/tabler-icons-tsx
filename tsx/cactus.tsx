@@ -26,5 +26,4 @@ function IconCactus({
     </svg>
   );
 }
-
 export default IconCactus;

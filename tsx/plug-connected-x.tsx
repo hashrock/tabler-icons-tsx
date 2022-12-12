@@ -30,5 +30,4 @@ function IconPlugConnectedX({
     </svg>
   );
 }
-
 export default IconPlugConnectedX;

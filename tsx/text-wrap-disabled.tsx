@@ -25,5 +25,4 @@ function IconTextWrapDisabled({
     </svg>
   );
 }
-
 export default IconTextWrapDisabled;

@@ -31,5 +31,4 @@ function IconGenderGenderfluid({
     </svg>
   );
 }
-
 export default IconGenderGenderfluid;

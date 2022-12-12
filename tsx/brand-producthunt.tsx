@@ -24,5 +24,4 @@ function IconBrandProducthunt({
     </svg>
   );
 }
-
 export default IconBrandProducthunt;

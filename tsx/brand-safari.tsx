@@ -24,5 +24,4 @@ function IconBrandSafari({
     </svg>
   );
 }
-
 export default IconBrandSafari;

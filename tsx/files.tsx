@@ -25,5 +25,4 @@ function IconFiles({
     </svg>
   );
 }
-
 export default IconFiles;

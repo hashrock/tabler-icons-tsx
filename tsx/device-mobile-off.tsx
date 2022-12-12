@@ -26,5 +26,4 @@ function IconDeviceMobileOff({
     </svg>
   );
 }
-
 export default IconDeviceMobileOff;

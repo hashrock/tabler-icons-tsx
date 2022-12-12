@@ -27,5 +27,4 @@ function IconAugmentedReality2({
     </svg>
   );
 }
-
 export default IconAugmentedReality2;

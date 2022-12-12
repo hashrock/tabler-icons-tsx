@@ -28,5 +28,4 @@ function IconLiveView({
     </svg>
   );
 }
-
 export default IconLiveView;

@@ -27,5 +27,4 @@ function IconTextOrientation({
     </svg>
   );
 }
-
 export default IconTextOrientation;

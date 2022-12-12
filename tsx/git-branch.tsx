@@ -28,5 +28,4 @@ function IconGitBranch({
     </svg>
   );
 }
-
 export default IconGitBranch;

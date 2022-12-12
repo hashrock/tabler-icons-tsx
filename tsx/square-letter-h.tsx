@@ -25,5 +25,4 @@ function IconSquareLetterH({
     </svg>
   );
 }
-
 export default IconSquareLetterH;

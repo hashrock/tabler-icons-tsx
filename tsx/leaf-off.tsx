@@ -25,5 +25,4 @@ function IconLeafOff({
     </svg>
   );
 }
-
 export default IconLeafOff;

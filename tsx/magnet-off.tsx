@@ -26,5 +26,4 @@ function IconMagnetOff({
     </svg>
   );
 }
-
 export default IconMagnetOff;

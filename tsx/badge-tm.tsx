@@ -26,5 +26,4 @@ function IconBadgeTm({
     </svg>
   );
 }
-
 export default IconBadgeTm;

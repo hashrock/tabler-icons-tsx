@@ -27,5 +27,4 @@ function IconCloudDataConnection({
     </svg>
   );
 }
-
 export default IconCloudDataConnection;

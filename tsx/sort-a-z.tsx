@@ -26,5 +26,4 @@ function IconSortAZ({
     </svg>
   );
 }
-
 export default IconSortAZ;

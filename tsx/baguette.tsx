@@ -26,5 +26,4 @@ function IconBaguette({
     </svg>
   );
 }
-
 export default IconBaguette;

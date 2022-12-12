@@ -26,5 +26,4 @@ function IconZoomExclamation({
     </svg>
   );
 }
-
 export default IconZoomExclamation;

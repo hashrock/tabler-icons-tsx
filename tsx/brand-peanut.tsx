@@ -23,5 +23,4 @@ function IconBrandPeanut({
     </svg>
   );
 }
-
 export default IconBrandPeanut;

@@ -24,5 +24,4 @@ function IconArrowsExchange2({
     </svg>
   );
 }
-
 export default IconArrowsExchange2;

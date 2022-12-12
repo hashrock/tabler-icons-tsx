@@ -25,5 +25,4 @@ function IconCreativeCommonsBy({
     </svg>
   );
 }
-
 export default IconCreativeCommonsBy;

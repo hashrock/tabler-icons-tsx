@@ -23,5 +23,4 @@ function IconCurrencyMonero({
     </svg>
   );
 }
-
 export default IconCurrencyMonero;

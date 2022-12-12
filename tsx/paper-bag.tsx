@@ -26,5 +26,4 @@ function IconPaperBag({
     </svg>
   );
 }
-
 export default IconPaperBag;

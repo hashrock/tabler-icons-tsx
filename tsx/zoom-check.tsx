@@ -25,5 +25,4 @@ function IconZoomCheck({
     </svg>
   );
 }
-
 export default IconZoomCheck;

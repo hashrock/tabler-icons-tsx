@@ -25,5 +25,4 @@ function IconRepeatOnce({
     </svg>
   );
 }
-
 export default IconRepeatOnce;

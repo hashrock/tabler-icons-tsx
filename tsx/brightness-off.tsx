@@ -28,5 +28,4 @@ function IconBrightnessOff({
     </svg>
   );
 }
-
 export default IconBrightnessOff;

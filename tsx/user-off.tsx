@@ -25,5 +25,4 @@ function IconUserOff({
     </svg>
   );
 }
-
 export default IconUserOff;

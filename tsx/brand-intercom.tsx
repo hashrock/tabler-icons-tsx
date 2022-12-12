@@ -28,5 +28,4 @@ function IconBrandIntercom({
     </svg>
   );
 }
-
 export default IconBrandIntercom;

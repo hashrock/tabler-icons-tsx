@@ -27,5 +27,4 @@ function IconPhotoX({
     </svg>
   );
 }
-
 export default IconPhotoX;

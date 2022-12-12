@@ -25,5 +25,4 @@ function IconBrandAmongus({
     </svg>
   );
 }
-
 export default IconBrandAmongus;

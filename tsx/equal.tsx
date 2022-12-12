@@ -24,5 +24,4 @@ function IconEqual({
     </svg>
   );
 }
-
 export default IconEqual;

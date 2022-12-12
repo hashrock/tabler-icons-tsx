@@ -26,5 +26,4 @@ function IconGardenCartOff({
     </svg>
   );
 }
-
 export default IconGardenCartOff;

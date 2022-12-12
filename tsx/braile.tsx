@@ -28,5 +28,4 @@ function IconBraile({
     </svg>
   );
 }
-
 export default IconBraile;

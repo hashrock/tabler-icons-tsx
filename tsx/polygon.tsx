@@ -30,5 +30,4 @@ function IconPolygon({
     </svg>
   );
 }
-
 export default IconPolygon;

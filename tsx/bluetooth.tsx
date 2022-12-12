@@ -23,5 +23,4 @@ function IconBluetooth({
     </svg>
   );
 }
-
 export default IconBluetooth;

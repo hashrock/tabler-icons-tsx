@@ -27,5 +27,4 @@ function IconMassage({
     </svg>
   );
 }
-
 export default IconMassage;

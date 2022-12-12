@@ -25,5 +25,4 @@ function IconArrowGuide({
     </svg>
   );
 }
-
 export default IconArrowGuide;

@@ -26,5 +26,4 @@ function IconTableAlias({
     </svg>
   );
 }
-
 export default IconTableAlias;

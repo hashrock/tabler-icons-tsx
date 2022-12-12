@@ -25,5 +25,4 @@ function IconMilitaryAward({
     </svg>
   );
 }
-
 export default IconMilitaryAward;

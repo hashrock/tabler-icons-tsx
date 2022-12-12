@@ -25,5 +25,4 @@ function IconAlertOctagon({
     </svg>
   );
 }
-
 export default IconAlertOctagon;

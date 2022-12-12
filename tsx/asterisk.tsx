@@ -28,5 +28,4 @@ function IconAsterisk({
     </svg>
   );
 }
-
 export default IconAsterisk;

@@ -25,5 +25,4 @@ function IconHelp({
     </svg>
   );
 }
-
 export default IconHelp;

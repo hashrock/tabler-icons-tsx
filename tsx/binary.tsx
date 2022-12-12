@@ -26,5 +26,4 @@ function IconBinary({
     </svg>
   );
 }
-
 export default IconBinary;

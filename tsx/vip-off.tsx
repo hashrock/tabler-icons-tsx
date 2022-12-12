@@ -28,5 +28,4 @@ function IconVipOff({
     </svg>
   );
 }
-
 export default IconVipOff;

@@ -23,5 +23,4 @@ function IconWaveSawTool({
     </svg>
   );
 }
-
 export default IconWaveSawTool;

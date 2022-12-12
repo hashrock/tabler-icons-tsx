@@ -26,5 +26,4 @@ function IconAlien({
     </svg>
   );
 }
-
 export default IconAlien;

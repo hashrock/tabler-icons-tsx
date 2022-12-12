@@ -28,5 +28,4 @@ function IconListDetails({
     </svg>
   );
 }
-
 export default IconListDetails;

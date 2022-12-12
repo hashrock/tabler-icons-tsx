@@ -24,5 +24,4 @@ function IconHexagonNumber1({
     </svg>
   );
 }
-
 export default IconHexagonNumber1;

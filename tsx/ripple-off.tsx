@@ -26,5 +26,4 @@ function IconRippleOff({
     </svg>
   );
 }
-
 export default IconRippleOff;

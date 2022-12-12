@@ -25,5 +25,4 @@ function IconHanger2({
     </svg>
   );
 }
-
 export default IconHanger2;

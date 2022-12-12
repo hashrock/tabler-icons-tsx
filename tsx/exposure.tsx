@@ -26,5 +26,4 @@ function IconExposure({
     </svg>
   );
 }
-
 export default IconExposure;

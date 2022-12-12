@@ -25,5 +25,4 @@ function IconFishHook({
     </svg>
   );
 }
-
 export default IconFishHook;

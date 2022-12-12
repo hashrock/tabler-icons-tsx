@@ -25,5 +25,4 @@ function IconEditCircle({
     </svg>
   );
 }
-
 export default IconEditCircle;

@@ -24,5 +24,4 @@ function IconHeartbeat({
     </svg>
   );
 }
-
 export default IconHeartbeat;

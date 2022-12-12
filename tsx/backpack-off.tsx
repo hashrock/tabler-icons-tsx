@@ -26,5 +26,4 @@ function IconBackpackOff({
     </svg>
   );
 }
-
 export default IconBackpackOff;

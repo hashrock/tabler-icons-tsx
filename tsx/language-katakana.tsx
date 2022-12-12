@@ -26,5 +26,4 @@ function IconLanguageKatakana({
     </svg>
   );
 }
-
 export default IconLanguageKatakana;

@@ -28,5 +28,4 @@ function IconCircuitCapacitorPolarized({
     </svg>
   );
 }
-
 export default IconCircuitCapacitorPolarized;

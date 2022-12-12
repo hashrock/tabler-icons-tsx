@@ -24,5 +24,4 @@ function IconSearchOff({
     </svg>
   );
 }
-
 export default IconSearchOff;

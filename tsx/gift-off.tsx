@@ -27,5 +27,4 @@ function IconGiftOff({
     </svg>
   );
 }
-
 export default IconGiftOff;

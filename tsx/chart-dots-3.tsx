@@ -29,5 +29,4 @@ function IconChartDots3({
     </svg>
   );
 }
-
 export default IconChartDots3;

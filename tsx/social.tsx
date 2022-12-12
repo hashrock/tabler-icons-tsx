@@ -29,5 +29,4 @@ function IconSocial({
     </svg>
   );
 }
-
 export default IconSocial;

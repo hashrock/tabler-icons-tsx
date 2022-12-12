@@ -26,5 +26,4 @@ function IconArticle({
     </svg>
   );
 }
-
 export default IconArticle;

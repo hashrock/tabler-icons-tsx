@@ -31,5 +31,4 @@ function IconKeyboardHide({
     </svg>
   );
 }
-
 export default IconKeyboardHide;

@@ -25,5 +25,4 @@ function IconZoomReset({
     </svg>
   );
 }
-
 export default IconZoomReset;

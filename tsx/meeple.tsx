@@ -23,5 +23,4 @@ function IconMeeple({
     </svg>
   );
 }
-
 export default IconMeeple;

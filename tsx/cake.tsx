@@ -25,5 +25,4 @@ function IconCake({
     </svg>
   );
 }
-
 export default IconCake;

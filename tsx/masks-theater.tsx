@@ -30,5 +30,4 @@ function IconMasksTheater({
     </svg>
   );
 }
-
 export default IconMasksTheater;

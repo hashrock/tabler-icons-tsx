@@ -28,5 +28,4 @@ function IconOlympicsOff({
     </svg>
   );
 }
-
 export default IconOlympicsOff;

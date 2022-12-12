@@ -26,5 +26,4 @@ function IconBuildingLighthouse({
     </svg>
   );
 }
-
 export default IconBuildingLighthouse;

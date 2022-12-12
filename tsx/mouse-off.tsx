@@ -25,5 +25,4 @@ function IconMouseOff({
     </svg>
   );
 }
-
 export default IconMouseOff;

@@ -24,5 +24,4 @@ function IconCircleRectangle({
     </svg>
   );
 }
-
 export default IconCircleRectangle;

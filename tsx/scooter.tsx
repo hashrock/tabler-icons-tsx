@@ -25,5 +25,4 @@ function IconScooter({
     </svg>
   );
 }
-
 export default IconScooter;

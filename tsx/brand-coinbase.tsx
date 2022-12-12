@@ -23,5 +23,4 @@ function IconBrandCoinbase({
     </svg>
   );
 }
-
 export default IconBrandCoinbase;

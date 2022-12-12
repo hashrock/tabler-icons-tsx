@@ -28,5 +28,4 @@ function IconLanguageOff({
     </svg>
   );
 }
-
 export default IconLanguageOff;

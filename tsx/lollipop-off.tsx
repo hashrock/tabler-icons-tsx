@@ -29,5 +29,4 @@ function IconLollipopOff({
     </svg>
   );
 }
-
 export default IconLollipopOff;

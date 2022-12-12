@@ -25,5 +25,4 @@ function IconLayoutBottombarCollapse({
     </svg>
   );
 }
-
 export default IconLayoutBottombarCollapse;

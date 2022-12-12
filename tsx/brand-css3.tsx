@@ -24,5 +24,4 @@ function IconBrandCss3({
     </svg>
   );
 }
-
 export default IconBrandCss3;

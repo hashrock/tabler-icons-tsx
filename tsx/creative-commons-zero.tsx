@@ -25,5 +25,4 @@ function IconCreativeCommonsZero({
     </svg>
   );
 }
-
 export default IconCreativeCommonsZero;

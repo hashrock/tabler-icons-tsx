@@ -26,5 +26,4 @@ function IconSailboat({
     </svg>
   );
 }
-
 export default IconSailboat;

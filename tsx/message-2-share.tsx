@@ -25,5 +25,4 @@ function IconMessage2Share({
     </svg>
   );
 }
-
 export default IconMessage2Share;

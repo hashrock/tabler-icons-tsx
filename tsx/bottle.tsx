@@ -25,5 +25,4 @@ function IconBottle({
     </svg>
   );
 }
-
 export default IconBottle;

@@ -24,5 +24,4 @@ function IconChristmasTree({
     </svg>
   );
 }
-
 export default IconChristmasTree;

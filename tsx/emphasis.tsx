@@ -27,5 +27,4 @@ function IconEmphasis({
     </svg>
   );
 }
-
 export default IconEmphasis;

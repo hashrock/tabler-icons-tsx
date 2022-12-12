@@ -31,5 +31,4 @@ function IconZoomInArea({
     </svg>
   );
 }
-
 export default IconZoomInArea;

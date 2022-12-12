@@ -27,5 +27,4 @@ function IconMacro({
     </svg>
   );
 }
-
 export default IconMacro;

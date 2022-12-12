@@ -24,5 +24,4 @@ function IconDirection({
     </svg>
   );
 }
-
 export default IconDirection;

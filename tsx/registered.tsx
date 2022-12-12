@@ -25,5 +25,4 @@ function IconRegistered({
     </svg>
   );
 }
-
 export default IconRegistered;

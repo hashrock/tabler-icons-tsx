@@ -26,5 +26,4 @@ function IconParachute({
     </svg>
   );
 }
-
 export default IconParachute;

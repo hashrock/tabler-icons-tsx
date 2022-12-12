@@ -24,5 +24,4 @@ function IconSmartHome({
     </svg>
   );
 }
-
 export default IconSmartHome;

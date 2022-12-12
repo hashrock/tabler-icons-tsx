@@ -24,5 +24,4 @@ function IconBrandMastodon({
     </svg>
   );
 }
-
 export default IconBrandMastodon;

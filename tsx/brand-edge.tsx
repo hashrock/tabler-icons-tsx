@@ -26,5 +26,4 @@ function IconBrandEdge({
     </svg>
   );
 }
-
 export default IconBrandEdge;

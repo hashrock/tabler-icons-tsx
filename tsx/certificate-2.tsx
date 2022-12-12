@@ -26,5 +26,4 @@ function IconCertificate2({
     </svg>
   );
 }
-
 export default IconCertificate2;

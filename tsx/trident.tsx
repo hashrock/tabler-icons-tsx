@@ -24,5 +24,4 @@ function IconTrident({
     </svg>
   );
 }
-
 export default IconTrident;

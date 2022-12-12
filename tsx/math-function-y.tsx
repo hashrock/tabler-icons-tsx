@@ -26,5 +26,4 @@ function IconMathFunctionY({
     </svg>
   );
 }
-
 export default IconMathFunctionY;

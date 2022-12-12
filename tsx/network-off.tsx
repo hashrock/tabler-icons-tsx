@@ -31,5 +31,4 @@ function IconNetworkOff({
     </svg>
   );
 }
-
 export default IconNetworkOff;

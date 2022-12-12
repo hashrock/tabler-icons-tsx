@@ -26,5 +26,4 @@ function IconLungs({
     </svg>
   );
 }
-
 export default IconLungs;

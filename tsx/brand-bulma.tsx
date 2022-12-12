@@ -23,5 +23,4 @@ function IconBrandBulma({
     </svg>
   );
 }
-
 export default IconBrandBulma;

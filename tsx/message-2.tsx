@@ -25,5 +25,4 @@ function IconMessage2({
     </svg>
   );
 }
-
 export default IconMessage2;

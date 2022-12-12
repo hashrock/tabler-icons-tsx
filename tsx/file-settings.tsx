@@ -31,5 +31,4 @@ function IconFileSettings({
     </svg>
   );
 }
-
 export default IconFileSettings;

@@ -23,5 +23,4 @@ function IconBrandVivaldi({
     </svg>
   );
 }
-
 export default IconBrandVivaldi;

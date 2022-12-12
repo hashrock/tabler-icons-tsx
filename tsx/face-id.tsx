@@ -29,5 +29,4 @@ function IconFaceId({
     </svg>
   );
 }
-
 export default IconFaceId;

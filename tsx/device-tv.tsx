@@ -24,5 +24,4 @@ function IconDeviceTv({
     </svg>
   );
 }
-
 export default IconDeviceTv;

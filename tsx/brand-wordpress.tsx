@@ -28,5 +28,4 @@ function IconBrandWordpress({
     </svg>
   );
 }
-
 export default IconBrandWordpress;

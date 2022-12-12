@@ -25,5 +25,4 @@ function IconWebhook({
     </svg>
   );
 }
-
 export default IconWebhook;

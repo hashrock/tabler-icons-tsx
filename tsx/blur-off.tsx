@@ -30,5 +30,4 @@ function IconBlurOff({
     </svg>
   );
 }
-
 export default IconBlurOff;

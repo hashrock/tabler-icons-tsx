@@ -26,5 +26,4 @@ function IconDeviceNintendoOff({
     </svg>
   );
 }
-
 export default IconDeviceNintendoOff;

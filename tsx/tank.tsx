@@ -25,5 +25,4 @@ function IconTank({
     </svg>
   );
 }
-
 export default IconTank;

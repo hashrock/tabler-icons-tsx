@@ -27,5 +27,4 @@ function IconMapSearch({
     </svg>
   );
 }
-
 export default IconMapSearch;

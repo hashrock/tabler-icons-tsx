@@ -23,5 +23,4 @@ function IconBrandCashapp({
     </svg>
   );
 }
-
 export default IconBrandCashapp;

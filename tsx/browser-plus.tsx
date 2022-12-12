@@ -27,5 +27,4 @@ function IconBrowserPlus({
     </svg>
   );
 }
-
 export default IconBrowserPlus;

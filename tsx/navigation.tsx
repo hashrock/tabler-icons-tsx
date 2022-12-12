@@ -23,5 +23,4 @@ function IconNavigation({
     </svg>
   );
 }
-
 export default IconNavigation;

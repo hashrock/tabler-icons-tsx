@@ -31,5 +31,4 @@ function IconKeyboardOff({
     </svg>
   );
 }
-
 export default IconKeyboardOff;

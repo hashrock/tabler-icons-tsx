@@ -25,5 +25,4 @@ function IconBoldOff({
     </svg>
   );
 }
-
 export default IconBoldOff;

@@ -31,5 +31,4 @@ function IconKeyboardShow({
     </svg>
   );
 }
-
 export default IconKeyboardShow;

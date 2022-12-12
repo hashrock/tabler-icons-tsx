@@ -25,5 +25,4 @@ function IconDna({
     </svg>
   );
 }
-
 export default IconDna;

@@ -25,5 +25,4 @@ function IconLayoutNavbarExpand({
     </svg>
   );
 }
-
 export default IconLayoutNavbarExpand;

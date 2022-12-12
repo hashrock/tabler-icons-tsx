@@ -29,5 +29,4 @@ function IconCompassOff({
     </svg>
   );
 }
-
 export default IconCompassOff;

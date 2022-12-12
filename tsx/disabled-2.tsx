@@ -25,5 +25,4 @@ function IconDisabled2({
     </svg>
   );
 }
-
 export default IconDisabled2;

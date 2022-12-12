@@ -24,5 +24,4 @@ function IconIroningOff({
     </svg>
   );
 }
-
 export default IconIroningOff;

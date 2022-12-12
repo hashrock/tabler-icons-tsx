@@ -25,5 +25,4 @@ function IconLine({
     </svg>
   );
 }
-
 export default IconLine;

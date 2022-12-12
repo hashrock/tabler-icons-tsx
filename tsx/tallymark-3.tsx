@@ -25,5 +25,4 @@ function IconTallymark3({
     </svg>
   );
 }
-
 export default IconTallymark3;

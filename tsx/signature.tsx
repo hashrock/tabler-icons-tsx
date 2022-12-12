@@ -23,5 +23,4 @@ function IconSignature({
     </svg>
   );
 }
-
 export default IconSignature;

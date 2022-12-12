@@ -25,5 +25,4 @@ function IconRazor({
     </svg>
   );
 }
-
 export default IconRazor;

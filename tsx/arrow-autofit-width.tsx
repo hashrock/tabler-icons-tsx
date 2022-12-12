@@ -27,5 +27,4 @@ function IconArrowAutofitWidth({
     </svg>
   );
 }
-
 export default IconArrowAutofitWidth;

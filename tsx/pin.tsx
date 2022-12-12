@@ -25,5 +25,4 @@ function IconPin({
     </svg>
   );
 }
-
 export default IconPin;

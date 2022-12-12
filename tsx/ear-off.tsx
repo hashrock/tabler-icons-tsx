@@ -25,5 +25,4 @@ function IconEarOff({
     </svg>
   );
 }
-
 export default IconEarOff;

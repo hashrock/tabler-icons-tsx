@@ -23,5 +23,4 @@ function IconCornerLeftDown({
     </svg>
   );
 }
-
 export default IconCornerLeftDown;

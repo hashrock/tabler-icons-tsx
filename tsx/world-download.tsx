@@ -28,5 +28,4 @@ function IconWorldDownload({
     </svg>
   );
 }
-
 export default IconWorldDownload;

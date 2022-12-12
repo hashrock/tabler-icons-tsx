@@ -28,5 +28,4 @@ function IconLuggage({
     </svg>
   );
 }
-
 export default IconLuggage;

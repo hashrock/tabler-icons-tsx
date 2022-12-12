@@ -23,5 +23,4 @@ function IconPlayerPlay({
     </svg>
   );
 }
-
 export default IconPlayerPlay;

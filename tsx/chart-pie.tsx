@@ -24,5 +24,4 @@ function IconChartPie({
     </svg>
   );
 }
-
 export default IconChartPie;

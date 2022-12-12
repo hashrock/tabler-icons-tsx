@@ -24,5 +24,4 @@ function IconAirConditioningDisabled({
     </svg>
   );
 }
-
 export default IconAirConditioningDisabled;

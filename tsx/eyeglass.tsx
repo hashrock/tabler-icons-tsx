@@ -27,5 +27,4 @@ function IconEyeglass({
     </svg>
   );
 }
-
 export default IconEyeglass;

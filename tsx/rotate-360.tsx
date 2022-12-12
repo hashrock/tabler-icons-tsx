@@ -24,5 +24,4 @@ function IconRotate360({
     </svg>
   );
 }
-
 export default IconRotate360;

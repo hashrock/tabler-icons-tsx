@@ -27,5 +27,4 @@ function IconBrandWix({
     </svg>
   );
 }
-
 export default IconBrandWix;

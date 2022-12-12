@@ -26,5 +26,4 @@ function IconStackPop({
     </svg>
   );
 }
-
 export default IconStackPop;

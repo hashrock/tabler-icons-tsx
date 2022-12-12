@@ -25,5 +25,4 @@ function IconPepperOff({
     </svg>
   );
 }
-
 export default IconPepperOff;

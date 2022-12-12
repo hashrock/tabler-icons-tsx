@@ -23,5 +23,4 @@ function IconBrandKickstarter({
     </svg>
   );
 }
-
 export default IconBrandKickstarter;

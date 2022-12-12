@@ -27,5 +27,4 @@ function IconBuildingHospital({
     </svg>
   );
 }
-
 export default IconBuildingHospital;

@@ -27,5 +27,4 @@ function IconHealthRecognition({
     </svg>
   );
 }
-
 export default IconHealthRecognition;

@@ -29,5 +29,4 @@ function IconUsb({
     </svg>
   );
 }
-
 export default IconUsb;

@@ -26,5 +26,4 @@ function IconPlayCardOff({
     </svg>
   );
 }
-
 export default IconPlayCardOff;

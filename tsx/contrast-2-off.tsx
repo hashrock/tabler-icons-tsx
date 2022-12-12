@@ -25,5 +25,4 @@ function IconContrast2Off({
     </svg>
   );
 }
-
 export default IconContrast2Off;

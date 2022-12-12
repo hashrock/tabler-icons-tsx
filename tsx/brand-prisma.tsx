@@ -24,5 +24,4 @@ function IconBrandPrisma({
     </svg>
   );
 }
-
 export default IconBrandPrisma;

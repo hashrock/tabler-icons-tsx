@@ -28,5 +28,4 @@ function IconSunMoon({
     </svg>
   );
 }
-
 export default IconSunMoon;

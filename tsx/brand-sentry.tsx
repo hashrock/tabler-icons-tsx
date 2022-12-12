@@ -23,5 +23,4 @@ function IconBrandSentry({
     </svg>
   );
 }
-
 export default IconBrandSentry;

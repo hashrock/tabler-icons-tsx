@@ -29,5 +29,4 @@ function IconShieldHalfFilled({
     </svg>
   );
 }
-
 export default IconShieldHalfFilled;

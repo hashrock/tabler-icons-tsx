@@ -26,5 +26,4 @@ function IconCandyOff({
     </svg>
   );
 }
-
 export default IconCandyOff;

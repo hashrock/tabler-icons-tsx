@@ -24,5 +24,4 @@ function IconBrandAlpineJs({
     </svg>
   );
 }
-
 export default IconBrandAlpineJs;

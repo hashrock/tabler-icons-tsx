@@ -26,5 +26,4 @@ function IconFileSymlink({
     </svg>
   );
 }
-
 export default IconFileSymlink;

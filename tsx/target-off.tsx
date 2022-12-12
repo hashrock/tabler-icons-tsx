@@ -26,5 +26,4 @@ function IconTargetOff({
     </svg>
   );
 }
-
 export default IconTargetOff;

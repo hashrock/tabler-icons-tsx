@@ -24,5 +24,4 @@ function IconPlayerPause({
     </svg>
   );
 }
-
 export default IconPlayerPause;

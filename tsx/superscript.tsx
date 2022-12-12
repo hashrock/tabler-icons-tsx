@@ -24,5 +24,4 @@ function IconSuperscript({
     </svg>
   );
 }
-
 export default IconSuperscript;

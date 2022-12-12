@@ -24,5 +24,4 @@ function IconBrandMyOppo({
     </svg>
   );
 }
-
 export default IconBrandMyOppo;

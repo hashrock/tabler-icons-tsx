@@ -28,5 +28,4 @@ function IconCeOff({
     </svg>
   );
 }
-
 export default IconCeOff;

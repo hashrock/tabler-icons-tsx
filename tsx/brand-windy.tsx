@@ -24,5 +24,4 @@ function IconBrandWindy({
     </svg>
   );
 }
-
 export default IconBrandWindy;

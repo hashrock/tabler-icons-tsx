@@ -25,5 +25,4 @@ function IconRocket({
     </svg>
   );
 }
-
 export default IconRocket;

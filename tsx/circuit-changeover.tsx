@@ -29,5 +29,4 @@ function IconCircuitChangeover({
     </svg>
   );
 }
-
 export default IconCircuitChangeover;

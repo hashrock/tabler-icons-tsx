@@ -26,5 +26,4 @@ function IconPoo({
     </svg>
   );
 }
-
 export default IconPoo;

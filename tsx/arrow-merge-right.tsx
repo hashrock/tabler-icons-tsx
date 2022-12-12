@@ -25,5 +25,4 @@ function IconArrowMergeRight({
     </svg>
   );
 }
-
 export default IconArrowMergeRight;

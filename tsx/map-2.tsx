@@ -27,5 +27,4 @@ function IconMap2({
     </svg>
   );
 }
-
 export default IconMap2;

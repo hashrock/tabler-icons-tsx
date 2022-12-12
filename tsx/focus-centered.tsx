@@ -27,5 +27,4 @@ function IconFocusCentered({
     </svg>
   );
 }
-
 export default IconFocusCentered;

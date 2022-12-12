@@ -25,5 +25,4 @@ function IconEdit({
     </svg>
   );
 }
-
 export default IconEdit;

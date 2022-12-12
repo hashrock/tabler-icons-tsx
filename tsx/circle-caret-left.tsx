@@ -24,5 +24,4 @@ function IconCircleCaretLeft({
     </svg>
   );
 }
-
 export default IconCircleCaretLeft;

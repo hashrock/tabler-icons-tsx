@@ -32,5 +32,4 @@ function IconPokerChip({
     </svg>
   );
 }
-
 export default IconPokerChip;

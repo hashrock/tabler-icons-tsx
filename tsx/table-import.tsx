@@ -23,5 +23,4 @@ function IconTableImport({
     </svg>
   );
 }
-
 export default IconTableImport;

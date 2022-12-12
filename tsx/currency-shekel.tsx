@@ -24,5 +24,4 @@ function IconCurrencyShekel({
     </svg>
   );
 }
-
 export default IconCurrencyShekel;

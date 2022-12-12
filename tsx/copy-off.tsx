@@ -25,5 +25,4 @@ function IconCopyOff({
     </svg>
   );
 }
-
 export default IconCopyOff;

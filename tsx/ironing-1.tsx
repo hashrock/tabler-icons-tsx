@@ -24,5 +24,4 @@ function IconIroning1({
     </svg>
   );
 }
-
 export default IconIroning1;

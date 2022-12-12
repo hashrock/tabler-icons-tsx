@@ -26,5 +26,4 @@ function IconDeviceDesktop({
     </svg>
   );
 }
-
 export default IconDeviceDesktop;

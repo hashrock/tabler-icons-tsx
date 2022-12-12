@@ -24,5 +24,4 @@ function IconChecks({
     </svg>
   );
 }
-
 export default IconChecks;

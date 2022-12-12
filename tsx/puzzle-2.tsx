@@ -27,5 +27,4 @@ function IconPuzzle2({
     </svg>
   );
 }
-
 export default IconPuzzle2;

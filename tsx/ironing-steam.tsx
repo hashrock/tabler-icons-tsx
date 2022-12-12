@@ -26,5 +26,4 @@ function IconIroningSteam({
     </svg>
   );
 }
-
 export default IconIroningSteam;

@@ -24,5 +24,4 @@ function IconSquareCheck({
     </svg>
   );
 }
-
 export default IconSquareCheck;

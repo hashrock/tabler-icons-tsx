@@ -24,5 +24,4 @@ function IconSquareRotatedOff({
     </svg>
   );
 }
-
 export default IconSquareRotatedOff;

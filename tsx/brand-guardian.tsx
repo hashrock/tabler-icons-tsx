@@ -28,5 +28,4 @@ function IconBrandGuardian({
     </svg>
   );
 }
-
 export default IconBrandGuardian;

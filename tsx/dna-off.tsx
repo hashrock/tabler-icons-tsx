@@ -26,5 +26,4 @@ function IconDnaOff({
     </svg>
   );
 }
-
 export default IconDnaOff;

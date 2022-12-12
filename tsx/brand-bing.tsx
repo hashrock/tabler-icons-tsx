@@ -23,5 +23,4 @@ function IconBrandBing({
     </svg>
   );
 }
-
 export default IconBrandBing;

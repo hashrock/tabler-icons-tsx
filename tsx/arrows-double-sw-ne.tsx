@@ -26,5 +26,4 @@ function IconArrowsDoubleSwNe({
     </svg>
   );
 }
-
 export default IconArrowsDoubleSwNe;

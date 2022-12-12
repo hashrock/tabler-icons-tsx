@@ -24,5 +24,4 @@ function IconBrandHipchat({
     </svg>
   );
 }
-
 export default IconBrandHipchat;

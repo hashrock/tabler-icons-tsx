@@ -24,5 +24,4 @@ function IconPrompt({
     </svg>
   );
 }
-
 export default IconPrompt;

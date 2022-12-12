@@ -28,5 +28,4 @@ function IconTrafficConeOff({
     </svg>
   );
 }
-
 export default IconTrafficConeOff;

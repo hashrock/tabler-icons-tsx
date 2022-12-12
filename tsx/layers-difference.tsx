@@ -27,5 +27,4 @@ function IconLayersDifference({
     </svg>
   );
 }
-
 export default IconLayersDifference;

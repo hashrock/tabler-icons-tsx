@@ -28,5 +28,4 @@ function IconClipboardData({
     </svg>
   );
 }
-
 export default IconClipboardData;

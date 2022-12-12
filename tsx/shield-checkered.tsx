@@ -25,5 +25,4 @@ function IconShieldCheckered({
     </svg>
   );
 }
-
 export default IconShieldCheckered;

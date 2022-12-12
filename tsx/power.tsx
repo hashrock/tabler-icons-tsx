@@ -24,5 +24,4 @@ function IconPower({
     </svg>
   );
 }
-
 export default IconPower;

@@ -25,5 +25,4 @@ function IconLayoutNavbarCollapse({
     </svg>
   );
 }
-
 export default IconLayoutNavbarCollapse;

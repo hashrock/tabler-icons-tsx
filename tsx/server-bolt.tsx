@@ -27,5 +27,4 @@ function IconServerBolt({
     </svg>
   );
 }
-
 export default IconServerBolt;

@@ -24,5 +24,4 @@ function IconDetails({
     </svg>
   );
 }
-
 export default IconDetails;

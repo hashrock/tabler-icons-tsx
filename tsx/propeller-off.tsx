@@ -27,5 +27,4 @@ function IconPropellerOff({
     </svg>
   );
 }
-
 export default IconPropellerOff;

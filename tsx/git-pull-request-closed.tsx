@@ -28,5 +28,4 @@ function IconGitPullRequestClosed({
     </svg>
   );
 }
-
 export default IconGitPullRequestClosed;

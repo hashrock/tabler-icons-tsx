@@ -28,5 +28,4 @@ function IconGripHorizontal({
     </svg>
   );
 }
-
 export default IconGripHorizontal;

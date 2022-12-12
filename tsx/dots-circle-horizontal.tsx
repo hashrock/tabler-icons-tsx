@@ -26,5 +26,4 @@ function IconDotsCircleHorizontal({
     </svg>
   );
 }
-
 export default IconDotsCircleHorizontal;

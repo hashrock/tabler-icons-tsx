@@ -25,5 +25,4 @@ function IconBrowserOff({
     </svg>
   );
 }
-
 export default IconBrowserOff;

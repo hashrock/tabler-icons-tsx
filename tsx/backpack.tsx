@@ -25,5 +25,4 @@ function IconBackpack({
     </svg>
   );
 }
-
 export default IconBackpack;

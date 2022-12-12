@@ -25,5 +25,4 @@ function IconTrowel({
     </svg>
   );
 }
-
 export default IconTrowel;

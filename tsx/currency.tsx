@@ -27,5 +27,4 @@ function IconCurrency({
     </svg>
   );
 }
-
 export default IconCurrency;

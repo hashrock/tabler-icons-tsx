@@ -26,5 +26,4 @@ function IconShipOff({
     </svg>
   );
 }
-
 export default IconShipOff;

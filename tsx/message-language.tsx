@@ -25,5 +25,4 @@ function IconMessageLanguage({
     </svg>
   );
 }
-
 export default IconMessageLanguage;

@@ -29,5 +29,4 @@ function IconMistOff({
     </svg>
   );
 }
-
 export default IconMistOff;

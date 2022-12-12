@@ -24,5 +24,4 @@ function IconLayoutRows({
     </svg>
   );
 }
-
 export default IconLayoutRows;

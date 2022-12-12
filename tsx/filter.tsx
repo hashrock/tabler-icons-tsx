@@ -23,5 +23,4 @@ function IconFilter({
     </svg>
   );
 }
-
 export default IconFilter;

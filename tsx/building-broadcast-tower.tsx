@@ -27,5 +27,4 @@ function IconBuildingBroadcastTower({
     </svg>
   );
 }
-
 export default IconBuildingBroadcastTower;

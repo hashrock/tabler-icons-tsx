@@ -23,5 +23,4 @@ function IconBrandBunpo({
     </svg>
   );
 }
-
 export default IconBrandBunpo;

@@ -26,5 +26,4 @@ function IconCrane({
     </svg>
   );
 }
-
 export default IconCrane;

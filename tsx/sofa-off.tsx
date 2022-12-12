@@ -26,5 +26,4 @@ function IconSofaOff({
     </svg>
   );
 }
-
 export default IconSofaOff;

@@ -31,5 +31,4 @@ function IconSpray({
     </svg>
   );
 }
-
 export default IconSpray;

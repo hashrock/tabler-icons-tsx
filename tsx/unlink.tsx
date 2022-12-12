@@ -28,5 +28,4 @@ function IconUnlink({
     </svg>
   );
 }
-
 export default IconUnlink;

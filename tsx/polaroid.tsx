@@ -27,5 +27,4 @@ function IconPolaroid({
     </svg>
   );
 }
-
 export default IconPolaroid;

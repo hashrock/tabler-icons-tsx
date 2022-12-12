@@ -27,5 +27,4 @@ function IconFileVector({
     </svg>
   );
 }
-
 export default IconFileVector;

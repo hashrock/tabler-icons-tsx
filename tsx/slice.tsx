@@ -23,5 +23,4 @@ function IconSlice({
     </svg>
   );
 }
-
 export default IconSlice;

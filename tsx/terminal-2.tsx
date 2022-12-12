@@ -25,5 +25,4 @@ function IconTerminal2({
     </svg>
   );
 }
-
 export default IconTerminal2;

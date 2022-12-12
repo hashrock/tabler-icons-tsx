@@ -25,5 +25,4 @@ function IconCurrencyDram({
     </svg>
   );
 }
-
 export default IconCurrencyDram;

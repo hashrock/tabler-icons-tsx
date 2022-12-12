@@ -24,5 +24,4 @@ function IconStrikethrough({
     </svg>
   );
 }
-
 export default IconStrikethrough;

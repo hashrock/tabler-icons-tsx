@@ -28,5 +28,4 @@ function IconPresentationOff({
     </svg>
   );
 }
-
 export default IconPresentationOff;

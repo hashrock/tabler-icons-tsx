@@ -26,5 +26,4 @@ function IconBulbOff({
     </svg>
   );
 }
-
 export default IconBulbOff;

@@ -25,5 +25,4 @@ function IconCurrencyZloty({
     </svg>
   );
 }
-
 export default IconCurrencyZloty;

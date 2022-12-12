@@ -25,5 +25,4 @@ function IconUmbrellaOff({
     </svg>
   );
 }
-
 export default IconUmbrellaOff;

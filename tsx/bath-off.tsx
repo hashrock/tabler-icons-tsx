@@ -27,5 +27,4 @@ function IconBathOff({
     </svg>
   );
 }
-
 export default IconBathOff;

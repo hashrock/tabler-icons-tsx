@@ -29,5 +29,4 @@ function IconTypographyOff({
     </svg>
   );
 }
-
 export default IconTypographyOff;

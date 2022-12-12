@@ -24,5 +24,4 @@ function IconBrandPushover({
     </svg>
   );
 }
-
 export default IconBrandPushover;

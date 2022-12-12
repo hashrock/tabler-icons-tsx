@@ -26,5 +26,4 @@ function IconBrandAmazon({
     </svg>
   );
 }
-
 export default IconBrandAmazon;

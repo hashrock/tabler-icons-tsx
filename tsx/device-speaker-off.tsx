@@ -26,5 +26,4 @@ function IconDeviceSpeakerOff({
     </svg>
   );
 }
-
 export default IconDeviceSpeakerOff;

@@ -25,5 +25,4 @@ function IconLassoPolygon({
     </svg>
   );
 }
-
 export default IconLassoPolygon;

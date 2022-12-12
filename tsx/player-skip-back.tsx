@@ -24,5 +24,4 @@ function IconPlayerSkipBack({
     </svg>
   );
 }
-
 export default IconPlayerSkipBack;

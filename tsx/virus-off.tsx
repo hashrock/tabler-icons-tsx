@@ -39,5 +39,4 @@ function IconVirusOff({
     </svg>
   );
 }
-
 export default IconVirusOff;

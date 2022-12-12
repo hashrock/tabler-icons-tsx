@@ -24,5 +24,4 @@ function IconSquareNumber5({
     </svg>
   );
 }
-
 export default IconSquareNumber5;

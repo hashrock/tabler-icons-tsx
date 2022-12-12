@@ -24,5 +24,4 @@ function IconBrandAppgallery({
     </svg>
   );
 }
-
 export default IconBrandAppgallery;

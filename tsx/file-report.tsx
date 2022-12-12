@@ -26,5 +26,4 @@ function IconFileReport({
     </svg>
   );
 }
-
 export default IconFileReport;

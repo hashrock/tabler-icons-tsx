@@ -29,5 +29,4 @@ function IconBuildingWindTurbine({
     </svg>
   );
 }
-
 export default IconBuildingWindTurbine;

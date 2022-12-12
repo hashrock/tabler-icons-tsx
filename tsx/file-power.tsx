@@ -25,5 +25,4 @@ function IconFilePower({
     </svg>
   );
 }
-
 export default IconFilePower;

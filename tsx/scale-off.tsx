@@ -28,5 +28,4 @@ function IconScaleOff({
     </svg>
   );
 }
-
 export default IconScaleOff;

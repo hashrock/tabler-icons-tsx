@@ -27,5 +27,4 @@ function IconMathYMinusY({
     </svg>
   );
 }
-
 export default IconMathYMinusY;

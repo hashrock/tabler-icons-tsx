@@ -24,5 +24,4 @@ function IconBatteryOff({
     </svg>
   );
 }
-
 export default IconBatteryOff;

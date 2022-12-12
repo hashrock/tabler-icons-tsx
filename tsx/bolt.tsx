@@ -23,5 +23,4 @@ function IconBolt({
     </svg>
   );
 }
-
 export default IconBolt;

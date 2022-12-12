@@ -31,5 +31,4 @@ function IconPackages({
     </svg>
   );
 }
-
 export default IconPackages;

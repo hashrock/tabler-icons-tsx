@@ -27,5 +27,4 @@ function IconRating12Plus({
     </svg>
   );
 }
-
 export default IconRating12Plus;

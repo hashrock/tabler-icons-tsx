@@ -25,5 +25,4 @@ function IconGraphOff({
     </svg>
   );
 }
-
 export default IconGraphOff;

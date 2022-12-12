@@ -24,5 +24,4 @@ function IconArrowSharpTurnLeft({
     </svg>
   );
 }
-
 export default IconArrowSharpTurnLeft;

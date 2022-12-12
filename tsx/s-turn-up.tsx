@@ -25,5 +25,4 @@ function IconSTurnUp({
     </svg>
   );
 }
-
 export default IconSTurnUp;

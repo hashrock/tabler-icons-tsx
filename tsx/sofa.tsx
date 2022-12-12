@@ -25,5 +25,4 @@ function IconSofa({
     </svg>
   );
 }
-
 export default IconSofa;

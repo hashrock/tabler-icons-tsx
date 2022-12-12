@@ -26,5 +26,4 @@ function IconSwitchHorizontal({
     </svg>
   );
 }
-
 export default IconSwitchHorizontal;

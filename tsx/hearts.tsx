@@ -24,5 +24,4 @@ function IconHearts({
     </svg>
   );
 }
-
 export default IconHearts;

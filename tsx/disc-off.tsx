@@ -27,5 +27,4 @@ function IconDiscOff({
     </svg>
   );
 }
-
 export default IconDiscOff;

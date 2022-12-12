@@ -23,5 +23,4 @@ function IconCane({
     </svg>
   );
 }
-
 export default IconCane;

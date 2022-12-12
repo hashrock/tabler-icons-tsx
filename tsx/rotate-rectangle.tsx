@@ -24,5 +24,4 @@ function IconRotateRectangle({
     </svg>
   );
 }
-
 export default IconRotateRectangle;

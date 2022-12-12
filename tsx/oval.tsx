@@ -23,5 +23,4 @@ function IconOval({
     </svg>
   );
 }
-
 export default IconOval;

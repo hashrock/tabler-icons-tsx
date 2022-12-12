@@ -24,5 +24,4 @@ function IconBrightnessHalf({
     </svg>
   );
 }
-
 export default IconBrightnessHalf;

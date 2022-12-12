@@ -24,5 +24,4 @@ function IconMathIntegrals({
     </svg>
   );
 }
-
 export default IconMathIntegrals;

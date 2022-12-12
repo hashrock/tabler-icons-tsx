@@ -31,5 +31,4 @@ function IconWiperWash({
     </svg>
   );
 }
-
 export default IconWiperWash;

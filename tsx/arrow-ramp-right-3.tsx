@@ -25,5 +25,4 @@ function IconArrowRampRight3({
     </svg>
   );
 }
-
 export default IconArrowRampRight3;

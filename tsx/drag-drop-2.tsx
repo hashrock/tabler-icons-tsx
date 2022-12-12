@@ -30,5 +30,4 @@ function IconDragDrop2({
     </svg>
   );
 }
-
 export default IconDragDrop2;

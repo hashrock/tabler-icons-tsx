@@ -29,5 +29,4 @@ function IconMoodSilence({
     </svg>
   );
 }
-
 export default IconMoodSilence;

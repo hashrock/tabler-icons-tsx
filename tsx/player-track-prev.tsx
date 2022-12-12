@@ -24,5 +24,4 @@ function IconPlayerTrackPrev({
     </svg>
   );
 }
-
 export default IconPlayerTrackPrev;

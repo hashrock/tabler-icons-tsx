@@ -30,5 +30,4 @@ function IconGrain({
     </svg>
   );
 }
-
 export default IconGrain;

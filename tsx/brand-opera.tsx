@@ -24,5 +24,4 @@ function IconBrandOpera({
     </svg>
   );
 }
-
 export default IconBrandOpera;

@@ -28,5 +28,4 @@ function IconHandMove({
     </svg>
   );
 }
-
 export default IconHandMove;

@@ -26,5 +26,4 @@ function IconGlassFull({
     </svg>
   );
 }
-
 export default IconGlassFull;

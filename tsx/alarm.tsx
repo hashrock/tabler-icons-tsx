@@ -26,5 +26,4 @@ function IconAlarm({
     </svg>
   );
 }
-
 export default IconAlarm;

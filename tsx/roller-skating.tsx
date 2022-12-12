@@ -25,5 +25,4 @@ function IconRollerSkating({
     </svg>
   );
 }
-
 export default IconRollerSkating;

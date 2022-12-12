@@ -25,5 +25,4 @@ function IconSendOff({
     </svg>
   );
 }
-
 export default IconSendOff;

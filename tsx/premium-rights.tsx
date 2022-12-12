@@ -26,5 +26,4 @@ function IconPremiumRights({
     </svg>
   );
 }
-
 export default IconPremiumRights;

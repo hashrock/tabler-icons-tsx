@@ -25,5 +25,4 @@ function IconMapPinOff({
     </svg>
   );
 }
-
 export default IconMapPinOff;

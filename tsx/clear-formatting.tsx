@@ -26,5 +26,4 @@ function IconClearFormatting({
     </svg>
   );
 }
-
 export default IconClearFormatting;

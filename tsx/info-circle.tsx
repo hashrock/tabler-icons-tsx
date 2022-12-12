@@ -25,5 +25,4 @@ function IconInfoCircle({
     </svg>
   );
 }
-
 export default IconInfoCircle;

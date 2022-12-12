@@ -27,5 +27,4 @@ function IconTemplate({
     </svg>
   );
 }
-
 export default IconTemplate;

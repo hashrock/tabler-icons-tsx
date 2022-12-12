@@ -25,5 +25,4 @@ function IconAirBalloon({
     </svg>
   );
 }
-
 export default IconAirBalloon;

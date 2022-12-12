@@ -25,5 +25,4 @@ function IconSmoking({
     </svg>
   );
 }
-
 export default IconSmoking;

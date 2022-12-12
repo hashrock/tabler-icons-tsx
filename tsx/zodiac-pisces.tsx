@@ -25,5 +25,4 @@ function IconZodiacPisces({
     </svg>
   );
 }
-
 export default IconZodiacPisces;

@@ -25,5 +25,4 @@ function IconArrowBounce({
     </svg>
   );
 }
-
 export default IconArrowBounce;

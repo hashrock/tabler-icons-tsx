@@ -24,5 +24,4 @@ function IconFileHorizontal({
     </svg>
   );
 }
-
 export default IconFileHorizontal;

@@ -29,5 +29,4 @@ function IconTrophyOff({
     </svg>
   );
 }
-
 export default IconTrophyOff;

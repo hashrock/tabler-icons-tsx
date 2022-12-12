@@ -27,5 +27,4 @@ function IconArmchairOff({
     </svg>
   );
 }
-
 export default IconArmchairOff;

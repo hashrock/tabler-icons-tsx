@@ -27,5 +27,4 @@ function IconBuildingChurch({
     </svg>
   );
 }
-
 export default IconBuildingChurch;

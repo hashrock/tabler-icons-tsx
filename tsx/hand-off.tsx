@@ -24,5 +24,4 @@ function IconHandOff({
     </svg>
   );
 }
-
 export default IconHandOff;

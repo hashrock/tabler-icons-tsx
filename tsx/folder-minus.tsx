@@ -24,5 +24,4 @@ function IconFolderMinus({
     </svg>
   );
 }
-
 export default IconFolderMinus;

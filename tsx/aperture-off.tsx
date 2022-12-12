@@ -29,5 +29,4 @@ function IconApertureOff({
     </svg>
   );
 }
-
 export default IconApertureOff;

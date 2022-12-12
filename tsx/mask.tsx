@@ -24,5 +24,4 @@ function IconMask({
     </svg>
   );
 }
-
 export default IconMask;

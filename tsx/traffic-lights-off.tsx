@@ -27,5 +27,4 @@ function IconTrafficLightsOff({
     </svg>
   );
 }
-
 export default IconTrafficLightsOff;

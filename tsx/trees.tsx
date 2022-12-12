@@ -28,5 +28,4 @@ function IconTrees({
     </svg>
   );
 }
-
 export default IconTrees;

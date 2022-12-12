@@ -25,5 +25,4 @@ function IconFlipHorizontal({
     </svg>
   );
 }
-
 export default IconFlipHorizontal;

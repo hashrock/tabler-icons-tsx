@@ -27,5 +27,4 @@ function IconDeviceHeartMonitor({
     </svg>
   );
 }
-
 export default IconDeviceHeartMonitor;

@@ -26,5 +26,4 @@ function IconArrowsSplit({
     </svg>
   );
 }
-
 export default IconArrowsSplit;

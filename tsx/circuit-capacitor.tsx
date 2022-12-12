@@ -26,5 +26,4 @@ function IconCircuitCapacitor({
     </svg>
   );
 }
-
 export default IconCircuitCapacitor;

@@ -24,5 +24,4 @@ function IconSun({
     </svg>
   );
 }
-
 export default IconSun;

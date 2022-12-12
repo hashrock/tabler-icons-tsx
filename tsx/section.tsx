@@ -33,5 +33,4 @@ function IconSection({
     </svg>
   );
 }
-
 export default IconSection;

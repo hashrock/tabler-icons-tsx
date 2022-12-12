@@ -35,5 +35,4 @@ function IconBarrierBlockOff({
     </svg>
   );
 }
-
 export default IconBarrierBlockOff;

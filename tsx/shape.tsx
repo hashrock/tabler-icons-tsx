@@ -30,5 +30,4 @@ function IconShape({
     </svg>
   );
 }
-
 export default IconShape;

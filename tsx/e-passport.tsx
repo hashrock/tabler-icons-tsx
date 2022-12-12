@@ -26,5 +26,4 @@ function IconEPassport({
     </svg>
   );
 }
-
 export default IconEPassport;

@@ -27,5 +27,4 @@ function IconBrandMantine({
     </svg>
   );
 }
-
 export default IconBrandMantine;

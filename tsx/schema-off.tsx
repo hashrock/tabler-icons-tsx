@@ -30,5 +30,4 @@ function IconSchemaOff({
     </svg>
   );
 }
-
 export default IconSchemaOff;

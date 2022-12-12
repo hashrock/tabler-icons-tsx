@@ -24,5 +24,4 @@ function IconScriptMinus({
     </svg>
   );
 }
-
 export default IconScriptMinus;

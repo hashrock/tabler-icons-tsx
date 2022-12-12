@@ -27,5 +27,4 @@ function IconAxisY({
     </svg>
   );
 }
-
 export default IconAxisY;

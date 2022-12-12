@@ -24,5 +24,4 @@ function IconTooltip({
     </svg>
   );
 }
-
 export default IconTooltip;

@@ -31,5 +31,4 @@ function IconDiscGolf({
     </svg>
   );
 }
-
 export default IconDiscGolf;

@@ -30,5 +30,4 @@ function IconBuilding({
     </svg>
   );
 }
-
 export default IconBuilding;

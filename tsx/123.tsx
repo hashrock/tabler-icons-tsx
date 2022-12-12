@@ -25,5 +25,4 @@ function Icon123({
     </svg>
   );
 }
-
 export default Icon123;

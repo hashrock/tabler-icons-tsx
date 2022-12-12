@@ -25,5 +25,4 @@ function IconMushroomOff({
     </svg>
   );
 }
-
 export default IconMushroomOff;

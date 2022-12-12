@@ -25,5 +25,4 @@ function IconCodeCircle({
     </svg>
   );
 }
-
 export default IconCodeCircle;

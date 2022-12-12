@@ -26,5 +26,4 @@ function IconMoodSadSquint({
     </svg>
   );
 }
-
 export default IconMoodSadSquint;

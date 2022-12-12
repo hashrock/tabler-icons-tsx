@@ -30,5 +30,4 @@ function IconColumns({
     </svg>
   );
 }
-
 export default IconColumns;

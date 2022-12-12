@@ -27,5 +27,4 @@ function IconClover2({
     </svg>
   );
 }
-
 export default IconClover2;

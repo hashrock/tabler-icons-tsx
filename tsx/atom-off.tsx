@@ -26,5 +26,4 @@ function IconAtomOff({
     </svg>
   );
 }
-
 export default IconAtomOff;

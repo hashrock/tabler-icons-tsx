@@ -26,5 +26,4 @@ function IconWashDryDip({
     </svg>
   );
 }
-
 export default IconWashDryDip;

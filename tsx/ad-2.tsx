@@ -28,5 +28,4 @@ function IconAd2({
     </svg>
   );
 }
-
 export default IconAd2;

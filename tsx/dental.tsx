@@ -24,5 +24,4 @@ function IconDental({
     </svg>
   );
 }
-
 export default IconDental;

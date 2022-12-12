@@ -26,5 +26,4 @@ function IconHomeX({
     </svg>
   );
 }
-
 export default IconHomeX;

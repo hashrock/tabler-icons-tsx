@@ -26,5 +26,4 @@ function IconDevicesOff({
     </svg>
   );
 }
-
 export default IconDevicesOff;

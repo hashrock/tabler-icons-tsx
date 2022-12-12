@@ -24,5 +24,4 @@ function IconCircleCheck({
     </svg>
   );
 }
-
 export default IconCircleCheck;

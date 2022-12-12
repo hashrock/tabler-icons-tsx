@@ -27,5 +27,4 @@ function IconSpy({
     </svg>
   );
 }
-
 export default IconSpy;

@@ -28,5 +28,4 @@ function IconPackageOff({
     </svg>
   );
 }
-
 export default IconPackageOff;

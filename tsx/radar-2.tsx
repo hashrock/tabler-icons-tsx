@@ -26,5 +26,4 @@ function IconRadar2({
     </svg>
   );
 }
-
 export default IconRadar2;

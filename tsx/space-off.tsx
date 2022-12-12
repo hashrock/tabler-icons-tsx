@@ -24,5 +24,4 @@ function IconSpaceOff({
     </svg>
   );
 }
-
 export default IconSpaceOff;

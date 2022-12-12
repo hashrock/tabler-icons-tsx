@@ -26,5 +26,4 @@ function IconPennantOff({
     </svg>
   );
 }
-
 export default IconPennantOff;

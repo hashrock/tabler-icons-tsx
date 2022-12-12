@@ -25,5 +25,4 @@ function IconArrowMoveLeft({
     </svg>
   );
 }
-
 export default IconArrowMoveLeft;

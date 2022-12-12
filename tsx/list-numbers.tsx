@@ -27,5 +27,4 @@ function IconListNumbers({
     </svg>
   );
 }
-
 export default IconListNumbers;

@@ -25,5 +25,4 @@ function IconBellMinus({
     </svg>
   );
 }
-
 export default IconBellMinus;

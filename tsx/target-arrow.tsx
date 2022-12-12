@@ -27,5 +27,4 @@ function IconTargetArrow({
     </svg>
   );
 }
-
 export default IconTargetArrow;

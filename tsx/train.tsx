@@ -29,5 +29,4 @@ function IconTrain({
     </svg>
   );
 }
-
 export default IconTrain;

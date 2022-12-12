@@ -25,5 +25,4 @@ function IconFlipVertical({
     </svg>
   );
 }
-
 export default IconFlipVertical;

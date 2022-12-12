@@ -25,5 +25,4 @@ function IconFloatNone({
     </svg>
   );
 }
-
 export default IconFloatNone;

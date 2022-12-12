@@ -26,5 +26,4 @@ function IconCurrencyLari({
     </svg>
   );
 }
-
 export default IconCurrencyLari;

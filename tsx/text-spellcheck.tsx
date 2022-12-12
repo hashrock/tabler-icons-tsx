@@ -25,5 +25,4 @@ function IconTextSpellcheck({
     </svg>
   );
 }
-
 export default IconTextSpellcheck;

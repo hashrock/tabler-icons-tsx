@@ -26,5 +26,4 @@ function IconTimelineEvent({
     </svg>
   );
 }
-
 export default IconTimelineEvent;

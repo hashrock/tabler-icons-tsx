@@ -28,5 +28,4 @@ function IconTex({
     </svg>
   );
 }
-
 export default IconTex;

@@ -24,5 +24,4 @@ function IconCloudRain({
     </svg>
   );
 }
-
 export default IconCloudRain;

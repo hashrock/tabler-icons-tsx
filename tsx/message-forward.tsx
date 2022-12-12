@@ -25,5 +25,4 @@ function IconMessageForward({
     </svg>
   );
 }
-
 export default IconMessageForward;

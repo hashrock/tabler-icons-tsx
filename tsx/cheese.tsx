@@ -27,5 +27,4 @@ function IconCheese({
     </svg>
   );
 }
-
 export default IconCheese;

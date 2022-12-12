@@ -25,5 +25,4 @@ function IconKering({
     </svg>
   );
 }
-
 export default IconKering;

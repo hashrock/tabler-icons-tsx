@@ -25,5 +25,4 @@ function IconLockSquare({
     </svg>
   );
 }
-
 export default IconLockSquare;

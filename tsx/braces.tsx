@@ -24,5 +24,4 @@ function IconBraces({
     </svg>
   );
 }
-
 export default IconBraces;

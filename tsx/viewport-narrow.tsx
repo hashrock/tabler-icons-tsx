@@ -26,5 +26,4 @@ function IconViewportNarrow({
     </svg>
   );
 }
-
 export default IconViewportNarrow;

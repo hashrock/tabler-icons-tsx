@@ -24,5 +24,4 @@ function IconSquareDot({
     </svg>
   );
 }
-
 export default IconSquareDot;

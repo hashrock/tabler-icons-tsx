@@ -24,5 +24,4 @@ function IconBrandOpenvpn({
     </svg>
   );
 }
-
 export default IconBrandOpenvpn;

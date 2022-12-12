@@ -24,5 +24,4 @@ function IconBrandEnvato({
     </svg>
   );
 }
-
 export default IconBrandEnvato;

@@ -33,5 +33,4 @@ function IconConfettiOff({
     </svg>
   );
 }
-
 export default IconConfettiOff;

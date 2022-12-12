@@ -24,5 +24,4 @@ function IconCircuitGroundDigital({
     </svg>
   );
 }
-
 export default IconCircuitGroundDigital;

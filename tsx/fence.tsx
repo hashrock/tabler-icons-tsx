@@ -25,5 +25,4 @@ function IconFence({
     </svg>
   );
 }
-
 export default IconFence;

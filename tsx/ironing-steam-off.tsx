@@ -29,5 +29,4 @@ function IconIroningSteamOff({
     </svg>
   );
 }
-
 export default IconIroningSteamOff;

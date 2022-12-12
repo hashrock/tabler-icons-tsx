@@ -25,5 +25,4 @@ function IconCopyrightOff({
     </svg>
   );
 }
-
 export default IconCopyrightOff;

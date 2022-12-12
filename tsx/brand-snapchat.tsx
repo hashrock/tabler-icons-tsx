@@ -23,5 +23,4 @@ function IconBrandSnapchat({
     </svg>
   );
 }
-
 export default IconBrandSnapchat;

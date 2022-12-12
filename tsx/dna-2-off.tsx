@@ -29,5 +29,4 @@ function IconDna2Off({
     </svg>
   );
 }
-
 export default IconDna2Off;

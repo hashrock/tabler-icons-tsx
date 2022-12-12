@@ -26,5 +26,4 @@ function IconCodeOff({
     </svg>
   );
 }
-
 export default IconCodeOff;

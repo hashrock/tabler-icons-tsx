@@ -25,5 +25,4 @@ function IconGrillSpatula({
     </svg>
   );
 }
-
 export default IconGrillSpatula;

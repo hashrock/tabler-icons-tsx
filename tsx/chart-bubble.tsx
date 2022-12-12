@@ -25,5 +25,4 @@ function IconChartBubble({
     </svg>
   );
 }
-
 export default IconChartBubble;

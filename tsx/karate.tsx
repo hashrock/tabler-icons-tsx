@@ -26,5 +26,4 @@ function IconKarate({
     </svg>
   );
 }
-
 export default IconKarate;

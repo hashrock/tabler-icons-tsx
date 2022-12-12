@@ -27,5 +27,4 @@ function IconTableShortcut({
     </svg>
   );
 }
-
 export default IconTableShortcut;

@@ -26,5 +26,4 @@ function IconAmbulance({
     </svg>
   );
 }
-
 export default IconAmbulance;

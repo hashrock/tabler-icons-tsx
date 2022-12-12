@@ -25,5 +25,4 @@ function IconPhonePause({
     </svg>
   );
 }
-
 export default IconPhonePause;

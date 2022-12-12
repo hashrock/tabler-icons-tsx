@@ -25,5 +25,4 @@ function IconArrowsRightDown({
     </svg>
   );
 }
-
 export default IconArrowsRightDown;

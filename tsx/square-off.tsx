@@ -24,5 +24,4 @@ function IconSquareOff({
     </svg>
   );
 }
-
 export default IconSquareOff;

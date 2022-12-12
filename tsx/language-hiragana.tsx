@@ -27,5 +27,4 @@ function IconLanguageHiragana({
     </svg>
   );
 }
-
 export default IconLanguageHiragana;

@@ -28,5 +28,4 @@ function IconBrandTripadvisor({
     </svg>
   );
 }
-
 export default IconBrandTripadvisor;

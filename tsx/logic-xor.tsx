@@ -27,5 +27,4 @@ function IconLogicXor({
     </svg>
   );
 }
-
 export default IconLogicXor;

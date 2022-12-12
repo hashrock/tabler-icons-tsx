@@ -24,5 +24,4 @@ function IconPlaystationTriangle({
     </svg>
   );
 }
-
 export default IconPlaystationTriangle;

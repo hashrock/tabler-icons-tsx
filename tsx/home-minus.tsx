@@ -25,5 +25,4 @@ function IconHomeMinus({
     </svg>
   );
 }
-
 export default IconHomeMinus;

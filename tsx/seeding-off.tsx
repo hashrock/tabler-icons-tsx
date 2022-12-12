@@ -26,5 +26,4 @@ function IconSeedingOff({
     </svg>
   );
 }
-
 export default IconSeedingOff;

@@ -24,5 +24,4 @@ function IconLayoutCards({
     </svg>
   );
 }
-
 export default IconLayoutCards;

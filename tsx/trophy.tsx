@@ -28,5 +28,4 @@ function IconTrophy({
     </svg>
   );
 }
-
 export default IconTrophy;

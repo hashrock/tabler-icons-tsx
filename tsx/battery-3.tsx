@@ -26,5 +26,4 @@ function IconBattery3({
     </svg>
   );
 }
-
 export default IconBattery3;

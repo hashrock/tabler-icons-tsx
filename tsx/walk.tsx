@@ -26,5 +26,4 @@ function IconWalk({
     </svg>
   );
 }
-
 export default IconWalk;

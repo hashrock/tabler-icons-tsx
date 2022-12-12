@@ -25,5 +25,4 @@ function IconBrandGooglePlay({
     </svg>
   );
 }
-
 export default IconBrandGooglePlay;

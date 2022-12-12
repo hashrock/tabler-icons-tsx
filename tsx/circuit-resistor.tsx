@@ -23,5 +23,4 @@ function IconCircuitResistor({
     </svg>
   );
 }
-
 export default IconCircuitResistor;

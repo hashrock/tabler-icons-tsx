@@ -30,5 +30,4 @@ function IconBiohazardOff({
     </svg>
   );
 }
-
 export default IconBiohazardOff;

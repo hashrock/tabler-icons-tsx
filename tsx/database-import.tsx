@@ -25,5 +25,4 @@ function IconDatabaseImport({
     </svg>
   );
 }
-
 export default IconDatabaseImport;

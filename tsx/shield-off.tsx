@@ -24,5 +24,4 @@ function IconShieldOff({
     </svg>
   );
 }
-
 export default IconShieldOff;

@@ -26,5 +26,4 @@ function IconFlag({
     </svg>
   );
 }
-
 export default IconFlag;

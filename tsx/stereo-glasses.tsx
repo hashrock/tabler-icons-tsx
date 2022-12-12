@@ -27,5 +27,4 @@ function IconStereoGlasses({
     </svg>
   );
 }
-
 export default IconStereoGlasses;

@@ -23,5 +23,4 @@ function IconPanoramaVertical({
     </svg>
   );
 }
-
 export default IconPanoramaVertical;

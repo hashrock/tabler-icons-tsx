@@ -28,5 +28,4 @@ function IconRobot({
     </svg>
   );
 }
-
 export default IconRobot;

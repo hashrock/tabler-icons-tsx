@@ -28,5 +28,4 @@ function IconCookie({
     </svg>
   );
 }
-
 export default IconCookie;

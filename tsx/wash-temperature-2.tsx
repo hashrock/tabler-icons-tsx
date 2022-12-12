@@ -26,5 +26,4 @@ function IconWashTemperature2({
     </svg>
   );
 }
-
 export default IconWashTemperature2;

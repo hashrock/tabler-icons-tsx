@@ -27,5 +27,4 @@ function IconAsteriskSimple({
     </svg>
   );
 }
-
 export default IconAsteriskSimple;

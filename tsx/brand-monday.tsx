@@ -25,5 +25,4 @@ function IconBrandMonday({
     </svg>
   );
 }
-
 export default IconBrandMonday;

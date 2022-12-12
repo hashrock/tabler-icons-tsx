@@ -25,5 +25,4 @@ function IconScubaMaskOff({
     </svg>
   );
 }
-
 export default IconScubaMaskOff;

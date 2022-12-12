@@ -26,5 +26,4 @@ function IconSleigh({
     </svg>
   );
 }
-
 export default IconSleigh;

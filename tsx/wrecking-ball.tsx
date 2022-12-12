@@ -30,5 +30,4 @@ function IconWreckingBall({
     </svg>
   );
 }
-
 export default IconWreckingBall;

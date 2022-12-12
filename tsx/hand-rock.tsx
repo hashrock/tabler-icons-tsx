@@ -26,5 +26,4 @@ function IconHandRock({
     </svg>
   );
 }
-
 export default IconHandRock;

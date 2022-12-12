@@ -27,5 +27,4 @@ function IconSquaresFilled({
     </svg>
   );
 }
-
 export default IconSquaresFilled;

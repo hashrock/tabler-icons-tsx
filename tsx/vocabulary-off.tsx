@@ -28,5 +28,4 @@ function IconVocabularyOff({
     </svg>
   );
 }
-
 export default IconVocabularyOff;

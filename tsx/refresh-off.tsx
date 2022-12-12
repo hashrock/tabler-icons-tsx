@@ -25,5 +25,4 @@ function IconRefreshOff({
     </svg>
   );
 }
-
 export default IconRefreshOff;

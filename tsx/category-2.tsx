@@ -26,5 +26,4 @@ function IconCategory2({
     </svg>
   );
 }
-
 export default IconCategory2;

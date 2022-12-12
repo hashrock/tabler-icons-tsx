@@ -26,5 +26,4 @@ function IconReportMedical({
     </svg>
   );
 }
-
 export default IconReportMedical;

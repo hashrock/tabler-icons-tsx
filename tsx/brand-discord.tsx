@@ -28,5 +28,4 @@ function IconBrandDiscord({
     </svg>
   );
 }
-
 export default IconBrandDiscord;

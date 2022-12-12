@@ -25,5 +25,4 @@ function IconXboxA({
     </svg>
   );
 }
-
 export default IconXboxA;

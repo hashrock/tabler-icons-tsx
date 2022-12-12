@@ -23,5 +23,4 @@ function IconBrandGoogleFit({
     </svg>
   );
 }
-
 export default IconBrandGoogleFit;

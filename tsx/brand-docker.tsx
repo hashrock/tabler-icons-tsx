@@ -31,5 +31,4 @@ function IconBrandDocker({
     </svg>
   );
 }
-
 export default IconBrandDocker;

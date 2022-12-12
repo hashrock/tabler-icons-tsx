@@ -25,5 +25,4 @@ function IconMessagePlus({
     </svg>
   );
 }
-
 export default IconMessagePlus;

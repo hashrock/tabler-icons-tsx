@@ -28,5 +28,4 @@ function IconBuildingCircus({
     </svg>
   );
 }
-
 export default IconBuildingCircus;

@@ -26,5 +26,4 @@ function IconVolumeOff({
     </svg>
   );
 }
-
 export default IconVolumeOff;

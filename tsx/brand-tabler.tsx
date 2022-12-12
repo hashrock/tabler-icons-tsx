@@ -25,5 +25,4 @@ function IconBrandTabler({
     </svg>
   );
 }
-
 export default IconBrandTabler;

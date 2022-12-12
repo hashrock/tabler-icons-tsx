@@ -27,5 +27,4 @@ function IconABOff({
     </svg>
   );
 }
-
 export default IconABOff;

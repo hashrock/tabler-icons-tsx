@@ -24,5 +24,4 @@ function IconShieldChevron({
     </svg>
   );
 }
-
 export default IconShieldChevron;

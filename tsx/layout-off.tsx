@@ -26,5 +26,4 @@ function IconLayoutOff({
     </svg>
   );
 }
-
 export default IconLayoutOff;

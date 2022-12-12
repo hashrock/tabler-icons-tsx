@@ -26,5 +26,4 @@ function IconCurrencyDollarBrunei({
     </svg>
   );
 }
-
 export default IconCurrencyDollarBrunei;

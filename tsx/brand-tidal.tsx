@@ -23,5 +23,4 @@ function IconBrandTidal({
     </svg>
   );
 }
-
 export default IconBrandTidal;

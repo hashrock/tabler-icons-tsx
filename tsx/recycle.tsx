@@ -28,5 +28,4 @@ function IconRecycle({
     </svg>
   );
 }
-
 export default IconRecycle;

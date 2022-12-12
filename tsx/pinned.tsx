@@ -25,5 +25,4 @@ function IconPinned({
     </svg>
   );
 }
-
 export default IconPinned;

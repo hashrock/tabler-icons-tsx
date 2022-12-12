@@ -24,5 +24,4 @@ function IconBell({
     </svg>
   );
 }
-
 export default IconBell;

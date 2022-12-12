@@ -24,5 +24,4 @@ function IconSticker({
     </svg>
   );
 }
-
 export default IconSticker;

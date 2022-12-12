@@ -25,5 +25,4 @@ function IconLasso({
     </svg>
   );
 }
-
 export default IconLasso;

@@ -24,5 +24,4 @@ function IconBrandNordVpn({
     </svg>
   );
 }
-
 export default IconBrandNordVpn;

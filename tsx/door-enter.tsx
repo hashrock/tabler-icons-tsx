@@ -26,5 +26,4 @@ function IconDoorEnter({
     </svg>
   );
 }
-
 export default IconDoorEnter;

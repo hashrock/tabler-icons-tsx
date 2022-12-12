@@ -26,5 +26,4 @@ function IconGenderHermaphrodite({
     </svg>
   );
 }
-
 export default IconGenderHermaphrodite;

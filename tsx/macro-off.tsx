@@ -28,5 +28,4 @@ function IconMacroOff({
     </svg>
   );
 }
-
 export default IconMacroOff;

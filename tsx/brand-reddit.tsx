@@ -28,5 +28,4 @@ function IconBrandReddit({
     </svg>
   );
 }
-
 export default IconBrandReddit;

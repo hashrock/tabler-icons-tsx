@@ -27,5 +27,4 @@ function IconCupOff({
     </svg>
   );
 }
-
 export default IconCupOff;

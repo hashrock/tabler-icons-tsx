@@ -26,5 +26,4 @@ function IconCurrencyDollarGuyanese({
     </svg>
   );
 }
-
 export default IconCurrencyDollarGuyanese;

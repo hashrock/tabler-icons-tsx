@@ -27,5 +27,4 @@ function IconSailboatOff({
     </svg>
   );
 }
-
 export default IconSailboatOff;

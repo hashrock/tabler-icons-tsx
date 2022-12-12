@@ -24,5 +24,4 @@ function IconAlertTriangle({
     </svg>
   );
 }
-
 export default IconAlertTriangle;

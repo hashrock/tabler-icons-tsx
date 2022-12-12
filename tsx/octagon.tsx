@@ -23,5 +23,4 @@ function IconOctagon({
     </svg>
   );
 }
-
 export default IconOctagon;

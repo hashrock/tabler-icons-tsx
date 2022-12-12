@@ -26,5 +26,4 @@ function IconBroadcastOff({
     </svg>
   );
 }
-
 export default IconBroadcastOff;

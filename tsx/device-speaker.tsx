@@ -25,5 +25,4 @@ function IconDeviceSpeaker({
     </svg>
   );
 }
-
 export default IconDeviceSpeaker;

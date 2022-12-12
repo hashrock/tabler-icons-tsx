@@ -27,5 +27,4 @@ function IconShoppingCartPlus({
     </svg>
   );
 }
-
 export default IconShoppingCartPlus;

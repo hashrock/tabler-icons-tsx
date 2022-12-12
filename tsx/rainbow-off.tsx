@@ -26,5 +26,4 @@ function IconRainbowOff({
     </svg>
   );
 }
-
 export default IconRainbowOff;

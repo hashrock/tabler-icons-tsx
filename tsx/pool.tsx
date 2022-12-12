@@ -28,5 +28,4 @@ function IconPool({
     </svg>
   );
 }
-
 export default IconPool;

@@ -23,5 +23,4 @@ function IconPhone({
     </svg>
   );
 }
-
 export default IconPhone;

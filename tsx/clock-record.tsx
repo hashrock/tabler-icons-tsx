@@ -25,5 +25,4 @@ function IconClockRecord({
     </svg>
   );
 }
-
 export default IconClockRecord;

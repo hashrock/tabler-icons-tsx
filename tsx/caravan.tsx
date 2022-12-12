@@ -26,5 +26,4 @@ function IconCaravan({
     </svg>
   );
 }
-
 export default IconCaravan;

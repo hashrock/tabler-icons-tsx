@@ -27,5 +27,4 @@ function IconSubtask({
     </svg>
   );
 }
-
 export default IconSubtask;

@@ -31,5 +31,4 @@ function IconMathSymbols({
     </svg>
   );
 }
-
 export default IconMathSymbols;

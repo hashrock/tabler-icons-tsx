@@ -26,5 +26,4 @@ function IconMotorbike({
     </svg>
   );
 }
-
 export default IconMotorbike;

@@ -27,5 +27,4 @@ function IconBallpenOff({
     </svg>
   );
 }
-
 export default IconBallpenOff;

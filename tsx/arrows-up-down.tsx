@@ -26,5 +26,4 @@ function IconArrowsUpDown({
     </svg>
   );
 }
-
 export default IconArrowsUpDown;

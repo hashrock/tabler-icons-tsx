@@ -26,5 +26,4 @@ function IconHandFinger({
     </svg>
   );
 }
-
 export default IconHandFinger;

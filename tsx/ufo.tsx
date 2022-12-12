@@ -29,5 +29,4 @@ function IconUfo({
     </svg>
   );
 }
-
 export default IconUfo;

@@ -28,5 +28,4 @@ function IconLifebuoy({
     </svg>
   );
 }
-
 export default IconLifebuoy;

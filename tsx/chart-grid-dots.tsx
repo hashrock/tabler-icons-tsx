@@ -40,5 +40,4 @@ function IconChartGridDots({
     </svg>
   );
 }
-
 export default IconChartGridDots;

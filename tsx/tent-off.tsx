@@ -24,5 +24,4 @@ function IconTentOff({
     </svg>
   );
 }
-
 export default IconTentOff;

@@ -30,5 +30,4 @@ function IconVector({
     </svg>
   );
 }
-
 export default IconVector;

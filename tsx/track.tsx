@@ -23,5 +23,4 @@ function IconTrack({
     </svg>
   );
 }
-
 export default IconTrack;

@@ -25,5 +25,4 @@ function IconBrandVscode({
     </svg>
   );
 }
-
 export default IconBrandVscode;

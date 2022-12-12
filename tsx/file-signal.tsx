@@ -26,5 +26,4 @@ function IconFileSignal({
     </svg>
   );
 }
-
 export default IconFileSignal;

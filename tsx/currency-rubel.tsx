@@ -24,5 +24,4 @@ function IconCurrencyRubel({
     </svg>
   );
 }
-
 export default IconCurrencyRubel;

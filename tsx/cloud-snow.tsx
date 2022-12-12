@@ -24,5 +24,4 @@ function IconCloudSnow({
     </svg>
   );
 }
-
 export default IconCloudSnow;

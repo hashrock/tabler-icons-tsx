@@ -27,5 +27,4 @@ function IconGavel({
     </svg>
   );
 }
-
 export default IconGavel;

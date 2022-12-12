@@ -26,5 +26,4 @@ function IconBadgeAd({
     </svg>
   );
 }
-
 export default IconBadgeAd;

@@ -28,5 +28,4 @@ function IconBusinessplan({
     </svg>
   );
 }
-
 export default IconBusinessplan;

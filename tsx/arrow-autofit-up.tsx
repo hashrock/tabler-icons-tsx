@@ -25,5 +25,4 @@ function IconArrowAutofitUp({
     </svg>
   );
 }
-
 export default IconArrowAutofitUp;

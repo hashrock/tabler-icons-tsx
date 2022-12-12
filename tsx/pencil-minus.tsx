@@ -25,5 +25,4 @@ function IconPencilMinus({
     </svg>
   );
 }
-
 export default IconPencilMinus;

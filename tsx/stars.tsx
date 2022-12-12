@@ -25,5 +25,4 @@ function IconStars({
     </svg>
   );
 }
-
 export default IconStars;

@@ -26,5 +26,4 @@ function IconSignLeft({
     </svg>
   );
 }
-
 export default IconSignLeft;

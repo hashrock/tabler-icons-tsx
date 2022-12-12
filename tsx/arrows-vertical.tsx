@@ -25,5 +25,4 @@ function IconArrowsVertical({
     </svg>
   );
 }
-
 export default IconArrowsVertical;

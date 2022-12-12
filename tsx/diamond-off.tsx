@@ -25,5 +25,4 @@ function IconDiamondOff({
     </svg>
   );
 }
-
 export default IconDiamondOff;

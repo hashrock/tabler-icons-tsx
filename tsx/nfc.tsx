@@ -25,5 +25,4 @@ function IconNfc({
     </svg>
   );
 }
-
 export default IconNfc;

@@ -26,5 +26,4 @@ function IconWalletOff({
     </svg>
   );
 }
-
 export default IconWalletOff;

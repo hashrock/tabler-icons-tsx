@@ -26,5 +26,4 @@ function IconRocketOff({
     </svg>
   );
 }
-
 export default IconRocketOff;

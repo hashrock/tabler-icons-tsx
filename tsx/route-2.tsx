@@ -27,5 +27,4 @@ function IconRoute2({
     </svg>
   );
 }
-
 export default IconRoute2;

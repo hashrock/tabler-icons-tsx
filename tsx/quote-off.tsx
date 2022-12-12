@@ -25,5 +25,4 @@ function IconQuoteOff({
     </svg>
   );
 }
-
 export default IconQuoteOff;

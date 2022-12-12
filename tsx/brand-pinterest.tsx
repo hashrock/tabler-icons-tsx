@@ -25,5 +25,4 @@ function IconBrandPinterest({
     </svg>
   );
 }
-
 export default IconBrandPinterest;

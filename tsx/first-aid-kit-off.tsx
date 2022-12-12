@@ -27,5 +27,4 @@ function IconFirstAidKitOff({
     </svg>
   );
 }
-
 export default IconFirstAidKitOff;

@@ -25,5 +25,4 @@ function IconBrandAngular({
     </svg>
   );
 }
-
 export default IconBrandAngular;

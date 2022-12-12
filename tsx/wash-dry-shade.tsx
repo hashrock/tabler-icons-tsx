@@ -25,5 +25,4 @@ function IconWashDryShade({
     </svg>
   );
 }
-
 export default IconWashDryShade;

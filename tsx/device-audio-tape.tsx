@@ -26,5 +26,4 @@ function IconDeviceAudioTape({
     </svg>
   );
 }
-
 export default IconDeviceAudioTape;

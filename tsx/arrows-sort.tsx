@@ -24,5 +24,4 @@ function IconArrowsSort({
     </svg>
   );
 }
-
 export default IconArrowsSort;

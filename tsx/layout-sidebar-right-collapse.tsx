@@ -25,5 +25,4 @@ function IconLayoutSidebarRightCollapse({
     </svg>
   );
 }
-
 export default IconLayoutSidebarRightCollapse;

@@ -24,5 +24,4 @@ function IconTrendingDown({
     </svg>
   );
 }
-
 export default IconTrendingDown;

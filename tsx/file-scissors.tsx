@@ -28,5 +28,4 @@ function IconFileScissors({
     </svg>
   );
 }
-
 export default IconFileScissors;

@@ -28,5 +28,4 @@ function IconTemplateOff({
     </svg>
   );
 }
-
 export default IconTemplateOff;

@@ -25,5 +25,4 @@ function IconVenus({
     </svg>
   );
 }
-
 export default IconVenus;

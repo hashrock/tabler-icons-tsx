@@ -26,5 +26,4 @@ function IconShoppingCart({
     </svg>
   );
 }
-
 export default IconShoppingCart;

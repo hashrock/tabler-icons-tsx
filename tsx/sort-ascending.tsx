@@ -27,5 +27,4 @@ function IconSortAscending({
     </svg>
   );
 }
-
 export default IconSortAscending;

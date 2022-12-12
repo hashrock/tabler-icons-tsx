@@ -25,5 +25,4 @@ function IconBadgeVo({
     </svg>
   );
 }
-
 export default IconBadgeVo;

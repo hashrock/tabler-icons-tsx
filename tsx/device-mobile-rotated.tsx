@@ -25,5 +25,4 @@ function IconDeviceMobileRotated({
     </svg>
   );
 }
-
 export default IconDeviceMobileRotated;

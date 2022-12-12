@@ -29,5 +29,4 @@ function IconSlideshow({
     </svg>
   );
 }
-
 export default IconSlideshow;

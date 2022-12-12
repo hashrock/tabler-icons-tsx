@@ -25,5 +25,4 @@ function IconWiper({
     </svg>
   );
 }
-
 export default IconWiper;

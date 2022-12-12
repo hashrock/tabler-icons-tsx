@@ -31,5 +31,4 @@ function IconPassword({
     </svg>
   );
 }
-
 export default IconPassword;

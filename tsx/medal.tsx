@@ -24,5 +24,4 @@ function IconMedal({
     </svg>
   );
 }
-
 export default IconMedal;

@@ -27,5 +27,4 @@ function IconTestPipeOff({
     </svg>
   );
 }
-
 export default IconTestPipeOff;

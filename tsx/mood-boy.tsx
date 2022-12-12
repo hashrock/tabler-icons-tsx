@@ -28,5 +28,4 @@ function IconMoodBoy({
     </svg>
   );
 }
-
 export default IconMoodBoy;

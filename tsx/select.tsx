@@ -24,5 +24,4 @@ function IconSelect({
     </svg>
   );
 }
-
 export default IconSelect;

@@ -24,5 +24,4 @@ function IconBrandBitbucket({
     </svg>
   );
 }
-
 export default IconBrandBitbucket;

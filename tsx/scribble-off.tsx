@@ -24,5 +24,4 @@ function IconScribbleOff({
     </svg>
   );
 }
-
 export default IconScribbleOff;

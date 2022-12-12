@@ -26,5 +26,4 @@ function IconCup({
     </svg>
   );
 }
-
 export default IconCup;

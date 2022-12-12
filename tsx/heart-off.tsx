@@ -24,5 +24,4 @@ function IconHeartOff({
     </svg>
   );
 }
-
 export default IconHeartOff;

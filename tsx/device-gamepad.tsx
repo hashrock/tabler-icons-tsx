@@ -26,5 +26,4 @@ function IconDeviceGamepad({
     </svg>
   );
 }
-
 export default IconDeviceGamepad;

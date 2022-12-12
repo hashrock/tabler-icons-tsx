@@ -25,5 +25,4 @@ function IconRadar({
     </svg>
   );
 }
-
 export default IconRadar;

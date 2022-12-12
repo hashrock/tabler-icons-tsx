@@ -27,5 +27,4 @@ function IconCheckupList({
     </svg>
   );
 }
-
 export default IconCheckupList;

@@ -32,5 +32,4 @@ function IconTextResize({
     </svg>
   );
 }
-
 export default IconTextResize;

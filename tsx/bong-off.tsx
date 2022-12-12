@@ -26,5 +26,4 @@ function IconBongOff({
     </svg>
   );
 }
-
 export default IconBongOff;

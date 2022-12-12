@@ -26,5 +26,4 @@ function IconBadgeAr({
     </svg>
   );
 }
-
 export default IconBadgeAr;

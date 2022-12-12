@@ -28,5 +28,4 @@ function IconHandFingerOff({
     </svg>
   );
 }
-
 export default IconHandFingerOff;

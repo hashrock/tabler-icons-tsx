@@ -26,5 +26,4 @@ function IconTruckLoading({
     </svg>
   );
 }
-
 export default IconTruckLoading;

@@ -29,5 +29,4 @@ function IconRegex({
     </svg>
   );
 }
-
 export default IconRegex;

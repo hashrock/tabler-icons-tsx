@@ -25,5 +25,4 @@ function IconBulb({
     </svg>
   );
 }
-
 export default IconBulb;

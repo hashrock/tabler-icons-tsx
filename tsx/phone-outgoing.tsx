@@ -25,5 +25,4 @@ function IconPhoneOutgoing({
     </svg>
   );
 }
-
 export default IconPhoneOutgoing;

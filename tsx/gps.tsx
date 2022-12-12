@@ -24,5 +24,4 @@ function IconGps({
     </svg>
   );
 }
-
 export default IconGps;

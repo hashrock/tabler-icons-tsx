@@ -26,5 +26,4 @@ function IconZoomQuestion({
     </svg>
   );
 }
-
 export default IconZoomQuestion;

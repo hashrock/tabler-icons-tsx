@@ -25,5 +25,4 @@ function IconPencilOff({
     </svg>
   );
 }
-
 export default IconPencilOff;

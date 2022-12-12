@@ -23,5 +23,4 @@ function IconBrandSketch({
     </svg>
   );
 }
-
 export default IconBrandSketch;

@@ -25,5 +25,4 @@ function IconClipboardCheck({
     </svg>
   );
 }
-
 export default IconClipboardCheck;

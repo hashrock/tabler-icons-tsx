@@ -30,5 +30,4 @@ function IconGrill({
     </svg>
   );
 }
-
 export default IconGrill;

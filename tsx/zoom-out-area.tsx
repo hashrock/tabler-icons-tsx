@@ -30,5 +30,4 @@ function IconZoomOutArea({
     </svg>
   );
 }
-
 export default IconZoomOutArea;

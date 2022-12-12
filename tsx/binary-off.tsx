@@ -29,5 +29,4 @@ function IconBinaryOff({
     </svg>
   );
 }
-
 export default IconBinaryOff;

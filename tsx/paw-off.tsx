@@ -28,5 +28,4 @@ function IconPawOff({
     </svg>
   );
 }
-
 export default IconPawOff;

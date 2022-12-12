@@ -28,5 +28,4 @@ function IconChartTreemap({
     </svg>
   );
 }
-
 export default IconChartTreemap;

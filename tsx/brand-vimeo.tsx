@@ -23,5 +23,4 @@ function IconBrandVimeo({
     </svg>
   );
 }
-
 export default IconBrandVimeo;

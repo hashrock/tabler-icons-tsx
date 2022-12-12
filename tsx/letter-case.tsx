@@ -26,5 +26,4 @@ function IconLetterCase({
     </svg>
   );
 }
-
 export default IconLetterCase;

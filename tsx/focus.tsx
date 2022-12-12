@@ -24,5 +24,4 @@ function IconFocus({
     </svg>
   );
 }
-
 export default IconFocus;

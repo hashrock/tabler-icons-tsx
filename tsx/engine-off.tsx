@@ -28,5 +28,4 @@ function IconEngineOff({
     </svg>
   );
 }
-
 export default IconEngineOff;

@@ -26,5 +26,4 @@ function IconCut({
     </svg>
   );
 }
-
 export default IconCut;

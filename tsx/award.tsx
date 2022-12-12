@@ -25,5 +25,4 @@ function IconAward({
     </svg>
   );
 }
-
 export default IconAward;

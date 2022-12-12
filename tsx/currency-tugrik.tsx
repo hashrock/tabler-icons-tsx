@@ -26,5 +26,4 @@ function IconCurrencyTugrik({
     </svg>
   );
 }
-
 export default IconCurrencyTugrik;

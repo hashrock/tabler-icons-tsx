@@ -24,5 +24,4 @@ function IconBluetoothOff({
     </svg>
   );
 }
-
 export default IconBluetoothOff;

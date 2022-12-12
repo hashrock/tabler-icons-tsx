@@ -25,5 +25,4 @@ function IconWritingSign({
     </svg>
   );
 }
-
 export default IconWritingSign;

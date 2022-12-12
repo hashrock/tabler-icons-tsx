@@ -25,5 +25,4 @@ function IconZodiacCapricorn({
     </svg>
   );
 }
-
 export default IconZodiacCapricorn;

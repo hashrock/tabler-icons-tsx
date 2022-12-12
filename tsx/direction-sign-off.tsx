@@ -26,5 +26,4 @@ function IconDirectionSignOff({
     </svg>
   );
 }
-
 export default IconDirectionSignOff;

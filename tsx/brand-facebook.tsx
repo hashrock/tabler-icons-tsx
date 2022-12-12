@@ -23,5 +23,4 @@ function IconBrandFacebook({
     </svg>
   );
 }
-
 export default IconBrandFacebook;

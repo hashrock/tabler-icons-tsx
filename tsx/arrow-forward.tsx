@@ -23,5 +23,4 @@ function IconArrowForward({
     </svg>
   );
 }
-
 export default IconArrowForward;

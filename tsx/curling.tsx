@@ -25,5 +25,4 @@ function IconCurling({
     </svg>
   );
 }
-
 export default IconCurling;

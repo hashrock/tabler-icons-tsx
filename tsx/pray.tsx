@@ -24,5 +24,4 @@ function IconPray({
     </svg>
   );
 }
-
 export default IconPray;

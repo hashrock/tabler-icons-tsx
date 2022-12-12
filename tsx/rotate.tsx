@@ -23,5 +23,4 @@ function IconRotate({
     </svg>
   );
 }
-
 export default IconRotate;

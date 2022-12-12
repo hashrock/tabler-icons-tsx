@@ -30,5 +30,4 @@ function IconMicroscopeOff({
     </svg>
   );
 }
-
 export default IconMicroscopeOff;

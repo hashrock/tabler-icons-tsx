@@ -29,5 +29,4 @@ function IconDimensions({
     </svg>
   );
 }
-
 export default IconDimensions;

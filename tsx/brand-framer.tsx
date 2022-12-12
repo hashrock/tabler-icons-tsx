@@ -23,5 +23,4 @@ function IconBrandFramer({
     </svg>
   );
 }
-
 export default IconBrandFramer;

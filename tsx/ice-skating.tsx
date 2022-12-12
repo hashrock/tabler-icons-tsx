@@ -26,5 +26,4 @@ function IconIceSkating({
     </svg>
   );
 }
-
 export default IconIceSkating;

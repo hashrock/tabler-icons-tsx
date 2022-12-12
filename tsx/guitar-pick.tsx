@@ -23,5 +23,4 @@ function IconGuitarPick({
     </svg>
   );
 }
-
 export default IconGuitarPick;

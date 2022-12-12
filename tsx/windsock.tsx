@@ -27,5 +27,4 @@ function IconWindsock({
     </svg>
   );
 }
-
 export default IconWindsock;

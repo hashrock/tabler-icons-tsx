@@ -24,5 +24,4 @@ function IconBat({
     </svg>
   );
 }
-
 export default IconBat;

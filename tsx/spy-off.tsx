@@ -28,5 +28,4 @@ function IconSpyOff({
     </svg>
   );
 }
-
 export default IconSpyOff;

@@ -24,5 +24,4 @@ function IconNotification({
     </svg>
   );
 }
-
 export default IconNotification;

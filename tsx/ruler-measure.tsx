@@ -31,5 +31,4 @@ function IconRulerMeasure({
     </svg>
   );
 }
-
 export default IconRulerMeasure;

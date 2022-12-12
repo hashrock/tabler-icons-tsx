@@ -25,5 +25,4 @@ function IconBrandTwitch({
     </svg>
   );
 }
-
 export default IconBrandTwitch;

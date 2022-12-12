@@ -23,5 +23,4 @@ function IconAerialLift({
     </svg>
   );
 }
-
 export default IconAerialLift;

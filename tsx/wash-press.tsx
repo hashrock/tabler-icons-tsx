@@ -25,5 +25,4 @@ function IconWashPress({
     </svg>
   );
 }
-
 export default IconWashPress;

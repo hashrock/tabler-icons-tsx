@@ -25,5 +25,4 @@ function IconCurrencyDogecoin({
     </svg>
   );
 }
-
 export default IconCurrencyDogecoin;

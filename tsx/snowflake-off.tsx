@@ -35,5 +35,4 @@ function IconSnowflakeOff({
     </svg>
   );
 }
-
 export default IconSnowflakeOff;

@@ -30,5 +30,4 @@ function IconBorderStyle({
     </svg>
   );
 }
-
 export default IconBorderStyle;

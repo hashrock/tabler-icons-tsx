@@ -24,5 +24,4 @@ function IconStairsUp({
     </svg>
   );
 }
-
 export default IconStairsUp;

@@ -25,5 +25,4 @@ function IconRecordMail({
     </svg>
   );
 }
-
 export default IconRecordMail;

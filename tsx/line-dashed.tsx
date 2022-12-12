@@ -25,5 +25,4 @@ function IconLineDashed({
     </svg>
   );
 }
-
 export default IconLineDashed;

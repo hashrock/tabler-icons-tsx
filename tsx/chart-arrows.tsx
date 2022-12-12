@@ -29,5 +29,4 @@ function IconChartArrows({
     </svg>
   );
 }
-
 export default IconChartArrows;

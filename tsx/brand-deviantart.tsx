@@ -23,5 +23,4 @@ function IconBrandDeviantart({
     </svg>
   );
 }
-
 export default IconBrandDeviantart;

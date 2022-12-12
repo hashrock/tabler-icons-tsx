@@ -23,5 +23,4 @@ function IconMessageCircle2({
     </svg>
   );
 }
-
 export default IconMessageCircle2;

@@ -27,5 +27,4 @@ function IconBrandVisa({
     </svg>
   );
 }
-
 export default IconBrandVisa;

@@ -24,5 +24,4 @@ function IconFlower({
     </svg>
   );
 }
-
 export default IconFlower;

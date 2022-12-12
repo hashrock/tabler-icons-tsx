@@ -26,5 +26,4 @@ function IconBrandBehance({
     </svg>
   );
 }
-
 export default IconBrandBehance;

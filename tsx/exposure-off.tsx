@@ -27,5 +27,4 @@ function IconExposureOff({
     </svg>
   );
 }
-
 export default IconExposureOff;

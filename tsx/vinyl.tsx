@@ -26,5 +26,4 @@ function IconVinyl({
     </svg>
   );
 }
-
 export default IconVinyl;

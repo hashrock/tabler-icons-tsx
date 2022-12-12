@@ -24,5 +24,4 @@ function IconLoader3({
     </svg>
   );
 }
-
 export default IconLoader3;

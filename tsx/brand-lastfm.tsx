@@ -23,5 +23,4 @@ function IconBrandLastfm({
     </svg>
   );
 }
-
 export default IconBrandLastfm;

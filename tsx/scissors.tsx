@@ -26,5 +26,4 @@ function IconScissors({
     </svg>
   );
 }
-
 export default IconScissors;

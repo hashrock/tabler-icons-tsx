@@ -25,5 +25,4 @@ function IconBrandMastercard({
     </svg>
   );
 }
-
 export default IconBrandMastercard;

@@ -24,5 +24,4 @@ function IconSchool({
     </svg>
   );
 }
-
 export default IconSchool;

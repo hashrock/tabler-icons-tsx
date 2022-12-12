@@ -25,5 +25,4 @@ function IconArrowsJoin2({
     </svg>
   );
 }
-
 export default IconArrowsJoin2;

@@ -24,5 +24,4 @@ function IconFlameOff({
     </svg>
   );
 }
-
 export default IconFlameOff;

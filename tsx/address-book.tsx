@@ -28,5 +28,4 @@ function IconAddressBook({
     </svg>
   );
 }
-
 export default IconAddressBook;

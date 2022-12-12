@@ -25,5 +25,4 @@ function IconPlanetOff({
     </svg>
   );
 }
-
 export default IconPlanetOff;

@@ -26,5 +26,4 @@ function IconClipboardPlus({
     </svg>
   );
 }
-
 export default IconClipboardPlus;

@@ -25,5 +25,4 @@ function IconHome({
     </svg>
   );
 }
-
 export default IconHome;

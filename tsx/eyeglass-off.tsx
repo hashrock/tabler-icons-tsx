@@ -28,5 +28,4 @@ function IconEyeglassOff({
     </svg>
   );
 }
-
 export default IconEyeglassOff;

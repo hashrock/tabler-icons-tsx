@@ -23,5 +23,4 @@ function IconSquare({
     </svg>
   );
 }
-
 export default IconSquare;

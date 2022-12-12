@@ -26,5 +26,4 @@ function IconCast({
     </svg>
   );
 }
-
 export default IconCast;

@@ -27,5 +27,4 @@ function IconNeedleThread({
     </svg>
   );
 }
-
 export default IconNeedleThread;

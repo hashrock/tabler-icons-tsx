@@ -26,5 +26,4 @@ function IconNfcOff({
     </svg>
   );
 }
-
 export default IconNfcOff;

@@ -24,5 +24,4 @@ function IconCloudOff({
     </svg>
   );
 }
-
 export default IconCloudOff;

@@ -26,5 +26,4 @@ function IconIndentDecrease({
     </svg>
   );
 }
-
 export default IconIndentDecrease;

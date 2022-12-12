@@ -24,5 +24,4 @@ function IconNavigationOff({
     </svg>
   );
 }
-
 export default IconNavigationOff;

@@ -24,5 +24,4 @@ function IconBrandHeadlessui({
     </svg>
   );
 }
-
 export default IconBrandHeadlessui;

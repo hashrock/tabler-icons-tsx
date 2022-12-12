@@ -29,5 +29,4 @@ function IconMasksTheaterOff({
     </svg>
   );
 }
-
 export default IconMasksTheaterOff;

@@ -25,5 +25,4 @@ function IconColorPickerOff({
     </svg>
   );
 }
-
 export default IconColorPickerOff;

@@ -25,5 +25,4 @@ function IconCurrencyTaka({
     </svg>
   );
 }
-
 export default IconCurrencyTaka;

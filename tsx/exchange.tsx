@@ -26,5 +26,4 @@ function IconExchange({
     </svg>
   );
 }
-
 export default IconExchange;

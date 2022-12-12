@@ -28,5 +28,4 @@ function IconSteeringWheelOff({
     </svg>
   );
 }
-
 export default IconSteeringWheelOff;

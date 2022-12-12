@@ -26,5 +26,4 @@ function IconNewsOff({
     </svg>
   );
 }
-
 export default IconNewsOff;

@@ -25,5 +25,4 @@ function IconZzzOff({
     </svg>
   );
 }
-
 export default IconZzzOff;

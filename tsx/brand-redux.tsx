@@ -28,5 +28,4 @@ function IconBrandRedux({
     </svg>
   );
 }
-
 export default IconBrandRedux;

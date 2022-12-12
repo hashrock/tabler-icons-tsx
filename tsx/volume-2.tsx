@@ -24,5 +24,4 @@ function IconVolume2({
     </svg>
   );
 }
-
 export default IconVolume2;

@@ -23,5 +23,4 @@ function IconSquareRoot({
     </svg>
   );
 }
-
 export default IconSquareRoot;

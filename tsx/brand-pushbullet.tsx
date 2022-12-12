@@ -25,5 +25,4 @@ function IconBrandPushbullet({
     </svg>
   );
 }
-
 export default IconBrandPushbullet;

@@ -35,5 +35,4 @@ function IconMarqueeOff({
     </svg>
   );
 }
-
 export default IconMarqueeOff;

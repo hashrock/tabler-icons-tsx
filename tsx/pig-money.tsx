@@ -25,5 +25,4 @@ function IconPigMoney({
     </svg>
   );
 }
-
 export default IconPigMoney;

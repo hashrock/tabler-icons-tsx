@@ -28,5 +28,4 @@ function IconLadder({
     </svg>
   );
 }
-
 export default IconLadder;

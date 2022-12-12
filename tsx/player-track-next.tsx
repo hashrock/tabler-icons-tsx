@@ -24,5 +24,4 @@ function IconPlayerTrackNext({
     </svg>
   );
 }
-
 export default IconPlayerTrackNext;

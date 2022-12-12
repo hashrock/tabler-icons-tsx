@@ -25,5 +25,4 @@ function IconMenu2({
     </svg>
   );
 }
-
 export default IconMenu2;

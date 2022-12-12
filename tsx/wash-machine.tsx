@@ -28,5 +28,4 @@ function IconWashMachine({
     </svg>
   );
 }
-
 export default IconWashMachine;

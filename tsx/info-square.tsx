@@ -25,5 +25,4 @@ function IconInfoSquare({
     </svg>
   );
 }
-
 export default IconInfoSquare;

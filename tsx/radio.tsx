@@ -27,5 +27,4 @@ function IconRadio({
     </svg>
   );
 }
-
 export default IconRadio;

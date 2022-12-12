@@ -26,5 +26,4 @@ function IconHandGrab({
     </svg>
   );
 }
-
 export default IconHandGrab;

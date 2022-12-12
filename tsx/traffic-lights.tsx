@@ -26,5 +26,4 @@ function IconTrafficLights({
     </svg>
   );
 }
-
 export default IconTrafficLights;

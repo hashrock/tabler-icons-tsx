@@ -28,5 +28,4 @@ function IconCarCrash({
     </svg>
   );
 }
-
 export default IconCarCrash;

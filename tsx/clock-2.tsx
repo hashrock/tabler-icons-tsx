@@ -27,5 +27,4 @@ function IconClock2({
     </svg>
   );
 }
-
 export default IconClock2;

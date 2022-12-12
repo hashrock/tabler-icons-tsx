@@ -29,5 +29,4 @@ function IconViewfinderOff({
     </svg>
   );
 }
-
 export default IconViewfinderOff;

@@ -23,5 +23,4 @@ function IconBrandGoogle({
     </svg>
   );
 }
-
 export default IconBrandGoogle;

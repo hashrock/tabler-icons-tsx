@@ -26,5 +26,4 @@ function IconYinYang({
     </svg>
   );
 }
-
 export default IconYinYang;

@@ -24,5 +24,4 @@ function IconPerspectiveOff({
     </svg>
   );
 }
-
 export default IconPerspectiveOff;

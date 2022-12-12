@@ -26,5 +26,4 @@ function IconAd({
     </svg>
   );
 }
-
 export default IconAd;

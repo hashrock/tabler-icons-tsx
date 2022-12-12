@@ -25,5 +25,4 @@ function IconEyeCheck({
     </svg>
   );
 }
-
 export default IconEyeCheck;

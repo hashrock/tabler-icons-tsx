@@ -25,5 +25,4 @@ function IconOutlet({
     </svg>
   );
 }
-
 export default IconOutlet;

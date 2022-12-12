@@ -23,5 +23,4 @@ function IconClubs({
     </svg>
   );
 }
-
 export default IconClubs;

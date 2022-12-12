@@ -27,5 +27,4 @@ function IconTornado({
     </svg>
   );
 }
-
 export default IconTornado;

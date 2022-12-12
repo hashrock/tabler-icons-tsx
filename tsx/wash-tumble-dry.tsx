@@ -24,5 +24,4 @@ function IconWashTumbleDry({
     </svg>
   );
 }
-
 export default IconWashTumbleDry;

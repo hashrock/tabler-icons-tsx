@@ -25,5 +25,4 @@ function IconCell({
     </svg>
   );
 }
-
 export default IconCell;

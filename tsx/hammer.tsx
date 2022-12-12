@@ -24,5 +24,4 @@ function IconHammer({
     </svg>
   );
 }
-
 export default IconHammer;

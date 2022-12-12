@@ -27,5 +27,4 @@ function IconScan({
     </svg>
   );
 }
-
 export default IconScan;

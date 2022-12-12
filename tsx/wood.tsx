@@ -26,5 +26,4 @@ function IconWood({
     </svg>
   );
 }
-
 export default IconWood;

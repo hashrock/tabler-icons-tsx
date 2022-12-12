@@ -26,5 +26,4 @@ function IconCurrencyDollarSingapore({
     </svg>
   );
 }
-
 export default IconCurrencyDollarSingapore;

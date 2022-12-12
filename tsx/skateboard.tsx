@@ -25,5 +25,4 @@ function IconSkateboard({
     </svg>
   );
 }
-
 export default IconSkateboard;

@@ -23,5 +23,4 @@ function IconBrandTopbuzz({
     </svg>
   );
 }
-
 export default IconBrandTopbuzz;

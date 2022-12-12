@@ -26,5 +26,4 @@ function IconUserExclamation({
     </svg>
   );
 }
-
 export default IconUserExclamation;

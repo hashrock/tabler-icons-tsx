@@ -26,5 +26,4 @@ function IconBuildingCottage({
     </svg>
   );
 }
-
 export default IconBuildingCottage;

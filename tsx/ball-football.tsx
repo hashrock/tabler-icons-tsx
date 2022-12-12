@@ -25,5 +25,4 @@ function IconBallFootball({
     </svg>
   );
 }
-
 export default IconBallFootball;

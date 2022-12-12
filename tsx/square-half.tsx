@@ -28,5 +28,4 @@ function IconSquareHalf({
     </svg>
   );
 }
-
 export default IconSquareHalf;

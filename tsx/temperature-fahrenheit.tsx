@@ -25,5 +25,4 @@ function IconTemperatureFahrenheit({
     </svg>
   );
 }
-
 export default IconTemperatureFahrenheit;

@@ -23,5 +23,4 @@ function IconBrandMcdonalds({
     </svg>
   );
 }
-
 export default IconBrandMcdonalds;

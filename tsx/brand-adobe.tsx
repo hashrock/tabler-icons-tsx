@@ -23,5 +23,4 @@ function IconBrandAdobe({
     </svg>
   );
 }
-
 export default IconBrandAdobe;

@@ -28,5 +28,4 @@ function IconCalendarTime({
     </svg>
   );
 }
-
 export default IconCalendarTime;

@@ -26,5 +26,4 @@ function IconBrandSpotify({
     </svg>
   );
 }
-
 export default IconBrandSpotify;

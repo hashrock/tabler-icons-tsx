@@ -27,5 +27,4 @@ function IconSortDescendingNumbers({
     </svg>
   );
 }
-
 export default IconSortDescendingNumbers;

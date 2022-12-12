@@ -24,5 +24,4 @@ function IconDeviceSim2({
     </svg>
   );
 }
-
 export default IconDeviceSim2;

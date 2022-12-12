@@ -26,5 +26,4 @@ function IconAccessibleOff({
     </svg>
   );
 }
-
 export default IconAccessibleOff;

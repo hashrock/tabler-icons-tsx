@@ -27,5 +27,4 @@ function IconPhotoEdit({
     </svg>
   );
 }
-
 export default IconPhotoEdit;

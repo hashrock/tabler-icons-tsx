@@ -28,5 +28,4 @@ function IconList({
     </svg>
   );
 }
-
 export default IconList;

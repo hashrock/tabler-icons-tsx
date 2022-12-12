@@ -24,5 +24,4 @@ function IconServicemark({
     </svg>
   );
 }
-
 export default IconServicemark;

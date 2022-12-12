@@ -33,5 +33,4 @@ function IconAbacus({
     </svg>
   );
 }
-
 export default IconAbacus;

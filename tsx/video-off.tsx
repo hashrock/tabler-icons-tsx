@@ -25,5 +25,4 @@ function IconVideoOff({
     </svg>
   );
 }
-
 export default IconVideoOff;

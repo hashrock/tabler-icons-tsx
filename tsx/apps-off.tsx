@@ -28,5 +28,4 @@ function IconAppsOff({
     </svg>
   );
 }
-
 export default IconAppsOff;

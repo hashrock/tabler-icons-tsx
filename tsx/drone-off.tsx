@@ -32,5 +32,4 @@ function IconDroneOff({
     </svg>
   );
 }
-
 export default IconDroneOff;

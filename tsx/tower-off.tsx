@@ -25,5 +25,4 @@ function IconTowerOff({
     </svg>
   );
 }
-
 export default IconTowerOff;

@@ -39,5 +39,4 @@ function IconBoxMargin({
     </svg>
   );
 }
-
 export default IconBoxMargin;

@@ -25,5 +25,4 @@ function IconExplicit({
     </svg>
   );
 }
-
 export default IconExplicit;

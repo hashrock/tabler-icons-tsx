@@ -24,5 +24,4 @@ function IconVideo({
     </svg>
   );
 }
-
 export default IconVideo;

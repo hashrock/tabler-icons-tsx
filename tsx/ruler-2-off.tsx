@@ -27,5 +27,4 @@ function IconRuler2Off({
     </svg>
   );
 }
-
 export default IconRuler2Off;

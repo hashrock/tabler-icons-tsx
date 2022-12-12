@@ -26,5 +26,4 @@ function IconStackPush({
     </svg>
   );
 }
-
 export default IconStackPush;

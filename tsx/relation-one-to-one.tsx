@@ -27,5 +27,4 @@ function IconRelationOneToOne({
     </svg>
   );
 }
-
 export default IconRelationOneToOne;

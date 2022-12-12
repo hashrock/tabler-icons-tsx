@@ -24,5 +24,4 @@ function IconBrandPatreon({
     </svg>
   );
 }
-
 export default IconBrandPatreon;

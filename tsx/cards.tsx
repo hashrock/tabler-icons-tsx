@@ -25,5 +25,4 @@ function IconCards({
     </svg>
   );
 }
-
 export default IconCards;

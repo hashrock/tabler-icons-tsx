@@ -24,5 +24,4 @@ function IconBrandSvelte({
     </svg>
   );
 }
-
 export default IconBrandSvelte;

@@ -24,5 +24,4 @@ function IconChartArea({
     </svg>
   );
 }
-
 export default IconChartArea;

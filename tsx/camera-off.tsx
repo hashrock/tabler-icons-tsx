@@ -25,5 +25,4 @@ function IconCameraOff({
     </svg>
   );
 }
-
 export default IconCameraOff;

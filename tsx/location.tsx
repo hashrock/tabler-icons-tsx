@@ -23,5 +23,4 @@ function IconLocation({
     </svg>
   );
 }
-
 export default IconLocation;

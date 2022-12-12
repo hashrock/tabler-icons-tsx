@@ -25,5 +25,4 @@ function IconOutbound({
     </svg>
   );
 }
-
 export default IconOutbound;

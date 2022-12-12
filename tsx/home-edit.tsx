@@ -25,5 +25,4 @@ function IconHomeEdit({
     </svg>
   );
 }
-
 export default IconHomeEdit;

@@ -24,5 +24,4 @@ function IconTrademark({
     </svg>
   );
 }
-
 export default IconTrademark;

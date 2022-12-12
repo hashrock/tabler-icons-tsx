@@ -25,5 +25,4 @@ function IconParkingOff({
     </svg>
   );
 }
-
 export default IconParkingOff;

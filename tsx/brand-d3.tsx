@@ -27,5 +27,4 @@ function IconBrandD3({
     </svg>
   );
 }
-
 export default IconBrandD3;

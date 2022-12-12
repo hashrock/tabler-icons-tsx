@@ -25,5 +25,4 @@ function IconWifi2({
     </svg>
   );
 }
-
 export default IconWifi2;

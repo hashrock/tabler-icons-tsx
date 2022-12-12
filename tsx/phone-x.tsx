@@ -24,5 +24,4 @@ function IconPhoneX({
     </svg>
   );
 }
-
 export default IconPhoneX;

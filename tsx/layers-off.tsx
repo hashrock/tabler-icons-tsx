@@ -25,5 +25,4 @@ function IconLayersOff({
     </svg>
   );
 }
-
 export default IconLayersOff;

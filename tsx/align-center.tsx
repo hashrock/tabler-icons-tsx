@@ -25,5 +25,4 @@ function IconAlignCenter({
     </svg>
   );
 }
-
 export default IconAlignCenter;

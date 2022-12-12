@@ -23,5 +23,4 @@ function IconCornerUpLeft({
     </svg>
   );
 }
-
 export default IconCornerUpLeft;

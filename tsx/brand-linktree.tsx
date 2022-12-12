@@ -24,5 +24,4 @@ function IconBrandLinktree({
     </svg>
   );
 }
-
 export default IconBrandLinktree;

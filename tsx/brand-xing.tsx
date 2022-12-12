@@ -24,5 +24,4 @@ function IconBrandXing({
     </svg>
   );
 }
-
 export default IconBrandXing;

@@ -25,5 +25,4 @@ function IconSpeakerphone({
     </svg>
   );
 }
-
 export default IconSpeakerphone;

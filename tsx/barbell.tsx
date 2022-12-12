@@ -29,5 +29,4 @@ function IconBarbell({
     </svg>
   );
 }
-
 export default IconBarbell;

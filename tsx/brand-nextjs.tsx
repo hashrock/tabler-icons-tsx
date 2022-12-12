@@ -24,5 +24,4 @@ function IconBrandNextjs({
     </svg>
   );
 }
-
 export default IconBrandNextjs;

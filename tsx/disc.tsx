@@ -26,5 +26,4 @@ function IconDisc({
     </svg>
   );
 }
-
 export default IconDisc;

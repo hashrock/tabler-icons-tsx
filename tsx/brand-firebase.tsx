@@ -25,5 +25,4 @@ function IconBrandFirebase({
     </svg>
   );
 }
-
 export default IconBrandFirebase;

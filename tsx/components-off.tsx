@@ -27,5 +27,4 @@ function IconComponentsOff({
     </svg>
   );
 }
-
 export default IconComponentsOff;

@@ -23,5 +23,4 @@ function IconLetterU({
     </svg>
   );
 }
-
 export default IconLetterU;

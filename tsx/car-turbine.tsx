@@ -31,5 +31,4 @@ function IconCarTurbine({
     </svg>
   );
 }
-
 export default IconCarTurbine;

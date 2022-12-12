@@ -25,5 +25,4 @@ function IconCurrencyLyd({
     </svg>
   );
 }
-
 export default IconCurrencyLyd;

@@ -28,5 +28,4 @@ function IconServer2({
     </svg>
   );
 }
-
 export default IconServer2;

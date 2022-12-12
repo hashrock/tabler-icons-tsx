@@ -25,5 +25,4 @@ function IconLayoutSidebarRightExpand({
     </svg>
   );
 }
-
 export default IconLayoutSidebarRightExpand;

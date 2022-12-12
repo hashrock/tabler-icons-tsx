@@ -25,5 +25,4 @@ function IconBrandPicsart({
     </svg>
   );
 }
-
 export default IconBrandPicsart;

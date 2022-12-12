@@ -24,5 +24,4 @@ function IconMug({
     </svg>
   );
 }
-
 export default IconMug;

@@ -24,5 +24,4 @@ function IconLayoutSidebar({
     </svg>
   );
 }
-
 export default IconLayoutSidebar;

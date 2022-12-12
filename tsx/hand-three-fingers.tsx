@@ -26,5 +26,4 @@ function IconHandThreeFingers({
     </svg>
   );
 }
-
 export default IconHandThreeFingers;

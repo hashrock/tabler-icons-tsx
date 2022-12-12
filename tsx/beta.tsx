@@ -23,5 +23,4 @@ function IconBeta({
     </svg>
   );
 }
-
 export default IconBeta;

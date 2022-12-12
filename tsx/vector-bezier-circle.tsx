@@ -30,5 +30,4 @@ function IconVectorBezierCircle({
     </svg>
   );
 }
-
 export default IconVectorBezierCircle;

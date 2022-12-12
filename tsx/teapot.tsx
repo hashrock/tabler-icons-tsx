@@ -25,5 +25,4 @@ function IconTeapot({
     </svg>
   );
 }
-
 export default IconTeapot;

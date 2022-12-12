@@ -25,5 +25,4 @@ function IconHomeShield({
     </svg>
   );
 }
-
 export default IconHomeShield;

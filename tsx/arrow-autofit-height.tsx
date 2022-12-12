@@ -27,5 +27,4 @@ function IconArrowAutofitHeight({
     </svg>
   );
 }
-
 export default IconArrowAutofitHeight;

@@ -25,5 +25,4 @@ function IconMoonStars({
     </svg>
   );
 }
-
 export default IconMoonStars;

@@ -30,5 +30,4 @@ function IconDialpadOff({
     </svg>
   );
 }
-
 export default IconDialpadOff;

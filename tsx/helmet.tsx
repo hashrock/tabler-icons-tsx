@@ -24,5 +24,4 @@ function IconHelmet({
     </svg>
   );
 }
-
 export default IconHelmet;

@@ -27,5 +27,4 @@ function IconScreenShareOff({
     </svg>
   );
 }
-
 export default IconScreenShareOff;

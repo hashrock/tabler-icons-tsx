@@ -31,5 +31,4 @@ function IconWorldWww({
     </svg>
   );
 }
-
 export default IconWorldWww;

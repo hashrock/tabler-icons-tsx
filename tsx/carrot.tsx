@@ -27,5 +27,4 @@ function IconCarrot({
     </svg>
   );
 }
-
 export default IconCarrot;

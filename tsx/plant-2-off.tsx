@@ -28,5 +28,4 @@ function IconPlant2Off({
     </svg>
   );
 }
-
 export default IconPlant2Off;

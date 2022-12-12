@@ -26,5 +26,4 @@ function IconLampOff({
     </svg>
   );
 }
-
 export default IconLampOff;

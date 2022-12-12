@@ -26,5 +26,4 @@ function IconBible({
     </svg>
   );
 }
-
 export default IconBible;

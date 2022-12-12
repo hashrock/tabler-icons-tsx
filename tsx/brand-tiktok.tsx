@@ -23,5 +23,4 @@ function IconBrandTiktok({
     </svg>
   );
 }
-
 export default IconBrandTiktok;

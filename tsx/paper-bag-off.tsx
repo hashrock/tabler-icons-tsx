@@ -27,5 +27,4 @@ function IconPaperBagOff({
     </svg>
   );
 }
-
 export default IconPaperBagOff;

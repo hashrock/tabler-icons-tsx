@@ -25,5 +25,4 @@ function IconLock({
     </svg>
   );
 }
-
 export default IconLock;

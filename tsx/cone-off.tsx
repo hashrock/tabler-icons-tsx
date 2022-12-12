@@ -25,5 +25,4 @@ function IconConeOff({
     </svg>
   );
 }
-
 export default IconConeOff;

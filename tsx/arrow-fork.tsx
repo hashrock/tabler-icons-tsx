@@ -26,5 +26,4 @@ function IconArrowFork({
     </svg>
   );
 }
-
 export default IconArrowFork;

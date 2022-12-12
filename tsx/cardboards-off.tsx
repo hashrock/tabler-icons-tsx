@@ -26,5 +26,4 @@ function IconCardboardsOff({
     </svg>
   );
 }
-
 export default IconCardboardsOff;

@@ -31,5 +31,4 @@ function IconWallOff({
     </svg>
   );
 }
-
 export default IconWallOff;

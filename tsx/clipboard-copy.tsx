@@ -25,5 +25,4 @@ function IconClipboardCopy({
     </svg>
   );
 }
-
 export default IconClipboardCopy;

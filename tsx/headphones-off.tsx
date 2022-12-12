@@ -26,5 +26,4 @@ function IconHeadphonesOff({
     </svg>
   );
 }
-
 export default IconHeadphonesOff;

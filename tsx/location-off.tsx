@@ -24,5 +24,4 @@ function IconLocationOff({
     </svg>
   );
 }
-
 export default IconLocationOff;

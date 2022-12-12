@@ -24,5 +24,4 @@ function IconPlaystationSquare({
     </svg>
   );
 }
-
 export default IconPlaystationSquare;

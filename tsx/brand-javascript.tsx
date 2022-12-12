@@ -25,5 +25,4 @@ function IconBrandJavascript({
     </svg>
   );
 }
-
 export default IconBrandJavascript;

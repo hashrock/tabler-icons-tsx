@@ -25,5 +25,4 @@ function IconRipple({
     </svg>
   );
 }
-
 export default IconRipple;

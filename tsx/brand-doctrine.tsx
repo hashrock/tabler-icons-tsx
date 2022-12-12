@@ -26,5 +26,4 @@ function IconBrandDoctrine({
     </svg>
   );
 }
-
 export default IconBrandDoctrine;

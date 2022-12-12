@@ -24,5 +24,4 @@ function IconBrandDrupal({
     </svg>
   );
 }
-
 export default IconBrandDrupal;

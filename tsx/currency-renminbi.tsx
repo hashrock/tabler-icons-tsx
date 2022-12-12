@@ -26,5 +26,4 @@ function IconCurrencyRenminbi({
     </svg>
   );
 }
-
 export default IconCurrencyRenminbi;

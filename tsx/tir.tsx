@@ -27,5 +27,4 @@ function IconTir({
     </svg>
   );
 }
-
 export default IconTir;

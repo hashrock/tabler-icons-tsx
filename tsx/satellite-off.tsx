@@ -29,5 +29,4 @@ function IconSatelliteOff({
     </svg>
   );
 }
-
 export default IconSatelliteOff;

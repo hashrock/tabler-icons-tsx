@@ -24,5 +24,4 @@ function IconGenderAgender({
     </svg>
   );
 }
-
 export default IconGenderAgender;

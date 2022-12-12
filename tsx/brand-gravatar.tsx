@@ -23,5 +23,4 @@ function IconBrandGravatar({
     </svg>
   );
 }
-
 export default IconBrandGravatar;

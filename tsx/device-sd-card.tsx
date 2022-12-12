@@ -26,5 +26,4 @@ function IconDeviceSdCard({
     </svg>
   );
 }
-
 export default IconDeviceSdCard;

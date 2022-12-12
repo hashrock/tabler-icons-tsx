@@ -25,5 +25,4 @@ function IconClearAll({
     </svg>
   );
 }
-
 export default IconClearAll;

@@ -25,5 +25,4 @@ function IconCar({
     </svg>
   );
 }
-
 export default IconCar;

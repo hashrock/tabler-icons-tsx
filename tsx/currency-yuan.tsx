@@ -25,5 +25,4 @@ function IconCurrencyYuan({
     </svg>
   );
 }
-
 export default IconCurrencyYuan;

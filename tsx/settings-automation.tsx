@@ -24,5 +24,4 @@ function IconSettingsAutomation({
     </svg>
   );
 }
-
 export default IconSettingsAutomation;

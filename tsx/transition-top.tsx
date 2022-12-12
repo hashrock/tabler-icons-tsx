@@ -26,5 +26,4 @@ function IconTransitionTop({
     </svg>
   );
 }
-
 export default IconTransitionTop;

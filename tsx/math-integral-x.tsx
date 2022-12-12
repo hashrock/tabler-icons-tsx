@@ -25,5 +25,4 @@ function IconMathIntegralX({
     </svg>
   );
 }
-
 export default IconMathIntegralX;

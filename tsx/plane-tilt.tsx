@@ -23,5 +23,4 @@ function IconPlaneTilt({
     </svg>
   );
 }
-
 export default IconPlaneTilt;

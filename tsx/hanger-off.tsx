@@ -24,5 +24,4 @@ function IconHangerOff({
     </svg>
   );
 }
-
 export default IconHangerOff;

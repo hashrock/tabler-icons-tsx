@@ -31,5 +31,4 @@ function IconHistoryToggle({
     </svg>
   );
 }
-
 export default IconHistoryToggle;

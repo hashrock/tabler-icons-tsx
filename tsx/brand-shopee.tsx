@@ -25,5 +25,4 @@ function IconBrandShopee({
     </svg>
   );
 }
-
 export default IconBrandShopee;

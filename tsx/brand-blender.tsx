@@ -27,5 +27,4 @@ function IconBrandBlender({
     </svg>
   );
 }
-
 export default IconBrandBlender;

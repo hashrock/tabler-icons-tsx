@@ -26,5 +26,4 @@ function IconFunctionOff({
     </svg>
   );
 }
-
 export default IconFunctionOff;

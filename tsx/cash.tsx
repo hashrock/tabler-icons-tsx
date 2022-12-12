@@ -25,5 +25,4 @@ function IconCash({
     </svg>
   );
 }
-
 export default IconCash;

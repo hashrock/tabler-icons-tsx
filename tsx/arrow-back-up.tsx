@@ -23,5 +23,4 @@ function IconArrowBackUp({
     </svg>
   );
 }
-
 export default IconArrowBackUp;

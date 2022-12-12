@@ -25,5 +25,4 @@ function IconDogBowl({
     </svg>
   );
 }
-
 export default IconDogBowl;

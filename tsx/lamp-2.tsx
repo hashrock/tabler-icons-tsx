@@ -27,5 +27,4 @@ function IconLamp2({
     </svg>
   );
 }
-
 export default IconLamp2;

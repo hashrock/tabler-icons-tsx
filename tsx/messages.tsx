@@ -24,5 +24,4 @@ function IconMessages({
     </svg>
   );
 }
-
 export default IconMessages;

@@ -24,5 +24,4 @@ function IconBrandPocket({
     </svg>
   );
 }
-
 export default IconBrandPocket;

@@ -26,5 +26,4 @@ function IconRadarOff({
     </svg>
   );
 }
-
 export default IconRadarOff;

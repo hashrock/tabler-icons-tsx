@@ -25,5 +25,4 @@ function IconPrescription({
     </svg>
   );
 }
-
 export default IconPrescription;

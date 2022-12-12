@@ -28,5 +28,4 @@ function IconChartInfographic({
     </svg>
   );
 }
-
 export default IconChartInfographic;

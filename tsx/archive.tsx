@@ -25,5 +25,4 @@ function IconArchive({
     </svg>
   );
 }
-
 export default IconArchive;

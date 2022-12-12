@@ -26,5 +26,4 @@ function IconBallBowling({
     </svg>
   );
 }
-
 export default IconBallBowling;

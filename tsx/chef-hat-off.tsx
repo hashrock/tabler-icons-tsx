@@ -25,5 +25,4 @@ function IconChefHatOff({
     </svg>
   );
 }
-
 export default IconChefHatOff;

@@ -26,5 +26,4 @@ function IconLinkOff({
     </svg>
   );
 }
-
 export default IconLinkOff;

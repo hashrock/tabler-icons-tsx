@@ -28,5 +28,4 @@ function IconCircuitCellPlus({
     </svg>
   );
 }
-
 export default IconCircuitCellPlus;

@@ -26,5 +26,4 @@ function IconCameraRotate({
     </svg>
   );
 }
-
 export default IconCameraRotate;

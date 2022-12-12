@@ -24,5 +24,4 @@ function IconBookmarks({
     </svg>
   );
 }
-
 export default IconBookmarks;

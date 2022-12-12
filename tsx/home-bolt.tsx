@@ -25,5 +25,4 @@ function IconHomeBolt({
     </svg>
   );
 }
-
 export default IconHomeBolt;

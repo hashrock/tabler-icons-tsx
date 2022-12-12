@@ -29,5 +29,4 @@ function IconBlur({
     </svg>
   );
 }
-
 export default IconBlur;

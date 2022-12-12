@@ -23,5 +23,4 @@ function IconSum({
     </svg>
   );
 }
-
 export default IconSum;

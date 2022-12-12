@@ -25,5 +25,4 @@ function IconSquareRoot2({
     </svg>
   );
 }
-
 export default IconSquareRoot2;

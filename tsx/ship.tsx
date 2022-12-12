@@ -26,5 +26,4 @@ function IconShip({
     </svg>
   );
 }
-
 export default IconShip;

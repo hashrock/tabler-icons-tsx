@@ -24,5 +24,4 @@ function IconMushroom({
     </svg>
   );
 }
-
 export default IconMushroom;

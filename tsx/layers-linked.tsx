@@ -24,5 +24,4 @@ function IconLayersLinked({
     </svg>
   );
 }
-
 export default IconLayersLinked;

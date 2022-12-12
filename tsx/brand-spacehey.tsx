@@ -25,5 +25,4 @@ function IconBrandSpacehey({
     </svg>
   );
 }
-
 export default IconBrandSpacehey;

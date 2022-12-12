@@ -25,5 +25,4 @@ function IconWashOff({
     </svg>
   );
 }
-
 export default IconWashOff;

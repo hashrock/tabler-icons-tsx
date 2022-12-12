@@ -28,5 +28,4 @@ function IconCookieMan({
     </svg>
   );
 }
-
 export default IconCookieMan;

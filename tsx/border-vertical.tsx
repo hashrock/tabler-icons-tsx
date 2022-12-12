@@ -39,5 +39,4 @@ function IconBorderVertical({
     </svg>
   );
 }
-
 export default IconBorderVertical;

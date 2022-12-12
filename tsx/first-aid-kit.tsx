@@ -26,5 +26,4 @@ function IconFirstAidKit({
     </svg>
   );
 }
-
 export default IconFirstAidKit;

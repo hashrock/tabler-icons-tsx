@@ -27,5 +27,4 @@ function IconTextDirectionRtl({
     </svg>
   );
 }
-
 export default IconTextDirectionRtl;

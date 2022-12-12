@@ -29,5 +29,4 @@ function IconSunglasses({
     </svg>
   );
 }
-
 export default IconSunglasses;

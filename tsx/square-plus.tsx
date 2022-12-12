@@ -25,5 +25,4 @@ function IconSquarePlus({
     </svg>
   );
 }
-
 export default IconSquarePlus;

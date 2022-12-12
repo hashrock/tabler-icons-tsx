@@ -24,5 +24,4 @@ function IconAssembly({
     </svg>
   );
 }
-
 export default IconAssembly;

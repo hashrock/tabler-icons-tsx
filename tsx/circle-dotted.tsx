@@ -34,5 +34,4 @@ function IconCircleDotted({
     </svg>
   );
 }
-
 export default IconCircleDotted;

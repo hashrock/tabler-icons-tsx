@@ -27,5 +27,4 @@ function IconDeviceDesktopOff({
     </svg>
   );
 }
-
 export default IconDeviceDesktopOff;

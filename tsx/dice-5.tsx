@@ -28,5 +28,4 @@ function IconDice5({
     </svg>
   );
 }
-
 export default IconDice5;

@@ -26,5 +26,4 @@ function IconTemperaturePlus({
     </svg>
   );
 }
-
 export default IconTemperaturePlus;

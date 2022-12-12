@@ -27,5 +27,4 @@ function IconNotesOff({
     </svg>
   );
 }
-
 export default IconNotesOff;

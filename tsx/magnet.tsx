@@ -25,5 +25,4 @@ function IconMagnet({
     </svg>
   );
 }
-
 export default IconMagnet;

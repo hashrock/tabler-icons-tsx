@@ -31,5 +31,4 @@ function IconBugOff({
     </svg>
   );
 }
-
 export default IconBugOff;

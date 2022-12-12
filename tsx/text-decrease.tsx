@@ -25,5 +25,4 @@ function IconTextDecrease({
     </svg>
   );
 }
-
 export default IconTextDecrease;

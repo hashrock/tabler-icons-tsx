@@ -26,5 +26,4 @@ function IconBrandAppstore({
     </svg>
   );
 }
-
 export default IconBrandAppstore;

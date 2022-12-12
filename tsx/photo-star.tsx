@@ -26,5 +26,4 @@ function IconPhotoStar({
     </svg>
   );
 }
-
 export default IconPhotoStar;

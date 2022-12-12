@@ -24,5 +24,4 @@ function IconCurrencyRupee({
     </svg>
   );
 }
-
 export default IconCurrencyRupee;

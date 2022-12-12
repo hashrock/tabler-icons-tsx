@@ -30,5 +30,4 @@ function IconHaze({
     </svg>
   );
 }
-
 export default IconHaze;

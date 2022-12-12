@@ -24,5 +24,4 @@ function IconBrandAdonisJs({
     </svg>
   );
 }
-
 export default IconBrandAdonisJs;

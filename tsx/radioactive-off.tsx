@@ -26,5 +26,4 @@ function IconRadioactiveOff({
     </svg>
   );
 }
-
 export default IconRadioactiveOff;

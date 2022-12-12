@@ -25,5 +25,4 @@ function IconPillOff({
     </svg>
   );
 }
-
 export default IconPillOff;

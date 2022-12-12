@@ -27,5 +27,4 @@ function IconWhirl({
     </svg>
   );
 }
-
 export default IconWhirl;

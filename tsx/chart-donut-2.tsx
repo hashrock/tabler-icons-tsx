@@ -25,5 +25,4 @@ function IconChartDonut2({
     </svg>
   );
 }
-
 export default IconChartDonut2;

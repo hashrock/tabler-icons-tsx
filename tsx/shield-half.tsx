@@ -24,5 +24,4 @@ function IconShieldHalf({
     </svg>
   );
 }
-
 export default IconShieldHalf;

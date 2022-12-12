@@ -23,5 +23,4 @@ function IconBrandTelegram({
     </svg>
   );
 }
-
 export default IconBrandTelegram;

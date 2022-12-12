@@ -25,5 +25,4 @@ function IconBuildingArch({
     </svg>
   );
 }
-
 export default IconBuildingArch;

@@ -37,5 +37,4 @@ function IconBrandGraphql({
     </svg>
   );
 }
-
 export default IconBrandGraphql;

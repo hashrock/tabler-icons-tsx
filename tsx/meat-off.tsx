@@ -29,5 +29,4 @@ function IconMeatOff({
     </svg>
   );
 }
-
 export default IconMeatOff;

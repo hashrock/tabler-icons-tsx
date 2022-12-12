@@ -26,5 +26,4 @@ function IconCakeOff({
     </svg>
   );
 }
-
 export default IconCakeOff;

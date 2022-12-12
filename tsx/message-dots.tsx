@@ -26,5 +26,4 @@ function IconMessageDots({
     </svg>
   );
 }
-
 export default IconMessageDots;

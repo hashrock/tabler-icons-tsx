@@ -24,5 +24,4 @@ function IconLayoutColumns({
     </svg>
   );
 }
-
 export default IconLayoutColumns;

@@ -27,5 +27,4 @@ function IconCircuitSwitchOpen({
     </svg>
   );
 }
-
 export default IconCircuitSwitchOpen;

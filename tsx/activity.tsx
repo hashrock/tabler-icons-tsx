@@ -23,5 +23,4 @@ function IconActivity({
     </svg>
   );
 }
-
 export default IconActivity;

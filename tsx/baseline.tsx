@@ -25,5 +25,4 @@ function IconBaseline({
     </svg>
   );
 }
-
 export default IconBaseline;

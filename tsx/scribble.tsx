@@ -23,5 +23,4 @@ function IconScribble({
     </svg>
   );
 }
-
 export default IconScribble;

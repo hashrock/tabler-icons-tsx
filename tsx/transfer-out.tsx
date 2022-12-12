@@ -25,5 +25,4 @@ function IconTransferOut({
     </svg>
   );
 }
-
 export default IconTransferOut;

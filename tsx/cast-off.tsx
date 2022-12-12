@@ -27,5 +27,4 @@ function IconCastOff({
     </svg>
   );
 }
-
 export default IconCastOff;

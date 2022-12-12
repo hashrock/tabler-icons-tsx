@@ -23,5 +23,4 @@ function IconMedicalCross({
     </svg>
   );
 }
-
 export default IconMedicalCross;

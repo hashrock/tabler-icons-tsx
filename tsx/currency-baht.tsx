@@ -27,5 +27,4 @@ function IconCurrencyBaht({
     </svg>
   );
 }
-
 export default IconCurrencyBaht;

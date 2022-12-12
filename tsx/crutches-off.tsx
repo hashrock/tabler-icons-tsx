@@ -28,5 +28,4 @@ function IconCrutchesOff({
     </svg>
   );
 }
-
 export default IconCrutchesOff;

@@ -26,5 +26,4 @@ function IconArrowsDiagonalMinimize({
     </svg>
   );
 }
-
 export default IconArrowsDiagonalMinimize;

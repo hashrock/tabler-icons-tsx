@@ -1,30 +1,7 @@
-import { download } from "https://deno.land/x/download@v1.0.1/mod.ts";
-import { decompress } from "https://deno.land/x/zip@v1.2.3/mod.ts";
 import svgr from "npm:@svgr/core";
 import type { Template } from "npm:@svgr/babel-plugin-transform-svg-component";
 
-try {
-  await Deno.remove("./tsx", { recursive: true });
-} catch (_) {
-  // ignore
-}
-
-const url =
-  "https://github.com/tabler/tabler-icons/releases/download/v1.106.0/tabler-icons-1.106.0.zip";
-
-await download(url, { file: "tabler-icons.zip", dir: "./" });
-await decompress("tabler-icons.zip", "tabler-icons");
-
-await Deno.rename("./tabler-icons/icons", "./icons");
-await Deno.remove("./tabler-icons", { recursive: true });
-await Deno.remove("./tabler-icons.zip");
-
-const files = Deno.readDirSync("icons");
-
-// write files to icons.json
-const icons = [];
-
-export const template: Template = (variables, { tpl }) => {
+export const tsxTemplate: Template = (variables, { tpl }) => {
   return tpl`
 function ${variables.componentName}({ size = 24, color = "currentColor", stroke = 2, ...props }) { return (${variables.jsx}); }
 
@@ -43,12 +20,10 @@ const camelize = function (str: string) {
   ).replace(/\s+/g, "");
 };
 
-for (const file of files) {
-  const name = file.name;
+export async function svgToTsx(name: string, source: string) {
   const basename = name.replace(/\.svg$/, "");
-
   const content = await svgr.transform(
-    await Deno.readTextFile(`icons/${name}`),
+    source,
     {
       icon: false,
       svgProps: {
@@ -57,22 +32,18 @@ for (const file of files) {
         strokeWidth: "{stroke}",
         stroke: "{color}",
       },
-      template,
+      template: tsxTemplate,
     },
     {
       componentName: camelize("Icon-" + basename),
     },
   );
 
-  const result = replace(content);
-  Deno.mkdirSync("tsx", { recursive: true });
-  Deno.writeTextFileSync(`tsx/${name.replace(/\.svg$/, ".tsx")}`, result);
-  icons.push(name.replace(/\.svg$/, ""));
+  const result = replaceClassName(content);
+  return result;
 }
 
-Deno.writeTextFileSync("data/icons.json", JSON.stringify(icons, null, 2));
-
-function replace(content: string) {
+function replaceClassName(content: string) {
   const patterns = [
     {
       match: "className",
@@ -128,5 +99,3 @@ function replace(content: string) {
   }
   return content;
 }
-
-await Deno.remove("./icons", { recursive: true });

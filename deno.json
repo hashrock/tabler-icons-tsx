@@ -1,7 +1,8 @@
 {
   "tasks": {
     "start": "deno run -A --watch=static/,routes/ dev.ts",
-    "convert": "deno run -A convert.ts"
+    "convert": "deno run -A util/convert-all.ts",
+    "test": "deno test -A"
   },
   "importMap": "./import_map.json",
   "compilerOptions": {

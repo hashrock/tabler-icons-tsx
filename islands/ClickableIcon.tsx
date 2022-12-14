@@ -1,4 +1,5 @@
 import { useState } from "preact/hooks";
+import { selection } from "../util/selection.ts";
 
 interface ClickableIconProps {
   name: string;
@@ -22,6 +23,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
         `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/${icon}.tsx"`;
 
       navigator.clipboard.writeText(copyText);
+      selection.value = icon;
       setCopied(true);
 
       setTimeout(() => {

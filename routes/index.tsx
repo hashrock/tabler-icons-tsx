@@ -5,6 +5,7 @@ import { Handlers, PageProps } from "$fresh/server.ts";
 import icons from "../data/icons.json" assert { type: "json" };
 import CodeBlock from "../islands/CodeBlock.tsx";
 import Examples from "../islands/Examples.tsx";
+import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx";
 
 interface Icons {
   icons: string[];
@@ -55,7 +56,7 @@ export default function Home({ data }: PageProps<Icons>) {
             </a>{" "}
             in your Fresh app. Just import the icons.
           </p>
-          <p class="mt-2">
+          <div class="flex gap-2 mt-2 items-center">
             <a href="https://fresh.deno.dev">
               <img
                 width="160"
@@ -64,7 +65,11 @@ export default function Home({ data }: PageProps<Icons>) {
                 alt="Made with Fresh"
               />
             </a>
-          </p>
+
+            <a href="https://github.com/hashrock/tabler-icons-tsx">
+              <IconBrandGithub class="w-7 h-7" />
+            </a>
+          </div>
 
           <p class="mt-2">
             <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>

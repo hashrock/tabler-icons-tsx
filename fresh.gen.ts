@@ -9,6 +9,7 @@ import * as $$1 from "./islands/CodeBlock.tsx";
 import * as $$2 from "./islands/Counter.tsx";
 import * as $$3 from "./islands/Examples.tsx";
 import * as $$4 from "./islands/IconList.tsx";
+import * as $$5 from "./islands/Toast.tsx";
 
 const manifest = {
   routes: {
@@ -20,6 +21,7 @@ const manifest = {
     "./islands/Counter.tsx": $$2,
     "./islands/Examples.tsx": $$3,
     "./islands/IconList.tsx": $$4,
+    "./islands/Toast.tsx": $$5,
   },
   baseUrl: import.meta.url,
   config,

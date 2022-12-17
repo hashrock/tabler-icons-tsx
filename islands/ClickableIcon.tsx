@@ -1,5 +1,6 @@
 import { useState } from "preact/hooks";
 import { selection } from "../util/selection.ts";
+import { copy as copySignal } from "../util/copy.ts";
 
 interface ClickableIconProps {
   name: string;
@@ -25,6 +26,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
       navigator.clipboard.writeText(copyText);
       selection.value = icon;
       setCopied(true);
+      copySignal.value = true;
 
       setTimeout(() => {
         setCopied(false);

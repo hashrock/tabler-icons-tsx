@@ -5,6 +5,7 @@ import { Handlers, PageProps } from "$fresh/server.ts";
 import icons from "../data/icons.json" assert { type: "json" };
 import CodeBlock from "../islands/CodeBlock.tsx";
 import Examples from "../islands/Examples.tsx";
+import Toast from "../islands/Toast.tsx";
 import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx";
 
 interface Icons {
@@ -37,6 +38,7 @@ export default function Home({ data }: PageProps<Icons>) {
           href="https://esm.sh/prismjs@1.27.0/themes/prism-dark.min.css"
         />
       </Head>
+      <Toast />
       <div class="max-w-screen-lg flex mx-auto relative gap-4">
         <div class="pt-4">
           <h1 class="text-4xl flex items-center font-bold">

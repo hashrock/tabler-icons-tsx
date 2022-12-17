@@ -1,4 +1,5 @@
 import { selection } from "../util/selection.ts";
+import { copy as copySignal } from "../util/copy.ts";
 import IconExternalLink from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/external-link.tsx";
 import { JSX } from "preact";
 function DashToCamelCase(str: string) {
@@ -104,6 +105,7 @@ function CopyInputWithIcon(props: CopyInputWithIconProps) {
 const copy = (icon: string) => {
   return () => {
     navigator.clipboard.writeText(icon);
+    copySignal.value = true;
   };
 };
 

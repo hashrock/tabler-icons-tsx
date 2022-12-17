@@ -1,6 +1,6 @@
 import { selection } from "../util/selection.ts";
 import IconExternalLink from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/external-link.tsx";
-
+import { JSX } from "preact";
 function DashToCamelCase(str: string) {
   return str.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
 }
@@ -9,12 +9,6 @@ function uppercaseFirst(str: string) {
 }
 
 export default function Examples() {
-  const copy = (icon: string) => {
-    return () => {
-      navigator.clipboard.writeText(icon);
-    };
-  };
-
   const iconName = selection.value;
   const className = "Icon" + uppercaseFirst(DashToCamelCase(iconName));
 
@@ -43,32 +37,11 @@ export default function Examples() {
             <h2 class="font-bold text-xl">Click-to-Copy Examples</h2>
 
             <div>
-              {/* w-5 = 1.25rem */}
-              <button
-                type="button"
-                onClick={copy(`<${className} class="w-5 h-5" />`)}
-              >
-                <i class={`ti ti-${iconName} text-[1.25rem]`}></i>
-              </button>
-              {/* w-6 = 1.5rem */}
-              <button
-                type="button"
-                onClick={copy(`<${className} class="w-6 h-6" />`)}
-              >
-                <i class={`ti ti-${iconName} text-[1.5rem]`}></i>
-              </button>
-              <button
-                type="button"
-                onClick={copy(`<${className} class="w-7 h-7" />`)}
-              >
-                <i class={`ti ti-${iconName} text-[1.75rem]`}></i>
-              </button>
-              <button
-                type="button"
-                onClick={copy(`<${className} class="w-8 h-8" />`)}
-              >
-                <i class={`ti ti-${iconName} text-[2rem]`}></i>
-              </button>
+              <CopyButton fontSize={5} elName={className} iconName={iconName} />
+              <CopyButton fontSize={6} elName={className} iconName={iconName} />
+              <CopyButton fontSize={7} elName={className} iconName={iconName} />
+              <CopyButton fontSize={8} elName={className} iconName={iconName} />
+              <CopyButton fontSize={9} elName={className} iconName={iconName} />
             </div>
 
             <div class="flex gap-2 justify-center">
@@ -97,5 +70,28 @@ export default function Examples() {
         </>
       )}
     </div>
+  );
+}
+const copy = (icon: string) => {
+  return () => {
+    navigator.clipboard.writeText(icon);
+  };
+};
+
+interface CopyButtonProps extends JSX.HTMLAttributes<HTMLButtonElement> {
+  fontSize: number;
+  elName: string;
+  iconName: string;
+}
+function CopyButton(props: CopyButtonProps) {
+  const { fontSize, elName, iconName } = props;
+
+  return (
+    <button
+      type="button"
+      onClick={copy(`<${elName} class="w-${fontSize} h-${fontSize}" />`)}
+    >
+      <i class={`ti ti-${iconName} text-[${0.25 * fontSize}rem]`}></i>
+    </button>
   );
 }

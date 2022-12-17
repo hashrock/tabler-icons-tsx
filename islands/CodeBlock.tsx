@@ -1,28 +1,41 @@
 import { useState } from "preact/hooks";
-
+import { selection } from "../util/selection.ts";
 import Prism from "https://esm.sh/prismjs@1.27.0";
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
-
+import { copy as copySignal } from "../util/copy.ts";
 interface CodeBlockProps {
-  code: string;
   copy?: boolean;
 }
 
+function DashToCamelCase(str: string) {
+  return str.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
+}
+function uppercaseFirst(str: string) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 export default function CodeBlock(props: CodeBlockProps) {
+  const icon = selection.value === "" ? "brand-github" : selection.value;
+  const className = "Icon" + uppercaseFirst(DashToCamelCase(icon));
+  const example =
+    `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/${icon}.tsx"
+
+<${className} class="w-6 h-6" />`;
   const highlighted = Prism.highlight(
-    props.code,
+    example,
     Prism.languages.typescript,
     "typescript",
   );
   const onCopy = () => {
-    navigator.clipboard.writeText(props.code);
+    navigator.clipboard.writeText(example);
     setCopied(true);
+    copySignal.value = true;
   };
 
   const [copied, setCopied] = useState(false);
   return (
     <div class="relative">
-      <pre class="bg-gray-800 text-blue-300 p-2 text-sm rounded whitespace-pre-wrap">
+      <pre class="bg-gray-800 text-blue-300 p-2 text-sm rounded whitespace-pre-wrap min-h-[7em]">
         <code
           dangerouslySetInnerHTML={{ __html: highlighted }}
         />

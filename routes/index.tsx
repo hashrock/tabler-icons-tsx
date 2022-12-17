@@ -19,11 +19,6 @@ export const handler: Handlers<Icons> = {
 };
 
 export default function Home({ data }: PageProps<Icons>) {
-  const example =
-    `import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx"
-
-<IconBrandGithub class="w-6 h-6" />`;
-
   return (
     <>
       <Head>
@@ -76,7 +71,7 @@ export default function Home({ data }: PageProps<Icons>) {
           <p class="mt-2">
             <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
 
-            <CodeBlock code={example} copy></CodeBlock>
+            <CodeBlock copy></CodeBlock>
           </p>
 
           <IconList icons={data.icons} />

@@ -66,12 +66,41 @@ export default function Examples() {
                 Button
               </button>
             </div>
+
+            <div>
+              <CopyInputWithIcon elName={className} iconName={iconName} />
+            </div>
           </div>
         </>
       )}
     </div>
   );
 }
+interface CopyInputWithIconProps extends JSX.HTMLAttributes<HTMLInputElement> {
+  elName: string;
+  iconName: string;
+}
+function CopyInputWithIcon(props: CopyInputWithIconProps) {
+  const code = `<div class="inline-block rounded relative">
+<div class="absolute left-0 pl-2 flex items-center pointer-events-none h-full">
+  <${props.elName} class="w-5 h-5" />
+</div>
+<input class="border border-gray-300 rounded w-full pl-8 py-2" type="text" />
+</div>`;
+
+  return (
+    <div class="inline-block rounded relative w-56" onClick={copy(code)}>
+      <div class="absolute left-0 pl-2 flex items-center pointer-events-none h-full">
+        <i class={`ti ti-${props.iconName} text-[${0.25 * 5}rem]`}></i>
+      </div>
+      <input
+        class="border border-gray-300 rounded w-full pl-8 py-2"
+        type="text"
+      />
+    </div>
+  );
+}
+
 const copy = (icon: string) => {
   return () => {
     navigator.clipboard.writeText(icon);

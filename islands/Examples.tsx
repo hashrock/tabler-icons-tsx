@@ -1,17 +1,12 @@
+import getIconComponentName from "../util/getIconComponentName.ts";
 import { selection } from "../util/selection.ts";
 import { copy as copySignal } from "../util/copy.ts";
 import IconExternalLink from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/external-link.tsx";
 import { JSX } from "preact";
-function DashToCamelCase(str: string) {
-  return str.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
-}
-function uppercaseFirst(str: string) {
-  return str.charAt(0).toUpperCase() + str.slice(1);
-}
 
 export default function Examples() {
   const iconName = selection.value;
-  const className = "Icon" + uppercaseFirst(DashToCamelCase(iconName));
+  const className = getIconComponentName(iconName);
 
   return (
     <div class="space-y-16 text-center">

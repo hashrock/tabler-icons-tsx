@@ -1,5 +1,6 @@
 import svgr from "npm:@svgr/core";
 import type { Template } from "npm:@svgr/babel-plugin-transform-svg-component";
+import getIconComponentName from "./getIconComponentName.ts";
 
 export const tsxTemplate: Template = (variables, { tpl }) => {
   return tpl`
@@ -7,17 +8,6 @@ function ${variables.componentName}({ size = 24, color = "currentColor", stroke 
 
 ${variables.exports}
 `;
-};
-
-const camelize = function (str: string) {
-  str = str.replace(/-/g, " ");
-
-  return str.replace(
-    /(?:^\w|[A-Z]|\b\w)/g,
-    function (word: string, _) {
-      return word.toUpperCase();
-    },
-  ).replace(/\s+/g, "");
 };
 
 export async function svgToTsx(name: string, source: string) {
@@ -35,7 +25,7 @@ export async function svgToTsx(name: string, source: string) {
       template: tsxTemplate,
     },
     {
-      componentName: camelize("Icon-" + basename),
+      componentName: getIconComponentName(basename),
     },
   );
 

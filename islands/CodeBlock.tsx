@@ -3,20 +3,14 @@ import { selection } from "../util/selection.ts";
 import Prism from "https://esm.sh/prismjs@1.27.0";
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
 import { copy as copySignal } from "../util/copy.ts";
+import getIconComponentName from "../util/getIconComponentName.ts";
 interface CodeBlockProps {
   copy?: boolean;
 }
 
-function DashToCamelCase(str: string) {
-  return str.replace(/-([a-z])/g, (g) => g[1].toUpperCase());
-}
-function uppercaseFirst(str: string) {
-  return str.charAt(0).toUpperCase() + str.slice(1);
-}
-
 export default function CodeBlock(props: CodeBlockProps) {
   const icon = selection.value === "" ? "brand-github" : selection.value;
-  const className = "Icon" + uppercaseFirst(DashToCamelCase(icon));
+  const className = getIconComponentName(icon);
   const example =
     `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/${icon}.tsx"
 

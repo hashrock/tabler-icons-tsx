@@ -1,12 +1,12 @@
 import { Head } from "$fresh/runtime.ts";
 import IconList from "../islands/IconList.tsx";
-import BrandTabler from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-tabler.tsx";
+import BrandTabler from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/brand-tabler.tsx";
 import { Handlers, PageProps } from "$fresh/server.ts";
 import icons from "../data/icons.json" assert { type: "json" };
 import CodeBlock from "../islands/CodeBlock.tsx";
 import Examples from "../islands/Examples.tsx";
 import Toast from "../islands/Toast.tsx";
-import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-github.tsx";
+import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/brand-github.tsx";
 
 interface Icons {
   icons: string[];

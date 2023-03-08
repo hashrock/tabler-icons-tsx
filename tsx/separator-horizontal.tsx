@@ -19,9 +19,9 @@ function IconSeparatorHorizontal({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={4} y1={12} x2={20} y2={12} />
-      <polyline points="8 8 12 4 16 8" />
-      <polyline points="16 16 12 20 8 16" />
+      <path d="M4 12l16 0" />
+      <path d="M8 8l4 -4l4 4" />
+      <path d="M16 16l-4 4l-4 -4" />
     </svg>
   );
 }

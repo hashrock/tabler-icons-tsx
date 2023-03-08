@@ -19,10 +19,10 @@ function IconAntennaBars1({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={6} y1={18} x2={6} y2={18.01} />
-      <line x1={10} y1={18} x2={10} y2={18.01} />
-      <line x1={14} y1={18} x2={14} y2={18.01} />
-      <line x1={18} y1={18} x2={18} y2={18.01} />
+      <path d="M6 18l0 .01" />
+      <path d="M10 18l0 .01" />
+      <path d="M14 18l0 .01" />
+      <path d="M18 18l0 .01" />
     </svg>
   );
 }

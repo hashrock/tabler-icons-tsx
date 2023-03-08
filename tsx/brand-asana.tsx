@@ -19,9 +19,9 @@ function IconBrandAsana({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={7} r={3} />
-      <circle cx={17} cy={16} r={3} />
-      <circle cx={7} cy={16} r={3} />
+      <path d="M12 7m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+      <path d="M17 16m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+      <path d="M7 16m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
     </svg>
   );
 }

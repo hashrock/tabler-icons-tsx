@@ -19,8 +19,8 @@ function IconTrendingDown({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <polyline points="3 7 9 13 13 9 21 17" />
-      <polyline points="21 10 21 17 14 17" />
+      <path d="M3 7l6 6l4 -4l8 8" />
+      <path d="M21 10l0 7l-7 0" />
     </svg>
   );
 }

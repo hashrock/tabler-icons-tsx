@@ -19,7 +19,7 @@ function IconMicrowave({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={3} y={6} width={18} height={12} rx={1} />
+      <path d="M3 6m0 1a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1z" />
       <path d="M15 6v12" />
       <path d="M18 12h.01" />
       <path d="M18 15h.01" />

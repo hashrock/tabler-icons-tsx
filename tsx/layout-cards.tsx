@@ -19,8 +19,8 @@ function IconLayoutCards({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={4} y={4} width={6} height={16} rx={2} />
-      <rect x={14} y={4} width={6} height={10} rx={2} />
+      <path d="M4 4m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" />
+      <path d="M14 4m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" />
     </svg>
   );
 }

@@ -19,7 +19,7 @@ function IconChevronLeft({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <polyline points="15 6 9 12 15 18" />
+      <path d="M15 6l-6 6l6 6" />
     </svg>
   );
 }

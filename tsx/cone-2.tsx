@@ -19,7 +19,7 @@ function IconCone2({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <ellipse cx={12} cy={7} rx={7} ry={3} />
+      <path d="M12 7m-7 0a7 3 0 1 0 14 0a7 3 0 1 0 -14 0" />
       <path d="M19 7v.5l-7 12.5l-7 -12.5v-.5" />
     </svg>
   );

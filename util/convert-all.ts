@@ -10,12 +10,12 @@ try {
 }
 
 const url =
-  "https://github.com/tabler/tabler-icons/releases/download/v1.106.0/tabler-icons-1.106.0.zip";
+  "https://github.com/tabler/tabler-icons/releases/download/v2.9.0/tabler-icons-2.9.0.zip";
 
 await download(url, { file: "tabler-icons.zip", dir: "./" });
 await decompress("tabler-icons.zip", "tabler-icons");
 
-await $`mv ./tabler-icons/icons ./icons`;
+await $`mv ./tabler-icons/svg ./icons`;
 await $`rm -r ./tabler-icons`;
 await $`rm ./tabler-icons.zip`;
 

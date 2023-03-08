@@ -19,9 +19,9 @@ function IconItalic({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={11} y1={5} x2={17} y2={5} />
-      <line x1={7} y1={19} x2={13} y2={19} />
-      <line x1={14} y1={5} x2={10} y2={19} />
+      <path d="M11 5l6 0" />
+      <path d="M7 19l6 0" />
+      <path d="M14 5l-4 14" />
     </svg>
   );
 }

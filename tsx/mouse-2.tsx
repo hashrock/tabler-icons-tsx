@@ -19,7 +19,7 @@ function IconMouse2({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={6} y={3} width={12} height={18} rx={4} />
+      <path d="M6 3m0 4a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v10a4 4 0 0 1 -4 4h-4a4 4 0 0 1 -4 -4z" />
       <path d="M12 3v7" />
       <path d="M6 10h12" />
     </svg>

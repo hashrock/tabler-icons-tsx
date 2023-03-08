@@ -19,10 +19,10 @@ function IconTextResize({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={5} cy={5} r={2} />
-      <circle cx={19} cy={5} r={2} />
-      <circle cx={5} cy={19} r={2} />
-      <circle cx={19} cy={19} r={2} />
+      <path d="M5 5m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M19 5m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M5 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M19 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
       <path d="M5 7v10" />
       <path d="M7 5h10" />
       <path d="M7 19h10" />

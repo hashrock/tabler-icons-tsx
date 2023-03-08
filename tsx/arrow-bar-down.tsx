@@ -19,10 +19,10 @@ function IconArrowBarDown({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={12} y1={20} x2={12} y2={10} />
-      <line x1={12} y1={20} x2={16} y2={16} />
-      <line x1={12} y1={20} x2={8} y2={16} />
-      <line x1={4} y1={4} x2={20} y2={4} />
+      <path d="M12 20l0 -10" />
+      <path d="M12 20l4 -4" />
+      <path d="M12 20l-4 -4" />
+      <path d="M4 4l16 0" />
     </svg>
   );
 }

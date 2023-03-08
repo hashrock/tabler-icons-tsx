@@ -19,10 +19,10 @@ function IconSwitchVertical({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <polyline points="3 8 7 4 11 8" />
-      <line x1={7} y1={4} x2={7} y2={13} />
-      <polyline points="13 16 17 20 21 16" />
-      <line x1={17} y1={10} x2={17} y2={20} />
+      <path d="M3 8l4 -4l4 4" />
+      <path d="M7 4l0 9" />
+      <path d="M13 16l4 4l4 -4" />
+      <path d="M17 10l0 10" />
     </svg>
   );
 }

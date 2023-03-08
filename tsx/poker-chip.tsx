@@ -19,8 +19,8 @@ function IconPokerChip({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={12} r={9} />
-      <circle cx={12} cy={12} r={5} />
+      <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+      <path d="M12 12m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
       <path d="M12 3v4" />
       <path d="M12 17v4" />
       <path d="M3 12h4" />

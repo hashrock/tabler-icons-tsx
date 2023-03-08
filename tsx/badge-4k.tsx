@@ -19,7 +19,7 @@ function IconBadge4k({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={3} y={5} width={18} height={14} rx={2} />
+      <path d="M3 5m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z" />
       <path d="M7 9v2a1 1 0 0 0 1 1h1" />
       <path d="M10 9v6" />
       <path d="M14 9v6" />

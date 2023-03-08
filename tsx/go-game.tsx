@@ -19,10 +19,10 @@ function IconGoGame({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={6} cy={6} r={2} />
-      <circle cx={12} cy={12} r={2} />
-      <circle cx={6} cy={18} r={2} />
-      <circle cx={18} cy={18} r={2} />
+      <path d="M6 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M12 12m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M6 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M18 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
       <path d="M3 12h7m4 0h7" />
       <path d="M3 6h1m4 0h13" />
       <path d="M3 18h1m4 0h8m4 0h1" />

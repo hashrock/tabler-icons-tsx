@@ -19,8 +19,8 @@ function IconPlus({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={12} y1={5} x2={12} y2={19} />
-      <line x1={5} y1={12} x2={19} y2={12} />
+      <path d="M12 5l0 14" />
+      <path d="M5 12l14 0" />
     </svg>
   );
 }

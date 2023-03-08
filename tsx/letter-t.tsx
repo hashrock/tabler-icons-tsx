@@ -19,8 +19,8 @@ function IconLetterT({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={6} y1={4} x2={18} y2={4} />
-      <line x1={12} y1={4} x2={12} y2={20} />
+      <path d="M6 4l12 0" />
+      <path d="M12 4l0 16" />
     </svg>
   );
 }

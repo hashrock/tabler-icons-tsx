@@ -19,10 +19,10 @@ function IconArrowsUp({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={17} y1={3} x2={17} y2={21} />
+      <path d="M17 3l0 18" />
       <path d="M4 6l3 -3l3 3" />
       <path d="M20 6l-3 -3l-3 3" />
-      <line x1={7} y1={3} x2={7} y2={21} />
+      <path d="M7 3l0 18" />
     </svg>
   );
 }

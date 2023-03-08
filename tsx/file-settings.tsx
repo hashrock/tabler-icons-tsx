@@ -19,7 +19,7 @@ function IconFileSettings({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={14} r={2} />
+      <path d="M12 14m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
       <path d="M12 10.5v1.5" />
       <path d="M12 16v1.5" />
       <path d="M15.031 12.25l-1.299 .75" />

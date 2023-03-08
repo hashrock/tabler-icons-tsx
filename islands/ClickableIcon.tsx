@@ -15,7 +15,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
     return () => {
       const className = getIconComponentName(icon);
       const copyText =
-        `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/${icon}.tsx"`;
+        `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/${icon}.tsx"`;
 
       navigator.clipboard.writeText(copyText);
       selection.value = icon;

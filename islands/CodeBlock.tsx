@@ -12,7 +12,7 @@ export default function CodeBlock(props: CodeBlockProps) {
   const icon = selection.value === "" ? "brand-github" : selection.value;
   const className = getIconComponentName(icon);
   const example =
-    `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/${icon}.tsx"
+    `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/${icon}.tsx"
 
 <${className} class="w-6 h-6" />`;
   const highlighted = Prism.highlight(

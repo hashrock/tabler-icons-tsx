@@ -19,10 +19,10 @@ function IconZoomCancel({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={10} cy={10} r={7} />
-      <line x1={8} y1={8} x2={12} y2={12} />
-      <line x1={12} y1={8} x2={8} y2={12} />
-      <line x1={21} y1={21} x2={15} y2={15} />
+      <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+      <path d="M8 8l4 4" />
+      <path d="M12 8l-4 4" />
+      <path d="M21 21l-6 -6" />
     </svg>
   );
 }

@@ -19,9 +19,9 @@ function IconInfoSquare({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={12} y1={8} x2={12.01} y2={8} />
-      <rect x={4} y={4} width={16} height={16} rx={2} />
-      <polyline points="11 12 12 12 12 16 13 16" />
+      <path d="M12 8l.01 0" />
+      <path d="M3 3m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z" />
+      <path d="M11 12l1 0l0 4l1 0" />
     </svg>
   );
 }

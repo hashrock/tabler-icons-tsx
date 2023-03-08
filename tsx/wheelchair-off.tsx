@@ -19,7 +19,7 @@ function IconWheelchairOff({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={8} cy={16} r={5} />
+      <path d="M8 16m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
       <path d="M17.582 17.59a2 2 0 0 0 2.833 2.824" />
       <path d="M14 14h-1.4" />
       <path d="M6 6v5" />

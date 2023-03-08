@@ -19,8 +19,8 @@ function IconLayoutBottombar({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={4} y={4} width={16} height={16} rx={2} />
-      <line x1={4} y1={15} x2={20} y2={15} />
+      <path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
+      <path d="M4 15l16 0" />
     </svg>
   );
 }

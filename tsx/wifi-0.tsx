@@ -19,7 +19,7 @@ function IconWifi0({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={12} y1={18} x2={12.01} y2={18} />
+      <path d="M12 18l.01 0" />
     </svg>
   );
 }

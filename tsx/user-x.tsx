@@ -19,9 +19,10 @@ function IconUserX({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={9} cy={7} r={4} />
-      <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-      <path d="M17 9l4 4m0 -4l-4 4" />
+      <path d="M21.5 21.5l-5 -5" />
+      <path d="M16.5 21.5l5 -5" />
+      <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" />
+      <path d="M6 21v-2a4 4 0 0 1 4 -4h3" />
     </svg>
   );
 }

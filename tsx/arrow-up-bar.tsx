@@ -19,9 +19,9 @@ function IconArrowUpBar({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={12} y1={21} x2={12} y2={3} />
+      <path d="M12 21l0 -18" />
       <path d="M15 6l-3 -3l-3 3" />
-      <line x1={9} y1={21} x2={15} y2={21} />
+      <path d="M9 21l6 0" />
     </svg>
   );
 }

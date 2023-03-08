@@ -19,7 +19,7 @@ function IconZoomPan({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={12} r={3} />
+      <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
       <path d="M17 17l-2.5 -2.5" />
       <path d="M10 5l2 -2l2 2" />
       <path d="M19 10l2 2l-2 2" />

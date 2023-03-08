@@ -19,8 +19,8 @@ function IconArrowUpRight({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={17} y1={7} x2={7} y2={17} />
-      <polyline points="8 7 17 7 17 16" />
+      <path d="M17 7l-10 10" />
+      <path d="M8 7l9 0l0 9" />
     </svg>
   );
 }

@@ -19,8 +19,8 @@ function IconChevronsDown({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <polyline points="7 7 12 12 17 7" />
-      <polyline points="7 13 12 18 17 13" />
+      <path d="M7 7l5 5l5 -5" />
+      <path d="M7 13l5 5l5 -5" />
     </svg>
   );
 }

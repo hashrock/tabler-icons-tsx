@@ -19,9 +19,9 @@ function IconCircles({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={7} r={4} />
-      <circle cx={6.5} cy={17} r={4} />
-      <circle cx={17.5} cy={17} r={4} />
+      <path d="M12 7m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+      <path d="M6.5 17m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+      <path d="M17.5 17m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
     </svg>
   );
 }

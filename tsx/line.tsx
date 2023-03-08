@@ -19,9 +19,9 @@ function IconLine({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={6} cy={18} r={2} />
-      <circle cx={18} cy={6} r={2} />
-      <line x1={7.5} y1={16.5} x2={16.5} y2={7.5} />
+      <path d="M6 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M18 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M7.5 16.5l9 -9" />
     </svg>
   );
 }

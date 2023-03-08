@@ -19,8 +19,8 @@ function IconVectorSpline({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={17} y={3} width={4} height={4} rx={1} />
-      <rect x={3} y={17} width={4} height={4} rx={1} />
+      <path d="M17 3m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z" />
+      <path d="M3 17m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z" />
       <path d="M17 5c-6.627 0 -12 5.373 -12 12" />
     </svg>
   );

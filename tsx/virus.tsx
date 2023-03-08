@@ -19,7 +19,7 @@ function IconVirus({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={12} r={5} />
+      <path d="M12 12m-5 0a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
       <path d="M12 7v-4" />
       <path d="M11 3h2" />
       <path d="M15.536 8.464l2.828 -2.828" />

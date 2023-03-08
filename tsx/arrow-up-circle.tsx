@@ -19,10 +19,9 @@ function IconArrowUpCircle({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={12} r={9} />
-      <line x1={12} y1={8} x2={8} y2={12} />
-      <line x1={12} y1={8} x2={12} y2={16} />
-      <line x1={16} y1={12} x2={12} y2={8} />
+      <path d="M12 17v-14" />
+      <path d="M15 6l-3 -3l-3 3" />
+      <path d="M12 17a2 2 0 1 0 0 4a2 2 0 0 0 0 -4" />
     </svg>
   );
 }

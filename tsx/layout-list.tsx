@@ -19,8 +19,8 @@ function IconLayoutList({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <rect x={4} y={4} width={16} height={6} rx={2} />
-      <rect x={4} y={14} width={16} height={6} rx={2} />
+      <path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v2a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
+      <path d="M4 14m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v2a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" />
     </svg>
   );
 }

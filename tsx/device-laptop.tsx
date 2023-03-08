@@ -19,8 +19,8 @@ function IconDeviceLaptop({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={3} y1={19} x2={21} y2={19} />
-      <rect x={5} y={6} width={14} height={10} rx={1} />
+      <path d="M3 19l18 0" />
+      <path d="M5 6m0 1a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1z" />
     </svg>
   );
 }

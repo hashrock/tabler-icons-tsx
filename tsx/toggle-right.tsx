@@ -19,8 +19,8 @@ function IconToggleRight({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={16} cy={12} r={2} />
-      <rect x={2} y={6} width={20} height={12} rx={6} />
+      <path d="M16 12m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M2 6m0 6a6 6 0 0 1 6 -6h8a6 6 0 0 1 6 6v0a6 6 0 0 1 -6 6h-8a6 6 0 0 1 -6 -6z" />
     </svg>
   );
 }

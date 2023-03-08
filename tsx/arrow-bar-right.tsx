@@ -19,10 +19,10 @@ function IconArrowBarRight({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={20} y1={12} x2={10} y2={12} />
-      <line x1={20} y1={12} x2={16} y2={16} />
-      <line x1={20} y1={12} x2={16} y2={8} />
-      <line x1={4} y1={4} x2={4} y2={20} />
+      <path d="M20 12l-10 0" />
+      <path d="M20 12l-4 4" />
+      <path d="M20 12l-4 -4" />
+      <path d="M4 4l0 16" />
     </svg>
   );
 }

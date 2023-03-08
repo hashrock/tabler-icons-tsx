@@ -19,13 +19,13 @@ function IconManualGearbox({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={5} cy={6} r={2} />
-      <circle cx={12} cy={6} r={2} />
-      <circle cx={19} cy={6} r={2} />
-      <circle cx={5} cy={18} r={2} />
-      <circle cx={12} cy={18} r={2} />
-      <line x1={5} y1={8} x2={5} y2={16} />
-      <line x1={12} y1={8} x2={12} y2={16} />
+      <path d="M5 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M12 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M19 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M5 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M12 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+      <path d="M5 8l0 8" />
+      <path d="M12 8l0 8" />
       <path d="M19 8v2a2 2 0 0 1 -2 2h-12" />
     </svg>
   );

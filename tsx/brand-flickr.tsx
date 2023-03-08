@@ -19,8 +19,8 @@ function IconBrandFlickr({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={7} cy={12} r={3} />
-      <circle cx={17} cy={12} r={3} />
+      <path d="M7 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+      <path d="M17 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
     </svg>
   );
 }

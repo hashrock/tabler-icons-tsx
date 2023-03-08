@@ -19,7 +19,7 @@ function IconTrolley({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={11} cy={19} r={2} />
+      <path d="M11 19m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
       <path d="M6 16l3 2" />
       <path d="M12 17l8 -12" />
       <path d="M17 10l2 1" />

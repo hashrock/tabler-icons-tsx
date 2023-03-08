@@ -19,9 +19,9 @@ function IconCode({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <polyline points="7 8 3 12 7 16" />
-      <polyline points="17 8 21 12 17 16" />
-      <line x1={14} y1={4} x2={10} y2={20} />
+      <path d="M7 8l-4 4l4 4" />
+      <path d="M17 8l4 4l-4 4" />
+      <path d="M14 4l-4 16" />
     </svg>
   );
 }

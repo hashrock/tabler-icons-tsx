@@ -19,10 +19,10 @@ function IconUserExclamation({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={9} cy={7} r={4} />
-      <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-      <line x1={19} y1={7} x2={19} y2={10} />
-      <line x1={19} y1={14} x2={19} y2={14.01} />
+      <path d="M19 16v3" />
+      <path d="M19 22v.01" />
+      <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" />
+      <path d="M6 21v-2a4 4 0 0 1 4 -4h4c.346 0 .682 .044 1.002 .127" />
     </svg>
   );
 }

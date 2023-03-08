@@ -19,7 +19,7 @@ function IconSlash({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M3 21l18 -18" />
+      <path d="M17 5l-10 14" />
     </svg>
   );
 }

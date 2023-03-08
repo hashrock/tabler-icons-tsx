@@ -19,9 +19,9 @@ function IconDotsVertical({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <circle cx={12} cy={12} r={1} />
-      <circle cx={12} cy={19} r={1} />
-      <circle cx={12} cy={5} r={1} />
+      <path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+      <path d="M12 19m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+      <path d="M12 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
     </svg>
   );
 }

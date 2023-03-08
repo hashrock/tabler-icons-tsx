@@ -19,8 +19,8 @@ function IconTallymark2({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <line x1={10} y1={5} x2={10} y2={19} />
-      <line x1={14} y1={5} x2={14} y2={19} />
+      <path d="M10 5l0 14" />
+      <path d="M14 5l0 14" />
     </svg>
   );
 }

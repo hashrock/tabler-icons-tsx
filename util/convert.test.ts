@@ -14,7 +14,7 @@ async function loadFixtures(component: string) {
   return { svg, tsx };
 }
 
-Deno.test("svg conversion", async (t) => {
+Deno.test("svg conversion", async (_t) => {
   const component = "a-b";
   const { svg, tsx } = await loadFixtures(component);
   const result = await svgToTsx(component, svg);
@@ -25,7 +25,7 @@ Deno.test("svg conversion", async (t) => {
   );
 });
 
-Deno.test("regression test #7", async (t) => {
+Deno.test("regression test #7", async (_t) => {
   const component = "alert-triangle-filled";
   const { svg, tsx } = await loadFixtures(component);
   const result = await svgToTsx(component, svg);

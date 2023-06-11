@@ -1,4 +1,4 @@
-import svgr from "npm:@svgr/core";
+import svgr from "npm:@svgr/core@6.5.0";
 import type { Template } from "npm:@svgr/babel-plugin-transform-svg-component";
 import getIconComponentName from "./getIconComponentName.ts";
 
@@ -23,6 +23,9 @@ export async function svgToTsx(name: string, source: string) {
         stroke: "{color}",
       },
       template: tsxTemplate,
+      plugins: [
+        "@svgr/plugin-jsx",
+      ],
     },
     {
       componentName: getIconComponentName(basename),

@@ -88,7 +88,7 @@ function replaceClassName(content: string) {
     },
   ];
   for (const pattern of patterns) {
-    content = content.replace(pattern.match, pattern.replace);
+    content = content.replaceAll(pattern.match, pattern.replace);
   }
   return content;
 }

@@ -2,6 +2,7 @@ import { useState } from "preact/hooks";
 import { selection } from "../util/selection.ts";
 import { copy as copySignal } from "../util/copy.ts";
 import getIconComponentName from "../util/getIconComponentName.ts";
+import { RECOMMENDED_VERSION } from "../util/const.ts";
 
 interface ClickableIconProps {
   name: string;
@@ -15,7 +16,7 @@ export default function ClickableIcon(props: ClickableIconProps) {
     return () => {
       const className = getIconComponentName(icon);
       const copyText =
-        `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/${icon}.tsx"`;
+        `import ${className} from "https://deno.land/x/tabler_icons_tsx@${RECOMMENDED_VERSION}/tsx/${icon}.tsx"`;
 
       navigator.clipboard.writeText(copyText);
       selection.value = icon;

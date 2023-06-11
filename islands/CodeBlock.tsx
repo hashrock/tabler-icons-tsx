@@ -4,6 +4,8 @@ import Prism from "https://esm.sh/prismjs@1.27.0";
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
 import { copy as copySignal } from "../util/copy.ts";
 import getIconComponentName from "../util/getIconComponentName.ts";
+import { RECOMMENDED_VERSION } from "../util/const.ts";
+
 interface CodeBlockProps {
   copy?: boolean;
 }
@@ -12,7 +14,7 @@ export default function CodeBlock(props: CodeBlockProps) {
   const icon = selection.value === "" ? "brand-github" : selection.value;
   const className = getIconComponentName(icon);
   const example =
-    `import ${className} from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/${icon}.tsx"
+    `import ${className} from "https://deno.land/x/tabler_icons_tsx@${RECOMMENDED_VERSION}/tsx/${icon}.tsx"
 
 <${className} class="w-6 h-6" />`;
   const highlighted = Prism.highlight(

@@ -19,3 +19,20 @@ Deno.test("svg conversion", async (t) => {
     prettier.format(tsx, { parser: "babel" }),
   );
 });
+
+Deno.test("regression test #7", async (t) => {
+  const component = "alert-triangle-filled";
+  const svg = await Deno.readTextFile(
+    new URL(`./fixtures/${component}.svg`, import.meta.url).pathname,
+  );
+  const tsx = await Deno.readTextFile(
+    new URL(`./fixtures/${component}.tsx`, import.meta.url).pathname,
+  );
+
+  const result = await svgToTsx(component, svg);
+
+  assertEquals(
+    prettier.format(result, { parser: "babel" }),
+    prettier.format(tsx, { parser: "babel" }),
+  );
+});

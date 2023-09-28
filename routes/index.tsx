@@ -6,14 +6,18 @@ import icons from "../data/icons.json" assert { type: "json" };
 import Examples from "../islands/Examples.tsx";
 import Toast from "../islands/Toast.tsx";
 import IconBrandGithub from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/brand-github.tsx";
+import { getPopularItems } from "../util/db.ts";
 
 interface Icons {
   icons: string[];
+  popularIcons: string[];
 }
 
 export const handler: Handlers<Icons> = {
-  GET(_, ctx) {
-    return ctx.render({ icons });
+  async GET(_, ctx) {
+    const popularIcons = await getPopularItems();
+
+    return ctx.render({ icons, popularIcons });
   },
 };
 
@@ -79,7 +83,7 @@ export default function Home({ data }: PageProps<Icons>) {
 
       <div class="max-w-screen-lg flex mx-auto relative gap-4 mb-16">
         <div class="flex-1">
-          <IconList icons={data.icons} />
+          <IconList icons={data.icons} popularIcons={data.popularIcons} />
         </div>
         <div class="w-64 shrink-0">
           <div class="sticky top-0 pt-4">

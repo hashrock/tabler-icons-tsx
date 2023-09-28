@@ -6,6 +6,8 @@ import { RECOMMENDED_VERSION } from "../util/const.ts";
 
 interface ClickableIconProps {
   name: string;
+  recordClick?: boolean;
+  popular?: boolean;
 }
 
 export default function ClickableIcon(props: ClickableIconProps) {
@@ -23,6 +25,16 @@ export default function ClickableIcon(props: ClickableIconProps) {
       setCopied(true);
       copySignal.value = true;
 
+      if (props.recordClick) {
+        fetch("/api/popular", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ name: icon }),
+        });
+      }
+
       setTimeout(() => {
         setCopied(false);
       }, 2000);
@@ -36,6 +48,14 @@ export default function ClickableIcon(props: ClickableIconProps) {
     >
       <i class={`ti ti-${icon} text-4xl`}></i>
       <div class="text-gray-500 flex-1 text-sm">{icon}</div>
+      {props.popular
+        ? (
+          <div class="bg-green-50 text-green-500 text-xs rounded-full px-2">
+            Popular
+            {" "}
+          </div>
+        )
+        : ""}
       <button
         class={"text-sm px-1 opacity-0 group-hover:opacity-100 focus:opacity-100 " +
           (copied ? "text-green-500" : "text-gray-500")}

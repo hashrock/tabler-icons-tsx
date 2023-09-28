@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "start": "deno run -A --watch=static/,routes/ dev.ts",
+    "start": "deno run -A --unstable --watch=static/,routes/ dev.ts",
     "convert": "deno run -A util/convert-all.ts",
     "test": "deno test -A",
     "build": "deno run -A dev.ts build",
@@ -23,18 +23,11 @@
   },
   "lint": {
     "rules": {
-      "tags": [
-        "fresh",
-        "recommended"
-      ]
+      "tags": ["fresh", "recommended"]
     },
-    "exclude": [
-      "_fresh"
-    ]
+    "exclude": ["_fresh"]
   },
   "fmt": {
-    "exclude": [
-      "_fresh"
-    ]
+    "exclude": ["_fresh"]
   }
 }

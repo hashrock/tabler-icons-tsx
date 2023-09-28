@@ -6,6 +6,7 @@ import { useDebounce } from "../util/useDebounce.ts";
 import IconSearch from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/search.tsx";
 interface IconListProps {
   icons: string[];
+  popularIcons: string[];
 }
 
 export default function IconList(props: IconListProps) {
@@ -68,8 +69,17 @@ export default function IconList(props: IconListProps) {
           )
           : ""}
       </div>
+      <h1>Popular Icons</h1>
+
       <ul class="mt-8 grid grid-cols-2 md:grid-cols-5">
-        {filteredIcons.map((icon) => <ClickableIcon name={icon} />)}
+        {debouncedSearch.length === 0 &&
+          props.popularIcons.map((icon) => (
+            <ClickableIcon
+              name={icon}
+              popular
+            />
+          ))}
+        {filteredIcons.map((icon) => <ClickableIcon name={icon} recordClick />)}
       </ul>
     </>
   );

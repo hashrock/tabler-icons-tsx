@@ -69,7 +69,6 @@ export default function IconList(props: IconListProps) {
           )
           : ""}
       </div>
-      <h1>Popular Icons</h1>
 
       <ul class="mt-8 grid grid-cols-2 md:grid-cols-5">
         {debouncedSearch.length === 0 &&

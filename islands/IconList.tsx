@@ -49,6 +49,25 @@ export default function IconList(props: IconListProps) {
           </Button>
         </div>
       </div>
+
+      <div>
+        {filteredIcons.length === 0
+          ? (
+            <div class="text-gray-500 text-center flex-1 py-6 flex flex-col gap-2">
+              <div>No results</div>
+
+              <button
+                onClick={() => {
+                  setSearch("");
+                }}
+                class="text-sm text-gray-500 underline hover:text-gray-700 active:text-gray-900"
+              >
+                Clear the query
+              </button>
+            </div>
+          )
+          : ""}
+      </div>
       <ul class="mt-8 grid grid-cols-2 md:grid-cols-5">
         {filteredIcons.map((icon) => <ClickableIcon name={icon} />)}
       </ul>

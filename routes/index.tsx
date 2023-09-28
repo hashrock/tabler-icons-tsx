@@ -77,7 +77,7 @@ export default function Home({ data }: PageProps<Icons>) {
         </div>
       </div>
 
-      <div class="max-w-screen-lg flex mx-auto relative gap-4">
+      <div class="max-w-screen-lg flex mx-auto relative gap-4 mb-16">
         <div class="flex-1">
           <IconList icons={data.icons} />
         </div>
@@ -85,6 +85,15 @@ export default function Home({ data }: PageProps<Icons>) {
           <div class="sticky top-0 pt-4">
             <Examples />
           </div>
+        </div>
+      </div>
+
+      <div class="bg-gray-100">
+        <div class="max-w-screen-lg mx-auto flex flex-col py-8 text-center">
+          Icons are made by Paweł Kuna
+          <a href="https://github.com/tabler/tabler-icons/blob/master/LICENSE">
+            MIT License
+          </a>
         </div>
       </div>
     </>

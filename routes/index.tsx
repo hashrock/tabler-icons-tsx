@@ -32,6 +32,13 @@ export default function Home({ data }: PageProps<Icons>) {
           rel="stylesheet"
           href="https://esm.sh/prismjs@1.27.0/themes/prism-dark.min.css"
         />
+        <style>
+          {`
+        body{
+          overflow-y: scroll;
+        }
+        `}
+        </style>
       </Head>
       <Toast />
       <div class="max-w-screen-lg flex mx-auto relative gap-4">

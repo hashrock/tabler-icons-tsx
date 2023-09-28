@@ -41,16 +41,17 @@ export default function Home({ data }: PageProps<Icons>) {
         </style>
       </Head>
       <Toast />
-      <div class="max-w-screen-lg flex mx-auto relative gap-4">
-        <div class="pt-4">
-          <h1 class="text-4xl flex items-center font-bold">
-            <BrandTabler class="inline-block w-10 h-10" />
+
+      <div class="bg-gray-100">
+        <div class="max-w-screen-lg mx-auto flex flex-col py-16 ">
+          <h1 class="text-2xl flex items-center font-semibold">
+            <BrandTabler class="inline-block w-8 h-8" />
             <div>
               TSX Tabler Icons
             </div>
           </h1>
 
-          <p class="mt-2">
+          <p class="mt-3 text-gray-500">
             Easy to use{" "}
             <a
               class="text-blue-500 hover:underline"
@@ -60,7 +61,7 @@ export default function Home({ data }: PageProps<Icons>) {
             </a>{" "}
             in your Fresh app. Just import the icons.
           </p>
-          <div class="flex gap-2 mt-2 items-center">
+          <div class="flex gap-2 mt-4 items-center">
             <a href="https://fresh.deno.dev">
               <img
                 width="160"
@@ -71,10 +72,14 @@ export default function Home({ data }: PageProps<Icons>) {
             </a>
 
             <a href="https://github.com/hashrock/tabler-icons-tsx">
-              <IconBrandGithub class="w-7 h-7" />
+              <IconBrandGithub class="w-6 h-6 text-gray-600" />
             </a>
           </div>
+        </div>
+      </div>
 
+      <div class="max-w-screen-lg flex mx-auto relative gap-4">
+        <div class="pt-4">
           <p class="mt-2">
             <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
 
@@ -83,7 +88,7 @@ export default function Home({ data }: PageProps<Icons>) {
 
           <IconList icons={data.icons} />
         </div>
-        <div class="w-96">
+        <div class="w-96 shrink-0">
           <div class="sticky top-0 pt-4">
             <Examples />
           </div>

@@ -33,6 +33,7 @@ export default function IconList(props: IconListProps) {
           onClick={() => {
             setSearch("");
           }}
+          class={search.length > 0 ? "" : "hidden"}
         >
           Clear
         </Button>

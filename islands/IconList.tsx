@@ -38,7 +38,7 @@ export default function IconList(props: IconListProps) {
           Clear
         </Button>
       </div>
-      <ul class="mt-8 grid grid-cols-4">
+      <ul class="mt-8 grid grid-cols-2 md:grid-cols-5">
         {filteredIcons.map((icon) => <ClickableIcon name={icon} />)}
       </ul>
     </>

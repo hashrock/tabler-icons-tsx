@@ -2,11 +2,16 @@ import getIconComponentName from "../util/getIconComponentName.ts";
 import { selection } from "../util/selection.ts";
 import { copy as copySignal } from "../util/copy.ts";
 import IconExternalLink from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/external-link.tsx";
+import { RECOMMENDED_VERSION } from "../util/const.ts";
 import { JSX } from "preact";
 
 export default function Examples() {
   const iconName = selection.value;
   const className = getIconComponentName(iconName);
+  const example =
+    `import ${className} from "https://deno.land/x/tabler_icons_tsx@${RECOMMENDED_VERSION}/tsx/${iconName}.tsx"`;
+
+  const example2 = `<${className} class="w-6 h-6" />`;
 
   return (
     <div class="space-y-16 text-center">
@@ -29,8 +34,37 @@ export default function Examples() {
             </p>
           </div>
 
+          <div>
+            <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
+
+            <div class="relative group">
+              <div
+                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left"
+                onClick={() => {
+                  navigator.clipboard.writeText(example);
+                  copySignal.value = true;
+                }}
+              >
+                {example}
+              </div>
+
+              <div
+                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left"
+                onClick={() => {
+                  navigator.clipboard.writeText(example2);
+                  copySignal.value = true;
+                }}
+              >
+                {example2}
+              </div>
+            </div>
+          </div>
+
           <div class="space-y-4">
-            <h2 class="font-bold text-xl">Click-to-Copy Examples</h2>
+            <h2 class="text-sm font-bold uppercase text-gray-500">
+              Click-to-Copy Examples
+            </h2>
+            <h2 class="font-bold text-xl"></h2>
 
             <div>
               <CopyButton fontSize={5} elName={className} iconName={iconName} />

@@ -78,15 +78,7 @@ export default function Home({ data }: PageProps<Icons>) {
       </div>
 
       <div class="max-w-screen-lg flex mx-auto relative gap-4">
-        <div class="pt-4 flex-1">
-          {
-            /* <p class="mt-2">
-            <h2 class="text-sm font-bold uppercase text-gray-500">Usage</h2>
-
-            <CodeBlock copy></CodeBlock>
-          </p> */
-          }
-
+        <div class="flex-1">
           <IconList icons={data.icons} />
         </div>
         <div class="w-64 shrink-0">

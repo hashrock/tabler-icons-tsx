@@ -39,7 +39,7 @@ export default function Examples() {
 
             <div class="relative group">
               <div
-                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left"
+                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left hover:bg-gray-700 cursor-pointer"
                 onClick={() => {
                   navigator.clipboard.writeText(example);
                   copySignal.value = true;
@@ -49,7 +49,7 @@ export default function Examples() {
               </div>
 
               <div
-                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left"
+                class="mt-4 bg-gray-800 overflow-x-scroll rounded text-sm text-white whitespace-nowrap p-2 text-left hover:bg-gray-700 cursor-pointer"
                 onClick={() => {
                   navigator.clipboard.writeText(example2);
                   copySignal.value = true;

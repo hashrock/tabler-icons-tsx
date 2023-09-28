@@ -2,4 +2,9 @@
 
 import dev from "$fresh/dev.ts";
 
-await dev(import.meta.url, "./main.ts");
+import twindPlugin from "$fresh/plugins/twind.ts";
+import twindConfig from "./twind.config.ts";
+
+await dev(import.meta.url, "./main.ts", {
+  plugins: [twindPlugin(twindConfig)],
+});

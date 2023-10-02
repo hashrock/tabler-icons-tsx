@@ -1,7 +1,7 @@
 import getIconComponentName from "../util/getIconComponentName.ts";
 import { selection } from "../util/selection.ts";
 import { copy as copySignal } from "../util/copy.ts";
-import IconExternalLink from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/external-link.tsx";
+import IconExternalLink from "$tabler_icons/external-link.tsx";
 import { RECOMMENDED_VERSION } from "../util/const.ts";
 import { JSX } from "preact";
 

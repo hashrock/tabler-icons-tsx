@@ -3,7 +3,8 @@ import { Button } from "../components/Button.tsx";
 import ClickableIcon from "./ClickableIcon.tsx";
 import { useRef, useState } from "preact/hooks";
 import { useDebounce } from "../util/useDebounce.ts";
-import IconSearch from "https://deno.land/x/tabler_icons_tsx@0.0.3/tsx/search.tsx";
+import IconSearch from "$tabler_icons/search.tsx";
+
 interface IconListProps {
   icons: string[];
   popularIcons: string[];

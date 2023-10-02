@@ -20,14 +20,10 @@ function IconDropletFilled({
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
       <path
-        d="M6.801 11.003a6 6 0 1 0 10.396 -.003l-5.197 -8l-5.199 8.003z"
-        stroke="#010202"
+        d="M10.708 2.372a2.382 2.382 0 0 0 -.71 .686l-4.892 7.26c-1.981 3.314 -1.22 7.466 1.767 9.882c2.969 2.402 7.286 2.402 10.254 0c2.987 -2.416 3.748 -6.569 1.795 -9.836l-4.919 -7.306c-.722 -1.075 -2.192 -1.376 -3.295 -.686z"
         stroke-width={0}
         fill="currentColor"
       />
-      <path d="M12 3v17" stroke-width={0} fill="currentColor" />
-      <path d="M12 12l3.544 -3.544" stroke-width={0} fill="currentColor" />
-      <path d="M12 17.3l5.558 -5.558" stroke-width={0} fill="currentColor" />
     </svg>
   );
 }

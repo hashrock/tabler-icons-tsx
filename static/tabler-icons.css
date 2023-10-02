@@ -1,12 +1,13 @@
 /*!
- * Tabler Icons 2.9.0 by tabler - https://tabler.io
+ * Tabler Icons 2.38.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */
 @font-face {
   font-family: "tabler-icons";
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/tabler-icons.woff2?v2.9.0") format("woff2");
+  src: url("./fonts/tabler-icons.eot?v2.38.0");
+  src: url("./fonts/tabler-icons.eot?#iefix-v2.38.0") format("embedded-opentype"), url("./fonts/tabler-icons.woff2?v2.38.0") format("woff2"), url("./fonts/tabler-icons.woff?") format("woff"), url("./fonts/tabler-icons.ttf?v2.38.0") format("truetype");
 }
 .ti {
   font-family: "tabler-icons" !important;
@@ -19,6 +20,10 @@
   /* Better Font Rendering */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.ti-12-hours:before {
+  content: "\fc53";
 }
 
 .ti-123:before {
@@ -149,16 +154,92 @@
   content: "\ec37";
 }
 
+.ti-adjustments-bolt:before {
+  content: "\f7fb";
+}
+
+.ti-adjustments-cancel:before {
+  content: "\f7fc";
+}
+
+.ti-adjustments-check:before {
+  content: "\f7fd";
+}
+
+.ti-adjustments-code:before {
+  content: "\f7fe";
+}
+
+.ti-adjustments-cog:before {
+  content: "\f7ff";
+}
+
+.ti-adjustments-dollar:before {
+  content: "\f800";
+}
+
+.ti-adjustments-down:before {
+  content: "\f801";
+}
+
+.ti-adjustments-exclamation:before {
+  content: "\f802";
+}
+
 .ti-adjustments-filled:before {
   content: "\f6ec";
+}
+
+.ti-adjustments-heart:before {
+  content: "\f803";
 }
 
 .ti-adjustments-horizontal:before {
   content: "\ec38";
 }
 
+.ti-adjustments-minus:before {
+  content: "\f804";
+}
+
 .ti-adjustments-off:before {
   content: "\f0a8";
+}
+
+.ti-adjustments-pause:before {
+  content: "\f805";
+}
+
+.ti-adjustments-pin:before {
+  content: "\f806";
+}
+
+.ti-adjustments-plus:before {
+  content: "\f807";
+}
+
+.ti-adjustments-question:before {
+  content: "\f808";
+}
+
+.ti-adjustments-search:before {
+  content: "\f809";
+}
+
+.ti-adjustments-share:before {
+  content: "\f80a";
+}
+
+.ti-adjustments-star:before {
+  content: "\f80b";
+}
+
+.ti-adjustments-up:before {
+  content: "\f80c";
+}
+
+.ti-adjustments-x:before {
+  content: "\f80d";
 }
 
 .ti-aerial-lift:before {
@@ -185,8 +266,16 @@
   content: "\f542";
 }
 
+.ti-air-traffic-control:before {
+  content: "\fb01";
+}
+
 .ti-alarm:before {
   content: "\ea04";
+}
+
+.ti-alarm-average:before {
+  content: "\fc9e";
 }
 
 .ti-alarm-filled:before {
@@ -237,6 +326,22 @@
   content: "\f6ee";
 }
 
+.ti-alert-circle-off:before {
+  content: "\fc65";
+}
+
+.ti-alert-hexagon:before {
+  content: "\f80e";
+}
+
+.ti-alert-hexagon-filled:before {
+  content: "\fa34";
+}
+
+.ti-alert-hexagon-off:before {
+  content: "\fc66";
+}
+
 .ti-alert-octagon:before {
   content: "\ecc6";
 }
@@ -245,12 +350,44 @@
   content: "\f6ef";
 }
 
+.ti-alert-small:before {
+  content: "\f80f";
+}
+
+.ti-alert-small-off:before {
+  content: "\fc67";
+}
+
+.ti-alert-square:before {
+  content: "\f811";
+}
+
+.ti-alert-square-filled:before {
+  content: "\fa35";
+}
+
+.ti-alert-square-rounded:before {
+  content: "\f810";
+}
+
+.ti-alert-square-rounded-filled:before {
+  content: "\fa36";
+}
+
+.ti-alert-square-rounded-off:before {
+  content: "\fc68";
+}
+
 .ti-alert-triangle:before {
   content: "\ea06";
 }
 
 .ti-alert-triangle-filled:before {
   content: "\f6f0";
+}
+
+.ti-alert-triangle-off:before {
+  content: "\fc69";
 }
 
 .ti-alien:before {
@@ -285,12 +422,24 @@
   content: "\f710";
 }
 
+.ti-align-box-center-bottom:before {
+  content: "\facb";
+}
+
 .ti-align-box-center-middle:before {
   content: "\f79f";
 }
 
 .ti-align-box-center-middle-filled:before {
   content: "\f7d4";
+}
+
+.ti-align-box-center-stretch:before {
+  content: "\facc";
+}
+
+.ti-align-box-center-top:before {
+  content: "\facd";
 }
 
 .ti-align-box-left-bottom:before {
@@ -307,6 +456,10 @@
 
 .ti-align-box-left-middle-filled:before {
   content: "\f712";
+}
+
+.ti-align-box-left-stretch:before {
+  content: "\face";
 }
 
 .ti-align-box-left-top:before {
@@ -331,6 +484,10 @@
 
 .ti-align-box-right-middle-filled:before {
   content: "\f7d5";
+}
+
+.ti-align-box-right-stretch:before {
+  content: "\facf";
 }
 
 .ti-align-box-right-top:before {
@@ -395,6 +552,10 @@
 
 .ti-alphabet-latin:before {
   content: "\f1e1";
+}
+
+.ti-alt:before {
+  content: "\fc54";
 }
 
 .ti-ambulance:before {
@@ -513,8 +674,16 @@
   content: "\f0ac";
 }
 
+.ti-archery-arrow:before {
+  content: "\fc55";
+}
+
 .ti-archive:before {
   content: "\ea0b";
+}
+
+.ti-archive-filled:before {
+  content: "\fa82";
 }
 
 .ti-archive-off:before {
@@ -577,6 +746,10 @@
   content: "\eb77";
 }
 
+.ti-arrow-back-up-double:before {
+  content: "\f9ec";
+}
+
 .ti-arrow-badge-down:before {
   content: "\f60b";
 }
@@ -607,6 +780,10 @@
 
 .ti-arrow-badge-up-filled:before {
   content: "\f7d9";
+}
+
+.ti-arrow-bar-both:before {
+  content: "\fadd";
 }
 
 .ti-arrow-bar-down:before {
@@ -757,6 +934,10 @@
   content: "\f3a4";
 }
 
+.ti-arrow-capsule:before {
+  content: "\fade";
+}
+
 .ti-arrow-curve-left:before {
   content: "\f048";
 }
@@ -805,6 +986,14 @@
   content: "\ed9b";
 }
 
+.ti-arrow-elbow-left:before {
+  content: "\f9ed";
+}
+
+.ti-arrow-elbow-right:before {
+  content: "\f9ee";
+}
+
 .ti-arrow-fork:before {
   content: "\f04a";
 }
@@ -815,6 +1004,10 @@
 
 .ti-arrow-forward-up:before {
   content: "\eb78";
+}
+
+.ti-arrow-forward-up-double:before {
+  content: "\f9ef";
 }
 
 .ti-arrow-guide:before {
@@ -871,6 +1064,14 @@
 
 .ti-arrow-merge:before {
   content: "\f04e";
+}
+
+.ti-arrow-merge-alt-left:before {
+  content: "\fc9f";
+}
+
+.ti-arrow-merge-alt-right:before {
+  content: "\fca0";
 }
 
 .ti-arrow-merge-both:before {
@@ -1237,6 +1438,10 @@
   content: "\ea2a";
 }
 
+.ti-artboard-filled:before {
+  content: "\fa83";
+}
+
 .ti-artboard-off:before {
   content: "\f0ae";
 }
@@ -1321,6 +1526,10 @@
   content: "\f3c1";
 }
 
+.ti-automatic-gearbox:before {
+  content: "\fc89";
+}
+
 .ti-award:before {
   content: "\ea2c";
 }
@@ -1363,6 +1572,10 @@
 
 .ti-backpack-off:before {
   content: "\f3c2";
+}
+
+.ti-backslash:before {
+  content: "\fab9";
 }
 
 .ti-backspace:before {
@@ -1489,12 +1702,20 @@
   content: "\ef3a";
 }
 
+.ti-balloon-filled:before {
+  content: "\fa84";
+}
+
 .ti-balloon-off:before {
   content: "\f0fd";
 }
 
 .ti-ballpen:before {
   content: "\f06e";
+}
+
+.ti-ballpen-filled:before {
+  content: "\fa85";
 }
 
 .ti-ballpen-off:before {
@@ -1553,16 +1774,108 @@
   content: "\f024";
 }
 
+.ti-baseline-density-large:before {
+  content: "\f9f0";
+}
+
+.ti-baseline-density-medium:before {
+  content: "\f9f1";
+}
+
+.ti-baseline-density-small:before {
+  content: "\f9f2";
+}
+
 .ti-basket:before {
   content: "\ebe1";
+}
+
+.ti-basket-bolt:before {
+  content: "\fb43";
+}
+
+.ti-basket-cancel:before {
+  content: "\fb44";
+}
+
+.ti-basket-check:before {
+  content: "\fb45";
+}
+
+.ti-basket-code:before {
+  content: "\fb46";
+}
+
+.ti-basket-cog:before {
+  content: "\fb47";
+}
+
+.ti-basket-discount:before {
+  content: "\fb48";
+}
+
+.ti-basket-dollar:before {
+  content: "\fb49";
+}
+
+.ti-basket-down:before {
+  content: "\fb4a";
+}
+
+.ti-basket-exclamation:before {
+  content: "\fb4b";
 }
 
 .ti-basket-filled:before {
   content: "\f7df";
 }
 
+.ti-basket-heart:before {
+  content: "\fb4c";
+}
+
+.ti-basket-minus:before {
+  content: "\fb4d";
+}
+
 .ti-basket-off:before {
   content: "\f0b6";
+}
+
+.ti-basket-pause:before {
+  content: "\fb4e";
+}
+
+.ti-basket-pin:before {
+  content: "\fb4f";
+}
+
+.ti-basket-plus:before {
+  content: "\fb50";
+}
+
+.ti-basket-question:before {
+  content: "\fb51";
+}
+
+.ti-basket-search:before {
+  content: "\fb52";
+}
+
+.ti-basket-share:before {
+  content: "\fb53";
+}
+
+.ti-basket-star:before {
+  content: "\fb54";
+}
+
+.ti-basket-up:before {
+  content: "\fb55";
+}
+
+.ti-basket-x:before {
+  content: "\fb56";
 }
 
 .ti-bat:before {
@@ -1657,6 +1970,10 @@
   content: "\f7e0";
 }
 
+.ti-bed-flat:before {
+  content: "\fca1";
+}
+
 .ti-bed-off:before {
   content: "\f100";
 }
@@ -1677,8 +1994,44 @@
   content: "\ea35";
 }
 
+.ti-bell-bolt:before {
+  content: "\f812";
+}
+
+.ti-bell-cancel:before {
+  content: "\f813";
+}
+
+.ti-bell-check:before {
+  content: "\f814";
+}
+
+.ti-bell-code:before {
+  content: "\f815";
+}
+
+.ti-bell-cog:before {
+  content: "\f816";
+}
+
+.ti-bell-dollar:before {
+  content: "\f817";
+}
+
+.ti-bell-down:before {
+  content: "\f818";
+}
+
+.ti-bell-exclamation:before {
+  content: "\f819";
+}
+
 .ti-bell-filled:before {
   content: "\f669";
+}
+
+.ti-bell-heart:before {
+  content: "\f81a";
 }
 
 .ti-bell-minus:before {
@@ -1693,12 +2046,24 @@
   content: "\ece9";
 }
 
+.ti-bell-pause:before {
+  content: "\f81b";
+}
+
+.ti-bell-pin:before {
+  content: "\f81c";
+}
+
 .ti-bell-plus:before {
   content: "\ede3";
 }
 
 .ti-bell-plus-filled:before {
   content: "\f723";
+}
+
+.ti-bell-question:before {
+  content: "\f81d";
 }
 
 .ti-bell-ringing:before {
@@ -1719,6 +2084,22 @@
 
 .ti-bell-school:before {
   content: "\f05e";
+}
+
+.ti-bell-search:before {
+  content: "\f81e";
+}
+
+.ti-bell-share:before {
+  content: "\f81f";
+}
+
+.ti-bell-star:before {
+  content: "\f820";
+}
+
+.ti-bell-up:before {
+  content: "\f821";
 }
 
 .ti-bell-x:before {
@@ -1801,6 +2182,10 @@
   content: "\f2f2";
 }
 
+.ti-blender:before {
+  content: "\fca2";
+}
+
 .ti-blockquote:before {
   content: "\ee09";
 }
@@ -1833,6 +2218,10 @@
   content: "\f3a6";
 }
 
+.ti-body-scan:before {
+  content: "\fca3";
+}
+
 .ti-bold:before {
   content: "\eb7b";
 }
@@ -1851,6 +2240,10 @@
 
 .ti-bomb:before {
   content: "\f59c";
+}
+
+.ti-bomb-filled:before {
+  content: "\fa86";
 }
 
 .ti-bone:before {
@@ -1881,6 +2274,10 @@
   content: "\f070";
 }
 
+.ti-book-filled:before {
+  content: "\fa87";
+}
+
 .ti-book-off:before {
   content: "\f0bc";
 }
@@ -1893,12 +2290,40 @@
   content: "\ea3a";
 }
 
+.ti-bookmark-ai:before {
+  content: "\fc8a";
+}
+
+.ti-bookmark-edit:before {
+  content: "\fa5e";
+}
+
+.ti-bookmark-filled:before {
+  content: "\fa88";
+}
+
+.ti-bookmark-minus:before {
+  content: "\fa5f";
+}
+
 .ti-bookmark-off:before {
   content: "\eced";
 }
 
+.ti-bookmark-plus:before {
+  content: "\fa60";
+}
+
+.ti-bookmark-question:before {
+  content: "\fa61";
+}
+
 .ti-bookmarks:before {
   content: "\ed08";
+}
+
+.ti-bookmarks-filled:before {
+  content: "\fb1f";
 }
 
 .ti-bookmarks-off:before {
@@ -1977,6 +2402,10 @@
   content: "\ef0b";
 }
 
+.ti-bottle-filled:before {
+  content: "\fa89";
+}
+
 .ti-bottle-off:before {
   content: "\f3c8";
 }
@@ -1985,8 +2414,16 @@
   content: "\f59d";
 }
 
+.ti-bounce-left-filled:before {
+  content: "\fb20";
+}
+
 .ti-bounce-right:before {
   content: "\f59e";
+}
+
+.ti-bounce-right-filled:before {
+  content: "\fb21";
 }
 
 .ti-bow:before {
@@ -1997,6 +2434,10 @@
   content: "\f4fa";
 }
 
+.ti-bowl-filled:before {
+  content: "\fb22";
+}
+
 .ti-box:before {
   content: "\ea45";
 }
@@ -2005,32 +2446,64 @@
   content: "\f2a8";
 }
 
+.ti-box-align-bottom-filled:before {
+  content: "\fa8a";
+}
+
 .ti-box-align-bottom-left:before {
   content: "\f2ce";
+}
+
+.ti-box-align-bottom-left-filled:before {
+  content: "\fa8b";
 }
 
 .ti-box-align-bottom-right:before {
   content: "\f2cf";
 }
 
+.ti-box-align-bottom-right-filled:before {
+  content: "\fa8c";
+}
+
 .ti-box-align-left:before {
   content: "\f2a9";
+}
+
+.ti-box-align-left-filled:before {
+  content: "\fa8d";
 }
 
 .ti-box-align-right:before {
   content: "\f2aa";
 }
 
+.ti-box-align-right-filled:before {
+  content: "\fa8e";
+}
+
 .ti-box-align-top:before {
   content: "\f2ab";
+}
+
+.ti-box-align-top-filled:before {
+  content: "\fa8f";
 }
 
 .ti-box-align-top-left:before {
   content: "\f2d0";
 }
 
+.ti-box-align-top-left-filled:before {
+  content: "\fa90";
+}
+
 .ti-box-align-top-right:before {
   content: "\f2d1";
+}
+
+.ti-box-align-top-right-filled:before {
+  content: "\fa91";
 }
 
 .ti-box-margin:before {
@@ -2121,6 +2594,14 @@
   content: "\ebcd";
 }
 
+.ti-brackets-angle:before {
+  content: "\fcb2";
+}
+
+.ti-brackets-angle-off:before {
+  content: "\fcb1";
+}
+
 .ti-brackets-contain:before {
   content: "\f1e5";
 }
@@ -2205,6 +2686,10 @@
   content: "\ef6b";
 }
 
+.ti-brand-ansible:before {
+  content: "\fa70";
+}
+
 .ti-brand-ao3:before {
   content: "\f5e8";
 }
@@ -2231,6 +2716,18 @@
 
 .ti-brand-asana:before {
   content: "\edc5";
+}
+
+.ti-brand-auth0:before {
+  content: "\fcb3";
+}
+
+.ti-brand-aws:before {
+  content: "\fa4c";
+}
+
+.ti-brand-azure:before {
+  content: "\fa4d";
 }
 
 .ti-brand-backbone:before {
@@ -2337,8 +2834,16 @@
   content: "\ec18";
 }
 
+.ti-brand-cinema-4d:before {
+  content: "\fa71";
+}
+
 .ti-brand-citymapper:before {
   content: "\f5fc";
+}
+
+.ti-brand-cloudflare:before {
+  content: "\fa4e";
 }
 
 .ti-brand-codecov:before {
@@ -2381,6 +2886,10 @@
   content: "\f5fe";
 }
 
+.ti-brand-craft:before {
+  content: "\fa72";
+}
+
 .ti-brand-crunchbase:before {
   content: "\f7e3";
 }
@@ -2407,6 +2916,10 @@
 
 .ti-brand-d3:before {
   content: "\f24e";
+}
+
+.ti-brand-databricks:before {
+  content: "\fc41";
 }
 
 .ti-brand-days-counter:before {
@@ -2439,6 +2952,10 @@
 
 .ti-brand-deviantart:before {
   content: "\ecfb";
+}
+
+.ti-brand-digg:before {
+  content: "\fa73";
 }
 
 .ti-brand-dingtalk:before {
@@ -2505,6 +3022,10 @@
   content: "\f611";
 }
 
+.ti-brand-electronic-arts:before {
+  content: "\fa74";
+}
+
 .ti-brand-ember:before {
   content: "\f497";
 }
@@ -2529,8 +3050,16 @@
   content: "\f7e6";
 }
 
+.ti-brand-feedly:before {
+  content: "\fa75";
+}
+
 .ti-brand-figma:before {
   content: "\ec93";
+}
+
+.ti-brand-filezilla:before {
+  content: "\fa76";
 }
 
 .ti-brand-finder:before {
@@ -2641,6 +3170,10 @@
   content: "\f601";
 }
 
+.ti-brand-google-maps:before {
+  content: "\fa4f";
+}
+
 .ti-brand-google-one:before {
   content: "\f232";
 }
@@ -2689,6 +3222,10 @@
   content: "\f32d";
 }
 
+.ti-brand-hexo:before {
+  content: "\fa50";
+}
+
 .ti-brand-hipchat:before {
   content: "\edcd";
 }
@@ -2709,12 +3246,24 @@
   content: "\f1cf";
 }
 
+.ti-brand-itch:before {
+  content: "\fa22";
+}
+
 .ti-brand-javascript:before {
   content: "\ef0c";
 }
 
 .ti-brand-juejin:before {
   content: "\f7b0";
+}
+
+.ti-brand-kbin:before {
+  content: "\fad0";
+}
+
+.ti-brand-kick:before {
+  content: "\fa23";
 }
 
 .ti-brand-kickstarter:before {
@@ -2731,6 +3280,14 @@
 
 .ti-brand-lastfm:before {
   content: "\f001";
+}
+
+.ti-brand-leetcode:before {
+  content: "\fa51";
+}
+
+.ti-brand-letterboxd:before {
+  content: "\fa24";
 }
 
 .ti-brand-line:before {
@@ -2781,6 +3338,10 @@
   content: "\ec70";
 }
 
+.ti-brand-meetup:before {
+  content: "\fc6a";
+}
+
 .ti-brand-mercedes:before {
   content: "\f072";
 }
@@ -2791,6 +3352,10 @@
 
 .ti-brand-meta:before {
   content: "\efb0";
+}
+
+.ti-brand-minecraft:before {
+  content: "\faef";
 }
 
 .ti-brand-miniprogram:before {
@@ -2849,6 +3414,10 @@
   content: "\f0dd";
 }
 
+.ti-brand-nodejs:before {
+  content: "\fae0";
+}
+
 .ti-brand-nord-vpn:before {
   content: "\f37f";
 }
@@ -2867,6 +3436,10 @@
 
 .ti-brand-nytimes:before {
   content: "\ef8d";
+}
+
+.ti-brand-oauth:before {
+  content: "\fa52";
 }
 
 .ti-brand-office:before {
@@ -2903,6 +3476,10 @@
 
 .ti-brand-pagekit:before {
   content: "\edd1";
+}
+
+.ti-brand-parsinta:before {
+  content: "\fc42";
 }
 
 .ti-brand-patreon:before {
@@ -3013,6 +3590,14 @@
   content: "\f4da";
 }
 
+.ti-brand-rumble:before {
+  content: "\fad1";
+}
+
+.ti-brand-rust:before {
+  content: "\fa53";
+}
+
 .ti-brand-safari:before {
   content: "\ec23";
 }
@@ -3081,6 +3666,10 @@
   content: "\f4fc";
 }
 
+.ti-brand-speedtest:before {
+  content: "\fa77";
+}
+
 .ti-brand-spotify:before {
   content: "\ed03";
 }
@@ -3095,6 +3684,10 @@
 
 .ti-brand-steam:before {
   content: "\ed6f";
+}
+
+.ti-brand-storj:before {
+  content: "\fa54";
 }
 
 .ti-brand-storybook:before {
@@ -3141,6 +3734,10 @@
   content: "\f0df";
 }
 
+.ti-brand-swift:before {
+  content: "\fa55";
+}
+
 .ti-brand-symfony:before {
   content: "\f616";
 }
@@ -3157,6 +3754,10 @@
   content: "\f5ef";
 }
 
+.ti-brand-teams:before {
+  content: "\fadf";
+}
+
 .ti-brand-ted:before {
   content: "\f658";
 }
@@ -3165,8 +3766,16 @@
   content: "\ec26";
 }
 
+.ti-brand-terraform:before {
+  content: "\fa56";
+}
+
 .ti-brand-tether:before {
   content: "\f5a3";
+}
+
+.ti-brand-threads:before {
+  content: "\fb02";
 }
 
 .ti-brand-threejs:before {
@@ -3177,12 +3786,12 @@
   content: "\ed70";
 }
 
-.ti-brand-tikto-filled:before {
-  content: "\f7ea";
-}
-
 .ti-brand-tiktok:before {
   content: "\ec73";
+}
+
+.ti-brand-tiktok-filled:before {
+  content: "\f7ea";
 }
 
 .ti-brand-tinder:before {
@@ -3289,6 +3898,10 @@
   content: "\ed72";
 }
 
+.ti-brand-vlc:before {
+  content: "\fa78";
+}
+
 .ti-brand-volkswagen:before {
   content: "\f50e";
 }
@@ -3329,6 +3942,10 @@
   content: "\ec74";
 }
 
+.ti-brand-wikipedia:before {
+  content: "\fa79";
+}
+
 .ti-brand-windows:before {
   content: "\ecd8";
 }
@@ -3349,8 +3966,24 @@
   content: "\f2d3";
 }
 
+.ti-brand-x:before {
+  content: "\fc0f";
+}
+
+.ti-brand-x-filled:before {
+  content: "\fc21";
+}
+
+.ti-brand-xamarin:before {
+  content: "\fa7a";
+}
+
 .ti-brand-xbox:before {
   content: "\f298";
+}
+
+.ti-brand-xdeep:before {
+  content: "\fc10";
 }
 
 .ti-brand-xing:before {
@@ -3359,6 +3992,10 @@
 
 .ti-brand-yahoo:before {
   content: "\ed73";
+}
+
+.ti-brand-yandex:before {
+  content: "\fae1";
 }
 
 .ti-brand-yatse:before {
@@ -3371,6 +4008,10 @@
 
 .ti-brand-youtube:before {
   content: "\ec90";
+}
+
+.ti-brand-youtube-filled:before {
+  content: "\fc22";
 }
 
 .ti-brand-youtube-kids:before {
@@ -3417,6 +4058,10 @@
   content: "\ea46";
 }
 
+.ti-briefcase-2:before {
+  content: "\fb03";
+}
+
 .ti-briefcase-off:before {
   content: "\f3cc";
 }
@@ -3433,6 +4078,10 @@
   content: "\eb7d";
 }
 
+.ti-brightness-down-filled:before {
+  content: "\fb23";
+}
+
 .ti-brightness-half:before {
   content: "\ee1a";
 }
@@ -3443,6 +4092,10 @@
 
 .ti-brightness-up:before {
   content: "\eb7e";
+}
+
+.ti-brightness-up-filled:before {
+  content: "\fb24";
 }
 
 .ti-broadcast:before {
@@ -3577,6 +4230,10 @@
   content: "\ed26";
 }
 
+.ti-building-mosque:before {
+  content: "\fa57";
+}
+
 .ti-building-pavilion:before {
   content: "\ebf7";
 }
@@ -3621,6 +4278,10 @@
   content: "\ee1d";
 }
 
+.ti-burger:before {
+  content: "\fcb4";
+}
+
 .ti-bus:before {
   content: "\ebe4";
 }
@@ -3645,6 +4306,10 @@
   content: "\f21b";
 }
 
+.ti-cactus-filled:before {
+  content: "\fb25";
+}
+
 .ti-cactus-off:before {
   content: "\f3cf";
 }
@@ -3661,12 +4326,44 @@
   content: "\eb80";
 }
 
+.ti-calculator-filled:before {
+  content: "\fb26";
+}
+
 .ti-calculator-off:before {
   content: "\f0c4";
 }
 
 .ti-calendar:before {
   content: "\ea53";
+}
+
+.ti-calendar-bolt:before {
+  content: "\f822";
+}
+
+.ti-calendar-cancel:before {
+  content: "\f823";
+}
+
+.ti-calendar-check:before {
+  content: "\f824";
+}
+
+.ti-calendar-code:before {
+  content: "\f825";
+}
+
+.ti-calendar-cog:before {
+  content: "\f826";
+}
+
+.ti-calendar-dollar:before {
+  content: "\f827";
+}
+
+.ti-calendar-down:before {
+  content: "\f828";
 }
 
 .ti-calendar-due:before {
@@ -3677,6 +4374,18 @@
   content: "\ea52";
 }
 
+.ti-calendar-exclamation:before {
+  content: "\f829";
+}
+
+.ti-calendar-filled:before {
+  content: "\fb27";
+}
+
+.ti-calendar-heart:before {
+  content: "\f82a";
+}
+
 .ti-calendar-minus:before {
   content: "\ebb9";
 }
@@ -3685,8 +4394,36 @@
   content: "\ee1f";
 }
 
+.ti-calendar-pause:before {
+  content: "\f82b";
+}
+
+.ti-calendar-pin:before {
+  content: "\f82c";
+}
+
 .ti-calendar-plus:before {
   content: "\ebba";
+}
+
+.ti-calendar-question:before {
+  content: "\f82d";
+}
+
+.ti-calendar-repeat:before {
+  content: "\fad2";
+}
+
+.ti-calendar-search:before {
+  content: "\f82e";
+}
+
+.ti-calendar-share:before {
+  content: "\f82f";
+}
+
+.ti-calendar-star:before {
+  content: "\f830";
 }
 
 .ti-calendar-stats:before {
@@ -3697,8 +4434,56 @@
   content: "\ee21";
 }
 
+.ti-calendar-up:before {
+  content: "\f831";
+}
+
+.ti-calendar-x:before {
+  content: "\f832";
+}
+
 .ti-camera:before {
   content: "\ea54";
+}
+
+.ti-camera-bolt:before {
+  content: "\f833";
+}
+
+.ti-camera-cancel:before {
+  content: "\f834";
+}
+
+.ti-camera-check:before {
+  content: "\f835";
+}
+
+.ti-camera-code:before {
+  content: "\f836";
+}
+
+.ti-camera-cog:before {
+  content: "\f837";
+}
+
+.ti-camera-dollar:before {
+  content: "\f838";
+}
+
+.ti-camera-down:before {
+  content: "\f839";
+}
+
+.ti-camera-exclamation:before {
+  content: "\f83a";
+}
+
+.ti-camera-filled:before {
+  content: "\fa37";
+}
+
+.ti-camera-heart:before {
+  content: "\f83b";
 }
 
 .ti-camera-minus:before {
@@ -3709,24 +4494,68 @@
   content: "\ecee";
 }
 
+.ti-camera-pause:before {
+  content: "\f83c";
+}
+
+.ti-camera-pin:before {
+  content: "\f83d";
+}
+
 .ti-camera-plus:before {
   content: "\ec3b";
+}
+
+.ti-camera-question:before {
+  content: "\f83e";
 }
 
 .ti-camera-rotate:before {
   content: "\ee22";
 }
 
+.ti-camera-search:before {
+  content: "\f83f";
+}
+
 .ti-camera-selfie:before {
   content: "\ee23";
+}
+
+.ti-camera-share:before {
+  content: "\f840";
+}
+
+.ti-camera-star:before {
+  content: "\f841";
+}
+
+.ti-camera-up:before {
+  content: "\f842";
+}
+
+.ti-camera-x:before {
+  content: "\f843";
+}
+
+.ti-camper:before {
+  content: "\fa25";
 }
 
 .ti-campfire:before {
   content: "\f5a7";
 }
 
+.ti-campfire-filled:before {
+  content: "\fb28";
+}
+
 .ti-candle:before {
   content: "\efc6";
+}
+
+.ti-candle-filled:before {
+  content: "\fc23";
 }
 
 .ti-candy:before {
@@ -3745,8 +4574,28 @@
   content: "\f4c1";
 }
 
+.ti-capsule:before {
+  content: "\fae3";
+}
+
+.ti-capsule-filled:before {
+  content: "\fc24";
+}
+
+.ti-capsule-horizontal:before {
+  content: "\fae2";
+}
+
+.ti-capsule-horizontal-filled:before {
+  content: "\fc25";
+}
+
 .ti-capture:before {
   content: "\ec3c";
+}
+
+.ti-capture-filled:before {
+  content: "\fb29";
 }
 
 .ti-capture-off:before {
@@ -3765,8 +4614,16 @@
   content: "\efa4";
 }
 
+.ti-car-garage:before {
+  content: "\fc77";
+}
+
 .ti-car-off:before {
   content: "\f0c7";
+}
+
+.ti-car-suv:before {
+  content: "\fc8b";
 }
 
 .ti-car-turbine:before {
@@ -3789,28 +4646,64 @@
   content: "\f510";
 }
 
+.ti-cards-filled:before {
+  content: "\fc26";
+}
+
 .ti-caret-down:before {
   content: "\eb5d";
+}
+
+.ti-caret-down-filled:before {
+  content: "\fb2a";
 }
 
 .ti-caret-left:before {
   content: "\eb5e";
 }
 
+.ti-caret-left-filled:before {
+  content: "\fb2b";
+}
+
+.ti-caret-left-right:before {
+  content: "\fc43";
+}
+
 .ti-caret-right:before {
   content: "\eb5f";
+}
+
+.ti-caret-right-filled:before {
+  content: "\fb2c";
 }
 
 .ti-caret-up:before {
   content: "\eb60";
 }
 
+.ti-caret-up-down:before {
+  content: "\fc44";
+}
+
+.ti-caret-up-filled:before {
+  content: "\fb2d";
+}
+
 .ti-carousel-horizontal:before {
   content: "\f659";
 }
 
+.ti-carousel-horizontal-filled:before {
+  content: "\fa92";
+}
+
 .ti-carousel-vertical:before {
   content: "\f65a";
+}
+
+.ti-carousel-vertical-filled:before {
+  content: "\fa93";
 }
 
 .ti-carrot:before {
@@ -3855,6 +4748,10 @@
 
 .ti-category-2:before {
   content: "\f1f5";
+}
+
+.ti-category-filled:before {
+  content: "\fb2e";
 }
 
 .ti-ce:before {
@@ -4161,6 +5058,22 @@
   content: "\f72e";
 }
 
+.ti-chevron-compact-down:before {
+  content: "\faf0";
+}
+
+.ti-chevron-compact-left:before {
+  content: "\faf1";
+}
+
+.ti-chevron-compact-right:before {
+  content: "\faf2";
+}
+
+.ti-chevron-compact-up:before {
+  content: "\faf3";
+}
+
 .ti-chevron-down:before {
   content: "\ea5f";
 }
@@ -4177,8 +5090,16 @@
   content: "\ea60";
 }
 
+.ti-chevron-left-pipe:before {
+  content: "\fae4";
+}
+
 .ti-chevron-right:before {
   content: "\ea61";
+}
+
+.ti-chevron-right-pipe:before {
+  content: "\fae5";
 }
 
 .ti-chevron-up:before {
@@ -4405,6 +5326,50 @@
   content: "\ed27";
 }
 
+.ti-circle-dashed-number-0:before {
+  content: "\fc6b";
+}
+
+.ti-circle-dashed-number-1:before {
+  content: "\fc6c";
+}
+
+.ti-circle-dashed-number-2:before {
+  content: "\fc6d";
+}
+
+.ti-circle-dashed-number-3:before {
+  content: "\fc6e";
+}
+
+.ti-circle-dashed-number-4:before {
+  content: "\fc6f";
+}
+
+.ti-circle-dashed-number-5:before {
+  content: "\fc70";
+}
+
+.ti-circle-dashed-number-6:before {
+  content: "\fc71";
+}
+
+.ti-circle-dashed-number-7:before {
+  content: "\fc72";
+}
+
+.ti-circle-dashed-number-8:before {
+  content: "\fc73";
+}
+
+.ti-circle-dashed-number-9:before {
+  content: "\fc74";
+}
+
+.ti-circle-dashed-x:before {
+  content: "\fc75";
+}
+
 .ti-circle-dot:before {
   content: "\efb1";
 }
@@ -4549,6 +5514,10 @@
   content: "\ea68";
 }
 
+.ti-circle-minus-2:before {
+  content: "\fc8c";
+}
+
 .ti-circle-number-0:before {
   content: "\ee34";
 }
@@ -4595,6 +5564,10 @@
 
 .ti-circle-plus:before {
   content: "\ea69";
+}
+
+.ti-circle-plus-2:before {
+  content: "\fc8d";
 }
 
 .ti-circle-rectangle:before {
@@ -4769,8 +5742,20 @@
   content: "\ea70";
 }
 
+.ti-clock-12:before {
+  content: "\fc56";
+}
+
 .ti-clock-2:before {
   content: "\f099";
+}
+
+.ti-clock-24:before {
+  content: "\fc57";
+}
+
+.ti-clock-bolt:before {
+  content: "\f844";
 }
 
 .ti-clock-cancel:before {
@@ -4781,8 +5766,16 @@
   content: "\f7c1";
 }
 
+.ti-clock-code:before {
+  content: "\f845";
+}
+
 .ti-clock-cog:before {
   content: "\f7c2";
+}
+
+.ti-clock-dollar:before {
+  content: "\f846";
 }
 
 .ti-clock-down:before {
@@ -4791,6 +5784,10 @@
 
 .ti-clock-edit:before {
   content: "\f547";
+}
+
+.ti-clock-exclamation:before {
+  content: "\f847";
 }
 
 .ti-clock-filled:before {
@@ -4849,12 +5846,20 @@
   content: "\f31e";
 }
 
+.ti-clock-minus:before {
+  content: "\f848";
+}
+
 .ti-clock-off:before {
   content: "\f0cf";
 }
 
 .ti-clock-pause:before {
   content: "\f548";
+}
+
+.ti-clock-pin:before {
+  content: "\f849";
 }
 
 .ti-clock-play:before {
@@ -4875,6 +5880,10 @@
 
 .ti-clock-search:before {
   content: "\f7c7";
+}
+
+.ti-clock-share:before {
+  content: "\f84a";
 }
 
 .ti-clock-shield:before {
@@ -4909,6 +5918,26 @@
   content: "\ea76";
 }
 
+.ti-cloud-bolt:before {
+  content: "\f84b";
+}
+
+.ti-cloud-cancel:before {
+  content: "\f84c";
+}
+
+.ti-cloud-check:before {
+  content: "\f84d";
+}
+
+.ti-cloud-code:before {
+  content: "\f84e";
+}
+
+.ti-cloud-cog:before {
+  content: "\f84f";
+}
+
 .ti-cloud-computing:before {
   content: "\f1d0";
 }
@@ -4917,8 +5946,20 @@
   content: "\f1d1";
 }
 
+.ti-cloud-dollar:before {
+  content: "\f850";
+}
+
+.ti-cloud-down:before {
+  content: "\f851";
+}
+
 .ti-cloud-download:before {
   content: "\ea71";
+}
+
+.ti-cloud-exclamation:before {
+  content: "\f852";
 }
 
 .ti-cloud-filled:before {
@@ -4929,6 +5970,10 @@
   content: "\ecd9";
 }
 
+.ti-cloud-heart:before {
+  content: "\f853";
+}
+
 .ti-cloud-lock:before {
   content: "\efdb";
 }
@@ -4937,24 +5982,68 @@
   content: "\efda";
 }
 
+.ti-cloud-minus:before {
+  content: "\f854";
+}
+
+.ti-cloud-network:before {
+  content: "\fc78";
+}
+
 .ti-cloud-off:before {
   content: "\ed3e";
+}
+
+.ti-cloud-pause:before {
+  content: "\f855";
+}
+
+.ti-cloud-pin:before {
+  content: "\f856";
+}
+
+.ti-cloud-plus:before {
+  content: "\f857";
+}
+
+.ti-cloud-question:before {
+  content: "\f858";
 }
 
 .ti-cloud-rain:before {
   content: "\ea72";
 }
 
+.ti-cloud-search:before {
+  content: "\f859";
+}
+
+.ti-cloud-share:before {
+  content: "\f85a";
+}
+
 .ti-cloud-snow:before {
   content: "\ea73";
+}
+
+.ti-cloud-star:before {
+  content: "\f85b";
 }
 
 .ti-cloud-storm:before {
   content: "\ea74";
 }
 
+.ti-cloud-up:before {
+  content: "\f85c";
+}
+
 .ti-cloud-upload:before {
   content: "\ea75";
+}
+
+.ti-cloud-x:before {
+  content: "\f85d";
 }
 
 .ti-clover:before {
@@ -5085,6 +6174,10 @@
   content: "\ee45";
 }
 
+.ti-column-remove:before {
+  content: "\faf4";
+}
+
 .ti-columns:before {
   content: "\eb83";
 }
@@ -5143,6 +6236,10 @@
 
 .ti-cone-off:before {
   content: "\f3d8";
+}
+
+.ti-cone-plus:before {
+  content: "\fa94";
 }
 
 .ti-confetti:before {
@@ -5397,6 +6494,18 @@
   content: "\f791";
 }
 
+.ti-cube:before {
+  content: "\fa97";
+}
+
+.ti-cube-off:before {
+  content: "\fa95";
+}
+
+.ti-cube-plus:before {
+  content: "\fa96";
+}
+
 .ti-cube-send:before {
   content: "\f61b";
 }
@@ -5509,6 +6618,10 @@
   content: "\f3dd";
 }
 
+.ti-currency-florin:before {
+  content: "\faf5";
+}
+
 .ti-currency-forint:before {
   content: "\ee5a";
 }
@@ -5523,6 +6636,10 @@
 
 .ti-currency-hryvnia:before {
   content: "\f372";
+}
+
+.ti-currency-iranian-rial:before {
+  content: "\fa58";
 }
 
 .ti-currency-kip:before {
@@ -5701,6 +6818,14 @@
   content: "\f54c";
 }
 
+.ti-cylinder-off:before {
+  content: "\fa98";
+}
+
+.ti-cylinder-plus:before {
+  content: "\fa99";
+}
+
 .ti-dashboard:before {
   content: "\ea87";
 }
@@ -5713,16 +6838,68 @@
   content: "\ea88";
 }
 
+.ti-database-cog:before {
+  content: "\fa10";
+}
+
+.ti-database-dollar:before {
+  content: "\fa11";
+}
+
+.ti-database-edit:before {
+  content: "\fa12";
+}
+
+.ti-database-exclamation:before {
+  content: "\fa13";
+}
+
 .ti-database-export:before {
   content: "\ee6e";
+}
+
+.ti-database-heart:before {
+  content: "\fa14";
 }
 
 .ti-database-import:before {
   content: "\ee6f";
 }
 
+.ti-database-leak:before {
+  content: "\fa15";
+}
+
+.ti-database-minus:before {
+  content: "\fa16";
+}
+
 .ti-database-off:before {
   content: "\ee70";
+}
+
+.ti-database-plus:before {
+  content: "\fa17";
+}
+
+.ti-database-search:before {
+  content: "\fa18";
+}
+
+.ti-database-share:before {
+  content: "\fa19";
+}
+
+.ti-database-star:before {
+  content: "\fa1a";
+}
+
+.ti-database-x:before {
+  content: "\fa1b";
+}
+
+.ti-decimal:before {
+  content: "\fa26";
 }
 
 .ti-deer:before {
@@ -5745,6 +6922,10 @@
   content: "\f110";
 }
 
+.ti-deselect:before {
+  content: "\f9f3";
+}
+
 .ti-details:before {
   content: "\ee71";
 }
@@ -5759,6 +6940,10 @@
 
 .ti-device-airpods-case:before {
   content: "\f646";
+}
+
+.ti-device-airtag:before {
+  content: "\fae6";
 }
 
 .ti-device-analytics:before {
@@ -5797,8 +6982,84 @@
   content: "\ee77";
 }
 
+.ti-device-desktop-bolt:before {
+  content: "\f85e";
+}
+
+.ti-device-desktop-cancel:before {
+  content: "\f85f";
+}
+
+.ti-device-desktop-check:before {
+  content: "\f860";
+}
+
+.ti-device-desktop-code:before {
+  content: "\f861";
+}
+
+.ti-device-desktop-cog:before {
+  content: "\f862";
+}
+
+.ti-device-desktop-dollar:before {
+  content: "\f863";
+}
+
+.ti-device-desktop-down:before {
+  content: "\f864";
+}
+
+.ti-device-desktop-exclamation:before {
+  content: "\f865";
+}
+
+.ti-device-desktop-heart:before {
+  content: "\f866";
+}
+
+.ti-device-desktop-minus:before {
+  content: "\f867";
+}
+
 .ti-device-desktop-off:before {
   content: "\ee78";
+}
+
+.ti-device-desktop-pause:before {
+  content: "\f868";
+}
+
+.ti-device-desktop-pin:before {
+  content: "\f869";
+}
+
+.ti-device-desktop-plus:before {
+  content: "\f86a";
+}
+
+.ti-device-desktop-question:before {
+  content: "\f86b";
+}
+
+.ti-device-desktop-search:before {
+  content: "\f86c";
+}
+
+.ti-device-desktop-share:before {
+  content: "\f86d";
+}
+
+.ti-device-desktop-star:before {
+  content: "\f86e";
+}
+
+.ti-device-desktop-up:before {
+  content: "\f86f";
+}
+
+.ti-device-desktop-x:before {
+  content: "\f870";
 }
 
 .ti-device-floppy:before {
@@ -5813,20 +7074,268 @@
   content: "\f1d2";
 }
 
+.ti-device-gamepad-3:before {
+  content: "\fc58";
+}
+
 .ti-device-heart-monitor:before {
   content: "\f060";
+}
+
+.ti-device-heart-monitor-filled:before {
+  content: "\fa38";
 }
 
 .ti-device-imac:before {
   content: "\f7a7";
 }
 
+.ti-device-imac-bolt:before {
+  content: "\f871";
+}
+
+.ti-device-imac-cancel:before {
+  content: "\f872";
+}
+
+.ti-device-imac-check:before {
+  content: "\f873";
+}
+
+.ti-device-imac-code:before {
+  content: "\f874";
+}
+
+.ti-device-imac-cog:before {
+  content: "\f875";
+}
+
+.ti-device-imac-dollar:before {
+  content: "\f876";
+}
+
+.ti-device-imac-down:before {
+  content: "\f877";
+}
+
+.ti-device-imac-exclamation:before {
+  content: "\f878";
+}
+
+.ti-device-imac-heart:before {
+  content: "\f879";
+}
+
+.ti-device-imac-minus:before {
+  content: "\f87a";
+}
+
+.ti-device-imac-off:before {
+  content: "\f87b";
+}
+
+.ti-device-imac-pause:before {
+  content: "\f87c";
+}
+
+.ti-device-imac-pin:before {
+  content: "\f87d";
+}
+
+.ti-device-imac-plus:before {
+  content: "\f87e";
+}
+
+.ti-device-imac-question:before {
+  content: "\f87f";
+}
+
+.ti-device-imac-search:before {
+  content: "\f880";
+}
+
+.ti-device-imac-share:before {
+  content: "\f881";
+}
+
+.ti-device-imac-star:before {
+  content: "\f882";
+}
+
+.ti-device-imac-up:before {
+  content: "\f883";
+}
+
+.ti-device-imac-x:before {
+  content: "\f884";
+}
+
 .ti-device-ipad:before {
   content: "\f648";
 }
 
+.ti-device-ipad-bolt:before {
+  content: "\f885";
+}
+
+.ti-device-ipad-cancel:before {
+  content: "\f886";
+}
+
+.ti-device-ipad-check:before {
+  content: "\f887";
+}
+
+.ti-device-ipad-code:before {
+  content: "\f888";
+}
+
+.ti-device-ipad-cog:before {
+  content: "\f889";
+}
+
+.ti-device-ipad-dollar:before {
+  content: "\f88a";
+}
+
+.ti-device-ipad-down:before {
+  content: "\f88b";
+}
+
+.ti-device-ipad-exclamation:before {
+  content: "\f88c";
+}
+
+.ti-device-ipad-heart:before {
+  content: "\f88d";
+}
+
 .ti-device-ipad-horizontal:before {
   content: "\f647";
+}
+
+.ti-device-ipad-horizontal-bolt:before {
+  content: "\f88e";
+}
+
+.ti-device-ipad-horizontal-cancel:before {
+  content: "\f88f";
+}
+
+.ti-device-ipad-horizontal-check:before {
+  content: "\f890";
+}
+
+.ti-device-ipad-horizontal-code:before {
+  content: "\f891";
+}
+
+.ti-device-ipad-horizontal-cog:before {
+  content: "\f892";
+}
+
+.ti-device-ipad-horizontal-dollar:before {
+  content: "\f893";
+}
+
+.ti-device-ipad-horizontal-down:before {
+  content: "\f894";
+}
+
+.ti-device-ipad-horizontal-exclamation:before {
+  content: "\f895";
+}
+
+.ti-device-ipad-horizontal-heart:before {
+  content: "\f896";
+}
+
+.ti-device-ipad-horizontal-minus:before {
+  content: "\f897";
+}
+
+.ti-device-ipad-horizontal-off:before {
+  content: "\f898";
+}
+
+.ti-device-ipad-horizontal-pause:before {
+  content: "\f899";
+}
+
+.ti-device-ipad-horizontal-pin:before {
+  content: "\f89a";
+}
+
+.ti-device-ipad-horizontal-plus:before {
+  content: "\f89b";
+}
+
+.ti-device-ipad-horizontal-question:before {
+  content: "\f89c";
+}
+
+.ti-device-ipad-horizontal-search:before {
+  content: "\f89d";
+}
+
+.ti-device-ipad-horizontal-share:before {
+  content: "\f89e";
+}
+
+.ti-device-ipad-horizontal-star:before {
+  content: "\f89f";
+}
+
+.ti-device-ipad-horizontal-up:before {
+  content: "\f8a0";
+}
+
+.ti-device-ipad-horizontal-x:before {
+  content: "\f8a1";
+}
+
+.ti-device-ipad-minus:before {
+  content: "\f8a2";
+}
+
+.ti-device-ipad-off:before {
+  content: "\f8a3";
+}
+
+.ti-device-ipad-pause:before {
+  content: "\f8a4";
+}
+
+.ti-device-ipad-pin:before {
+  content: "\f8a5";
+}
+
+.ti-device-ipad-plus:before {
+  content: "\f8a6";
+}
+
+.ti-device-ipad-question:before {
+  content: "\f8a7";
+}
+
+.ti-device-ipad-search:before {
+  content: "\f8a8";
+}
+
+.ti-device-ipad-share:before {
+  content: "\f8a9";
+}
+
+.ti-device-ipad-star:before {
+  content: "\f8aa";
+}
+
+.ti-device-ipad-up:before {
+  content: "\f8ab";
+}
+
+.ti-device-ipad-x:before {
+  content: "\f8ac";
 }
 
 .ti-device-landline-phone:before {
@@ -5845,24 +7354,104 @@
   content: "\ea8a";
 }
 
+.ti-device-mobile-bolt:before {
+  content: "\f8ad";
+}
+
+.ti-device-mobile-cancel:before {
+  content: "\f8ae";
+}
+
 .ti-device-mobile-charging:before {
   content: "\f224";
+}
+
+.ti-device-mobile-check:before {
+  content: "\f8af";
+}
+
+.ti-device-mobile-code:before {
+  content: "\f8b0";
+}
+
+.ti-device-mobile-cog:before {
+  content: "\f8b1";
+}
+
+.ti-device-mobile-dollar:before {
+  content: "\f8b2";
+}
+
+.ti-device-mobile-down:before {
+  content: "\f8b3";
+}
+
+.ti-device-mobile-exclamation:before {
+  content: "\f8b4";
+}
+
+.ti-device-mobile-filled:before {
+  content: "\fa39";
+}
+
+.ti-device-mobile-heart:before {
+  content: "\f8b5";
 }
 
 .ti-device-mobile-message:before {
   content: "\ee79";
 }
 
+.ti-device-mobile-minus:before {
+  content: "\f8b6";
+}
+
 .ti-device-mobile-off:before {
   content: "\f062";
+}
+
+.ti-device-mobile-pause:before {
+  content: "\f8b7";
+}
+
+.ti-device-mobile-pin:before {
+  content: "\f8b8";
+}
+
+.ti-device-mobile-plus:before {
+  content: "\f8b9";
+}
+
+.ti-device-mobile-question:before {
+  content: "\f8ba";
 }
 
 .ti-device-mobile-rotated:before {
   content: "\ecdb";
 }
 
+.ti-device-mobile-search:before {
+  content: "\f8bb";
+}
+
+.ti-device-mobile-share:before {
+  content: "\f8bc";
+}
+
+.ti-device-mobile-star:before {
+  content: "\f8bd";
+}
+
+.ti-device-mobile-up:before {
+  content: "\f8be";
+}
+
 .ti-device-mobile-vibration:before {
   content: "\eb86";
+}
+
+.ti-device-mobile-x:before {
+  content: "\f8bf";
 }
 
 .ti-device-nintendo:before {
@@ -5871,6 +7460,10 @@
 
 .ti-device-nintendo-off:before {
   content: "\f111";
+}
+
+.ti-device-projector:before {
+  content: "\fc11";
 }
 
 .ti-device-remote:before {
@@ -5909,8 +7502,88 @@
   content: "\ea8c";
 }
 
+.ti-device-tablet-bolt:before {
+  content: "\f8c0";
+}
+
+.ti-device-tablet-cancel:before {
+  content: "\f8c1";
+}
+
+.ti-device-tablet-check:before {
+  content: "\f8c2";
+}
+
+.ti-device-tablet-code:before {
+  content: "\f8c3";
+}
+
+.ti-device-tablet-cog:before {
+  content: "\f8c4";
+}
+
+.ti-device-tablet-dollar:before {
+  content: "\f8c5";
+}
+
+.ti-device-tablet-down:before {
+  content: "\f8c6";
+}
+
+.ti-device-tablet-exclamation:before {
+  content: "\f8c7";
+}
+
+.ti-device-tablet-filled:before {
+  content: "\fa3a";
+}
+
+.ti-device-tablet-heart:before {
+  content: "\f8c8";
+}
+
+.ti-device-tablet-minus:before {
+  content: "\f8c9";
+}
+
 .ti-device-tablet-off:before {
   content: "\f063";
+}
+
+.ti-device-tablet-pause:before {
+  content: "\f8ca";
+}
+
+.ti-device-tablet-pin:before {
+  content: "\f8cb";
+}
+
+.ti-device-tablet-plus:before {
+  content: "\f8cc";
+}
+
+.ti-device-tablet-question:before {
+  content: "\f8cd";
+}
+
+.ti-device-tablet-search:before {
+  content: "\f8ce";
+}
+
+.ti-device-tablet-share:before {
+  content: "\f8cf";
+}
+
+.ti-device-tablet-star:before {
+  content: "\f8d0";
+}
+
+.ti-device-tablet-up:before {
+  content: "\f8d1";
+}
+
+.ti-device-tablet-x:before {
+  content: "\f8d2";
 }
 
 .ti-device-tv:before {
@@ -5925,12 +7598,88 @@
   content: "\f1d3";
 }
 
+.ti-device-usb:before {
+  content: "\fc59";
+}
+
+.ti-device-vision-pro:before {
+  content: "\fae7";
+}
+
 .ti-device-watch:before {
   content: "\ebf9";
 }
 
+.ti-device-watch-bolt:before {
+  content: "\f8d3";
+}
+
+.ti-device-watch-cancel:before {
+  content: "\f8d4";
+}
+
+.ti-device-watch-check:before {
+  content: "\f8d5";
+}
+
+.ti-device-watch-code:before {
+  content: "\f8d6";
+}
+
+.ti-device-watch-cog:before {
+  content: "\f8d7";
+}
+
+.ti-device-watch-dollar:before {
+  content: "\f8d8";
+}
+
+.ti-device-watch-down:before {
+  content: "\f8d9";
+}
+
+.ti-device-watch-exclamation:before {
+  content: "\f8da";
+}
+
+.ti-device-watch-heart:before {
+  content: "\f8db";
+}
+
+.ti-device-watch-minus:before {
+  content: "\f8dc";
+}
+
 .ti-device-watch-off:before {
   content: "\f065";
+}
+
+.ti-device-watch-pause:before {
+  content: "\f8dd";
+}
+
+.ti-device-watch-pin:before {
+  content: "\f8de";
+}
+
+.ti-device-watch-plus:before {
+  content: "\f8df";
+}
+
+.ti-device-watch-question:before {
+  content: "\f8e0";
+}
+
+.ti-device-watch-search:before {
+  content: "\f8e1";
+}
+
+.ti-device-watch-share:before {
+  content: "\f8e2";
+}
+
+.ti-device-watch-star:before {
+  content: "\f8e3";
 }
 
 .ti-device-watch-stats:before {
@@ -5941,6 +7690,14 @@
   content: "\ef7c";
 }
 
+.ti-device-watch-up:before {
+  content: "\f8e4";
+}
+
+.ti-device-watch-x:before {
+  content: "\f8e5";
+}
+
 .ti-devices:before {
   content: "\eb87";
 }
@@ -5949,8 +7706,52 @@
   content: "\ed29";
 }
 
+.ti-devices-bolt:before {
+  content: "\f8e6";
+}
+
+.ti-devices-cancel:before {
+  content: "\f8e7";
+}
+
+.ti-devices-check:before {
+  content: "\f8e8";
+}
+
+.ti-devices-code:before {
+  content: "\f8e9";
+}
+
+.ti-devices-cog:before {
+  content: "\f8ea";
+}
+
+.ti-devices-dollar:before {
+  content: "\f8eb";
+}
+
+.ti-devices-down:before {
+  content: "\f8ec";
+}
+
+.ti-devices-exclamation:before {
+  content: "\f8ed";
+}
+
+.ti-devices-heart:before {
+  content: "\f8ee";
+}
+
+.ti-devices-minus:before {
+  content: "\f8ef";
+}
+
 .ti-devices-off:before {
   content: "\f3e4";
+}
+
+.ti-devices-pause:before {
+  content: "\f8f0";
 }
 
 .ti-devices-pc:before {
@@ -5961,8 +7762,56 @@
   content: "\f113";
 }
 
+.ti-devices-pin:before {
+  content: "\f8f1";
+}
+
+.ti-devices-plus:before {
+  content: "\f8f2";
+}
+
+.ti-devices-question:before {
+  content: "\f8f3";
+}
+
+.ti-devices-search:before {
+  content: "\f8f4";
+}
+
+.ti-devices-share:before {
+  content: "\f8f5";
+}
+
+.ti-devices-star:before {
+  content: "\f8f6";
+}
+
+.ti-devices-up:before {
+  content: "\f8f7";
+}
+
+.ti-devices-x:before {
+  content: "\f8f8";
+}
+
+.ti-diabolo:before {
+  content: "\fa9c";
+}
+
+.ti-diabolo-off:before {
+  content: "\fa9a";
+}
+
+.ti-diabolo-plus:before {
+  content: "\fa9b";
+}
+
 .ti-dialpad:before {
   content: "\f067";
+}
+
+.ti-dialpad-filled:before {
+  content: "\fa3b";
 }
 
 .ti-dialpad-off:before {
@@ -6221,12 +8070,40 @@
   content: "\ea97";
 }
 
-.ti-droplet-filled:before {
-  content: "\ee80";
+.ti-droplet-bolt:before {
+  content: "\f8f9";
 }
 
-.ti-droplet-filled-2:before {
-  content: "\ee7f";
+.ti-droplet-cancel:before {
+  content: "\f8fa";
+}
+
+.ti-droplet-check:before {
+  content: "\f8fb";
+}
+
+.ti-droplet-code:before {
+  content: "\f8fc";
+}
+
+.ti-droplet-cog:before {
+  content: "\f8fd";
+}
+
+.ti-droplet-dollar:before {
+  content: "\f8fe";
+}
+
+.ti-droplet-down:before {
+  content: "\f8ff";
+}
+
+.ti-droplet-exclamation:before {
+  content: "\f900";
+}
+
+.ti-droplet-filled:before {
+  content: "\ee80";
 }
 
 .ti-droplet-half:before {
@@ -6237,12 +8114,68 @@
   content: "\ee81";
 }
 
+.ti-droplet-half-2-filled:before {
+  content: "\fb6c";
+}
+
 .ti-droplet-half-filled:before {
   content: "\f6c5";
 }
 
+.ti-droplet-heart:before {
+  content: "\f901";
+}
+
+.ti-droplet-minus:before {
+  content: "\f902";
+}
+
 .ti-droplet-off:before {
   content: "\ee83";
+}
+
+.ti-droplet-pause:before {
+  content: "\f903";
+}
+
+.ti-droplet-pin:before {
+  content: "\f904";
+}
+
+.ti-droplet-plus:before {
+  content: "\f905";
+}
+
+.ti-droplet-question:before {
+  content: "\f906";
+}
+
+.ti-droplet-search:before {
+  content: "\f907";
+}
+
+.ti-droplet-share:before {
+  content: "\f908";
+}
+
+.ti-droplet-star:before {
+  content: "\f909";
+}
+
+.ti-droplet-up:before {
+  content: "\f90a";
+}
+
+.ti-droplet-x:before {
+  content: "\f90b";
+}
+
+.ti-droplets:before {
+  content: "\fc12";
+}
+
+.ti-dual-screen:before {
+  content: "\fa59";
 }
 
 .ti-e-passport:before {
@@ -6381,6 +8314,18 @@
   content: "\f122";
 }
 
+.ti-escalator:before {
+  content: "\fb06";
+}
+
+.ti-escalator-down:before {
+  content: "\fb04";
+}
+
+.ti-escalator-up:before {
+  content: "\fb05";
+}
+
 .ti-exchange:before {
   content: "\ebe7";
 }
@@ -6449,6 +8394,14 @@
   content: "\ea9a";
 }
 
+.ti-eye-bolt:before {
+  content: "\fb6d";
+}
+
+.ti-eye-cancel:before {
+  content: "\fb6e";
+}
+
 .ti-eye-check:before {
   content: "\ee88";
 }
@@ -6457,8 +8410,24 @@
   content: "\f7ec";
 }
 
+.ti-eye-code:before {
+  content: "\fb6f";
+}
+
 .ti-eye-cog:before {
   content: "\f7ed";
+}
+
+.ti-eye-discount:before {
+  content: "\fb70";
+}
+
+.ti-eye-dollar:before {
+  content: "\fb71";
+}
+
+.ti-eye-down:before {
+  content: "\fb72";
 }
 
 .ti-eye-edit:before {
@@ -6477,12 +8446,48 @@
   content: "\f7f0";
 }
 
+.ti-eye-minus:before {
+  content: "\fb73";
+}
+
 .ti-eye-off:before {
   content: "\ecf0";
 }
 
+.ti-eye-pause:before {
+  content: "\fb74";
+}
+
+.ti-eye-pin:before {
+  content: "\fb75";
+}
+
+.ti-eye-plus:before {
+  content: "\fb76";
+}
+
+.ti-eye-question:before {
+  content: "\fb77";
+}
+
+.ti-eye-search:before {
+  content: "\fb78";
+}
+
+.ti-eye-share:before {
+  content: "\fb79";
+}
+
+.ti-eye-star:before {
+  content: "\fb7a";
+}
+
 .ti-eye-table:before {
   content: "\ef5e";
+}
+
+.ti-eye-up:before {
+  content: "\fb7b";
 }
 
 .ti-eye-x:before {
@@ -6591,6 +8596,10 @@
 
 .ti-file-code-2:before {
   content: "\ede8";
+}
+
+.ti-file-cv:before {
+  content: "\fa5a";
 }
 
 .ti-file-database:before {
@@ -6757,8 +8766,104 @@
   content: "\eaa2";
 }
 
+.ti-file-text-ai:before {
+  content: "\fa27";
+}
+
 .ti-file-time:before {
   content: "\f040";
+}
+
+.ti-file-type-bmp:before {
+  content: "\fb07";
+}
+
+.ti-file-type-css:before {
+  content: "\fb08";
+}
+
+.ti-file-type-csv:before {
+  content: "\fb09";
+}
+
+.ti-file-type-doc:before {
+  content: "\fb0a";
+}
+
+.ti-file-type-docx:before {
+  content: "\fb0b";
+}
+
+.ti-file-type-html:before {
+  content: "\fb0c";
+}
+
+.ti-file-type-jpg:before {
+  content: "\fb0d";
+}
+
+.ti-file-type-js:before {
+  content: "\fb0e";
+}
+
+.ti-file-type-jsx:before {
+  content: "\fb0f";
+}
+
+.ti-file-type-pdf:before {
+  content: "\fb10";
+}
+
+.ti-file-type-php:before {
+  content: "\fb11";
+}
+
+.ti-file-type-png:before {
+  content: "\fb12";
+}
+
+.ti-file-type-ppt:before {
+  content: "\fb13";
+}
+
+.ti-file-type-rs:before {
+  content: "\fb14";
+}
+
+.ti-file-type-sql:before {
+  content: "\fb15";
+}
+
+.ti-file-type-svg:before {
+  content: "\fb16";
+}
+
+.ti-file-type-ts:before {
+  content: "\fb17";
+}
+
+.ti-file-type-tsx:before {
+  content: "\fb18";
+}
+
+.ti-file-type-txt:before {
+  content: "\fb19";
+}
+
+.ti-file-type-vue:before {
+  content: "\fb1a";
+}
+
+.ti-file-type-xls:before {
+  content: "\fb1b";
+}
+
+.ti-file-type-xml:before {
+  content: "\fb1c";
+}
+
+.ti-file-type-zip:before {
+  content: "\fb1d";
 }
 
 .ti-file-typography:before {
@@ -6801,8 +8906,96 @@
   content: "\eaa5";
 }
 
+.ti-filter-bolt:before {
+  content: "\fb7c";
+}
+
+.ti-filter-cancel:before {
+  content: "\fb7d";
+}
+
+.ti-filter-check:before {
+  content: "\fb7e";
+}
+
+.ti-filter-code:before {
+  content: "\fb7f";
+}
+
+.ti-filter-cog:before {
+  content: "\f9fe";
+}
+
+.ti-filter-discount:before {
+  content: "\fb80";
+}
+
+.ti-filter-dollar:before {
+  content: "\f9ff";
+}
+
+.ti-filter-down:before {
+  content: "\fb81";
+}
+
+.ti-filter-edit:before {
+  content: "\fa00";
+}
+
+.ti-filter-exclamation:before {
+  content: "\fb82";
+}
+
+.ti-filter-filled:before {
+  content: "\fc27";
+}
+
+.ti-filter-heart:before {
+  content: "\fb83";
+}
+
+.ti-filter-minus:before {
+  content: "\fa01";
+}
+
 .ti-filter-off:before {
   content: "\ed2c";
+}
+
+.ti-filter-pause:before {
+  content: "\fb84";
+}
+
+.ti-filter-pin:before {
+  content: "\fb85";
+}
+
+.ti-filter-plus:before {
+  content: "\fa02";
+}
+
+.ti-filter-question:before {
+  content: "\fb86";
+}
+
+.ti-filter-search:before {
+  content: "\fb87";
+}
+
+.ti-filter-share:before {
+  content: "\fb88";
+}
+
+.ti-filter-star:before {
+  content: "\fa03";
+}
+
+.ti-filter-up:before {
+  content: "\fb89";
+}
+
+.ti-filter-x:before {
+  content: "\fa04";
 }
 
 .ti-filters:before {
@@ -6815,6 +9008,14 @@
 
 .ti-fingerprint-off:before {
   content: "\f12a";
+}
+
+.ti-fingerprint-scan:before {
+  content: "\fcb5";
+}
+
+.ti-fire-extinguisher:before {
+  content: "\faf6";
 }
 
 .ti-fire-hydrant:before {
@@ -6885,12 +9086,92 @@
   content: "\f708";
 }
 
+.ti-flag-bolt:before {
+  content: "\fb8a";
+}
+
+.ti-flag-cancel:before {
+  content: "\fb8b";
+}
+
+.ti-flag-check:before {
+  content: "\fb8c";
+}
+
+.ti-flag-code:before {
+  content: "\fb8d";
+}
+
+.ti-flag-cog:before {
+  content: "\fb8e";
+}
+
+.ti-flag-discount:before {
+  content: "\fb8f";
+}
+
+.ti-flag-dollar:before {
+  content: "\fb90";
+}
+
+.ti-flag-down:before {
+  content: "\fb91";
+}
+
+.ti-flag-exclamation:before {
+  content: "\fb92";
+}
+
 .ti-flag-filled:before {
   content: "\f67a";
 }
 
+.ti-flag-heart:before {
+  content: "\fb93";
+}
+
+.ti-flag-minus:before {
+  content: "\fb94";
+}
+
 .ti-flag-off:before {
   content: "\f12d";
+}
+
+.ti-flag-pause:before {
+  content: "\fb95";
+}
+
+.ti-flag-pin:before {
+  content: "\fb96";
+}
+
+.ti-flag-plus:before {
+  content: "\fb97";
+}
+
+.ti-flag-question:before {
+  content: "\fb98";
+}
+
+.ti-flag-search:before {
+  content: "\fb99";
+}
+
+.ti-flag-share:before {
+  content: "\fb9a";
+}
+
+.ti-flag-star:before {
+  content: "\fb9b";
+}
+
+.ti-flag-up:before {
+  content: "\fb9c";
+}
+
+.ti-flag-x:before {
+  content: "\fb9d";
 }
 
 .ti-flame:before {
@@ -6965,6 +9246,10 @@
   content: "\ebd3";
 }
 
+.ti-focus-auto:before {
+  content: "\fa62";
+}
+
 .ti-focus-centered:before {
   content: "\f02a";
 }
@@ -6985,8 +9270,44 @@
   content: "\eaad";
 }
 
+.ti-folder-bolt:before {
+  content: "\f90c";
+}
+
+.ti-folder-cancel:before {
+  content: "\f90d";
+}
+
+.ti-folder-check:before {
+  content: "\f90e";
+}
+
+.ti-folder-code:before {
+  content: "\f90f";
+}
+
+.ti-folder-cog:before {
+  content: "\f910";
+}
+
+.ti-folder-dollar:before {
+  content: "\f911";
+}
+
+.ti-folder-down:before {
+  content: "\f912";
+}
+
+.ti-folder-exclamation:before {
+  content: "\f913";
+}
+
 .ti-folder-filled:before {
   content: "\f749";
+}
+
+.ti-folder-heart:before {
+  content: "\f914";
 }
 
 .ti-folder-minus:before {
@@ -6997,8 +9318,44 @@
   content: "\ed14";
 }
 
+.ti-folder-open:before {
+  content: "\faf7";
+}
+
+.ti-folder-pause:before {
+  content: "\f915";
+}
+
+.ti-folder-pin:before {
+  content: "\f916";
+}
+
 .ti-folder-plus:before {
   content: "\eaab";
+}
+
+.ti-folder-question:before {
+  content: "\f917";
+}
+
+.ti-folder-search:before {
+  content: "\f918";
+}
+
+.ti-folder-share:before {
+  content: "\f919";
+}
+
+.ti-folder-star:before {
+  content: "\f91a";
+}
+
+.ti-folder-symlink:before {
+  content: "\f91b";
+}
+
+.ti-folder-up:before {
+  content: "\f91c";
 }
 
 .ti-folder-x:before {
@@ -7021,6 +9378,14 @@
   content: "\ebd4";
 }
 
+.ti-forbid-2-filled:before {
+  content: "\fc28";
+}
+
+.ti-forbid-filled:before {
+  content: "\fc29";
+}
+
 .ti-forklift:before {
   content: "\ebe9";
 }
@@ -7031,6 +9396,10 @@
 
 .ti-fountain:before {
   content: "\f09b";
+}
+
+.ti-fountain-filled:before {
+  content: "\fc2a";
 }
 
 .ti-fountain-off:before {
@@ -7049,6 +9418,18 @@
   content: "\efb6";
 }
 
+.ti-freeze-column:before {
+  content: "\fa63";
+}
+
+.ti-freeze-row:before {
+  content: "\fa65";
+}
+
+.ti-freeze-row-column:before {
+  content: "\fa64";
+}
+
 .ti-fridge:before {
   content: "\f1fa";
 }
@@ -7065,12 +9446,32 @@
   content: "\f136";
 }
 
+.ti-frustum:before {
+  content: "\fa9f";
+}
+
+.ti-frustum-off:before {
+  content: "\fa9d";
+}
+
+.ti-frustum-plus:before {
+  content: "\fa9e";
+}
+
 .ti-function:before {
   content: "\f225";
 }
 
+.ti-function-filled:before {
+  content: "\fc2b";
+}
+
 .ti-function-off:before {
   content: "\f3f0";
+}
+
+.ti-galaxy:before {
+  content: "\fcb6";
 }
 
 .ti-garden-cart:before {
@@ -7091,6 +9492,10 @@
 
 .ti-gauge:before {
   content: "\eab1";
+}
+
+.ti-gauge-filled:before {
+  content: "\fc2c";
 }
 
 .ti-gauge-off:before {
@@ -7189,6 +9594,10 @@
   content: "\f74a";
 }
 
+.ti-ghost-3:before {
+  content: "\fc13";
+}
+
 .ti-ghost-filled:before {
   content: "\f74b";
 }
@@ -7207,6 +9616,10 @@
 
 .ti-gift-card:before {
   content: "\f3aa";
+}
+
+.ti-gift-card-filled:before {
+  content: "\fc2d";
 }
 
 .ti-gift-off:before {
@@ -7265,12 +9678,20 @@
   content: "\eab7";
 }
 
+.ti-glass-full-filled:before {
+  content: "\fc2e";
+}
+
 .ti-glass-off:before {
   content: "\ee91";
 }
 
 .ti-globe:before {
   content: "\eab9";
+}
+
+.ti-globe-filled:before {
+  content: "\fc2f";
 }
 
 .ti-globe-off:before {
@@ -7317,12 +9738,28 @@
   content: "\f57f";
 }
 
+.ti-grid-3x3:before {
+  content: "\fca4";
+}
+
+.ti-grid-4x4:before {
+  content: "\fca5";
+}
+
 .ti-grid-dots:before {
   content: "\eaba";
 }
 
+.ti-grid-goldenratio:before {
+  content: "\fca6";
+}
+
 .ti-grid-pattern:before {
   content: "\efc9";
+}
+
+.ti-grid-scan:before {
+  content: "\fca7";
 }
 
 .ti-grill:before {
@@ -7469,6 +9906,14 @@
   content: "\efaa";
 }
 
+.ti-haze-moon:before {
+  content: "\faf8";
+}
+
+.ti-hdr:before {
+  content: "\fa7b";
+}
+
 .ti-heading:before {
   content: "\ee9b";
 }
@@ -7479,6 +9924,10 @@
 
 .ti-headphones:before {
   content: "\eabd";
+}
+
+.ti-headphones-filled:before {
+  content: "\fa3c";
 }
 
 .ti-headphones-off:before {
@@ -7501,8 +9950,44 @@
   content: "\eabe";
 }
 
+.ti-heart-bolt:before {
+  content: "\fb9e";
+}
+
 .ti-heart-broken:before {
   content: "\ecba";
+}
+
+.ti-heart-cancel:before {
+  content: "\fb9f";
+}
+
+.ti-heart-check:before {
+  content: "\fba0";
+}
+
+.ti-heart-code:before {
+  content: "\fba1";
+}
+
+.ti-heart-cog:before {
+  content: "\fba2";
+}
+
+.ti-heart-discount:before {
+  content: "\fba3";
+}
+
+.ti-heart-dollar:before {
+  content: "\fba4";
+}
+
+.ti-heart-down:before {
+  content: "\fba5";
+}
+
+.ti-heart-exclamation:before {
+  content: "\fba6";
 }
 
 .ti-heart-filled:before {
@@ -7521,12 +10006,44 @@
   content: "\f141";
 }
 
+.ti-heart-pause:before {
+  content: "\fba7";
+}
+
+.ti-heart-pin:before {
+  content: "\fba8";
+}
+
 .ti-heart-plus:before {
   content: "\f142";
 }
 
+.ti-heart-question:before {
+  content: "\fba9";
+}
+
 .ti-heart-rate-monitor:before {
   content: "\ef61";
+}
+
+.ti-heart-search:before {
+  content: "\fbaa";
+}
+
+.ti-heart-share:before {
+  content: "\fbab";
+}
+
+.ti-heart-star:before {
+  content: "\fbac";
+}
+
+.ti-heart-up:before {
+  content: "\fbad";
+}
+
+.ti-heart-x:before {
+  content: "\fbae";
 }
 
 .ti-heartbeat:before {
@@ -7561,16 +10078,72 @@
   content: "\eabf";
 }
 
+.ti-help-circle:before {
+  content: "\f91d";
+}
+
+.ti-help-circle-filled:before {
+  content: "\fa3d";
+}
+
 .ti-help-hexagon:before {
   content: "\f7a8";
+}
+
+.ti-help-hexagon-filled:before {
+  content: "\fa3e";
 }
 
 .ti-help-octagon:before {
   content: "\f7a9";
 }
 
+.ti-help-octagon-filled:before {
+  content: "\fa3f";
+}
+
 .ti-help-off:before {
   content: "\f3f8";
+}
+
+.ti-help-small:before {
+  content: "\f91e";
+}
+
+.ti-help-square:before {
+  content: "\f920";
+}
+
+.ti-help-square-filled:before {
+  content: "\fa40";
+}
+
+.ti-help-square-rounded:before {
+  content: "\f91f";
+}
+
+.ti-help-square-rounded-filled:before {
+  content: "\fa41";
+}
+
+.ti-help-triangle:before {
+  content: "\f921";
+}
+
+.ti-help-triangle-filled:before {
+  content: "\fa42";
+}
+
+.ti-hemisphere:before {
+  content: "\faa2";
+}
+
+.ti-hemisphere-off:before {
+  content: "\faa0";
+}
+
+.ti-hemisphere-plus:before {
+  content: "\faa1";
 }
 
 .ti-hexagon:before {
@@ -7729,6 +10302,14 @@
   content: "\f47b";
 }
 
+.ti-hexagon-minus:before {
+  content: "\fc8f";
+}
+
+.ti-hexagon-minus-2:before {
+  content: "\fc8e";
+}
+
 .ti-hexagon-number-0:before {
   content: "\f459";
 }
@@ -7771,6 +10352,38 @@
 
 .ti-hexagon-off:before {
   content: "\ee9c";
+}
+
+.ti-hexagon-plus:before {
+  content: "\fc45";
+}
+
+.ti-hexagon-plus-2:before {
+  content: "\fc90";
+}
+
+.ti-hexagonal-prism:before {
+  content: "\faa5";
+}
+
+.ti-hexagonal-prism-off:before {
+  content: "\faa3";
+}
+
+.ti-hexagonal-prism-plus:before {
+  content: "\faa4";
+}
+
+.ti-hexagonal-pyramid:before {
+  content: "\faa8";
+}
+
+.ti-hexagonal-pyramid-off:before {
+  content: "\faa6";
+}
+
+.ti-hexagonal-pyramid-plus:before {
+  content: "\faa7";
 }
 
 .ti-hexagons:before {
@@ -7937,8 +10550,16 @@
   content: "\f347";
 }
 
+.ti-horse:before {
+  content: "\fc46";
+}
+
 .ti-horse-toy:before {
   content: "\f28a";
+}
+
+.ti-horseshoe:before {
+  content: "\fcb7";
 }
 
 .ti-hotel-service:before {
@@ -7971,6 +10592,46 @@
 
 .ti-html:before {
   content: "\f7b1";
+}
+
+.ti-http-connect:before {
+  content: "\fa28";
+}
+
+.ti-http-delete:before {
+  content: "\fa29";
+}
+
+.ti-http-get:before {
+  content: "\fa2a";
+}
+
+.ti-http-head:before {
+  content: "\fa2b";
+}
+
+.ti-http-options:before {
+  content: "\fa2c";
+}
+
+.ti-http-patch:before {
+  content: "\fa2d";
+}
+
+.ti-http-post:before {
+  content: "\fa2e";
+}
+
+.ti-http-put:before {
+  content: "\fa2f";
+}
+
+.ti-http-que:before {
+  content: "\fa5b";
+}
+
+.ti-http-trace:before {
+  content: "\fa30";
 }
 
 .ti-ice-cream:before {
@@ -8053,12 +10714,28 @@
   content: "\f7aa";
 }
 
+.ti-info-hexagon-filled:before {
+  content: "\fa43";
+}
+
 .ti-info-octagon:before {
   content: "\f7ab";
 }
 
+.ti-info-octagon-filled:before {
+  content: "\fa44";
+}
+
+.ti-info-small:before {
+  content: "\f922";
+}
+
 .ti-info-square:before {
   content: "\eac6";
+}
+
+.ti-info-square-filled:before {
+  content: "\fa45";
 }
 
 .ti-info-square-rounded:before {
@@ -8067,6 +10744,14 @@
 
 .ti-info-square-rounded-filled:before {
   content: "\f6d9";
+}
+
+.ti-info-triangle:before {
+  content: "\f923";
+}
+
+.ti-info-triangle-filled:before {
+  content: "\fa46";
 }
 
 .ti-inner-shadow-bottom:before {
@@ -8133,8 +10818,24 @@
   content: "\f75e";
 }
 
+.ti-input-ai:before {
+  content: "\fc5a";
+}
+
+.ti-input-check:before {
+  content: "\fc5b";
+}
+
 .ti-input-search:before {
   content: "\f2a2";
+}
+
+.ti-input-x:before {
+  content: "\fc5c";
+}
+
+.ti-ironing:before {
+  content: "\fa7c";
 }
 
 .ti-ironing-1:before {
@@ -8159,6 +10860,18 @@
 
 .ti-ironing-steam-off:before {
   content: "\f2f8";
+}
+
+.ti-irregular-polyhedron:before {
+  content: "\faab";
+}
+
+.ti-irregular-polyhedron-off:before {
+  content: "\faa9";
+}
+
+.ti-irregular-polyhedron-plus:before {
+  content: "\faaa";
 }
 
 .ti-italic:before {
@@ -8237,16 +10950,36 @@
   content: "\f582";
 }
 
+.ti-keyframe-align-center-filled:before {
+  content: "\fc30";
+}
+
 .ti-keyframe-align-horizontal:before {
   content: "\f583";
+}
+
+.ti-keyframe-align-horizontal-filled:before {
+  content: "\fc31";
 }
 
 .ti-keyframe-align-vertical:before {
   content: "\f584";
 }
 
+.ti-keyframe-align-vertical-filled:before {
+  content: "\fc32";
+}
+
+.ti-keyframe-filled:before {
+  content: "\fc33";
+}
+
 .ti-keyframes:before {
   content: "\f585";
+}
+
+.ti-keyframes-filled:before {
+  content: "\fc34";
 }
 
 .ti-ladder:before {
@@ -8255,6 +10988,10 @@
 
 .ti-ladder-off:before {
   content: "\f14c";
+}
+
+.ti-ladle:before {
+  content: "\fc14";
 }
 
 .ti-lambda:before {
@@ -8271,6 +11008,10 @@
 
 .ti-lamp-off:before {
   content: "\f14d";
+}
+
+.ti-lane:before {
+  content: "\faf9";
 }
 
 .ti-language:before {
@@ -8377,8 +11118,20 @@
   content: "\f28b";
 }
 
+.ti-layout-bottombar-collapse-filled:before {
+  content: "\fc35";
+}
+
 .ti-layout-bottombar-expand:before {
   content: "\f28c";
+}
+
+.ti-layout-bottombar-expand-filled:before {
+  content: "\fc36";
+}
+
+.ti-layout-bottombar-filled:before {
+  content: "\fc37";
 }
 
 .ti-layout-cards:before {
@@ -8413,6 +11166,10 @@
   content: "\edb9";
 }
 
+.ti-layout-grid-remove:before {
+  content: "\fa7d";
+}
+
 .ti-layout-kanban:before {
   content: "\ec3f";
 }
@@ -8429,8 +11186,20 @@
   content: "\f28d";
 }
 
+.ti-layout-navbar-collapse-filled:before {
+  content: "\fc38";
+}
+
 .ti-layout-navbar-expand:before {
   content: "\f28e";
+}
+
+.ti-layout-navbar-expand-filled:before {
+  content: "\fc39";
+}
+
+.ti-layout-navbar-filled:before {
+  content: "\fc3a";
 }
 
 .ti-layout-off:before {
@@ -8449,8 +11218,16 @@
   content: "\f004";
 }
 
+.ti-layout-sidebar-left-collapse-filled:before {
+  content: "\fc3b";
+}
+
 .ti-layout-sidebar-left-expand:before {
   content: "\f005";
+}
+
+.ti-layout-sidebar-left-expand-filled:before {
+  content: "\fc3c";
 }
 
 .ti-layout-sidebar-right:before {
@@ -8461,8 +11238,16 @@
   content: "\f006";
 }
 
+.ti-layout-sidebar-right-collapse-filled:before {
+  content: "\fc3d";
+}
+
 .ti-layout-sidebar-right-expand:before {
   content: "\f007";
+}
+
+.ti-layout-sidebar-right-expand-filled:before {
+  content: "\fc3e";
 }
 
 .ti-leaf:before {
@@ -8493,12 +11278,24 @@
   content: "\ec50";
 }
 
+.ti-letter-a-small:before {
+  content: "\fcc7";
+}
+
 .ti-letter-b:before {
   content: "\ec51";
 }
 
+.ti-letter-b-small:before {
+  content: "\fcc8";
+}
+
 .ti-letter-c:before {
   content: "\ec52";
+}
+
+.ti-letter-c-small:before {
+  content: "\fcc9";
 }
 
 .ti-letter-case:before {
@@ -8521,64 +11318,128 @@
   content: "\ec53";
 }
 
+.ti-letter-d-small:before {
+  content: "\fcca";
+}
+
 .ti-letter-e:before {
   content: "\ec54";
+}
+
+.ti-letter-e-small:before {
+  content: "\fccb";
 }
 
 .ti-letter-f:before {
   content: "\ec55";
 }
 
+.ti-letter-f-small:before {
+  content: "\fccc";
+}
+
 .ti-letter-g:before {
   content: "\ec56";
+}
+
+.ti-letter-g-small:before {
+  content: "\fccd";
 }
 
 .ti-letter-h:before {
   content: "\ec57";
 }
 
+.ti-letter-h-small:before {
+  content: "\fcce";
+}
+
 .ti-letter-i:before {
   content: "\ec58";
+}
+
+.ti-letter-i-small:before {
+  content: "\fccf";
 }
 
 .ti-letter-j:before {
   content: "\ec59";
 }
 
+.ti-letter-j-small:before {
+  content: "\fcd0";
+}
+
 .ti-letter-k:before {
   content: "\ec5a";
+}
+
+.ti-letter-k-small:before {
+  content: "\fcd1";
 }
 
 .ti-letter-l:before {
   content: "\ec5b";
 }
 
+.ti-letter-l-small:before {
+  content: "\fcd2";
+}
+
 .ti-letter-m:before {
   content: "\ec5c";
+}
+
+.ti-letter-m-small:before {
+  content: "\fcd3";
 }
 
 .ti-letter-n:before {
   content: "\ec5d";
 }
 
+.ti-letter-n-small:before {
+  content: "\fcd4";
+}
+
 .ti-letter-o:before {
   content: "\ec5e";
+}
+
+.ti-letter-o-small:before {
+  content: "\fcd5";
 }
 
 .ti-letter-p:before {
   content: "\ec5f";
 }
 
+.ti-letter-p-small:before {
+  content: "\fcd6";
+}
+
 .ti-letter-q:before {
   content: "\ec60";
+}
+
+.ti-letter-q-small:before {
+  content: "\fcd7";
 }
 
 .ti-letter-r:before {
   content: "\ec61";
 }
 
+.ti-letter-r-small:before {
+  content: "\fcd8";
+}
+
 .ti-letter-s:before {
   content: "\ec62";
+}
+
+.ti-letter-s-small:before {
+  content: "\fcd9";
 }
 
 .ti-letter-spacing:before {
@@ -8589,28 +11450,56 @@
   content: "\ec63";
 }
 
+.ti-letter-t-small:before {
+  content: "\fcda";
+}
+
 .ti-letter-u:before {
   content: "\ec64";
+}
+
+.ti-letter-u-small:before {
+  content: "\fcdb";
 }
 
 .ti-letter-v:before {
   content: "\ec65";
 }
 
+.ti-letter-v-small:before {
+  content: "\fcdc";
+}
+
 .ti-letter-w:before {
   content: "\ec66";
+}
+
+.ti-letter-w-small:before {
+  content: "\fcdd";
 }
 
 .ti-letter-x:before {
   content: "\ec67";
 }
 
+.ti-letter-x-small:before {
+  content: "\fcde";
+}
+
 .ti-letter-y:before {
   content: "\ec68";
 }
 
+.ti-letter-y-small:before {
+  content: "\fcdf";
+}
+
 .ti-letter-z:before {
   content: "\ec69";
+}
+
+.ti-letter-z-small:before {
+  content: "\fce0";
 }
 
 .ti-license:before {
@@ -8649,6 +11538,10 @@
   content: "\eb94";
 }
 
+.ti-line-scan:before {
+  content: "\fcb8";
+}
+
 .ti-link:before {
   content: "\eade";
 }
@@ -8669,12 +11562,20 @@
   content: "\ef40";
 }
 
+.ti-list-letters:before {
+  content: "\fc47";
+}
+
 .ti-list-numbers:before {
   content: "\ef11";
 }
 
 .ti-list-search:before {
   content: "\eea9";
+}
+
+.ti-list-tree:before {
+  content: "\fafa";
 }
 
 .ti-live-photo:before {
@@ -8687,6 +11588,10 @@
 
 .ti-live-view:before {
   content: "\ec6b";
+}
+
+.ti-load-balancer:before {
+  content: "\fa5c";
 }
 
 .ti-loader:before {
@@ -8709,16 +11614,96 @@
   content: "\eae0";
 }
 
+.ti-location-bolt:before {
+  content: "\fbaf";
+}
+
 .ti-location-broken:before {
   content: "\f2c4";
+}
+
+.ti-location-cancel:before {
+  content: "\fbb0";
+}
+
+.ti-location-check:before {
+  content: "\fbb1";
+}
+
+.ti-location-code:before {
+  content: "\fbb2";
+}
+
+.ti-location-cog:before {
+  content: "\fbb3";
+}
+
+.ti-location-discount:before {
+  content: "\fbb4";
+}
+
+.ti-location-dollar:before {
+  content: "\fbb5";
+}
+
+.ti-location-down:before {
+  content: "\fbb6";
+}
+
+.ti-location-exclamation:before {
+  content: "\fbb7";
 }
 
 .ti-location-filled:before {
   content: "\f67f";
 }
 
+.ti-location-heart:before {
+  content: "\fbb8";
+}
+
+.ti-location-minus:before {
+  content: "\fbb9";
+}
+
 .ti-location-off:before {
   content: "\f155";
+}
+
+.ti-location-pause:before {
+  content: "\fbba";
+}
+
+.ti-location-pin:before {
+  content: "\fbbb";
+}
+
+.ti-location-plus:before {
+  content: "\fbbc";
+}
+
+.ti-location-question:before {
+  content: "\fbbd";
+}
+
+.ti-location-search:before {
+  content: "\fbbe";
+}
+
+.ti-location-share:before {
+  content: "\fbbf";
+}
+
+.ti-location-star:before {
+  content: "\fbc0";
+}
+
+.ti-location-up:before {
+  content: "\fbc1";
+}
+
+.ti-location-x:before {
+  content: "\fbc2";
 }
 
 .ti-lock:before {
@@ -8733,6 +11718,46 @@
   content: "\f404";
 }
 
+.ti-lock-bolt:before {
+  content: "\f924";
+}
+
+.ti-lock-cancel:before {
+  content: "\f925";
+}
+
+.ti-lock-check:before {
+  content: "\f926";
+}
+
+.ti-lock-code:before {
+  content: "\f927";
+}
+
+.ti-lock-cog:before {
+  content: "\f928";
+}
+
+.ti-lock-dollar:before {
+  content: "\f929";
+}
+
+.ti-lock-down:before {
+  content: "\f92a";
+}
+
+.ti-lock-exclamation:before {
+  content: "\f92b";
+}
+
+.ti-lock-heart:before {
+  content: "\f92c";
+}
+
+.ti-lock-minus:before {
+  content: "\f92d";
+}
+
 .ti-lock-off:before {
   content: "\ed1e";
 }
@@ -8745,6 +11770,30 @@
   content: "\f156";
 }
 
+.ti-lock-pause:before {
+  content: "\f92e";
+}
+
+.ti-lock-pin:before {
+  content: "\f92f";
+}
+
+.ti-lock-plus:before {
+  content: "\f930";
+}
+
+.ti-lock-question:before {
+  content: "\f931";
+}
+
+.ti-lock-search:before {
+  content: "\f932";
+}
+
+.ti-lock-share:before {
+  content: "\f933";
+}
+
 .ti-lock-square:before {
   content: "\ef51";
 }
@@ -8755,6 +11804,18 @@
 
 .ti-lock-square-rounded-filled:before {
   content: "\f6da";
+}
+
+.ti-lock-star:before {
+  content: "\f934";
+}
+
+.ti-lock-up:before {
+  content: "\f935";
+}
+
+.ti-lock-x:before {
+  content: "\f936";
 }
 
 .ti-logic-and:before {
@@ -8793,8 +11854,16 @@
   content: "\eba7";
 }
 
+.ti-login-2:before {
+  content: "\fc76";
+}
+
 .ti-logout:before {
   content: "\eba8";
+}
+
+.ti-logout-2:before {
+  content: "\fa7e";
 }
 
 .ti-lollipop:before {
@@ -8837,16 +11906,68 @@
   content: "\f159";
 }
 
+.ti-magnetic:before {
+  content: "\fcb9";
+}
+
 .ti-mail:before {
   content: "\eae5";
+}
+
+.ti-mail-ai:before {
+  content: "\fa31";
+}
+
+.ti-mail-bolt:before {
+  content: "\f937";
+}
+
+.ti-mail-cancel:before {
+  content: "\f938";
+}
+
+.ti-mail-check:before {
+  content: "\f939";
+}
+
+.ti-mail-code:before {
+  content: "\f93a";
+}
+
+.ti-mail-cog:before {
+  content: "\f93b";
+}
+
+.ti-mail-dollar:before {
+  content: "\f93c";
+}
+
+.ti-mail-down:before {
+  content: "\f93d";
+}
+
+.ti-mail-exclamation:before {
+  content: "\f93e";
 }
 
 .ti-mail-fast:before {
   content: "\f069";
 }
 
+.ti-mail-filled:before {
+  content: "\fa47";
+}
+
 .ti-mail-forward:before {
   content: "\eeac";
+}
+
+.ti-mail-heart:before {
+  content: "\f93f";
+}
+
+.ti-mail-minus:before {
+  content: "\f940";
 }
 
 .ti-mail-off:before {
@@ -8855,6 +11976,46 @@
 
 .ti-mail-opened:before {
   content: "\eae4";
+}
+
+.ti-mail-opened-filled:before {
+  content: "\fa48";
+}
+
+.ti-mail-pause:before {
+  content: "\f941";
+}
+
+.ti-mail-pin:before {
+  content: "\f942";
+}
+
+.ti-mail-plus:before {
+  content: "\f943";
+}
+
+.ti-mail-question:before {
+  content: "\f944";
+}
+
+.ti-mail-search:before {
+  content: "\f945";
+}
+
+.ti-mail-share:before {
+  content: "\f946";
+}
+
+.ti-mail-star:before {
+  content: "\f947";
+}
+
+.ti-mail-up:before {
+  content: "\f948";
+}
+
+.ti-mail-x:before {
+  content: "\f949";
 }
 
 .ti-mailbox:before {
@@ -8881,32 +12042,200 @@
   content: "\eae7";
 }
 
+.ti-map-bolt:before {
+  content: "\fbc3";
+}
+
+.ti-map-cancel:before {
+  content: "\fbc4";
+}
+
+.ti-map-check:before {
+  content: "\fbc5";
+}
+
+.ti-map-code:before {
+  content: "\fbc6";
+}
+
+.ti-map-cog:before {
+  content: "\fbc7";
+}
+
+.ti-map-discount:before {
+  content: "\fbc8";
+}
+
+.ti-map-dollar:before {
+  content: "\fbc9";
+}
+
+.ti-map-down:before {
+  content: "\fbca";
+}
+
+.ti-map-east:before {
+  content: "\fc5d";
+}
+
+.ti-map-exclamation:before {
+  content: "\fbcb";
+}
+
+.ti-map-heart:before {
+  content: "\fbcc";
+}
+
+.ti-map-minus:before {
+  content: "\fbcd";
+}
+
+.ti-map-north:before {
+  content: "\fc5e";
+}
+
 .ti-map-off:before {
   content: "\f15c";
+}
+
+.ti-map-pause:before {
+  content: "\fbce";
 }
 
 .ti-map-pin:before {
   content: "\eae8";
 }
 
+.ti-map-pin-2:before {
+  content: "\fc48";
+}
+
+.ti-map-pin-bolt:before {
+  content: "\f94a";
+}
+
+.ti-map-pin-cancel:before {
+  content: "\f94b";
+}
+
+.ti-map-pin-check:before {
+  content: "\f94c";
+}
+
+.ti-map-pin-code:before {
+  content: "\f94d";
+}
+
+.ti-map-pin-cog:before {
+  content: "\f94e";
+}
+
+.ti-map-pin-dollar:before {
+  content: "\f94f";
+}
+
+.ti-map-pin-down:before {
+  content: "\f950";
+}
+
+.ti-map-pin-exclamation:before {
+  content: "\f951";
+}
+
 .ti-map-pin-filled:before {
   content: "\f680";
+}
+
+.ti-map-pin-heart:before {
+  content: "\f952";
+}
+
+.ti-map-pin-minus:before {
+  content: "\f953";
 }
 
 .ti-map-pin-off:before {
   content: "\ecf3";
 }
 
+.ti-map-pin-pause:before {
+  content: "\f954";
+}
+
+.ti-map-pin-pin:before {
+  content: "\f955";
+}
+
+.ti-map-pin-plus:before {
+  content: "\f956";
+}
+
+.ti-map-pin-question:before {
+  content: "\f957";
+}
+
+.ti-map-pin-search:before {
+  content: "\f958";
+}
+
 .ti-map-pin-share:before {
   content: "\f795";
+}
+
+.ti-map-pin-star:before {
+  content: "\f959";
+}
+
+.ti-map-pin-up:before {
+  content: "\f95a";
+}
+
+.ti-map-pin-x:before {
+  content: "\f95b";
 }
 
 .ti-map-pins:before {
   content: "\ed5e";
 }
 
+.ti-map-plus:before {
+  content: "\fbcf";
+}
+
+.ti-map-question:before {
+  content: "\fbd0";
+}
+
+.ti-map-route:before {
+  content: "\fc79";
+}
+
 .ti-map-search:before {
   content: "\ef82";
+}
+
+.ti-map-share:before {
+  content: "\fbd1";
+}
+
+.ti-map-south:before {
+  content: "\fc5f";
+}
+
+.ti-map-star:before {
+  content: "\fbd2";
+}
+
+.ti-map-up:before {
+  content: "\fbd3";
+}
+
+.ti-map-west:before {
+  content: "\fc60";
+}
+
+.ti-map-x:before {
+  content: "\fbd4";
 }
 
 .ti-markdown:before {
@@ -9109,6 +12438,10 @@
   content: "\ec2f";
 }
 
+.ti-medical-cross-circle:before {
+  content: "\fae8";
+}
+
 .ti-medical-cross-filled:before {
   content: "\f681";
 }
@@ -9125,6 +12458,10 @@
   content: "\f514";
 }
 
+.ti-melon:before {
+  content: "\fc7a";
+}
+
 .ti-menorah:before {
   content: "\f58c";
 }
@@ -9135,6 +12472,10 @@
 
 .ti-menu-2:before {
   content: "\ec42";
+}
+
+.ti-menu-deep:before {
+  content: "\fafb";
 }
 
 .ti-menu-order:before {
@@ -9149,20 +12490,100 @@
   content: "\eaec";
 }
 
+.ti-message-2-bolt:before {
+  content: "\f95c";
+}
+
+.ti-message-2-cancel:before {
+  content: "\f95d";
+}
+
+.ti-message-2-check:before {
+  content: "\f95e";
+}
+
 .ti-message-2-code:before {
   content: "\f012";
+}
+
+.ti-message-2-cog:before {
+  content: "\f95f";
+}
+
+.ti-message-2-dollar:before {
+  content: "\f960";
+}
+
+.ti-message-2-down:before {
+  content: "\f961";
+}
+
+.ti-message-2-exclamation:before {
+  content: "\f962";
+}
+
+.ti-message-2-heart:before {
+  content: "\f963";
+}
+
+.ti-message-2-minus:before {
+  content: "\f964";
 }
 
 .ti-message-2-off:before {
   content: "\f40b";
 }
 
+.ti-message-2-pause:before {
+  content: "\f965";
+}
+
+.ti-message-2-pin:before {
+  content: "\f966";
+}
+
+.ti-message-2-plus:before {
+  content: "\f967";
+}
+
+.ti-message-2-question:before {
+  content: "\f968";
+}
+
+.ti-message-2-search:before {
+  content: "\f969";
+}
+
 .ti-message-2-share:before {
   content: "\f077";
 }
 
+.ti-message-2-star:before {
+  content: "\f96a";
+}
+
+.ti-message-2-up:before {
+  content: "\f96b";
+}
+
+.ti-message-2-x:before {
+  content: "\f96c";
+}
+
+.ti-message-bolt:before {
+  content: "\f96d";
+}
+
+.ti-message-cancel:before {
+  content: "\f96e";
+}
+
 .ti-message-chatbot:before {
   content: "\f38a";
+}
+
+.ti-message-check:before {
+  content: "\f96f";
 }
 
 .ti-message-circle:before {
@@ -9177,40 +12598,168 @@
   content: "\f682";
 }
 
+.ti-message-circle-bolt:before {
+  content: "\f970";
+}
+
+.ti-message-circle-cancel:before {
+  content: "\f971";
+}
+
+.ti-message-circle-check:before {
+  content: "\f972";
+}
+
+.ti-message-circle-code:before {
+  content: "\f973";
+}
+
+.ti-message-circle-cog:before {
+  content: "\f974";
+}
+
+.ti-message-circle-dollar:before {
+  content: "\f975";
+}
+
+.ti-message-circle-down:before {
+  content: "\f976";
+}
+
+.ti-message-circle-exclamation:before {
+  content: "\f977";
+}
+
+.ti-message-circle-heart:before {
+  content: "\f978";
+}
+
+.ti-message-circle-minus:before {
+  content: "\f979";
+}
+
 .ti-message-circle-off:before {
   content: "\ed40";
+}
+
+.ti-message-circle-pause:before {
+  content: "\f97a";
+}
+
+.ti-message-circle-pin:before {
+  content: "\f97b";
+}
+
+.ti-message-circle-plus:before {
+  content: "\f97c";
+}
+
+.ti-message-circle-question:before {
+  content: "\f97d";
+}
+
+.ti-message-circle-search:before {
+  content: "\f97e";
+}
+
+.ti-message-circle-share:before {
+  content: "\f97f";
+}
+
+.ti-message-circle-star:before {
+  content: "\f980";
+}
+
+.ti-message-circle-up:before {
+  content: "\f981";
+}
+
+.ti-message-circle-x:before {
+  content: "\f982";
 }
 
 .ti-message-code:before {
   content: "\f013";
 }
 
+.ti-message-cog:before {
+  content: "\f983";
+}
+
+.ti-message-dollar:before {
+  content: "\f984";
+}
+
 .ti-message-dots:before {
   content: "\eaee";
+}
+
+.ti-message-down:before {
+  content: "\f985";
+}
+
+.ti-message-exclamation:before {
+  content: "\f986";
 }
 
 .ti-message-forward:before {
   content: "\f28f";
 }
 
+.ti-message-heart:before {
+  content: "\f987";
+}
+
 .ti-message-language:before {
   content: "\efae";
+}
+
+.ti-message-minus:before {
+  content: "\f988";
 }
 
 .ti-message-off:before {
   content: "\ed41";
 }
 
+.ti-message-pause:before {
+  content: "\f989";
+}
+
+.ti-message-pin:before {
+  content: "\f98a";
+}
+
 .ti-message-plus:before {
   content: "\ec9a";
+}
+
+.ti-message-question:before {
+  content: "\f98b";
 }
 
 .ti-message-report:before {
   content: "\ec9b";
 }
 
+.ti-message-search:before {
+  content: "\f98c";
+}
+
 .ti-message-share:before {
   content: "\f078";
+}
+
+.ti-message-star:before {
+  content: "\f98d";
+}
+
+.ti-message-up:before {
+  content: "\f98e";
+}
+
+.ti-message-x:before {
+  content: "\f98f";
 }
 
 .ti-messages:before {
@@ -9227,6 +12776,18 @@
 
 .ti-meteor-off:before {
   content: "\f40c";
+}
+
+.ti-michelin-bib-gourmand:before {
+  content: "\fae9";
+}
+
+.ti-michelin-star:before {
+  content: "\faeb";
+}
+
+.ti-michelin-star-green:before {
+  content: "\faea";
 }
 
 .ti-mickey:before {
@@ -9309,6 +12870,14 @@
   content: "\f410";
 }
 
+.ti-mobiledata:before {
+  content: "\f9f5";
+}
+
+.ti-mobiledata-off:before {
+  content: "\f9f4";
+}
+
 .ti-moneybag:before {
   content: "\f506";
 }
@@ -9355,6 +12924,10 @@
 
 .ti-mood-dollar:before {
   content: "\f7b5";
+}
+
+.ti-mood-edit:before {
+  content: "\fa05";
 }
 
 .ti-mood-empty:before {
@@ -9447,6 +13020,10 @@
 
 .ti-mood-search:before {
   content: "\f7ba";
+}
+
+.ti-mood-share:before {
+  content: "\fa06";
 }
 
 .ti-mood-sick:before {
@@ -9565,6 +13142,10 @@
   content: "\f1d7";
 }
 
+.ti-mouse-filled:before {
+  content: "\fb2f";
+}
+
 .ti-mouse-off:before {
   content: "\f163";
 }
@@ -9621,20 +13202,200 @@
   content: "\eafc";
 }
 
+.ti-music-bolt:before {
+  content: "\fbd5";
+}
+
+.ti-music-cancel:before {
+  content: "\fbd6";
+}
+
+.ti-music-check:before {
+  content: "\fbd7";
+}
+
+.ti-music-code:before {
+  content: "\fbd8";
+}
+
+.ti-music-cog:before {
+  content: "\fbd9";
+}
+
+.ti-music-discount:before {
+  content: "\fbda";
+}
+
+.ti-music-dollar:before {
+  content: "\fbdb";
+}
+
+.ti-music-down:before {
+  content: "\fbdc";
+}
+
+.ti-music-exclamation:before {
+  content: "\fbdd";
+}
+
+.ti-music-heart:before {
+  content: "\fbde";
+}
+
+.ti-music-minus:before {
+  content: "\fbdf";
+}
+
 .ti-music-off:before {
   content: "\f166";
+}
+
+.ti-music-pause:before {
+  content: "\fbe0";
+}
+
+.ti-music-pin:before {
+  content: "\fbe1";
+}
+
+.ti-music-plus:before {
+  content: "\fbe2";
+}
+
+.ti-music-question:before {
+  content: "\fbe3";
+}
+
+.ti-music-search:before {
+  content: "\fbe4";
+}
+
+.ti-music-share:before {
+  content: "\fbe5";
+}
+
+.ti-music-star:before {
+  content: "\fbe6";
+}
+
+.ti-music-up:before {
+  content: "\fbe7";
+}
+
+.ti-music-x:before {
+  content: "\fbe8";
 }
 
 .ti-navigation:before {
   content: "\f2c8";
 }
 
+.ti-navigation-bolt:before {
+  content: "\fbe9";
+}
+
+.ti-navigation-cancel:before {
+  content: "\fbea";
+}
+
+.ti-navigation-check:before {
+  content: "\fbeb";
+}
+
+.ti-navigation-code:before {
+  content: "\fbec";
+}
+
+.ti-navigation-cog:before {
+  content: "\fbed";
+}
+
+.ti-navigation-discount:before {
+  content: "\fbee";
+}
+
+.ti-navigation-dollar:before {
+  content: "\fbef";
+}
+
+.ti-navigation-down:before {
+  content: "\fbf0";
+}
+
+.ti-navigation-east:before {
+  content: "\fcba";
+}
+
+.ti-navigation-exclamation:before {
+  content: "\fbf1";
+}
+
 .ti-navigation-filled:before {
   content: "\f685";
 }
 
+.ti-navigation-heart:before {
+  content: "\fbf2";
+}
+
+.ti-navigation-minus:before {
+  content: "\fbf3";
+}
+
+.ti-navigation-north:before {
+  content: "\fcbb";
+}
+
 .ti-navigation-off:before {
   content: "\f413";
+}
+
+.ti-navigation-pause:before {
+  content: "\fbf4";
+}
+
+.ti-navigation-pin:before {
+  content: "\fbf5";
+}
+
+.ti-navigation-plus:before {
+  content: "\fbf6";
+}
+
+.ti-navigation-question:before {
+  content: "\fbf7";
+}
+
+.ti-navigation-search:before {
+  content: "\fbf8";
+}
+
+.ti-navigation-share:before {
+  content: "\fbf9";
+}
+
+.ti-navigation-south:before {
+  content: "\fcbc";
+}
+
+.ti-navigation-star:before {
+  content: "\fbfa";
+}
+
+.ti-navigation-top:before {
+  content: "\faec";
+}
+
+.ti-navigation-up:before {
+  content: "\fbfb";
+}
+
+.ti-navigation-west:before {
+  content: "\fcbd";
+}
+
+.ti-navigation-x:before {
+  content: "\fbfc";
 }
 
 .ti-needle:before {
@@ -9729,40 +13490,160 @@
   content: "\edf0";
 }
 
+.ti-number-0-small:before {
+  content: "\fce1";
+}
+
 .ti-number-1:before {
   content: "\edf1";
+}
+
+.ti-number-1-small:before {
+  content: "\fce2";
+}
+
+.ti-number-10-small:before {
+  content: "\fce3";
+}
+
+.ti-number-11-small:before {
+  content: "\fce4";
+}
+
+.ti-number-12-small:before {
+  content: "\fce5";
+}
+
+.ti-number-13-small:before {
+  content: "\fce6";
+}
+
+.ti-number-14-small:before {
+  content: "\fce7";
+}
+
+.ti-number-15-small:before {
+  content: "\fce8";
+}
+
+.ti-number-16-small:before {
+  content: "\fce9";
+}
+
+.ti-number-17-small:before {
+  content: "\fcea";
+}
+
+.ti-number-18-small:before {
+  content: "\fceb";
+}
+
+.ti-number-19-small:before {
+  content: "\fcec";
 }
 
 .ti-number-2:before {
   content: "\edf2";
 }
 
+.ti-number-2-small:before {
+  content: "\fced";
+}
+
+.ti-number-20-small:before {
+  content: "\fcee";
+}
+
+.ti-number-21-small:before {
+  content: "\fcef";
+}
+
+.ti-number-22-small:before {
+  content: "\fcf0";
+}
+
+.ti-number-23-small:before {
+  content: "\fcf1";
+}
+
+.ti-number-24-small:before {
+  content: "\fcf2";
+}
+
+.ti-number-25-small:before {
+  content: "\fcf3";
+}
+
+.ti-number-26-small:before {
+  content: "\fcf4";
+}
+
+.ti-number-27-small:before {
+  content: "\fcf5";
+}
+
+.ti-number-28-small:before {
+  content: "\fcf6";
+}
+
+.ti-number-29-small:before {
+  content: "\fcf7";
+}
+
 .ti-number-3:before {
   content: "\edf3";
+}
+
+.ti-number-3-small:before {
+  content: "\fcf8";
 }
 
 .ti-number-4:before {
   content: "\edf4";
 }
 
+.ti-number-4-small:before {
+  content: "\fcf9";
+}
+
 .ti-number-5:before {
   content: "\edf5";
+}
+
+.ti-number-5-small:before {
+  content: "\fcfa";
 }
 
 .ti-number-6:before {
   content: "\edf6";
 }
 
+.ti-number-6-small:before {
+  content: "\fcfb";
+}
+
 .ti-number-7:before {
   content: "\edf7";
+}
+
+.ti-number-7-small:before {
+  content: "\fcfc";
 }
 
 .ti-number-8:before {
   content: "\edf8";
 }
 
+.ti-number-8-small:before {
+  content: "\fcfd";
+}
+
 .ti-number-9:before {
   content: "\edf9";
+}
+
+.ti-number-9-small:before {
+  content: "\fcfe";
 }
 
 .ti-numbers:before {
@@ -9773,6 +13654,10 @@
   content: "\ef65";
 }
 
+.ti-nut:before {
+  content: "\fc61";
+}
+
 .ti-octagon:before {
   content: "\ecbd";
 }
@@ -9781,8 +13666,36 @@
   content: "\f686";
 }
 
+.ti-octagon-minus:before {
+  content: "\fc92";
+}
+
+.ti-octagon-minus-2:before {
+  content: "\fc91";
+}
+
 .ti-octagon-off:before {
   content: "\eeb8";
+}
+
+.ti-octagon-plus:before {
+  content: "\fc94";
+}
+
+.ti-octagon-plus-2:before {
+  content: "\fc93";
+}
+
+.ti-octahedron:before {
+  content: "\faae";
+}
+
+.ti-octahedron-off:before {
+  content: "\faac";
+}
+
+.ti-octahedron-plus:before {
+  content: "\faad";
 }
 
 .ti-old:before {
@@ -9937,6 +13850,18 @@
   content: "\f4ca";
 }
 
+.ti-password-fingerprint:before {
+  content: "\fc7b";
+}
+
+.ti-password-mobile-phone:before {
+  content: "\fc7c";
+}
+
+.ti-password-user:before {
+  content: "\fc7d";
+}
+
 .ti-paw:before {
   content: "\eff9";
 }
@@ -9961,6 +13886,46 @@
   content: "\eb04";
 }
 
+.ti-pencil-bolt:before {
+  content: "\fbfd";
+}
+
+.ti-pencil-cancel:before {
+  content: "\fbfe";
+}
+
+.ti-pencil-check:before {
+  content: "\fbff";
+}
+
+.ti-pencil-code:before {
+  content: "\fc00";
+}
+
+.ti-pencil-cog:before {
+  content: "\fc01";
+}
+
+.ti-pencil-discount:before {
+  content: "\fc02";
+}
+
+.ti-pencil-dollar:before {
+  content: "\fc03";
+}
+
+.ti-pencil-down:before {
+  content: "\fc04";
+}
+
+.ti-pencil-exclamation:before {
+  content: "\fc05";
+}
+
+.ti-pencil-heart:before {
+  content: "\fc06";
+}
+
 .ti-pencil-minus:before {
   content: "\f1eb";
 }
@@ -9969,8 +13934,40 @@
   content: "\f173";
 }
 
+.ti-pencil-pause:before {
+  content: "\fc07";
+}
+
+.ti-pencil-pin:before {
+  content: "\fc08";
+}
+
 .ti-pencil-plus:before {
   content: "\f1ec";
+}
+
+.ti-pencil-question:before {
+  content: "\fc09";
+}
+
+.ti-pencil-search:before {
+  content: "\fc0a";
+}
+
+.ti-pencil-share:before {
+  content: "\fc0b";
+}
+
+.ti-pencil-star:before {
+  content: "\fc0c";
+}
+
+.ti-pencil-up:before {
+  content: "\fc0d";
+}
+
+.ti-pencil-x:before {
+  content: "\fc0e";
 }
 
 .ti-pennant:before {
@@ -10001,8 +13998,56 @@
   content: "\f68c";
 }
 
+.ti-pentagon-number-0:before {
+  content: "\fc7e";
+}
+
+.ti-pentagon-number-1:before {
+  content: "\fc7f";
+}
+
+.ti-pentagon-number-2:before {
+  content: "\fc80";
+}
+
+.ti-pentagon-number-3:before {
+  content: "\fc81";
+}
+
+.ti-pentagon-number-4:before {
+  content: "\fc82";
+}
+
+.ti-pentagon-number-5:before {
+  content: "\fc83";
+}
+
+.ti-pentagon-number-6:before {
+  content: "\fc84";
+}
+
+.ti-pentagon-number-7:before {
+  content: "\fc85";
+}
+
+.ti-pentagon-number-8:before {
+  content: "\fc86";
+}
+
+.ti-pentagon-number-9:before {
+  content: "\fc87";
+}
+
 .ti-pentagon-off:before {
   content: "\f41a";
+}
+
+.ti-pentagon-plus:before {
+  content: "\fc49";
+}
+
+.ti-pentagon-x:before {
+  content: "\fc88";
 }
 
 .ti-pentagram:before {
@@ -10049,6 +14094,10 @@
   content: "\ec05";
 }
 
+.ti-phone-filled:before {
+  content: "\fa49";
+}
+
 .ti-phone-incoming:before {
   content: "\eb06";
 }
@@ -10077,12 +14126,44 @@
   content: "\eb0a";
 }
 
+.ti-photo-ai:before {
+  content: "\fa32";
+}
+
+.ti-photo-bolt:before {
+  content: "\f990";
+}
+
 .ti-photo-cancel:before {
   content: "\f35d";
 }
 
 .ti-photo-check:before {
   content: "\f35e";
+}
+
+.ti-photo-circle:before {
+  content: "\fc4a";
+}
+
+.ti-photo-circle-minus:before {
+  content: "\fc62";
+}
+
+.ti-photo-circle-plus:before {
+  content: "\fc63";
+}
+
+.ti-photo-code:before {
+  content: "\f991";
+}
+
+.ti-photo-cog:before {
+  content: "\f992";
+}
+
+.ti-photo-dollar:before {
+  content: "\f993";
 }
 
 .ti-photo-down:before {
@@ -10093,8 +14174,20 @@
   content: "\f360";
 }
 
+.ti-photo-exclamation:before {
+  content: "\f994";
+}
+
+.ti-photo-filled:before {
+  content: "\fa4a";
+}
+
 .ti-photo-heart:before {
   content: "\f361";
+}
+
+.ti-photo-hexagon:before {
+  content: "\fc4b";
 }
 
 .ti-photo-minus:before {
@@ -10105,8 +14198,28 @@
   content: "\ecf6";
 }
 
+.ti-photo-pause:before {
+  content: "\f995";
+}
+
+.ti-photo-pentagon:before {
+  content: "\fc4c";
+}
+
+.ti-photo-pin:before {
+  content: "\f996";
+}
+
 .ti-photo-plus:before {
   content: "\f363";
+}
+
+.ti-photo-question:before {
+  content: "\f997";
+}
+
+.ti-photo-scan:before {
+  content: "\fca8";
 }
 
 .ti-photo-search:before {
@@ -10125,8 +14238,16 @@
   content: "\f797";
 }
 
+.ti-photo-share:before {
+  content: "\f998";
+}
+
 .ti-photo-shield:before {
   content: "\f365";
+}
+
+.ti-photo-square-rounded:before {
+  content: "\fc4d";
 }
 
 .ti-photo-star:before {
@@ -10137,12 +14258,24 @@
   content: "\f38b";
 }
 
+.ti-photo-video:before {
+  content: "\fc95";
+}
+
 .ti-photo-x:before {
   content: "\f367";
 }
 
 .ti-physotherapist:before {
   content: "\eebe";
+}
+
+.ti-piano:before {
+  content: "\fad3";
+}
+
+.ti-pick:before {
+  content: "\fafc";
 }
 
 .ti-picture-in-picture:before {
@@ -10273,12 +14406,28 @@
   content: "\f17d";
 }
 
+.ti-play-basketball:before {
+  content: "\fa66";
+}
+
 .ti-play-card:before {
   content: "\eebf";
 }
 
 .ti-play-card-off:before {
   content: "\f17e";
+}
+
+.ti-play-football:before {
+  content: "\fa67";
+}
+
+.ti-play-handball:before {
+  content: "\fa68";
+}
+
+.ti-play-volleyball:before {
+  content: "\fa69";
 }
 
 .ti-player-eject:before {
@@ -10445,6 +14594,90 @@
   content: "\f265";
 }
 
+.ti-pointer-bolt:before {
+  content: "\f999";
+}
+
+.ti-pointer-cancel:before {
+  content: "\f99a";
+}
+
+.ti-pointer-check:before {
+  content: "\f99b";
+}
+
+.ti-pointer-code:before {
+  content: "\f99c";
+}
+
+.ti-pointer-cog:before {
+  content: "\f99d";
+}
+
+.ti-pointer-dollar:before {
+  content: "\f99e";
+}
+
+.ti-pointer-down:before {
+  content: "\f99f";
+}
+
+.ti-pointer-exclamation:before {
+  content: "\f9a0";
+}
+
+.ti-pointer-filled:before {
+  content: "\fb30";
+}
+
+.ti-pointer-heart:before {
+  content: "\f9a1";
+}
+
+.ti-pointer-minus:before {
+  content: "\f9a2";
+}
+
+.ti-pointer-off:before {
+  content: "\f9a3";
+}
+
+.ti-pointer-pause:before {
+  content: "\f9a4";
+}
+
+.ti-pointer-pin:before {
+  content: "\f9a5";
+}
+
+.ti-pointer-plus:before {
+  content: "\f9a6";
+}
+
+.ti-pointer-question:before {
+  content: "\f9a7";
+}
+
+.ti-pointer-search:before {
+  content: "\f9a8";
+}
+
+.ti-pointer-share:before {
+  content: "\f9a9";
+}
+
+.ti-pointer-star:before {
+  content: "\f9aa";
+}
+
+.ti-pointer-up:before {
+  content: "\f9ab";
+}
+
+.ti-pointer-x:before {
+  content: "\f9ac";
+}
+
 .ti-pokeball:before {
   content: "\eec1";
 }
@@ -10459,6 +14692,10 @@
 
 .ti-polaroid:before {
   content: "\eec2";
+}
+
+.ti-polaroid-filled:before {
+  content: "\fa4b";
 }
 
 .ti-polygon:before {
@@ -10517,8 +14754,48 @@
   content: "\f184";
 }
 
+.ti-prism:before {
+  content: "\fab1";
+}
+
+.ti-prism-off:before {
+  content: "\faaf";
+}
+
+.ti-prism-plus:before {
+  content: "\fab0";
+}
+
 .ti-prison:before {
   content: "\ef79";
+}
+
+.ti-progress:before {
+  content: "\fa0d";
+}
+
+.ti-progress-alert:before {
+  content: "\fa07";
+}
+
+.ti-progress-bolt:before {
+  content: "\fa08";
+}
+
+.ti-progress-check:before {
+  content: "\fa09";
+}
+
+.ti-progress-down:before {
+  content: "\fa0a";
+}
+
+.ti-progress-help:before {
+  content: "\fa0b";
+}
+
+.ti-progress-x:before {
+  content: "\fa0c";
 }
 
 .ti-prompt:before {
@@ -10561,16 +14838,16 @@
   content: "\f187";
 }
 
+.ti-pyramid-plus:before {
+  content: "\fab2";
+}
+
 .ti-qrcode:before {
   content: "\eb11";
 }
 
 .ti-qrcode-off:before {
   content: "\f41e";
-}
-
-.ti-question-circle:before {
-  content: "\f637";
 }
 
 .ti-question-mark:before {
@@ -10583,6 +14860,10 @@
 
 .ti-quote-off:before {
   content: "\f188";
+}
+
+.ti-quotes:before {
+  content: "\fb1e";
 }
 
 .ti-radar:before {
@@ -10709,12 +14990,32 @@
   content: "\f69a";
 }
 
+.ti-rectangle-rounded-bottom:before {
+  content: "\faed";
+}
+
+.ti-rectangle-rounded-top:before {
+  content: "\faee";
+}
+
 .ti-rectangle-vertical:before {
   content: "\ed36";
 }
 
 .ti-rectangle-vertical-filled:before {
   content: "\f69b";
+}
+
+.ti-rectangular-prism:before {
+  content: "\fab5";
+}
+
+.ti-rectangular-prism-off:before {
+  content: "\fab3";
+}
+
+.ti-rectangular-prism-plus:before {
+  content: "\fab4";
 }
 
 .ti-recycle:before {
@@ -10769,6 +15070,10 @@
   content: "\f3ae";
 }
 
+.ti-reorder:before {
+  content: "\fc15";
+}
+
 .ti-repeat:before {
   content: "\eb72";
 }
@@ -10817,12 +15122,88 @@
   content: "\ef84";
 }
 
+.ti-reserved-line:before {
+  content: "\f9f6";
+}
+
 .ti-resize:before {
   content: "\eecf";
 }
 
+.ti-restore:before {
+  content: "\fafd";
+}
+
+.ti-rewind-backward-10:before {
+  content: "\faba";
+}
+
+.ti-rewind-backward-15:before {
+  content: "\fabb";
+}
+
+.ti-rewind-backward-20:before {
+  content: "\fabc";
+}
+
+.ti-rewind-backward-30:before {
+  content: "\fabd";
+}
+
+.ti-rewind-backward-40:before {
+  content: "\fabe";
+}
+
+.ti-rewind-backward-5:before {
+  content: "\fabf";
+}
+
+.ti-rewind-backward-50:before {
+  content: "\fac0";
+}
+
+.ti-rewind-backward-60:before {
+  content: "\fac1";
+}
+
+.ti-rewind-forward-10:before {
+  content: "\fac2";
+}
+
+.ti-rewind-forward-15:before {
+  content: "\fac3";
+}
+
+.ti-rewind-forward-20:before {
+  content: "\fac4";
+}
+
+.ti-rewind-forward-30:before {
+  content: "\fac5";
+}
+
+.ti-rewind-forward-40:before {
+  content: "\fac6";
+}
+
+.ti-rewind-forward-5:before {
+  content: "\fac7";
+}
+
+.ti-rewind-forward-50:before {
+  content: "\fac8";
+}
+
+.ti-rewind-forward-60:before {
+  content: "\fac9";
+}
+
 .ti-ribbon-health:before {
   content: "\f58e";
+}
+
+.ti-rings:before {
+  content: "\fa6a";
 }
 
 .ti-ripple:before {
@@ -10847,6 +15228,10 @@
 
 .ti-robot:before {
   content: "\f00b";
+}
+
+.ti-robot-face:before {
+  content: "\fcbe";
 }
 
 .ti-robot-off:before {
@@ -10957,8 +15342,36 @@
   content: "\f4b6";
 }
 
+.ti-route-alt-left:before {
+  content: "\fca9";
+}
+
+.ti-route-alt-right:before {
+  content: "\fcaa";
+}
+
 .ti-route-off:before {
   content: "\f194";
+}
+
+.ti-route-scan:before {
+  content: "\fcbf";
+}
+
+.ti-route-square:before {
+  content: "\fcac";
+}
+
+.ti-route-square-2:before {
+  content: "\fcab";
+}
+
+.ti-route-x:before {
+  content: "\fcae";
+}
+
+.ti-route-x-2:before {
+  content: "\fcad";
 }
 
 .ti-router:before {
@@ -10975,6 +15388,10 @@
 
 .ti-row-insert-top:before {
   content: "\eed1";
+}
+
+.ti-row-remove:before {
+  content: "\fafe";
 }
 
 .ti-rss:before {
@@ -11015,6 +15432,10 @@
 
 .ti-run:before {
   content: "\ec82";
+}
+
+.ti-rv-truck:before {
+  content: "\fcc0";
 }
 
 .ti-s-turn-down:before {
@@ -11125,6 +15546,10 @@
   content: "\ecc1";
 }
 
+.ti-scoreboard:before {
+  content: "\fa6b";
+}
+
 .ti-screen-share:before {
   content: "\ed18";
 }
@@ -11201,6 +15626,10 @@
   content: "\ec9e";
 }
 
+.ti-select-all:before {
+  content: "\f9f7";
+}
+
 .ti-selector:before {
   content: "\eb1d";
 }
@@ -11265,12 +15694,88 @@
   content: "\eed6";
 }
 
+.ti-settings-bolt:before {
+  content: "\f9ad";
+}
+
+.ti-settings-cancel:before {
+  content: "\f9ae";
+}
+
+.ti-settings-check:before {
+  content: "\f9af";
+}
+
+.ti-settings-code:before {
+  content: "\f9b0";
+}
+
+.ti-settings-cog:before {
+  content: "\f9b1";
+}
+
+.ti-settings-dollar:before {
+  content: "\f9b2";
+}
+
+.ti-settings-down:before {
+  content: "\f9b3";
+}
+
+.ti-settings-exclamation:before {
+  content: "\f9b4";
+}
+
 .ti-settings-filled:before {
   content: "\f69e";
 }
 
+.ti-settings-heart:before {
+  content: "\f9b5";
+}
+
+.ti-settings-minus:before {
+  content: "\f9b6";
+}
+
 .ti-settings-off:before {
   content: "\f19f";
+}
+
+.ti-settings-pause:before {
+  content: "\f9b7";
+}
+
+.ti-settings-pin:before {
+  content: "\f9b8";
+}
+
+.ti-settings-plus:before {
+  content: "\f9b9";
+}
+
+.ti-settings-question:before {
+  content: "\f9ba";
+}
+
+.ti-settings-search:before {
+  content: "\f9bb";
+}
+
+.ti-settings-share:before {
+  content: "\f9bc";
+}
+
+.ti-settings-star:before {
+  content: "\f9bd";
+}
+
+.ti-settings-up:before {
+  content: "\f9be";
+}
+
+.ti-settings-x:before {
+  content: "\f9bf";
 }
 
 .ti-shadow:before {
@@ -11313,8 +15818,20 @@
   content: "\f1a1";
 }
 
+.ti-shi-jumping:before {
+  content: "\fa6c";
+}
+
 .ti-shield:before {
   content: "\eb24";
+}
+
+.ti-shield-bolt:before {
+  content: "\f9c0";
+}
+
+.ti-shield-cancel:before {
+  content: "\f9c1";
 }
 
 .ti-shield-check:before {
@@ -11337,6 +15854,26 @@
   content: "\ef9b";
 }
 
+.ti-shield-code:before {
+  content: "\f9c2";
+}
+
+.ti-shield-cog:before {
+  content: "\f9c3";
+}
+
+.ti-shield-dollar:before {
+  content: "\f9c4";
+}
+
+.ti-shield-down:before {
+  content: "\f9c5";
+}
+
+.ti-shield-exclamation:before {
+  content: "\f9c6";
+}
+
 .ti-shield-filled:before {
   content: "\f69f";
 }
@@ -11349,6 +15886,10 @@
   content: "\f357";
 }
 
+.ti-shield-heart:before {
+  content: "\f9c7";
+}
+
 .ti-shield-lock:before {
   content: "\ed58";
 }
@@ -11357,8 +15898,44 @@
   content: "\f763";
 }
 
+.ti-shield-minus:before {
+  content: "\f9c8";
+}
+
 .ti-shield-off:before {
   content: "\ecf8";
+}
+
+.ti-shield-pause:before {
+  content: "\f9c9";
+}
+
+.ti-shield-pin:before {
+  content: "\f9ca";
+}
+
+.ti-shield-plus:before {
+  content: "\f9cb";
+}
+
+.ti-shield-question:before {
+  content: "\f9cc";
+}
+
+.ti-shield-search:before {
+  content: "\f9cd";
+}
+
+.ti-shield-share:before {
+  content: "\f9ce";
+}
+
+.ti-shield-star:before {
+  content: "\f9cf";
+}
+
+.ti-shield-up:before {
+  content: "\f9d0";
 }
 
 .ti-shield-x:before {
@@ -11401,24 +15978,132 @@
   content: "\f5f8";
 }
 
+.ti-shopping-bag-check:before {
+  content: "\fc16";
+}
+
+.ti-shopping-bag-discount:before {
+  content: "\fc17";
+}
+
+.ti-shopping-bag-edit:before {
+  content: "\fc18";
+}
+
+.ti-shopping-bag-exclamation:before {
+  content: "\fc19";
+}
+
+.ti-shopping-bag-minus:before {
+  content: "\fc1a";
+}
+
+.ti-shopping-bag-plus:before {
+  content: "\fc1b";
+}
+
+.ti-shopping-bag-search:before {
+  content: "\fc1c";
+}
+
+.ti-shopping-bag-x:before {
+  content: "\fc1d";
+}
+
 .ti-shopping-cart:before {
   content: "\eb25";
 }
 
+.ti-shopping-cart-bolt:before {
+  content: "\fb57";
+}
+
+.ti-shopping-cart-cancel:before {
+  content: "\fb58";
+}
+
+.ti-shopping-cart-check:before {
+  content: "\fb59";
+}
+
+.ti-shopping-cart-code:before {
+  content: "\fb5a";
+}
+
+.ti-shopping-cart-cog:before {
+  content: "\fb5b";
+}
+
+.ti-shopping-cart-copy:before {
+  content: "\fb5c";
+}
+
 .ti-shopping-cart-discount:before {
-  content: "\eedb";
+  content: "\fb5d";
+}
+
+.ti-shopping-cart-dollar:before {
+  content: "\fb5e";
+}
+
+.ti-shopping-cart-down:before {
+  content: "\fb5f";
+}
+
+.ti-shopping-cart-exclamation:before {
+  content: "\fb60";
+}
+
+.ti-shopping-cart-filled:before {
+  content: "\fc3f";
+}
+
+.ti-shopping-cart-heart:before {
+  content: "\fb61";
+}
+
+.ti-shopping-cart-minus:before {
+  content: "\fb62";
 }
 
 .ti-shopping-cart-off:before {
   content: "\eedc";
 }
 
+.ti-shopping-cart-pause:before {
+  content: "\fb63";
+}
+
+.ti-shopping-cart-pin:before {
+  content: "\fb64";
+}
+
 .ti-shopping-cart-plus:before {
-  content: "\eedd";
+  content: "\fb65";
+}
+
+.ti-shopping-cart-question:before {
+  content: "\fb66";
+}
+
+.ti-shopping-cart-search:before {
+  content: "\fb67";
+}
+
+.ti-shopping-cart-share:before {
+  content: "\fb68";
+}
+
+.ti-shopping-cart-star:before {
+  content: "\fb69";
+}
+
+.ti-shopping-cart-up:before {
+  content: "\fb6a";
 }
 
 .ti-shopping-cart-x:before {
-  content: "\eede";
+  content: "\fb6b";
 }
 
 .ti-shovel:before {
@@ -11465,6 +16150,30 @@
   content: "\f1f0";
 }
 
+.ti-signal-6g:before {
+  content: "\f9f8";
+}
+
+.ti-signal-e:before {
+  content: "\f9f9";
+}
+
+.ti-signal-g:before {
+  content: "\f9fa";
+}
+
+.ti-signal-h:before {
+  content: "\f9fc";
+}
+
+.ti-signal-h-plus:before {
+  content: "\f9fb";
+}
+
+.ti-signal-lte:before {
+  content: "\f9fd";
+}
+
 .ti-signature:before {
   content: "\eee0";
 }
@@ -11487,6 +16196,10 @@
 
 .ti-skateboard-off:before {
   content: "\f42b";
+}
+
+.ti-skateboarding:before {
+  content: "\faca";
 }
 
 .ti-skull:before {
@@ -11563,6 +16276,10 @@
 
 .ti-sofa-off:before {
   content: "\f42c";
+}
+
+.ti-solar-electricity:before {
+  content: "\fcc1";
 }
 
 .ti-solar-panel:before {
@@ -11673,6 +16390,18 @@
   content: "\ed93";
 }
 
+.ti-sphere:before {
+  content: "\fab8";
+}
+
+.ti-sphere-off:before {
+  content: "\fab6";
+}
+
+.ti-sphere-plus:before {
+  content: "\fab7";
+}
+
 .ti-spider:before {
   content: "\f293";
 }
@@ -11753,20 +16482,40 @@
   content: "\f4b7";
 }
 
+.ti-square-arrow-down-filled:before {
+  content: "\fb31";
+}
+
 .ti-square-arrow-left:before {
   content: "\f4b8";
+}
+
+.ti-square-arrow-left-filled:before {
+  content: "\fb32";
 }
 
 .ti-square-arrow-right:before {
   content: "\f4b9";
 }
 
+.ti-square-arrow-right-filled:before {
+  content: "\fb33";
+}
+
 .ti-square-arrow-up:before {
   content: "\f4ba";
 }
 
+.ti-square-arrow-up-filled:before {
+  content: "\fb34";
+}
+
 .ti-square-asterisk:before {
   content: "\f01a";
+}
+
+.ti-square-asterisk-filled:before {
+  content: "\fb35";
 }
 
 .ti-square-check:before {
@@ -11781,36 +16530,72 @@
   content: "\f627";
 }
 
+.ti-square-chevron-down-filled:before {
+  content: "\fb36";
+}
+
 .ti-square-chevron-left:before {
   content: "\f628";
+}
+
+.ti-square-chevron-left-filled:before {
+  content: "\fb37";
 }
 
 .ti-square-chevron-right:before {
   content: "\f629";
 }
 
+.ti-square-chevron-right-filled:before {
+  content: "\fb38";
+}
+
 .ti-square-chevron-up:before {
   content: "\f62a";
+}
+
+.ti-square-chevron-up-filled:before {
+  content: "\fb39";
 }
 
 .ti-square-chevrons-down:before {
   content: "\f64b";
 }
 
+.ti-square-chevrons-down-filled:before {
+  content: "\fb3a";
+}
+
 .ti-square-chevrons-left:before {
   content: "\f64c";
+}
+
+.ti-square-chevrons-left-filled:before {
+  content: "\fb3b";
 }
 
 .ti-square-chevrons-right:before {
   content: "\f64d";
 }
 
+.ti-square-chevrons-right-filled:before {
+  content: "\fb3c";
+}
+
 .ti-square-chevrons-up:before {
   content: "\f64e";
 }
 
+.ti-square-chevrons-up-filled:before {
+  content: "\fb3d";
+}
+
 .ti-square-dot:before {
   content: "\ed59";
+}
+
+.ti-square-dot-filled:before {
+  content: "\fb3e";
 }
 
 .ti-square-f0:before {
@@ -11891,6 +16676,10 @@
 
 .ti-square-f9-filled:before {
   content: "\f777";
+}
+
+.ti-square-filled:before {
+  content: "\fc40";
 }
 
 .ti-square-forbid:before {
@@ -12017,6 +16806,10 @@
   content: "\eb29";
 }
 
+.ti-square-minus-filled:before {
+  content: "\fb3f";
+}
+
 .ti-square-number-0:before {
   content: "\eee5";
 }
@@ -12063,6 +16856,10 @@
 
 .ti-square-plus:before {
   content: "\eb2a";
+}
+
+.ti-square-plus-2:before {
+  content: "\fc96";
 }
 
 .ti-square-root:before {
@@ -12313,6 +17110,14 @@
   content: "\f63e";
 }
 
+.ti-square-rounded-minus-2:before {
+  content: "\fc97";
+}
+
+.ti-square-rounded-minus-filled:before {
+  content: "\fb40";
+}
+
 .ti-square-rounded-number-0:before {
   content: "\f5c8";
 }
@@ -12397,6 +17202,10 @@
   content: "\f63f";
 }
 
+.ti-square-rounded-plus-2:before {
+  content: "\fc98";
+}
+
 .ti-square-rounded-plus-filled:before {
   content: "\f6e8";
 }
@@ -12419,6 +17228,10 @@
 
 .ti-square-x:before {
   content: "\eb2b";
+}
+
+.ti-square-x-filled:before {
+  content: "\fb41";
 }
 
 .ti-squares-diagonal:before {
@@ -12545,6 +17358,10 @@
   content: "\f2db";
 }
 
+.ti-stretching-2:before {
+  content: "\fa6d";
+}
+
 .ti-strikethrough:before {
   content: "\eb9e";
 }
@@ -12571,6 +17388,10 @@
 
 .ti-sun:before {
   content: "\eb30";
+}
+
+.ti-sun-electricity:before {
+  content: "\fcc2";
 }
 
 .ti-sun-filled:before {
@@ -12669,6 +17490,14 @@
   content: "\f25b";
 }
 
+.ti-table-column:before {
+  content: "\faff";
+}
+
+.ti-table-down:before {
+  content: "\fa1c";
+}
+
 .ti-table-export:before {
   content: "\eef8";
 }
@@ -12677,8 +17506,16 @@
   content: "\f782";
 }
 
+.ti-table-heart:before {
+  content: "\fa1d";
+}
+
 .ti-table-import:before {
   content: "\eef9";
+}
+
+.ti-table-minus:before {
+  content: "\fa1e";
 }
 
 .ti-table-off:before {
@@ -12687,6 +17524,18 @@
 
 .ti-table-options:before {
   content: "\f25c";
+}
+
+.ti-table-plus:before {
+  content: "\fa1f";
+}
+
+.ti-table-row:before {
+  content: "\fb00";
+}
+
+.ti-table-share:before {
+  content: "\fa20";
 }
 
 .ti-table-shortcut:before {
@@ -12699,6 +17548,10 @@
 
 .ti-tag-off:before {
   content: "\efc0";
+}
+
+.ti-tag-starred:before {
+  content: "\fc99";
 }
 
 .ti-tags:before {
@@ -12861,6 +17714,10 @@
   content: "\ef87";
 }
 
+.ti-text-scan-2:before {
+  content: "\fcc3";
+}
+
 .ti-text-size:before {
   content: "\f2b1";
 }
@@ -12941,6 +17798,42 @@
   content: "\f1b3";
 }
 
+.ti-time-duration-0:before {
+  content: "\fad4";
+}
+
+.ti-time-duration-10:before {
+  content: "\fad5";
+}
+
+.ti-time-duration-15:before {
+  content: "\fad6";
+}
+
+.ti-time-duration-30:before {
+  content: "\fad7";
+}
+
+.ti-time-duration-45:before {
+  content: "\fad8";
+}
+
+.ti-time-duration-5:before {
+  content: "\fad9";
+}
+
+.ti-time-duration-60:before {
+  content: "\fada";
+}
+
+.ti-time-duration-90:before {
+  content: "\fadb";
+}
+
+.ti-time-duration-off:before {
+  content: "\fadc";
+}
+
 .ti-timeline:before {
   content: "\f031";
 }
@@ -12987,6 +17880,10 @@
 
 .ti-toilet-paper-off:before {
   content: "\f1b4";
+}
+
+.ti-toml:before {
+  content: "\fa5d";
 }
 
 .ti-tool:before {
@@ -13125,12 +18022,20 @@
   content: "\ed96";
 }
 
+.ti-transfer:before {
+  content: "\fc1f";
+}
+
 .ti-transfer-in:before {
   content: "\ef2f";
 }
 
 .ti-transfer-out:before {
   content: "\ef30";
+}
+
+.ti-transfer-vertical:before {
+  content: "\fc1e";
 }
 
 .ti-transform:before {
@@ -13175,6 +18080,10 @@
 
 .ti-trash-x-filled:before {
   content: "\f784";
+}
+
+.ti-treadmill:before {
+  content: "\fa6e";
 }
 
 .ti-tree:before {
@@ -13229,12 +18138,32 @@
   content: "\f6ae";
 }
 
+.ti-triangle-minus:before {
+  content: "\fc9b";
+}
+
+.ti-triangle-minus-2:before {
+  content: "\fc9a";
+}
+
 .ti-triangle-off:before {
   content: "\ef02";
 }
 
+.ti-triangle-plus:before {
+  content: "\fc9d";
+}
+
+.ti-triangle-plus-2:before {
+  content: "\fc9c";
+}
+
 .ti-triangle-square-circle:before {
   content: "\ece8";
+}
+
+.ti-triangle-square-circle-filled:before {
+  content: "\fb42";
 }
 
 .ti-triangles:before {
@@ -13321,6 +18250,10 @@
   content: "\eba2";
 }
 
+.ti-universe:before {
+  content: "\fcc4";
+}
+
 .ti-unlink:before {
   content: "\eb46";
 }
@@ -13341,12 +18274,36 @@
   content: "\eb4d";
 }
 
+.ti-user-bolt:before {
+  content: "\f9d1";
+}
+
+.ti-user-cancel:before {
+  content: "\f9d2";
+}
+
 .ti-user-check:before {
   content: "\eb49";
 }
 
 .ti-user-circle:before {
   content: "\ef68";
+}
+
+.ti-user-code:before {
+  content: "\f9d3";
+}
+
+.ti-user-cog:before {
+  content: "\f9d4";
+}
+
+.ti-user-dollar:before {
+  content: "\f9d5";
+}
+
+.ti-user-down:before {
+  content: "\f9d6";
 }
 
 .ti-user-edit:before {
@@ -13361,12 +18318,24 @@
   content: "\f7cd";
 }
 
+.ti-user-hexagon:before {
+  content: "\fc4e";
+}
+
 .ti-user-minus:before {
   content: "\eb4a";
 }
 
 .ti-user-off:before {
   content: "\ecf9";
+}
+
+.ti-user-pause:before {
+  content: "\f9d7";
+}
+
+.ti-user-pentagon:before {
+  content: "\fc4f";
 }
 
 .ti-user-pin:before {
@@ -13381,12 +18350,28 @@
   content: "\f7cf";
 }
 
+.ti-user-scan:before {
+  content: "\fcaf";
+}
+
 .ti-user-search:before {
   content: "\ef89";
 }
 
+.ti-user-share:before {
+  content: "\f9d8";
+}
+
 .ti-user-shield:before {
   content: "\f7d0";
+}
+
+.ti-user-square:before {
+  content: "\fc51";
+}
+
+.ti-user-square-rounded:before {
+  content: "\fc50";
 }
 
 .ti-user-star:before {
@@ -13403,6 +18388,18 @@
 
 .ti-users:before {
   content: "\ebf2";
+}
+
+.ti-users-group:before {
+  content: "\fa21";
+}
+
+.ti-users-minus:before {
+  content: "\fa0e";
+}
+
+.ti-users-plus:before {
+  content: "\fa0f";
 }
 
 .ti-uv-index:before {
@@ -13593,6 +18590,10 @@
   content: "\f1c3";
 }
 
+.ti-vs:before {
+  content: "\fc52";
+}
+
 .ti-walk:before {
   content: "\ec87";
 }
@@ -13661,6 +18662,10 @@
   content: "\f2ff";
 }
 
+.ti-wash-dry-flat:before {
+  content: "\fa7f";
+}
+
 .ti-wash-dry-hang:before {
   content: "\f300";
 }
@@ -13689,8 +18694,16 @@
   content: "\f323";
 }
 
+.ti-wash-eco:before {
+  content: "\fa80";
+}
+
 .ti-wash-gentle:before {
   content: "\f306";
+}
+
+.ti-wash-hand:before {
+  content: "\fa81";
 }
 
 .ti-wash-machine:before {
@@ -13737,6 +18750,10 @@
   content: "\f310";
 }
 
+.ti-waterpolo:before {
+  content: "\fa6f";
+}
+
 .ti-wave-saw-tool:before {
   content: "\ecd3";
 }
@@ -13749,6 +18766,10 @@
   content: "\ecd5";
 }
 
+.ti-waves-electricity:before {
+  content: "\fcc5";
+}
+
 .ti-webhook:before {
   content: "\f01e";
 }
@@ -13759,6 +18780,10 @@
 
 .ti-weight:before {
   content: "\f589";
+}
+
+.ti-wheel:before {
+  content: "\fc64";
 }
 
 .ti-wheelchair:before {
@@ -13795,6 +18820,10 @@
 
 .ti-wind:before {
   content: "\ec34";
+}
+
+.ti-wind-electricity:before {
+  content: "\fcc6";
 }
 
 .ti-wind-off:before {
@@ -13853,8 +18882,44 @@
   content: "\eb54";
 }
 
+.ti-world-bolt:before {
+  content: "\f9d9";
+}
+
+.ti-world-cancel:before {
+  content: "\f9da";
+}
+
+.ti-world-check:before {
+  content: "\f9db";
+}
+
+.ti-world-code:before {
+  content: "\f9dc";
+}
+
+.ti-world-cog:before {
+  content: "\f9dd";
+}
+
+.ti-world-dollar:before {
+  content: "\f9de";
+}
+
+.ti-world-down:before {
+  content: "\f9df";
+}
+
 .ti-world-download:before {
   content: "\ef8a";
+}
+
+.ti-world-exclamation:before {
+  content: "\f9e0";
+}
+
+.ti-world-heart:before {
+  content: "\f9e1";
 }
 
 .ti-world-latitude:before {
@@ -13865,8 +18930,44 @@
   content: "\ed2f";
 }
 
+.ti-world-minus:before {
+  content: "\f9e2";
+}
+
 .ti-world-off:before {
   content: "\f1ca";
+}
+
+.ti-world-pause:before {
+  content: "\f9e3";
+}
+
+.ti-world-pin:before {
+  content: "\f9e4";
+}
+
+.ti-world-plus:before {
+  content: "\f9e5";
+}
+
+.ti-world-question:before {
+  content: "\f9e6";
+}
+
+.ti-world-search:before {
+  content: "\f9e7";
+}
+
+.ti-world-share:before {
+  content: "\f9e8";
+}
+
+.ti-world-star:before {
+  content: "\f9e9";
+}
+
+.ti-world-up:before {
+  content: "\f9ea";
 }
 
 .ti-world-upload:before {
@@ -13875,6 +18976,10 @@
 
 .ti-world-www:before {
   content: "\f38f";
+}
+
+.ti-world-x:before {
+  content: "\f9eb";
 }
 
 .ti-wrecking-ball:before {
@@ -13915,6 +19020,14 @@
 
 .ti-xbox-y:before {
   content: "\f2b9";
+}
+
+.ti-xd:before {
+  content: "\fa33";
+}
+
+.ti-xxx:before {
+  content: "\fc20";
 }
 
 .ti-yin-yang:before {
@@ -14059,6 +19172,10 @@
 
 .ti-zoom-reset:before {
   content: "\f295";
+}
+
+.ti-zoom-scan:before {
+  content: "\fcb0";
 }
 
 .ti-zzz:before {

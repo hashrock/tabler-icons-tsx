@@ -52,6 +52,9 @@ export default function IconList(props: IconListProps) {
       </div>
 
       <div>
+        <div class="text-right text-gray-500">
+          {filteredIcons.length} / {iconNames.length} icons
+        </div>
         {filteredIcons.length === 0
           ? (
             <div class="text-gray-500 text-center flex-1 py-6 flex flex-col gap-2">

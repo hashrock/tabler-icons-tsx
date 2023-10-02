@@ -19,7 +19,7 @@ function IconStairs({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 18h4v-4h4v-4h4v-4h4" />
+      <path d="M22 5h-5v5h-5v5h-5v5h-5" />
     </svg>
   );
 }

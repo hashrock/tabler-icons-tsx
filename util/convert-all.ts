@@ -10,7 +10,7 @@ try {
 }
 
 const url =
-  "https://github.com/tabler/tabler-icons/releases/download/v2.38.0/tabler-icons-2.38.0.zip";
+  "https://github.com/tabler/tabler-icons/releases/download/v2.44.0/tabler-icons-2.44.0.zip";
 
 await download(url, { file: "tabler-icons.zip", dir: "./" });
 await decompress("tabler-icons.zip", "tabler-icons");

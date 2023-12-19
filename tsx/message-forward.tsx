@@ -19,9 +19,9 @@ function IconMessageForward({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 21v-13a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v6a3 3 0 0 1 -3 3h-9l-4 4" />
-      <path d="M13 9l2 2l-2 2" />
-      <path d="M15 11h-6" />
+      <path d="M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12z" />
+      <path d="M13 8l3 3l-3 3" />
+      <path d="M16 11h-8" />
     </svg>
   );
 }

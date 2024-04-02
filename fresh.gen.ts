@@ -2,31 +2,32 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $0 from "./routes/_app.tsx";
-import * as $1 from "./routes/api/popular.tsx";
-import * as $2 from "./routes/index.tsx";
-import * as $$0 from "./islands/ClickableIcon.tsx";
-import * as $$1 from "./islands/CodeBlock.tsx";
-import * as $$2 from "./islands/Counter.tsx";
-import * as $$3 from "./islands/Examples.tsx";
-import * as $$4 from "./islands/IconList.tsx";
-import * as $$5 from "./islands/Toast.tsx";
+import * as $_app from "./routes/_app.tsx";
+import * as $api_popular from "./routes/api/popular.tsx";
+import * as $index from "./routes/index.tsx";
+import * as $ClickableIcon from "./islands/ClickableIcon.tsx";
+import * as $CodeBlock from "./islands/CodeBlock.tsx";
+import * as $Counter from "./islands/Counter.tsx";
+import * as $Examples from "./islands/Examples.tsx";
+import * as $IconList from "./islands/IconList.tsx";
+import * as $Toast from "./islands/Toast.tsx";
+import { type Manifest } from "$fresh/server.ts";
 
 const manifest = {
   routes: {
-    "./routes/_app.tsx": $0,
-    "./routes/api/popular.tsx": $1,
-    "./routes/index.tsx": $2,
+    "./routes/_app.tsx": $_app,
+    "./routes/api/popular.tsx": $api_popular,
+    "./routes/index.tsx": $index,
   },
   islands: {
-    "./islands/ClickableIcon.tsx": $$0,
-    "./islands/CodeBlock.tsx": $$1,
-    "./islands/Counter.tsx": $$2,
-    "./islands/Examples.tsx": $$3,
-    "./islands/IconList.tsx": $$4,
-    "./islands/Toast.tsx": $$5,
+    "./islands/ClickableIcon.tsx": $ClickableIcon,
+    "./islands/CodeBlock.tsx": $CodeBlock,
+    "./islands/Counter.tsx": $Counter,
+    "./islands/Examples.tsx": $Examples,
+    "./islands/IconList.tsx": $IconList,
+    "./islands/Toast.tsx": $Toast,
   },
   baseUrl: import.meta.url,
-};
+} satisfies Manifest;
 
 export default manifest;

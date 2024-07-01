@@ -1,4 +1,4 @@
-function IconBrandLinktree({
+function IconChartScatter3d({
   size = 24,
   color = "currentColor",
   stroke = 2,
@@ -7,7 +7,7 @@ function IconBrandLinktree({
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="icon icon-tabler icon-tabler-brand-linktree"
+      class="icon icon-tabler icon-tabler-chart-scatter-3d"
       width={size}
       height={size}
       viewBox="0 0 24 24"
@@ -19,12 +19,16 @@ function IconBrandLinktree({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 10h16" />
-      <path d="M6.5 4.5l11 11" />
-      <path d="M6.5 15.5l11 -11" />
-      <path d="M12 10v-8" />
-      <path d="M12 15v7" />
+      <path d="M3 20l9 -7" />
+      <path d="M12 3v10l9 7" />
+      <path d="M17 12v.015" />
+      <path d="M17 4.015v.015" />
+      <path d="M21 8.015v.015" />
+      <path d="M12 19.015v.015" />
+      <path d="M3 12.015v.015" />
+      <path d="M7 8.015v.015" />
+      <path d="M3 4.015v.015" />
     </svg>
   );
 }
-export default IconBrandLinktree;
+export default IconChartScatter3d;

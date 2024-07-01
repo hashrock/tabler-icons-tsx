@@ -1,4 +1,4 @@
-function IconBrandLinktree({
+function IconGlassCocktail({
   size = 24,
   color = "currentColor",
   stroke = 2,
@@ -7,7 +7,7 @@ function IconBrandLinktree({
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="icon icon-tabler icon-tabler-brand-linktree"
+      class="icon icon-tabler icon-tabler-glass-cocktail"
       width={size}
       height={size}
       viewBox="0 0 24 24"
@@ -19,12 +19,11 @@ function IconBrandLinktree({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 10h16" />
-      <path d="M6.5 4.5l11 11" />
-      <path d="M6.5 15.5l11 -11" />
-      <path d="M12 10v-8" />
-      <path d="M12 15v7" />
+      <path d="M8 21h8" />
+      <path d="M12 15v6" />
+      <path d="M12 5m-7 0a7 2 0 1 0 14 0a7 2 0 1 0 -14 0" />
+      <path d="M5 5v.388c0 .432 .126 .853 .362 1.206l5 7.509c.633 .951 1.88 1.183 2.785 .517c.191 -.141 .358 -.316 .491 -.517l5 -7.509c.236 -.353 .362 -.774 .362 -1.206v-.388" />
     </svg>
   );
 }
-export default IconBrandLinktree;
+export default IconGlassCocktail;

@@ -1,4 +1,4 @@
-function IconBrandLinktree({
+function IconBowlSpoon({
   size = 24,
   color = "currentColor",
   stroke = 2,
@@ -7,7 +7,7 @@ function IconBrandLinktree({
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="icon icon-tabler icon-tabler-brand-linktree"
+      class="icon icon-tabler icon-tabler-bowl-spoon"
       width={size}
       height={size}
       viewBox="0 0 24 24"
@@ -19,12 +19,10 @@ function IconBrandLinktree({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 10h16" />
-      <path d="M6.5 4.5l11 11" />
-      <path d="M6.5 15.5l11 -11" />
-      <path d="M12 10v-8" />
-      <path d="M12 15v7" />
+      <path d="M4 11h16a1 1 0 0 1 1 1v.5c0 1.5 -2.517 5.573 -4 6.5v1a1 1 0 0 1 -1 1h-8a1 1 0 0 1 -1 -1v-1c-1.687 -1.054 -4 -5 -4 -6.5v-.5a1 1 0 0 1 1 -1z" />
+      <path d="M8 7c1.657 0 3 -.895 3 -2s-1.343 -2 -3 -2s-3 .895 -3 2s1.343 2 3 2" />
+      <path d="M11 5h9" />
     </svg>
   );
 }
-export default IconBrandLinktree;
+export default IconBowlSpoon;

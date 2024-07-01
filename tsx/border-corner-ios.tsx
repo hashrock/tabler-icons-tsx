@@ -1,4 +1,4 @@
-function IconBrandLinktree({
+function IconBorderCornerIos({
   size = 24,
   color = "currentColor",
   stroke = 2,
@@ -7,7 +7,7 @@ function IconBrandLinktree({
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="icon icon-tabler icon-tabler-brand-linktree"
+      class="icon icon-tabler icon-tabler-border-corner-ios"
       width={size}
       height={size}
       viewBox="0 0 24 24"
@@ -19,12 +19,8 @@ function IconBrandLinktree({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 10h16" />
-      <path d="M6.5 4.5l11 11" />
-      <path d="M6.5 15.5l11 -11" />
-      <path d="M12 10v-8" />
-      <path d="M12 15v7" />
+      <path d="M4 20c0 -6.559 0 -9.838 1.628 -12.162a9 9 0 0 1 2.21 -2.21c2.324 -1.628 5.602 -1.628 12.162 -1.628" />
     </svg>
   );
 }
-export default IconBrandLinktree;
+export default IconBorderCornerIos;

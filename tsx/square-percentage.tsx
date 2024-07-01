@@ -1,4 +1,4 @@
-function IconBrandLinktree({
+function IconSquarePercentage({
   size = 24,
   color = "currentColor",
   stroke = 2,
@@ -7,7 +7,7 @@ function IconBrandLinktree({
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      class="icon icon-tabler icon-tabler-brand-linktree"
+      class="icon icon-tabler icon-tabler-square-percentage"
       width={size}
       height={size}
       viewBox="0 0 24 24"
@@ -19,12 +19,11 @@ function IconBrandLinktree({
       {...props}
     >
       <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-      <path d="M4 10h16" />
-      <path d="M6.5 4.5l11 11" />
-      <path d="M6.5 15.5l11 -11" />
-      <path d="M12 10v-8" />
-      <path d="M12 15v7" />
+      <path d="M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14z" />
+      <path d="M9 15.037l6 -6" />
+      <path d="M9 9.068v.014" />
+      <path d="M15 15.082v.016" />
     </svg>
   );
 }
-export default IconBrandLinktree;
+export default IconSquarePercentage;

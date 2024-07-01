@@ -1,3 +1,15 @@
+# Deprecated
+
+This library will not follow updates beyond Tabler icons 2.47.0.
+
+- The major version upgrade of Tabler icons has caused the existing conversion
+  script to stop working.
+- JSR is now recommended instead of deno.land/x.
+
+It is necessary to either use the original Tabler Icons via npm or republish to
+JSR. However, due to the inability to allocate time for maintenance, we will
+stop updating the library.
+
 # TSX Tabler Icons
 
 Easy to use [Tabler Icons](https://tabler-icons.io/) in your Fresh app. Just
